@@ -1,0 +1,32 @@
+html, body { margin: 0; height: 100%; width: 100%; box-sizing: border-box; }
+body { background: #ccc; font-family: Verdana, Geneva, sans-serif; }
+
+body
+{
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+}
+
+#buttons
+{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+}
+
+#buttons input + input { margin-left: 5px; }
+
+#log
+{
+    flex-basis: 0;
+    flex-grow: 1;
+    
+    font-family: Monospace;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #555;
+    background: #ddd;
+    
+    overflow-y: auto;
+}

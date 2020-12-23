@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="x-ua-compatible" content="ie=edge" />
+        <meta name="viewport" content="width=1000, initial-scale=1" />
+        
+        <title>Product Error Edit Tool</title>
+
+        <link rel="stylesheet" href="edit.css" />
+        <script src="dep/diff.js"></script>
+        <script src="edit.js"></script>
+    </head>
+    
+    <body>
+        <div class="editboxes">
+            <div class="editbox">
+                <label for="card-id">KonamiDB ID (or YGOrg DB link):</label>
+                <input type="text" id="card-id" placeholder="f.ex. 'https://db.ygorganization.com/card#10922'" />
+            </div>
+            <div class="editbox">
+                <label for="new-text">Revised text:</label>
+                <textarea id="new-text" rows="4"></textarea>
+            </div>
+            <div class="editbox">
+                <label for="author">Author of revised text:</label>
+                <input type="text" id="author" placeholder="f.ex. 'gallantron'" />
+            </div>
+            <div class="editbox">
+                <label for="date">Date of revised text:</label>
+                <input type="text" id="date" placeholder="f.ex. '2020-11-18'" />
+            </div>
+        </div>
+        <div class="editboxes">
+            <div class="editbox">
+                <label for="ref-1-url">Reference #1 - URL:</label>
+                <input type="text" id="ref-1-url" placeholder="(leave blank to skip)" />
+            </div>
+            <div class="editbox">
+                <label for="ref-1-title">Reference #1 - Title:</label>
+                <input type="text" id="ref-1-title" />
+            </div>
+            <div class="editbox">
+                <label for="ref-1-date">Reference #1 - accessed-on date:</label>
+                <input type="text" id="ref-1-date" placeholder="(leave blank for today)" />
+            </div>
+            <div class="editbox">
+                <label for="ref-1-desc">Reference #1 - description:</label>
+                <textarea id="ref-1-desc"  rows="3"></textarea>
+            </div>
+        </div>
+        <div class="editboxes">
+            <div class="editbox">
+                <label for="ref-2-url">Reference #2 - URL:</label>
+                <input type="text" id="ref-2-url" placeholder="(leave blank to skip)" />
+            </div>
+            <div class="editbox">
+                <label for="ref-2-title">Reference #2 - Title:</label>
+                <input type="text" id="ref-2-title" />
+            </div>
+            <div class="editbox">
+                <label for="ref-2-date">Reference #2 - accessed-on date:</label>
+                <input type="text" id="ref-2-date" placeholder="(leave blank for today)" />
+            </div>
+            <div class="editbox">
+                <label for="ref-2-desc">Reference #2 - description:</label>
+                <textarea id="ref-2-desc" rows="3"></textarea>
+            </div>
+        </div>
+        <div class="editboxes">
+            <div class="editbox">
+                <label for="ref-3-url">Reference #3 - URL:</label>
+                <input type="text" id="ref-3-url" placeholder="(leave blank to skip)" />
+            </div>
+            <div class="editbox">
+                <label for="ref-3-title">Reference #3 - Title:</label>
+                <input type="text" id="ref-3-title" />
+            </div>
+            <div class="editbox">
+                <label for="ref-3-date">Reference #3 - accessed-on date:</label>
+                <input type="text" id="ref-3-date" placeholder="(leave blank for today)" />
+            </div>
+            <div class="editbox">
+                <label for="ref-3-desc">Reference #3 - description:</label>
+                <textarea id="ref-3-desc" rows="3"></textarea>
+            </div>
+        </div>
+        <div id="buttons">
+            <input type="button" id="preview" value="Validate" />
+            <input type="button" id="clear" value="Clear all" />
+        </div>
+        <div id="output">
+            <div id="output-error"></div>
+            <div id="preview-old-text"></div>
+            <div id="preview-new-text"></div>
+            <textarea readonly id="output-json"></textarea>
+        </div>
+    </body>
+</html>

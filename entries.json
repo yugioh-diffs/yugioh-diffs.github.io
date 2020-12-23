@@ -1,0 +1,2678 @@
+[
+  {
+    "id": 8129,
+    "oldText": "1 \"HERO\" monster + 1 WATER monster\nMust be Fusion Summoned. Gains 500 ATK for each WATER monster on the field, except \"Elemental HERO Absolute Zero\". If this card leaves the field: Destroy all monsters your opponent controls.",
+    "newText": "1 \"HERO\" monster + 1 WATER monster\nMust be Fusion Summoned. Gains 500 ATK for each WATER monster on the field, except \"Elemental HERO Absolute Zero\". If this face-up card leaves the field: Destroy all monsters your opponent controls.",
+    "author": "platedpope",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7851&request_locale=ja",
+        "title": "Q&A #7851",
+        "date": "2020-12-23",
+        "desc": "Absolute Zero's effect can only be activated if it leaves the field while face-up."
+      }
+    ],
+    "name": "Elemental HERO Absolute Zero",
+    "lastUpdated": "2020-12-17",
+    "lastPrint": "2019-07-12",
+    "icon": "fusion"
+  },
+  {
+    "id": 8787,
+    "oldText": "This card cannot be Normal Summoned or Set. When you Synchro Summon a Synchro Monster, you can Special Summon this card from your hand.",
+    "newText": "Cannot be Normal Summoned/Set. Must first be Special Summoned by its own effect. When you Synchro Summon a Synchro Monster, you can: Special Summon this card from your hand.",
+    "author": "pazim",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8787&request_locale=ja",
+        "title": "Card FAQ – Synchro Magnet",
+        "date": "2020-12-24",
+        "desc": "Synchro Magnet is a Special Summon Monster. Special Summon Monsters that begin the Duel in the Main Deck typically also have a Summoning Condition that prevents them from being improperly Summoned initially."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9723&request_locale=en",
+        "title": "Kagetokage",
+        "date": "2020-12-24",
+        "desc": "Kagetokage is a comparable card, which had its text revised to indicate that it is a Special Summon Monster."
+      }
+    ],
+    "name": "Synchro Magnet",
+    "lastUpdated": "2020-12-11",
+    "lastPrint": "2010-05-11",
+    "icon": "effect"
+  },
+  {
+    "id": 15647,
+    "oldText": "When your opponent Normal or Special Summons a monster(s), while you control a Ritual Monster: Negate the Summon, and if you do, shuffle that monster into the Deck. You can only activate 1 \"Drytron Meteor Shower\" per turn.",
+    "newText": "When your opponent would Normal or Special Summons a monster(s), while you control a Ritual Monster: Negate the Summon, and if you do, shuffle that monster into the Deck. You can only activate 1 \"Drytron Meteor Shower\" per turn.",
+    "author": "platedpope",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6918&request_locale=en",
+        "title": "Black Horn of Heaven",
+        "date": "2020-12-24",
+        "desc": "Black Horn of Heaven is an example of a card that activates during an attempted Summon.\nIn order for its effect to make sense, this is the phrasing Drytron Meteor Shower would need to use."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5114&request_locale=en",
+        "title": "Torrential Tribute",
+        "date": "2020-12-24",
+        "desc": "Torrential Tribute is an example of a card which activates in response to a successful Summon.\nNote that Drytron Meteor Shower currently uses the same phrasing as Torrential Tribute."
+      }
+    ],
+    "name": "Drytron Meteor Shower",
+    "lastUpdated": "2020-12-02",
+    "lastPrint": "2020-12-03",
+    "icon": "trap"
+  },
+  {
+    "id": 15257,
+    "oldText": "During the Main Phase (Quick Effect): You can activate this effect; Tribute Summon 1 Fairy monster face-up. If this card is sent to the GY: You can make all monsters your opponent currently controls lose 500 ATK/DEF for each Fairy monster on the field, until the end of this turn. You can only use each effect of \"Capricious Darklord\" once per turn.",
+    "newText": "During the Main Phase (Quick Effect): You can activate this effect; immediately after this effect resolves, Tribute Summon 1 Fairy monster face-up. If this card is sent to the GY: You can make all monsters your opponent currently controls lose 500 ATK/DEF for each Fairy monster on the field, until the end of this turn. You can only use each effect of \"Capricious Darklord\" once per turn.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12968&request_locale=en",
+        "title": "True Draco Heritage",
+        "date": "2020-12-24",
+        "desc": "True Draco Heritage is an example of a card whose effect performs a Summon immediately after it's effect resolves. As the Summon is not performed during resolution of the Chain Link formed by the effect, cards or effects can be activated during the attempt to Summon."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4842&request_locale=en",
+        "title": "Monster Reborn",
+        "date": "2020-12-24",
+        "desc": "Monster Reborn Summons a monster during the resolution of its effect. Capricous Darklord's current text suggests it also behaves this way."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4864&request_locale=en",
+        "title": "Horn of Heaven",
+        "date": "2020-12-24",
+        "desc": "Horn of Heaven is an example of a card that could activate during the Summon attempted after True Draco Heritage's effect resolves.\nIf Capricous Darklord's current text were taken literally, Horn of Heaven could not be activated during the Normal Summoned performed by Capricous Darklord."
+      }
+    ],
+    "name": "Capricious Darklord",
+    "lastUpdated": "2020-11-13",
+    "lastPrint": "2020-08-07",
+    "icon": "effect"
+  },
+  {
+    "id": 15558,
+    "oldText": "Banish any number of cards from your Extra Deck face-down, and banish the same number of random face-down cards from your opponent's Extra Deck, face-up, until the End Phase. You can only activate 1 \"Banquet of Millions\" per turn.",
+    "newText": "Banish any number of cards from your Extra Deck face-down, and banish the same number of random face-down cards from your opponent's Extra Deck, face-up, until the End Phase.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15558&request_locale=ja",
+        "title": "Banquet of Millions",
+        "date": "2020-12-24",
+        "desc": "Note that the text removed above does not appear in the original Japanese print."
+      }
+    ],
+    "name": "Banquet of Millions",
+    "lastUpdated": "2020-11-01",
+    "lastPrint": "2020-11-06",
+    "icon": "trap"
+  },
+  {
+    "id": 9894,
+    "oldText": "Once per turn: You can equip 1 \"Inzektor\" monster from your hand or Graveyard to this card. If an Equip Card(s) is sent to your Graveyard while equipped to this card (except during the Damage Step): You can Special Summon 1 \"Inzektor\" monster from your Deck, except \"Inzektor Dragonfly\". While this card is equipped to a monster, that monster's Level is increased by 3.",
+    "newText": "Once per turn: You can equip 1 \"Inzektor\" monster from your hand or Graveyard to this card. Each time an Equip Card(s) is sent to your Graveyard while equipped to this card (except during the Damage Step): You can Special Summon 1 \"Inzektor\" monster from your Deck, except \"Inzektor Dragonfly\". While this card is equipped to a monster, that monster's Level is increased by 3.",
+    "author": "pazim",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11849&request_locale=ja",
+        "title": "Q&A #11849",
+        "date": "2020-12-24",
+        "desc": "The Trigger effect of Inzektor Dragonfly can be activated multiple times during the same chain if Equip Card(s) were sent to the Graveyard multiple times."
+      }
+    ],
+    "name": "Inzektor Dragonfly",
+    "lastUpdated": "2020-10-20",
+    "lastPrint": "2012-01-24",
+    "icon": "effect"
+  },
+  {
+    "id": 6055,
+    "oldText": "Pay 800 LP; excavate the top 4 cards of your Deck and Special Summon all excavated Level 3 or lower Normal Monsters, also, after that, shuffle the rest back into your Deck.",
+    "newText": "Pay 800 LP; excavate the top 4 cards of your Deck and Special Summon all excavated Level 3 or lower Normal Monsters, also, shuffle the rest back into your Deck.",
+    "author": "Catmaster0",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6055&request_locale=ja.",
+        "title": "Card FAQ – Enchanting Fitting Room",
+        "date": "2020-12-24",
+        "desc": "The \"also, after that,\" conjunction in the TCG text has shuffling the rest into the Deck treated as strictly sequential.\nThe OCG's FAQ page indicates that shuffling cards into the Deck should be treated as simultaneous with Special Summoning the excavated monsters."
+      }
+    ],
+    "name": "Enchanting Fitting Room",
+    "lastUpdated": "2020-10-02",
+    "lastPrint": "2019-10-11",
+    "icon": "spell"
+  },
+  {
+    "id": 13002,
+    "oldText": "During damage calculation, if your Attack Position monster battles an opponent's Attack Position monster with higher ATK: The controller of the battling monster with lower ATK can pay 500 LP for that monster to gain 500 ATK during damage calculation only, then keep repeating this effect until a player chooses not to pay LP. Neither player takes any battle damage from that battle, also, after damage calculation, if any player's monster would be destroyed by that battle, send all cards that player controls to the Graveyard instead.",
+    "newText": "During damage calculation, if your Attack Position monster battles an opponent's Attack Position monster with higher ATK: The controller of the battling monster with lower ATK can pay 500 LP for that monster to gain 500 ATK during damage calculation only, then keep repeating this effect until a player chooses not to pay LP. Neither player takes any battle damage from that battle, also, after damage calculation, if any player's monster was destroyed by that battle, send all cards that player controls to the Graveyard.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13002&request_locale=en",
+        "title": "Clashing Souls",
+        "date": "2020-12-24",
+        "desc": "Clashing Souls' TCG text prevents the player's monster from being destroyed by the battle, sending all cards they control to the GY instead.\nIn the Japanese original text, this is not the case. Here, the monster is determined to be destroyed by the battle as usual, and all cards the monster's controller controls are sent to the GY as a result of this."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20651&request_locale=ja",
+        "title": "Q&A #20651",
+        "date": "2020-12-24",
+        "desc": "This Q&A illustrates the difference between Clashing Souls' TCG and OCG texts.\nIn the OCG version, Metaltron XII is determined to be destroyed by the battle, causing its Continuous effect to stop applying. As a result, Clashing Souls succeeds in sending it to the GY.\nIn the TCG version, its Continuous effect is still applying, as it was not determined to be destroyed by the battle. Thus, Clashing Souls would fail to send it to the GY."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9996&request_locale=ja",
+        "title": "Q&A #9996",
+        "date": "2020-12-24",
+        "desc": "This Q&A illustrates that Clashing Souls can only succeed in sending Metaltron XII to the GY if its Continuous effect has stopped applying."
+      }
+    ],
+    "name": "Clashing Souls",
+    "lastUpdated": "2020-12-07",
+    "lastPrint": "2017-03-31",
+    "icon": "spell"
+  },
+  {
+    "id": 13543,
+    "oldText": "2 \"HERO\" monsters\nIf a \"HERO\" monster is Normal or Special Summoned to your zone this card points to: Target 1 \"Polymerization\" Spell Card, 1 \"Fusion\" Spell Card, or 1 \"Change\" Quick-Play Spell Card in your GY; Set that target. You can only activate this effect of \"Xtra HERO Wonder Driver\" once per turn. If this card is destroyed by battle and sent to the GY, or if this card in your possession is destroyed by an opponent's card effect and sent to your GY: Special Summon 1 \"HERO\" monster from your hand.",
+    "newText": "2 \"HERO\" monsters\nIf a \"HERO\" monster is Normal or Special Summoned to your zone this card points to: Target 1 \"Polymerization\" Spell Card, 1 \"Fusion\" Spell Card, or 1 \"Change\" Quick-Play Spell Card in your GY; Set that target. You can only use this effect of \"Xtra HERO Wonder Driver\" once per turn. If this card is destroyed by battle and sent to the GY, or if this card in your possession is destroyed by an opponent's card effect and sent to your GY: You can Special Summon 1 \"HERO\" monster from your hand.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13543&request_locale=ja",
+        "title": "Xtra HERO Wonder Driver",
+        "date": "2020-12-24",
+        "desc": "Xtra HERO Wonder Driver's current TCG text limits effect activations, not effect usages. This does not match the Japanese original.\nFor example, even if the activation of its first effect is negated by Solemn Strike, that effect could still not be activated again that turn."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13543&request_locale=ja",
+        "title": "Card FAQ – Xtra HERO Wonder Driver",
+        "date": "2020-12-24",
+        "desc": "In the Official Card Game, activating Xtra HERO Wonder Driver's effect that Special Summons a \"HERO\" from the hand is not mandatory."
+      }
+    ],
+    "name": "Xtra HERO Wonder Driver",
+    "lastUpdated": "2020-09-24",
+    "lastPrint": "2018-10-12",
+    "icon": "link"
+  },
+  {
+    "id": 5730,
+    "oldText": "When you Tribute Summon a monster using 2 or more Tributes: Draw 2 cards.",
+    "newText": "When you Tribute Summon by Tributing 2 or more monsters: Draw 2 cards.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12373&request_locale=ja",
+        "title": "Q&A #12373",
+        "date": "2020-12-24",
+        "desc": "In the Official Card Game, Precious Cards from the Beyond can only be activated if two or more monsters, rather than two or more cards, were Tributed for the Summon."
+      }
+    ],
+    "name": "Precious Cards from Beyond",
+    "lastUpdated": "2020-09-20",
+    "lastPrint": "2012-06-01",
+    "icon": "spell"
+  },
+  {
+    "id": 12316,
+    "oldText": "You can Ritual Summon this card with \"Amorphous Persona\". If this card is Ritual Summoned: Your opponent skips their next Main Phase 1. Negate the effects of face-up Fusion, Synchro, and Xyz Monsters while they are on the field. If this card is sent from the field to the Graveyard: You can add 1 \"Dracoverlord\" monster from your Deck to your hand, except \"Amorphactor Pain, the Imagination Dracoverlord\".",
+    "newText": "You can Ritual Summon this card with \"Amorphous Persona\". After this card is Ritual Summoned, your opponent skips their next Main Phase 1. Negate the effects of face-up Fusion, Synchro, and Xyz Monsters while they are on the field. If this card is sent from the field to the Graveyard: You can add 1 \"Dracoverlord\" monster from your Deck to your hand, except \"Amorphactor Pain, the Imagination Dracoverlord\".",
+    "author": "pazim",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12316&request_locale=ja",
+        "title": "Card FAQ – Amorphactor Pain, the Imagination Dracoverlord",
+        "date": "2020-12-24",
+        "desc": "In the Official Card Game, Amorphactor Pain, the Imagination Dracoverlord's first effect is an unclassified effect. (It does not activate.)\nIts current TCG print has that same effect be a mandatory Trigger effect."
+      }
+    ],
+    "name": "Amorphactor Pain, the Imagination Dracoverlord",
+    "lastUpdated": "2020-09-17",
+    "lastPrint": "2016-05-06",
+    "icon": "ritual"
+  },
+  {
+    "id": 5285,
+    "oldText": "If this card is sent from the Monster Zone to the GY: You can activate 1 Trap Card from your hand this turn. You can only use this effect of \"Makyura the Destructor\" once per turn.",
+    "newText": "If this card is sent from the Monster Zone to the GY: You can activate this effect; you can activate 1 Trap Card from your hand this turn. You can only use this effect of \"Makyura the Destructor\" once per turn.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5285&request_locale=ja",
+        "title": "Card FAQ – Makyura the Destructor",
+        "date": "2020-12-24",
+        "desc": "Activating Makyura the Destructor's effect is optional in the OCG."
+      }
+    ],
+    "name": "Makyura the Destructor",
+    "lastUpdated": "2020-09-16",
+    "lastPrint": "2020-09-25",
+    "icon": "effect"
+  },
+  {
+    "id": 14911,
+    "oldText": "When this card is Normal Summoned: You can target 1 Level 4 or lower \"HERO\" monster in your GY, except \"Elemental HERO Liquid Soldier\"; Special Summon it. If this card is used as Fusion Material for a \"HERO\" monster, and sent to the GY or banished: You can draw 2 cards, then discard 1 card. You can only use 1 \"Elemental HERO Liquid Soldier\" effect per turn, and only once that turn.",
+    "newText": "When this card is Normal Summoned: You can target 1 Level 4 or lower \"HERO\" monster in your GY, except \"Elemental HERO Liquid Soldier\"; Special Summon it. If this card is sent to the GY, or banished, as material for the Fusion Summon of a \"HERO\" monster: You can draw 2 cards, then discard 1 card. You can only use 1 \"Elemental HERO Liquid Soldier\" effect per turn, and only once that turn.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22866&request_locale=ja",
+        "title": "Q&A #22866",
+        "date": "2020-12-24",
+        "desc": "In the OCG, Liquid Soldier needs to be sent specifically for a Fusion Summon, not merely as Fusion Material."
+      }
+    ],
+    "name": "Elemental HERO Liquid Soldier",
+    "lastUpdated": "2020-09-14",
+    "lastPrint": "2020-01-17",
+    "icon": "effect"
+  },
+  {
+    "id": 12850,
+    "oldText": "1 \"Invoked\" monster + 1 monster that was Special Summoned from the Extra Deck\nMust first be Fusion Summoned with the above Fusion Materials. While face-up on the field, this card is also DARK, EARTH, WATER, FIRE, and WIND-Attribute. Once per turn (Quick Effect): You can target 1 \"Invoked\" monster you control or in your GY; banish it and all monsters your opponent controls with the same Attribute as that monster.",
+    "newText": "1 \"Invoked\" monster + 1 monster that was Special Summoned from the Extra Deck\nMust first be Fusion Summoned with the above Fusion Materials. While face-up on the field, this card is also DARK, EARTH, WATER, FIRE, and WIND-Attribute. Once per turn (Quick Effect): You can target 1 \"Invoked\" monster you control or in your GY; banish it, and if you do, banish all monsters your opponent controls with the same Attribute(s) that monster had while on the field.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8157&request_locale=ja",
+        "title": "Q&A #8157",
+        "date": "2020-12-24",
+        "desc": "In the OCG, Invoked Elysium's activated effect will banish the targeted \"Invoked\" monster even if there are no appropriate monsters on the opponent's field."
+      }
+    ],
+    "name": "Invoked Elysium",
+    "lastUpdated": "2020-08-28",
+    "lastPrint": "2020-07-24",
+    "icon": "fusion"
+  },
+  {
+    "id": 13462,
+    "oldText": "Cannot be Normal Summoned/Set. Must be Pendulum Summoned (from your hand), or be Special Summoned (from your hand) by Tributing 3 Dragon monsters (1 Fusion, 1 Synchro, and 1 Xyz). You can discard this card and pay 500 LP: Add 1 Level 8 or lower Dragon Pendulum Monster from your Deck to your hand. Gains ATK/DEF equal to half of your opponent's LP. Once per turn: You can pay half your LP; shuffle all other cards from the field and the GYs into the Deck.",
+    "newText": "Cannot be Normal Summoned/Set. Must be Pendulum Summoned (from your hand), or be Special Summoned (from your hand) by Tributing 3 Dragon monsters (1 Fusion, 1 Synchro, and 1 Xyz). You can discard this card and pay 500 LP; Add 1 Level 8 or lower Dragon Pendulum Monster from your Deck to your hand. Gains ATK/DEF equal to half of your opponent's LP. Once per turn: You can pay half your LP; shuffle all other cards from the field and the GYs into the Deck.",
+    "author": "Catmaster0",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13462&request_locale=en",
+        "title": "Odd-Eyes Revolution Dragon",
+        "date": "2020-12-24",
+        "desc": "Odd-Eyes Revolution Dragon's TCG text has a misplaced colon where a semi-colon should be. Its text, as it stands, doesn't make a whole lot of sense."
+      }
+    ],
+    "name": "Odd-Eyes Revolution Dragon",
+    "lastUpdated": "2020-08-26",
+    "lastPrint": "2020-08-07",
+    "icon": "pen_effect"
+  },
+  {
+    "id": 13825,
+    "oldText": "2+ Level 3 monsters\nOnce per turn, when an opponent's monster activates its effect (Quick Effect): You can detach 2 materials from this card; the activated effect becomes \"both players draw 1 card\". You can target 1 other \"Number\" Xyz Monster you control; attach this card to it as material. (Transfer its materials to that monster.) You can only use this effect of \"Number 75: Bamboozling Gossip Shadow\" once per turn.",
+    "newText": "2+ Level 3 monsters\nOnce per turn, when an opponent's monster activates its effect (Quick Effect): You can detach 2 materials from this card; the activated effect becomes \"each player draws 1 card\". You can target 1 other \"Number\" Xyz Monster you control; attach this card to it as material. (Transfer its materials to that monster.) You can only use this effect of \"Number 75: Bamboozling Gossip Shadow\" once per turn.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21887&request_locale=ja",
+        "title": "Q&A #21887",
+        "date": "2020-12-24",
+        "desc": "In the OCG, even if one player cannot draw cards, the other player still does."
+      }
+    ],
+    "name": "Number 75: Bamboozling Gossip Shadow",
+    "lastUpdated": "2020-08-22",
+    "lastPrint": "2020-06-19",
+    "icon": "xyz"
+  },
+  {
+    "id": 11010,
+    "oldText": "You can Special Summon this card (from your hand). You can only Special Summon \"Dynatherium\" once per turn this way. When Summoned this way: Your opponent can target 1 Level 4 monster in either player's Graveyard; they Special Summon that target to their side of the field.",
+    "newText": "You can Special Summon this card (from your hand). You can only Special Summon \"Dynatherium\" once per turn this way. If Summoned this way: Activate this effect; your opponent can Special Summon 1 monster from their GY.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11010&request_locale=ja",
+        "title": "Card FAQ – Dynatherium",
+        "date": "2020-12-24",
+        "desc": "In the OCG, Dynatherium's effect does not target as indicated by its 4th FAQ entry."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5256&request_locale=en",
+        "title": "Gilasaurus",
+        "date": "2020-12-24",
+        "desc": "Dynatherium's effect should work the same as Gilasaurus'."
+      }
+    ],
+    "name": "Dynatherium",
+    "lastUpdated": "2020-08-08",
+    "lastPrint": "2014-03-28",
+    "icon": "effect"
+  },
+  {
+    "id": 5476,
+    "oldText": "Cannot attack the turn it is Summoned. If \"Toon World\" on the field is destroyed, destroy this card. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack your opponent directly. If this card inflicts battle damage to your opponent: Discard 1 random card from your opponent's hand.",
+    "newText": "Cannot attack the turn it is Summoned. If \"Toon World\" on the field is destroyed, destroy this card. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack your opponent directly. If this card inflicts battle damage to your opponent: You can discard 1 random card from your opponent's hand.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5476&request_locale=ja",
+        "title": "Toon Gemini Elf",
+        "date": "2020-12-24",
+        "desc": "Activating Toon Gemini Elf's effect if it inflicts battle damage to the opponent is optional in the OCG."
+      }
+    ],
+    "name": "Toon Gemini Elf",
+    "lastUpdated": "2020-08-03",
+    "lastPrint": "2020-07-03",
+    "icon": "effect"
+  },
+  {
+    "id": 13389,
+    "oldText": "If 2 or more cards are in the same column, you can Special Summon this card (from your hand) in that column. You can only Special Summon \"Mekk-Knight Indigo Eclipse\" once per turn this way. Once per turn (Quick Effect): You can target 1 \"Mekk-Knight\" monster you control; move that target to another of your Main Monster Zones.",
+    "newText": "If 2 or more cards are in the same column, you can Special Summon this card (from your hand) in that column. You can only Special Summon \"Mekk-Knight Indigo Eclipse\" once per turn this way. Once per turn (Quick Effect): You can target 1 \"Mekk-Knight\" monster you control; move that monster you control to another of your Main Monster Zones.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21501&request_locale=ja",
+        "title": "Q&A #21501",
+        "date": "2020-12-24",
+        "desc": "In the OCG, even if the targeted monster is no longer 1 \"Mekk-Knight\" monster due to being face-down, it will still be moved."
+      }
+    ],
+    "name": "Mekk-Knight Indigo Eclipse",
+    "lastUpdated": "2020-07-29",
+    "lastPrint": "2018-08-31",
+    "icon": "effect"
+  },
+  {
+    "id": 10698,
+    "oldText": "Cannot be Normal Summoned/Set. When you Normal Summon a Warrior monster: You can Special Summon this card from your hand. Cannot be used as Synchro Material.",
+    "newText": "Cannot be Normal Summoned/Set. Must first be Special Summoned by its own effect. When you Normal Summon a Warrior monster: You can Special Summon this card from your hand. Cannot be used as Synchro Material.",
+    "author": "pazim",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10698&request_locale=ja",
+        "title": "Card FAQ – Blue Mountain Butterspy",
+        "date": "2020-12-24",
+        "desc": "Blue Mountain Butterspy is a Special Summon Monster. Special Summon Monsters that begin the Duel in the Main Deck typically also have a Summoning Condition that prevents them from being improperly Summoned initially."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9723&request_locale=en",
+        "title": "Kagetokage",
+        "date": "2020-12-24",
+        "desc": "Kagetokage is a comparable card, which had its text revised to indicate this."
+      }
+    ],
+    "name": "Blue Mountain Butterspy",
+    "lastUpdated": "2020-07-28",
+    "lastPrint": "2018-10-12",
+    "icon": "effect"
+  },
+  {
+    "id": 15477,
+    "oldText": "Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect. You can banish 1 LIGHT or DARK monster from your GY: Special Summon this card from your hand. If this card is banished: You can send 1 LIGHT or DARK monster from your Deck to the GY, but for the rest of this turn, you cannot activate cards, or the effects of cards, with the same name as that card. You can only use each effect of \"Chaos Valkyria\" once per turn.",
+    "newText": "Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect. You can banish 1 LIGHT or DARK monster from your GY; Special Summon this card from your hand. If this card is banished: You can send 1 LIGHT or DARK monster from your Deck to the GY, but for the rest of this turn, you cannot activate cards, or the effects of cards, with the same name as that card. You can only use each effect of \"Chaos Valkyria\" once per turn.",
+    "author": "Catmaster0",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15477&request_locale=en",
+        "title": "Chaos Valkyria",
+        "date": "2020-12-24",
+        "desc": "Chaos Valkyria's TCG text has a misplaced colon where a semi-colon should be. Its text, as it stands, doesn't make a whole lot of sense."
+      }
+    ],
+    "name": "Chaos Valkyria",
+    "lastUpdated": "2020-07-28",
+    "lastPrint": "2020-06-19",
+    "icon": "effect"
+  },
+  {
+    "id": 15133,
+    "oldText": "You can Tribute this card: Special Summon 1 Cyberse monster from your Deck, except \"Armored Bitron\", but negate its effects, also you cannot Special Summon for the rest of this turn, except Cyberse monsters. If a Link-3 or higher Link Monster you control is destroyed by battle or an opponent's card effect, while this card is in your GY: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Armored Bitron\" once per turn.",
+    "newText": "You can Tribute this card; Special Summon 1 Cyberse monster from your Deck, except \"Armored Bitron\", but negate its effects, also you cannot Special Summon for the rest of this turn, except Cyberse monsters. If a Link-3 or higher Link Monster you control is destroyed by battle or an opponent's card effect, while this card is in your GY: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Armored Bitron\" once per turn.",
+    "author": "Catmaster0",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15133&request_locale=en",
+        "title": "Armored Bitron",
+        "date": "2020-12-24",
+        "desc": "Armored Bitron's TCG text has a misplaced colon where a semi-colon should be. Its text, as it stands, doesn't make a whole lot of sense."
+      }
+    ],
+    "name": "Armored Bitron",
+    "lastUpdated": "2020-07-28",
+    "lastPrint": "2020-05-01",
+    "icon": "effect"
+  },
+  {
+    "id": 15285,
+    "oldText": "Neither player can target \"Dogmatika\" monsters you control with effects of monsters that were Special Summoned from the Extra Deck. You can only use each of the following effects of \"Dogmatika Nation\" once per turn.\n●After damage calculation, if your \"Dogmatika\" monster battled an opponent's monster: Destroy that opponent's monster.\n●If this face-up card in the Field Zone is destroyed by an opponent's card effect: You can have each player send 1 monster from their Extra Deck to the GY.",
+    "newText": "Neither player can target \"Dogmatika\" monsters you control with effects of monsters that were Special Summoned from the Extra Deck. You can only use each of the following effects of \"Dogmatika Nation\" once per turn.\n●After damage calculation, if your \"Dogmatika\" monster battled an opponent's monster: You can destroy that opponent's monster.\n●If this face-up card in the Field Zone is destroyed by an opponent's card effect: You can have each player send 1 monster from their Extra Deck to the GY.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15285&request_locale=ja",
+        "title": "Dogmatika Nation",
+        "date": "2020-12-24",
+        "desc": "In the Official Card Game, activating Dogmatika Nation's effect that destroys the opponent's monster is not mandatory."
+      }
+    ],
+    "name": "Dogmatika Nation",
+    "lastUpdated": "2020-07-27",
+    "lastPrint": "2020-08-07",
+    "icon": "spell"
+  },
+  {
+    "id": 13604,
+    "oldText": "2 Zombie monsters\nIf you would Tribute a monster(s) for a Tribute Summon, you can Tribute a Zombie monster(s) your opponent controls, even though you do not control them. You can only use each of the following effects of \"Vampire Sucker\" once per turn.\n●You can target 1 monster in your opponent's GY; Special Summon it to your opponent's field in Defense Position, but it becomes a Zombie monster.\n●If a Zombie monster(s) is Special Summoned from either GY: Draw 1 card.",
+    "newText": "2 Zombie monsters\nIf you would Tribute a monster(s) for a Tribute Summon, you can Tribute a Zombie monster(s) your opponent controls, even though you do not control them. You can only use each of the following effects of \"Vampire Sucker\" once per turn.\n●You can target 1 monster in your opponent's GY; Special Summon it to your opponent's field in Defense Position, but it becomes a Zombie monster.\n●If another Zombie monster(s) is Special Summoned from either GY: Draw 1 card.",
+    "author": "Catmaster0",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12509&request_locale=ja",
+        "title": "Q&A #12509",
+        "date": "2020-12-24",
+        "desc": "Vampire Sucker's effect cannot be activated if only Vampire Sucker itself is Summoned from the GY."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21709&request_locale=ja",
+        "title": "Q&A #21709",
+        "date": "2020-12-24",
+        "desc": "Vampire Sucker's effect can be activated if both Vampire Sucker itself and another Zombie monster are Summoned from the GY simultaneously."
+      }
+    ],
+    "name": "Vampire Sucker",
+    "lastUpdated": "2020-07-14",
+    "lastPrint": "2018-05-04",
+    "icon": "link"
+  },
+  {
+    "id": 11046,
+    "oldText": "You can Set this card from your hand to your Spell & Trap Zone as a Spell Card. During your opponent's turn, if this Set card in the Spell & Trap Zone is destroyed and sent to your Graveyard: Special Summon it. During your opponent's turn, each time an \"Artifact\" monster(s) is Special Summoned: Draw 1 card. You must control this face-up card to activate and to resolve this effect. You can only control 1 \"Artifact Caduceus\".",
+    "newText": "You can Set this card from your hand to your Spell & Trap Zone as a Spell. During your opponent's turn, if this Set card in the Spell & Trap Zone is destroyed and sent to your GY: Special Summon it. During your opponent's turn, each time an \"Artifact\" monster(s) is Special Summoned while this monster is on the field: Draw 1 card. You must control this face-up card to activate and to resolve this effect. You can only control 1 \"Artifact Caduceus\".",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13105&request_locale=ja",
+        "title": "Q&A #13105",
+        "date": "2020-12-24",
+        "desc": "Artifact Caduceus' effect that draws cards will not activate if it and another \"Artifact\" are Summoned simultaneously."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13085&request_locale=en",
+        "title": "Topologic Bomber Dragon",
+        "date": "2020-12-24",
+        "desc": "Topologic Bomber Dragon is an example of a monster with similar functionality."
+      }
+    ],
+    "name": "Artifact Caduceus",
+    "lastUpdated": "2020-12-24",
+    "lastPrint": "2015-09-18",
+    "icon": "effect"
+  },
+  {
+    "id": 9554,
+    "oldText": "1 Tuner + 1+ non-Tuner monsters\nIf a monster is Synchro Summoned: Draw 1 card. This card must be face-up on the field to activate and to resolve this effect.",
+    "newText": "1 Tuner + 1+ non-Tuner monsters\nIf a monster is Synchro Summoned, while this monster is on the field: Draw 1 card. This card must be face-up on the field to activate and to resolve this effect.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=9554&request_locale=ja",
+        "title": "Card FAQ – T.G. Hyper Librarian",
+        "date": "2020-12-24",
+        "desc": "T.G. Hyper Librarian's effect will not be activated if T.G. Hyper Librarian itself is Synchro Summoned."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9554&request_locale=ja",
+        "title": "T.G. Hyper Librarian",
+        "date": "2020-12-24",
+        "desc": "T.G. Hyper Librarian's Japanese text uses \"while this monster is on the field\"."
+      }
+    ],
+    "name": "T.G. Hyper Librarian",
+    "lastUpdated": "2020-12-24",
+    "lastPrint": "2019-04-18",
+    "icon": "synchro"
+  },
+  {
+    "id": 10085,
+    "oldText": "Equip only to a face-up Xyz Monster. It gains ATK equal to its Rank x 200. If the equipped monster you control would detach its material to activate its effect: You can detach this card as 1 of the materials.",
+    "newText": "Equip only to a face-up Xyz Monster. It gains ATK equal to its Rank x 200. If you would detach material to activate the effect of the equipped monster you control, you can send this card to the GY instead of detaching one of the materials required.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10085&request_locale=en",
+        "title": "Xyz Unit",
+        "date": "2020-12-24",
+        "desc": "Xyz Unit's effect makes no sense as an activated effect. Additionally, \"detach\" makes no sense as a keyword in this context."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10085&request_locale=ja",
+        "title": "Xyz Unit",
+        "date": "2020-12-24",
+        "desc": "In the Official Card Game, Xyz unit's effect can be applied if the equipped monster's effect would be activated by detaching material from any Xyz monster, not just from itself."
+      }
+    ],
+    "name": "Xyz Unit",
+    "lastUpdated": "2020-12-24",
+    "lastPrint": "2020-06-15",
+    "icon": "spell"
+  },
+  {
+    "id": 15143,
+    "oldText": "This card gains these effects based on the number of \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", and/or \"Raviel, Lord of Phantasms\" with different names you control.\n●1+: Each time your opponent Normal or Special Summons a monster(s): Gain LP equal to the ATK of that monster(s).\n●2+: Negate the activated effects of monsters your opponent controls.\n●3: Any monsters sent to your opponent's GY are banished instead.\nOnce per your turn, if you control a Level 10 monster: You can add 1 Continuous Trap from your GY to your hand.",
+    "newText": "This card gains these effects based on the number of \"Uria, Lord of Searing Flames\", \"Hamon, Lord of Striking Thunder\", and/or \"Raviel, Lord of Phantasms\" with different names you control.\n●1+: Each time your opponent Normal or Special Summons a monster(s), gain LP equal to the ATK of that monster(s).\n●2+: Negate any monster effects activated on your opponent's field.\n●3: Any monsters sent to your opponent's GY are banished instead.\nOnce per your turn, if you control a Level 10 monster: You can add 1 Continuous Trap from your GY to your hand.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=15143&request_locale=ja",
+        "title": "Card FAQ – Awakening of the Sacred Beasts",
+        "date": "2020-12-24",
+        "desc": "In the Official Card Game, none of the bulleted effects of Awakening of the Sacred Beasts are activated effects."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12900&request_locale=en",
+        "title": "Harpie's Feather Storm",
+        "date": "2020-12-24",
+        "desc": "Harpie's Feather Storm is a card with an effect similar to Awakening of the Sacred Beasts' 2+ bullet.\nIts phrasing makes it clear that Awakening does not only negate the effects of monsters that your opponent still controls by the time their effects resolve."
+      }
+    ],
+    "name": "Awakening of the Sacred Beasts",
+    "lastUpdated": "2020-07-12",
+    "lastPrint": "2020-07-10",
+    "icon": "trap"
+  },
+  {
+    "id": 13105,
+    "oldText": "For each monster a player controls in their Main Monster Zone, their Spells/Traps in the same column as that monster cannot be destroyed by their opponent's card effects, and their opponent cannot target them with card effects.",
+    "newText": "For each monster a player controls in their Main Monster Zone, any cards in their Spell/Trap Zone in the same column as that monster cannot be destroyed by their opponent's card effects, and their opponent cannot target them with card effects.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13105&request_locale=ja",
+        "title": "Defense Zone",
+        "date": "2020-12-24",
+        "desc": "In the Official Card Game, Defense Zone's effect only applies to cards in the player's Spell/Trap Zone."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5234&request_locale=en",
+        "title": "Embodiment of Apophis",
+        "date": "2020-12-24",
+        "desc": "If Embodiment of Apophis is Summoned to the Monster Zone by its own effect, Defense Zone's effect would no longer apply to it."
+      }
+    ],
+    "name": "Defense Zone",
+    "lastUpdated": "2020-07-06",
+    "lastPrint": "2018-08-31",
+    "icon": "spell"
+  },
+  {
+    "id": 6265,
+    "oldText": "\"Lord of D.\" + \"Divine Dragon Ragnarok\"\nYour opponent cannot target Dragon monsters with card effects. Once per turn: You can Special Summon 1 Dragon monster from your hand.",
+    "newText": "\"Lord of D.\" + \"Divine Dragon Ragnarok\"\nYour opponent cannot target Dragon monsters on the field with card effects. Once per turn: You can Special Summon 1 Dragon monster from your hand.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6265&request_locale=ja",
+        "title": "Card FAQ – King Dragun",
+        "date": "2020-12-24",
+        "desc": "King Dragun's effect only prevents Dragon monsters on the field from being targeted with card effects.\nIt does not prevent Dragon monsters in either player's GY, or their banished Dragon monsters, from being targeted."
+      }
+    ],
+    "name": "King Dragun",
+    "lastUpdated": "2020-06-29",
+    "lastPrint": "2020-03-20",
+    "icon": "fusion"
+  },
+  {
+    "id": 9295,
+    "oldText": "You can Special Summon this card (from your hand) by banishing 1 face-up monster you control. If you Summon this way, during your next Standby Phase: Return the banished monster to the field.",
+    "newText": "You can Special Summon this card (from your hand) by banishing 1 face-up monster you control. If you Summon this way, during the next Standby Phase: Return the banished monster to the field.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9295&request_locale=ja",
+        "title": "D.D. Sprite",
+        "date": "2020-12-24",
+        "desc": "In the Official Card Game, the Trigger effect of D.D. Sprite is activated during the next Standby Phase, rather than your next Standby Phase."
+      }
+    ],
+    "name": "D.D. Sprite",
+    "lastUpdated": "2020-06-19",
+    "lastPrint": "2018-01-19",
+    "icon": "effect"
+  },
+  {
+    "id": 14125,
+    "oldText": "2 FIRE Effect Monsters\nIf a monster(s) is Normal or Special Summoned to the zone(s) this card points to (except during the Damage Step): You can add 1 FIRE monster from your GY to your hand, but for the rest of this turn, you cannot Normal Summon/Set or Special Summon monsters with the added monster's name. During your Main Phase, if you control this card that was Link Summoned using \"Salamangreat Sunlight Wolf\" as material: You can add 1 \"Salamangreat\" Spell/Trap from your GY to your hand. You can only use each effect of \"Salamangreat Sunlight Wolf\" once per turn.",
+    "newText": "2 FIRE Effect Monsters\nIf a monster(s) is Normal or Special Summoned to the zone(s) this card points to (except during the Damage Step): You can add 1 FIRE monster from your GY to your hand, but for the rest of this turn, you cannot Normal Summon/Set or Special Summon monsters with the same name as the monster added to your hand. During your Main Phase, if you control this card that was Link Summoned using \"Salamangreat Sunlight Wolf\" as material: You can add 1 \"Salamangreat\" Spell/Trap from your GY to your hand. You can only use each effect of \"Salamangreat Sunlight Wolf\" once per turn.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14125&request_locale=ja",
+        "title": "Card FAQ – Salamangreat Sunlight Wolf",
+        "date": "2020-12-24",
+        "desc": "If a FIRE monster that started the Duel in the Extra Deck is chosen for Sunlight Wolf's effect that adds a card to the hand, it can still be Summoned."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10330&request_locale=en",
+        "title": "Brotherhood of the Fire Fist - Lion Emperor",
+        "date": "2020-12-24",
+        "desc": "Fire Fist - Lion Emperor is a card with similar functionality that does not share this behavior."
+      }
+    ],
+    "name": "Salamangreat Sunlight Wolf",
+    "lastUpdated": "2020-12-24",
+    "lastPrint": "2020-08-28",
+    "icon": "link"
+  },
+  {
+    "id": 14650,
+    "oldText": "You can Special Summon this card (from your hand) by Tributing 1 Normal Summoned monster. You can only use each of the following effects of \"Gizmek Yata, the Gleaming Vanguard\" once per turn.\n●During your Main Phase, if this card was Normal or Special Summoned this turn, you can: Immediately after this effect resolves, Normal Summon 1 monster. If you do, you cannot Special Summon monsters for the rest of this turn, except monsters with the same original Type as that monster.\n●If this card Special Summoned by its own effect is Tributed: Gain 2050 LP.",
+    "newText": "You can Special Summon this card (from your hand) by Tributing 1 Normal Summoned/Set monster. You can only use each of the following effects of \"Gizmek Yata, the Gleaming Vanguard\" once per turn.\n●During your Main Phase, if this card was Normal or Special Summoned this turn, you can: Immediately after this effect resolves, Normal Summon 1 monster. If you do, you cannot Special Summon monsters for the rest of this turn, except monsters with the same original Type as that monster.\n●If this card Special Summoned by its own effect is Tributed: Gain 2050 LP.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14650&request_locale=ja",
+        "title": "Gizmek Yata, the Gleaming Vanguard",
+        "date": "2020-12-24",
+        "desc": "In particular, note that the Japanese 通常召喚, which literally translates to \"Normal Summon\", is the OCG equivalent of the TCG's \"Normal Summon or Set\".\nThe OCG equivalent to \"Normal Summon (but not Set)\" would be just 召喚."
+      }
+    ],
+    "name": "Gizmek Yata, the Gleaming Vanguard",
+    "lastUpdated": "2020-05-22",
+    "lastPrint": "2020-08-28",
+    "icon": "effect"
+  },
+  {
+    "id": 4597,
+    "oldText": "FLIP: Both players discard as many cards as possible from their hands, then each player draws 5 cards.",
+    "newText": "FLIP: Both players discard as many cards as possible from their hands, also, after that, each player draws 5 cards.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=4597&request_locale=ja",
+        "title": "Card FAQ – Morphing Jar",
+        "date": "2020-12-24",
+        "desc": "Even if players have no cards in their hand, cards are still drawn by both players."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12670&request_locale=en",
+        "title": "Present Card",
+        "date": "2020-12-24",
+        "desc": "Present Card is an example of a card with identical PSCT which does not share Morphing Jar's behavior."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19671&request_locale=ja",
+        "title": "Q&A #19671",
+        "date": "2020-12-24",
+        "desc": "If your opponent has no cards in their hand, Present Card's effect will not proceed through the \"then\" conjunction."
+      }
+    ],
+    "name": "Morphing Jar",
+    "lastUpdated": "2020-05-20",
+    "lastPrint": "2018-12-07",
+    "icon": "effect"
+  },
+  {
+    "id": 6824,
+    "oldText": "During your End Phase, if you control \"Jurassic World\": Destroy all cards on the field.",
+    "newText": "(This card is not treated as a \"Volcanic\" card.)\nDuring your End Phase, if you control \"Jurassic World\": Destroy all cards on the field.",
+    "author": "pazim",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6824&request_locale=ja",
+        "title": "Volcanic Eruption",
+        "date": "2020-12-24",
+        "desc": "In the Official Card Game, Volcanic Eruption is not a \"Volcanic\" (ヴォルカニック) card."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11597&request_locale=en",
+        "title": "Blaze Accelerator Reload",
+        "date": "2020-12-24",
+        "desc": "In the TCG, Volcanic Eruption can be sent to the GY by Blaze Accelerator Reload's effects."
+      }
+    ],
+    "name": "Volcanic Eruption",
+    "lastUpdated": "2020-05-14",
+    "lastPrint": "2013-10-11",
+    "icon": "trap"
+  },
+  {
+    "id": 11404,
+    "oldText": "Target 1 face-up monster you control; it gains 300 ATK/DEF. When an opponent's monster declares a direct attack while this card is in your GY: Special Summon this card in Defense Position as a Normal Monster (Warrior/DARK/Level 4/ATK 0/DEF 300). (This card is NOT treated as a Trap.) If Summoned this way, banish this card when it leaves the field.",
+    "newText": "Target 1 face-up monster you control; it gains 300 ATK/DEF. When an opponent's monster declares a direct attack while this card is in your GY: You can Special Summon this card in Defense Position as a Normal Monster (Warrior/DARK/Level 4/ATK 0/DEF 300). (This card is NOT treated as a Trap.) If Summoned this way, banish this card when it leaves the field.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11404&request_locale=ja",
+        "title": "Card FAQ – The Phantom Knights of Shadow Veil",
+        "date": "2020-12-24",
+        "desc": "In the Official Card Game, The Phantom Knights of Shadow Veil's effect in the GY is optional to activate."
+      }
+    ],
+    "name": "The Phantom Knights of Shadow Veil",
+    "lastUpdated": "2020-05-07",
+    "lastPrint": "2018-10-12",
+    "icon": "trap"
+  },
+  {
+    "id": 12082,
+    "oldText": "Target 1 Spell/Trap Card on the field; destroy it. Once per Chain, when a Trap Card is activated while this card is in your Graveyard: Special Summon this card as a Normal Monster (Aqua-Type/WATER/Level 2/ATK 1200/DEF 0). (This card is NOT treated as a Trap Card.) If Summoned this way, this card is unaffected by monster effects, also banish it when it leaves the field.",
+    "newText": "Target 1 Spell/Trap Card on the field; destroy it. Once per Chain, when a Trap Card is activated while this card is in your GY: You can Special Summon this card as a Normal Monster (Aqua/WATER/Level 2/ATK 1200/DEF 0). (This card is NOT treated as a Trap.) If Summoned this way, this card is unaffected by monster effects, also banish it when it leaves the field.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12082&request_locale=ja",
+        "title": "Card FAQ – Paleozoic Olenoides",
+        "date": "2020-12-24",
+        "desc": "In the Official Card Game, Paleozoic Olenoides' effect in the GY is optional to activate."
+      }
+    ],
+    "name": "Paleozoic Olenoides",
+    "lastUpdated": "2020-12-24",
+    "lastPrint": "2017-08-25",
+    "icon": "trap"
+  },
+  {
+    "id": 12085,
+    "oldText": "Discard 1 \"Paleozoic\" card, then draw 2 cards. Once per Chain, when a Trap Card is activated while this card is in your Graveyard: Special Summon this card as a Normal Monster (Aqua-Type/WATER/Level 2/ATK 1200/DEF 0). (This card is NOT treated as a Trap Card.) If Summoned this way, this card is unaffected by monster effects, also banish it when it leaves the field.",
+    "newText": "Discard 1 \"Paleozoic\" card, then draw 2 cards. Once per Chain, when a Trap Card is activated while this card is in your GY: You can Special Summon this card as a Normal Monster (Aqua/WATER/Level 2/ATK 1200/DEF 0). (This card is NOT treated as a Trap.) If Summoned this way, this card is unaffected by monster effects, also banish it when it leaves the field.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12085&request_locale=ja",
+        "title": "Card FAQ – Paleozoic Pikaia",
+        "date": "2020-12-24",
+        "desc": "In the Official Card Game, Paleozoic Pikaia' effect in the GY is optional to activate."
+      }
+    ],
+    "name": "Paleozoic Pikaia",
+    "lastUpdated": "2020-12-24",
+    "lastPrint": "2017-08-25",
+    "icon": "trap"
+  },
+  {
+    "id": 14122,
+    "oldText": "2 Level 2 or higher Cyberse monsters\nOnce per battle, during damage calculation, if your Cyberse monster battles (Quick Effect): You can activate this effect; negate all other card effects on the field until the end of the Damage Step, damage calculation for this battle uses each monster's original ATK/DEF, also if an opponent's monster is destroyed by this battle and sent to the GY, inflict 1000 damage to your opponent. If this card is sent to the GY as Link Material: That Link Monster can make a second attack during each Battle Phase this turn.",
+    "newText": "2 Level 2 or higher Cyberse monsters\nOnce per battle, during damage calculation, if your Cyberse monster battles (Quick Effect): You can activate this effect; negate all other card effects on the field until the end of the Damage Step, damage calculation for this battle uses each monster's original ATK/DEF, also if an opponent's monster is destroyed by this battle and sent to the GY, inflict 1000 damage to your opponent. If this card is sent to the GY as Link Material: You can activate this effect; that Link Monster can make a second attack during each Battle Phase this turn.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14122&request_locale=ja",
+        "title": "Update Jammer",
+        "date": "2020-12-24",
+        "desc": "In the Official Card Game, Update Jammer's effect that allows the Link Monster to make a second attack during each Battle Phase is optional to activate."
+      }
+    ],
+    "name": "Update Jammer",
+    "lastUpdated": "2020-05-05",
+    "lastPrint": "2019-02-01",
+    "icon": "link"
+  },
+  {
+    "id": 15013,
+    "oldText": "You can only control 1 \"Harr, Generaider Boss of Storms\". Once per turn, if your opponent adds a card(s) from the Deck to their hand, except during the Draw Phase (Quick Effect): You can make your opponent send 1 monster from their hand or field to the GY (their choice). When a card or effect is activated (Quick Effect): You can Tribute 2 \"Generaider\" and/or Spellcaster monsters; negate the activation, and if you do, destroy that card. You can only use this effect of \"Harr, Generaider Boss of Storms\" once per turn.",
+    "newText": "You can only control 1 \"Harr, Generaider Boss of Storms\". Once per turn, if your opponent adds a card(s) from the Deck to their hand, except during the Draw Phase: You can make your opponent send 1 monster from their hand or field to the GY (their choice). When a card or effect is activated (Quick Effect): You can Tribute 2 \"Generaider\" and/or Spellcaster monsters; negate the activation, and if you do, destroy that card. You can only use this effect of \"Harr, Generaider Boss of Storms\" once per turn.",
+    "author": "pazim",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=15013&request_locale=ja",
+        "title": "Card FAQ – Harr, Generaider Boss of Storms",
+        "date": "2020-12-24",
+        "desc": "In the Official Card Game, Generaider Harr's effect that makes the opponent send a monster to the GY is a Trigger effect."
+      }
+    ],
+    "name": "Harr, Generaider Boss of Storms",
+    "lastUpdated": "2020-04-25",
+    "lastPrint": "2020-05-01",
+    "icon": "effect"
+  },
+  {
+    "id": 8870,
+    "oldText": "2 Zombie monsters\nMust first be Fusion Summoned. Monsters cannot be destroyed by battle with this card. At the end of the Damage Step, if this card battled a monster that has an original Level: That monster's ATK becomes 0, also, if that monster is still face-up on the field, Special Summon 1 \"Dark Soul Token\" (Zombie/DARK/Level ?/ATK ?/DEF 0). (When Summoned, its Level and ATK become equal to the original Level and ATK of that monster.) You can only control 1 \"Dragonecro Nethersoul Dragon\".",
+    "newText": "2 Zombie monsters\nMust first be Fusion Summoned. Monsters cannot be destroyed by battle with this card. At the end of the Damage Step, if this card battled a monster: That monster's ATK becomes 0, also, if that monster is still face-up on the field and has an original Level, Special Summon 1 \"Dark Soul Token\" (Zombie/DARK/Level ?/ATK ?/DEF 0). (When Summoned, its Level and ATK become equal to the original Level and ATK of that monster.) You can only control 1 \"Dragonecro Nethersoul Dragon\".",
+    "author": "platedpope",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7683&request_locale=ja",
+        "title": "Q&A #7683",
+        "date": "2020-12-24",
+        "desc": "In the Official Card Game, Dragonecro Nethersoul Dragon's effect that reduces the opponent's monster's ATK to zero will also be activated if that monster does not have an original Level."
+      }
+    ],
+    "name": "Dragonecro Nethersoul Dragon",
+    "lastUpdated": "2020-04-14",
+    "lastPrint": "2019-07-12",
+    "icon": "fusion"
+  },
+  {
+    "id": 13849,
+    "oldText": "Fusion Summon 1 Fusion Monster from your Extra Deck that lists a \"Cyber Dragon\" monster as material, by shuffling the Fusion Materials listed on it into the Deck, from among your cards on the field and/or your face-up banished cards, but monsters you control cannot attack for the rest of this turn, except that Fusion Summoned monster. You can only activate 1 \"Cyberload Fusion\" per turn.",
+    "newText": "Fusion Summon 1 Fusion Monster from your Extra Deck, by shuffling the Fusion Materials listed on it into the Deck, including a \"Cyber Dragon\" monster it lists as material, from among the monsters on your field and/or your face-up banished cards, but monsters you control cannot attack for the rest of this turn, except that Fusion Summoned monster. You can only activate 1 \"Cyberload Fusion\" per turn.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13849&request_locale=ja",
+        "title": "Cyberload Fusion",
+        "date": "2020-12-24",
+        "desc": "Cyberload Fusion cannot use non-Monster cards on your field as material."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22921&request_locale=ja",
+        "title": "Q&A #22921",
+        "date": "2020-12-24",
+        "desc": "You must use a \"Red-Eyes\" material requirement when Summoning a monster using Red-Eyes Fusion."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15538&request_locale=ja",
+        "title": "Q&A #15538",
+        "date": "2020-12-24",
+        "desc": "You must use a \"Red-Eyes\" monster to meet that \"Red-Eyes\" material requirement. Using a \"Red-Eyes\" monster for some other material requirement is not sufficient."
+      }
+    ],
+    "name": "Cyberload Fusion",
+    "lastUpdated": "2020-04-13",
+    "lastPrint": "2018-09-28",
+    "icon": "spell"
+  },
+  {
+    "id": 13947,
+    "oldText": "Fusion Summon 1 Thunder Fusion Monster from your Extra Deck, by shuffling the Fusion Materials listed on it into the Deck, from among your cards on the field, in your GY, and/or your face-up banished cards. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY; add 1 Thunder monster from your Deck to your hand. You can only use each effect of \"Thunder Dragon Fusion\" once per turn.",
+    "newText": "Fusion Summon 1 Thunder Fusion Monster from your Extra Deck, by shuffling the Fusion Materials listed on it into the Deck, from among the monsters on your field, in your GY, and/or your face-up banished cards. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY; add 1 Thunder monster from your Deck to your hand. You can only use each effect of \"Thunder Dragon Fusion\" once per turn.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13947&request_locale=ja",
+        "title": "Thunder Dragon Fusion",
+        "date": "2020-12-24",
+        "desc": "Thunder Dragon Fusion cannot use non-Monster cards on your field as material."
+      }
+    ],
+    "name": "Thunder Dragon Fusion",
+    "lastUpdated": "2020-04-13",
+    "lastPrint": "2018-10-19",
+    "icon": "spell"
+  },
+  {
+    "id": 14338,
+    "oldText": "1 Normal Summoned monster with 1000 or less ATK\n(Quick Effect): You can Tribute this card, then target 1 monster you control; it cannot be destroyed by your opponent's card effects this turn. When a Normal Summoned monster you control is destroyed by battle, while this card is in your GY: You can Special Summon this card. You can only use this effect of \"Salamangreat Almiraj\" once per turn.",
+    "newText": "1 Normal Summoned/Set monster with 1000 or less ATK\n(Quick Effect): You can Tribute this card, then target 1 monster you control; it cannot be destroyed by your opponent's card effects this turn. When a Normal Summoned/Set monster you control is destroyed by battle, while this card is in your GY: You can Special Summon this card. You can only use this effect of \"Salamangreat Almiraj\" once per turn.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14338&request_locale=ja",
+        "title": "Salamangreat Almiraj",
+        "date": "2020-12-24",
+        "desc": "In particular, note that the Japanese 通常召喚, which literally translates to \"Normal Summon\", is the OCG equivalent of the TCG's \"Normal Summon or Set\".\nThe OCG equivalent to \"Normal Summon (but not Set)\" would be just 召喚."
+      }
+    ],
+    "name": "Salamangreat Almiraj",
+    "lastUpdated": "2020-04-09",
+    "lastPrint": "2020-03-20",
+    "icon": "link"
+  },
+  {
+    "id": 14511,
+    "oldText": "Banish, face-down, from your hand and/or face-up field, 2 monsters that cannot be Normal Summoned; draw 2 cards. You can only activate 1 \"Hypernova Burst\" per turn.",
+    "newText": "Banish, face-down, from your hand and/or face-up field, 2 monsters that cannot be Normal Summoned/Set; draw 2 cards. You can only activate 1 \"Hypernova Burst\" per turn.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14511&request_locale=ja",
+        "title": "Hypernova Burst",
+        "date": "2020-12-24",
+        "desc": "In particular, note that the Japanese 通常召喚, which literally translates to \"Normal Summon\", is the OCG equivalent of the TCG's \"Normal Summon or Set\".\nThe OCG equivalent to \"Normal Summon (but not Set)\" would be just 召喚."
+      }
+    ],
+    "name": "Hypernova Burst",
+    "lastUpdated": "2020-04-09",
+    "lastPrint": "2019-07-27",
+    "icon": "spell"
+  },
+  {
+    "id": 11843,
+    "oldText": "Fusion Summon 1 Fusion Monster that lists a \"Red-Eyes\" monster as material from your Extra Deck, using monsters from your hand, Deck, or field as Fusion Materials, and if you do, its name becomes \"Red-Eyes Black Dragon\". You cannot Normal or Special Summon other monsters the turn you activate this card. You can only activate 1 \"Red-Eyes Fusion\" per turn.",
+    "newText": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand, Deck, or field as Fusion Materials, including a \"Red-Eyes\" monster it lists as material, and if you do, its name becomes \"Red-Eyes Black Dragon\". You cannot Normal or Special Summon other monsters the turn you activate this card. You can only activate 1 \"Red-Eyes Fusion\" per turn.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22921&request_locale=ja",
+        "title": "Q&A #22921",
+        "date": "2020-12-24",
+        "desc": "You must use a \"Red-Eyes\" material requirement when Summoning a monster using Red-Eyes Fusion."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15538&request_locale=ja",
+        "title": "Q&A #15538",
+        "date": "2020-12-24",
+        "desc": "You must use a \"Red-Eyes\" monster to meet that \"Red-Eyes\" material requirement. Using a \"Red-Eyes\" monster for some other material requirement is not sufficient."
+      }
+    ],
+    "name": "Red-Eyes Fusion",
+    "lastUpdated": "2020-04-09",
+    "lastPrint": "2020-07-03",
+    "icon": "spell"
+  },
+  {
+    "id": 5118,
+    "oldText": "Target 1 Fusion Monster on the field; return that target to the Extra Deck, then, if all the Fusion Materials that were used for its Fusion Summon are in your GY, you can Special Summon all of them.",
+    "newText": "Target 1 Fusion Monster on the field; return that target to the Extra Deck, then, if all its listed Fusion Materials that were used for its Fusion Summon are in your GY, you can Special Summon all of them.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9104&request_locale=ja",
+        "title": "Q&A #9104",
+        "date": "2020-12-24",
+        "desc": "If De-Fusion resolves targeting Starving Venom Fusion Dragon, its materials cannot be Summoned, as they are not the \"2 DARK monsters on the field\" listed on SVFD."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=167&request_locale=ja",
+        "title": "Q&A #167",
+        "date": "2020-12-24",
+        "desc": "If The Eye of Timaeus is used to Fusion Summon using Dark Magician as the entire material, De-Fusion will not be able to Summon Dark Magician, as Dark Magician alone is not the \"all of the listed Fusion Materials\" of the Fusion Monster."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7673&request_locale=ja",
+        "title": "Q&A #7673",
+        "date": "2020-12-24",
+        "desc": "If De-Fusion resolves targeting Invoked Elysium, its materials cannot be Summoned, as a monster in the GY cannot be a monster that was Summoned from the Extra Deck."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12165&request_locale=ja",
+        "title": "Q&A #12165",
+        "date": "2020-12-24",
+        "desc": "If Proto-Cyber Dragon is used as material for Cyber Twin Dragon, it cannot be Summoned by De-Fusion, as its name is not \"Cyber Dragon\" in the GY, as listed on Cyber Twin Dragon."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10013&request_locale=ja",
+        "title": "Q&A #10013",
+        "date": "2020-12-24",
+        "desc": "If Elemental HERO Prisma has its name changed to \"Elemental HERO Neos\" and is then used as material for the Fusion Summon of Elemental HERO Absolute Zero, it can still be Summoned by De-Fusion, as Absolute Zero only requires any \"HERO\" monster to be used."
+      }
+    ],
+    "name": "De-Fusion",
+    "lastUpdated": "2020-04-06",
+    "lastPrint": "2020-11-26",
+    "icon": "spell"
+  },
+  {
+    "id": 10326,
+    "oldText": "(This card is also always treated as \"Legendary Dragon Timaeus\".)\nTarget 1 \"Dark Magician\" monster you control; Fusion Summon 1 Fusion Monster from your Extra Deck that lists that monster on the field as Fusion Material, using it as the Fusion Material. You can only activate 1 \"The Eye of Timaeus\" per turn.",
+    "newText": "(This card is also always treated as \"Legendary Dragon Timaeus\".)\nTarget 1 \"Dark Magician\" monster you control; Fusion Summon 1 Fusion Monster from your Extra Deck that lists that monster on the field as Fusion Material, using it as the entire Fusion Material. You can only activate 1 \"The Eye of Timaeus\" per turn.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4837&request_locale=en",
+        "title": "Polymerization",
+        "date": "2020-12-24",
+        "desc": "Eye of Timaeus' current text is practically identical to Polymerization's. Nothing about its text suggests that it ignores the Fusion Monster's material line."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13938&request_locale=en",
+        "title": "Salamangreat Sanctuary",
+        "date": "2020-12-24",
+        "desc": "Salamangreat Sanctuary is an example of a card with a comparable effect, which uses the revised phrasing we suggest."
+      }
+    ],
+    "name": "The Eye of Timaeus",
+    "lastUpdated": "2020-04-06",
+    "lastPrint": "2020-09-11",
+    "icon": "spell"
+  },
+  {
+    "id": 5246,
+    "oldText": "Return 1 Spell/Trap Card your opponent controls to the hand. This card's activation and effect cannot be negated.",
+    "newText": "Target 1 Spell/Trap your opponent controls; return it to the hand. This card's activation and effect cannot be negated.",
+    "author": "platedpope",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5246&request_locale=ja",
+        "title": "Card FAQ – Spiritualism",
+        "date": "2020-12-24",
+        "desc": "In the Official Card Game, Spiritualism is activated by targeting the Spell/Trap to be returned to the hand."
+      }
+    ],
+    "name": "Spiritualism",
+    "lastUpdated": "2020-04-02",
+    "lastPrint": "2012-10-02",
+    "icon": "spell"
+  },
+  {
+    "id": 14601,
+    "oldText": "3 DARK monsters on the field\nGains ATK equal to the total original ATK of all other monsters on the field with a Predator Counter. You can only use each of the following effects of \"Predaplant Triphyoverutum\" once per turn.\n●When your opponent Special Summons a monster(s) from their Extra Deck while you control this Fusion Summoned card (Quick Effect): You can negate the Summon, and if you do, destroy that monster(s).\n●If your opponent controls a monster with a Predator Counter(s): You can Special Summon this card from your GY in Defense Position.",
+    "newText": "3 DARK monsters on the field\nGains ATK equal to the total original ATK of all other monsters on the field with a Predator Counter. You can only use each of the following effects of \"Predaplant Triphyoverutum\" once per turn.\n●When your opponent would Special Summon a monster(s) from their Extra Deck while you control this Fusion Summoned card (Quick Effect): You can negate the Summon, and if you do, destroy that monster(s).\n●If your opponent controls a monster with a Predator Counter(s): You can Special Summon this card from your GY in Defense Position.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6918&request_locale=en",
+        "title": "Black Horn of Heaven",
+        "date": "2020-12-24",
+        "desc": "Black Horn of Heaven is an example of a card that activates during an attempted Summon.\nIn order for its effect to make sense, this is the phrasing Predaplant Triphyoverutum would need to use."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5114&request_locale=en",
+        "title": "Torrential Tribute",
+        "date": "2020-12-24",
+        "desc": "Torrential Tribute is an example of a card which activates in response to a successful Summon.\nNote that Predaplant Triphyoverutum currently uses the same phrasing as Torrential Tribute."
+      }
+    ],
+    "name": "Predaplant Triphyoverutum",
+    "lastUpdated": "2020-03-26",
+    "lastPrint": "2019-09-27",
+    "icon": "fusion"
+  },
+  {
+    "id": 12827,
+    "oldText": "Your opponent cannot target other \"SPYRAL\" cards you control with card effects. Once per turn: You can add 1 \"SPYRAL\" monster from your Deck to your hand. Once per turn, during your End Phase, shuffle 1 monster from your Graveyard into the Deck or destroy this card.",
+    "newText": "Your opponent cannot target other \"SPYRAL\" cards you control with card effects. Once per turn: You can add 1 \"SPYRAL\" monster from your Deck to your hand. Once per turn, during your End Phase, shuffle 1 monster from your Graveyard into the Main Deck or destroy this card.",
+    "author": "pazim",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13288&request_locale=en",
+        "title": "Personal Spoofing",
+        "date": "2020-12-24",
+        "desc": "Personal Spoofing has an example of an effect that also cannot return cards to the Extra Deck to pay its cost.\nNote that it takes care to explicitly specify this in its text."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14660&request_locale=en",
+        "title": "Gladiator Beast Domitianus",
+        "date": "2020-12-24",
+        "desc": "Gladiator Beast Domitianus's Summoning Procedure allows returning \"Gladiator Beast\" materials to the Extra Deck as a cost to attempt the Summon.\nNote that the wording is almost identical to that of SPYRAL Resort's current English print."
+      }
+    ],
+    "name": "SPYRAL Resort",
+    "lastUpdated": "2020-03-25",
+    "lastPrint": "2016-11-04",
+    "icon": "spell"
+  },
+  {
+    "id": 11735,
+    "oldText": "When this card is activated: Add 1 \"Zefra\" monster from your Deck to your hand. When you Ritual Summon using a \"Zefra\" monster, or Special Summon using a \"Zefra\" monster as Material, you can activate these effects depending on the monster Summoned, once per turn per effect:\n●Ritual: Shuffle 1 monster on the field into the Deck.\n●Fusion: Special Summon 1 monster from your hand.\n●Synchro: Choose 1 monster from your Deck and place it on top of your Deck.\n●Xyz: Draw 1 card, then discard 1 card.\nYou can only activate 1 \"Oracle of Zefra\" per turn.",
+    "newText": "When this card is activated: Add 1 \"Zefra\" monster from your Deck to your hand. When a player Ritual Summons using a \"Zefra\" monster, or Special Summons using a \"Zefra\" monster as Material, you can activate these effects depending on the monster Summoned, once per turn per effect:\n●Ritual: Shuffle 1 monster on the field into the Deck.\n●Fusion: Special Summon 1 monster from your hand.\n●Synchro: Choose 1 monster from your Deck and place it on top of your Deck.\n●Xyz: Draw 1 card, then discard 1 card.\nYou can only activate 1 \"Oracle of Zefra\" per turn.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15231&request_locale=ja",
+        "title": "Q&A #15231",
+        "date": "2020-12-24",
+        "desc": "In the Official Card Game, Oracle of Zefra's effect can be activated regardless of which player performed a Summon using a \"Zefra\" monster."
+      }
+    ],
+    "name": "Oracle of Zefra",
+    "lastUpdated": "2020-02-29",
+    "lastPrint": "2017-06-23",
+    "icon": "spell"
+  },
+  {
+    "id": 11884,
+    "oldText": "Must be Special Summoned with \"The Fang of Critias\", using \"Mirror Force\". When a monster(s) you control is targeted for an attack or by an opponent's card effect (except during the Damage Step): You can destroy all cards your opponent controls.",
+    "newText": "Must be Special Summoned with \"The Fang of Critias\", using \"Mirror Force\". When a monster(s) you control is targeted for an attack or by an opponent's card effect (except during the Damage Step) (Quick Effect): You can destroy all cards your opponent controls.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11884&request_locale=en",
+        "title": "Mirror Force Dragon",
+        "date": "2020-12-24",
+        "desc": "Mirror Force Dragon's current English text is not explicit about its effect being a Quick Effect.\nThis is implicit from it responding to another card/effect's activation, but can still easily lead to confusion."
+      }
+    ],
+    "name": "Mirror Force Dragon",
+    "lastUpdated": "2020-03-01",
+    "lastPrint": "2020-09-11",
+    "icon": "fusion"
+  },
+  {
+    "id": 13443,
+    "oldText": "When this card is activated: You can target 1 Level 5 or higher monster in your GY; Special Summon it. When this card leaves the field, destroy that monster. Negate any opponent's monster effect that activates in the same column as a \"Mekk-Knight\" monster you control.",
+    "newText": "When this card is activated: You can target 1 Level 5 or higher monster in your GY; Special Summon it. When this card leaves the field, destroy that monster. Negate any opponent's monster effect that resolves in the same column as a \"Mekk-Knight\" monster you control.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13443&request_locale=en",
+        "title": "World Legacy's Secret",
+        "date": "2020-12-24",
+        "desc": "Whether the effect of World Legacy's Secret will negate a given monster effect is determined when that effect resolves.\nWhether a \"Mekk-Knight\" is in the same column is also determined at that time."
+      }
+    ],
+    "name": "World Legacy's Secret",
+    "lastUpdated": "2020-03-07",
+    "lastPrint": "2018-08-31",
+    "icon": "trap"
+  },
+  {
+    "id": 13442,
+    "oldText": "When this card is activated: You can target 1 Level 5 or higher monster on the field; it gains 1000 ATK/DEF until the end of this turn. Negate any opponent's Spell effect that activates in the same column as a \"Mekk-Knight\" monster you control.",
+    "newText": "When this card is activated: You can target 1 Level 5 or higher monster on the field; it gains 1000 ATK/DEF until the end of this turn. Negate any opponent's Spell effect that resolves in the same column as a \"Mekk-Knight\" monster you control.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13442&request_locale=en",
+        "title": "World Legacy Whispers",
+        "date": "2020-12-24",
+        "desc": "Whether the effect of World Legacy Whispers will negate a given Spell effect is determined when that effect resolves.\nWhether a \"Mekk-Knight\" is in the same column is also determined at that time."
+      }
+    ],
+    "name": "World Legacy Whispers",
+    "lastUpdated": "2020-03-07",
+    "lastPrint": "2018-08-31",
+    "icon": "trap"
+  },
+  {
+    "id": 13428,
+    "oldText": "When this card is activated: You can target 1 of your banished \"Mekk-Knight\" monsters or \"World Legacy\" cards; add it to your hand. Negate any opponent's Trap effect that activates in the same column as a \"Mekk-Knight\" monster you control.",
+    "newText": "When this card is activated: You can target 1 of your banished \"Mekk-Knight\" monsters or \"World Legacy\" cards; add it to your hand. Negate any opponent's Trap effect that resolves in the same column as a \"Mekk-Knight\" monster you control.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13428&request_locale=en",
+        "title": "World Legacy Key",
+        "date": "2020-12-24",
+        "desc": "Whether the effect of World Legacy Key will negate a given Trap effect is determined when that effect resolves.\nWhether a \"Mekk-Knight\" is in the same column is also determined at that time."
+      }
+    ],
+    "name": "World Legacy Key",
+    "lastUpdated": "2020-03-07",
+    "lastPrint": "2018-08-31",
+    "icon": "spell"
+  },
+  {
+    "id": 10953,
+    "oldText": "You can only activate 1 \"Onomatopaira\" per turn. Send 1 card from your hand to the GY; add up to 2 of these monsters from your Deck to your hand (you cannot add 2 from the same category).\n●1 \"Zubaba\" monster\n●1 \"Gagaga\" monster\n●1 \"Gogogo\" monster\n●1 \"Dododo\" monster",
+    "newText": "You can only activate 1 \"Onomatopaira\" per turn. Send 1 card from your hand to the GY; choose up to 2 of these categories. For each chosen category, add one monster in that category from your Deck to your hand.\n●1 \"Zubaba\" monster\n●1 \"Gagaga\" monster\n●1 \"Gogogo\" monster\n●1 \"Dododo\" monster",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22335&request_locale=ja",
+        "title": "Q&A #22335",
+        "date": "2020-12-24",
+        "desc": "If a monster belongs to more than one of the listed categories, one copy of that monster can be added for each of the categories."
+      }
+    ],
+    "name": "Onomatopaira",
+    "lastUpdated": "2020-03-07",
+    "lastPrint": "2020-01-17",
+    "icon": "spell"
+  },
+  {
+    "id": 14221,
+    "oldText": "(This card is always treated as a \"Zubaba\", \"Gagaga\", \"Gogogo\", and \"Dododo\" card.)\nDuring your Main Phase: You can Special Summon up to 1 each \"Zubaba\", \"Gagaga\", \"Gogogo\", and/or \"Dododo\" monster(s) from your hand in Defense Position, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Xyz Monsters. You can only use this effect of \"Utopic Onomatopoeia\" once per turn.",
+    "newText": "(This card is always treated as a \"Zubaba\", \"Gagaga\", \"Gogogo\", and \"Dododo\" card.)\nDuring your Main Phase: You can Special Summon up to 1 each \"Zubaba\", \"Gagaga\", \"Gogogo\", and/or \"Dododo\" monster(s), except \"Utopic Onomatopoeia\", from your hand in Defense Position, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Xyz Monsters. You can only use this effect of \"Utopic Onomatopoeia\" once per turn.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14221&request_locale=ja",
+        "title": "Utopic Onomatopoeia",
+        "date": "2020-12-24",
+        "desc": "In the Official Card Game, The effect of Utopic Onomatopoeia cannot Special Summon another copy of Utopic Onomatopoeia from the hand."
+      }
+    ],
+    "name": "Utopic Onomatopoeia",
+    "lastUpdated": "2020-12-24",
+    "lastPrint": "2019-04-03",
+    "icon": "effect"
+  },
+  {
+    "id": 14932,
+    "oldText": "2 monsters with the same Type or Attribute\nCannot be used as Link Material the turn it is Link Summoned. You can target 1 face-up monster you control; equip 1 monster to it from your hand or Deck with its same original Type or Attribute. The equipped monster gains 1000 ATK. If you equipped it from the Deck, you cannot Special Summon monsters with that Equip Card's name for the rest of this turn. You can only use this effect of \"Union Carrier\" once per turn.",
+    "newText": "2 monsters with the same Type or Attribute\nCannot be used as Link Material the turn it is Link Summoned. You can target 1 face-up monster you control; equip 1 monster to it from your hand or Deck with its same original Type or Attribute as an Equip Spell that gives it 1000 ATK, also, if you equip it from the Deck, you cannot Special Summon monsters with that Equip Card's name for the rest of this turn. You can only use this effect of \"Union Carrier\" once per turn.",
+    "author": "platedpope",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14932&request_locale=ja",
+        "title": "Union Carrier",
+        "date": "2020-12-24",
+        "desc": "The Japanese print makes it clear that the effect that increases the monster's ATK is a Spell effect granted to the Equip Card. It is not a separate effect of Union Carrier."
+      }
+    ],
+    "name": "Union Carrier",
+    "lastUpdated": "2020-12-25",
+    "lastPrint": "2020-03-20",
+    "icon": "link"
+  },
+  {
+    "id": 13459,
+    "oldText": "FLIP: You can add 1 \"Subterror\" card from your Deck to your hand, except \"Subterror Guru\". You can target 1 other face-up monster on the field; change that monster, also this card, to face-down Defense Position. This is a Quick Effect if you control another \"Subterror\" card. You can only use each effect of \"Subterror Guru\" once per turn.",
+    "newText": "FLIP: You can add 1 \"Subterror\" card from your Deck to your hand, except \"Subterror Guru\". You can target 1 other face-up monster on the field; change both that monster and this card to face-down Defense Position. This is a Quick Effect if you control another \"Subterror\" card. You can only use each effect of \"Subterror Guru\" once per turn.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21407&request_locale=ja",
+        "title": "Q&A #21407",
+        "date": "2020-12-24",
+        "desc": "In the Official Card Game, both monsters need to be present in order for either to have its Battle Position changed."
+      }
+    ],
+    "name": "Subterror Guru",
+    "lastUpdated": "2020-03-19",
+    "lastPrint": "2020-08-28",
+    "icon": "effect"
+  },
+  {
+    "id": 9455,
+    "oldText": "During either player's turn: You can send this card from your hand to the Graveyard; this turn, each time your opponent Special Summons a monster(s), immediately draw 1 card. You can only use 1 \"Maxx \"C\"\" per turn.",
+    "newText": "During either player's turn: You can send this card from your hand to the Graveyard; this turn, each time your opponent Special Summons a monster(s), immediately draw 1 card. You can only use this effect of \"Maxx \"C\"\" once per turn.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9455&request_locale=ja",
+        "title": "Maxx \"C\"",
+        "date": "2020-12-24",
+        "desc": "The Japanese print of Maxx \"C\" has a simple usage restriction on its effect.\nThe current English print appears to purport a far broader restriction, including actions such as Summoning Maxx \"C\" or using it as material."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4968&request_locale=en",
+        "title": "Prohibition",
+        "date": "2020-12-24",
+        "desc": "Prohibition is an example of a card that refers to generic \"usage\" of monsters."
+      }
+    ],
+    "name": "Maxx \"C\"",
+    "lastUpdated": "2020-12-28",
+    "lastPrint": "2017-04-14",
+    "icon": "effect"
+  },
+  {
+    "id": 12167,
+    "oldText": "Fusion Summon 1 Fusion Monster that lists \"Buster Blader\" as material from your Extra Deck, using monsters from your hand or either field as Fusion Material. If this card is in your GY: You can send 1 card from your hand to the GY; add this card to your hand. You can only use each effect of \"Destruction Swordsman Fusion\" once per turn.",
+    "newText": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or either field as Fusion Material, including a \"Buster Blader\" it lists as material. If this card is in your GY: You can send 1 card from your hand to the GY; add this card to your hand. You can only use each effect of \"Destruction Swordsman Fusion\" once per turn.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22885&request_locale=ja",
+        "title": "Q&A #22885",
+        "date": "2020-12-24",
+        "desc": "The monster listing \"Buster Blader\" is not sufficient, the player must also use \"Buster Blader\" to meet that requirement."
+      }
+    ],
+    "name": "Destruction Swordsman Fusion",
+    "lastUpdated": "2020-12-25",
+    "lastPrint": "2020-11-26",
+    "icon": "spell"
+  },
+  {
+    "id": 8988,
+    "oldText": "Remove from play, from your side of the field or your Graveyard, the Fusion Material Monsters listed on a Fusion Monster Card that lists a Synchro Monster as a Fusion Material Monster, and Special Summon that Fusion Monster from the Extra Deck. (This Special Summon is treated as a Fusion Summon.) If this Set card is destroyed by your opponent's card effect and sent to the Graveyard, draw 1 card.",
+    "newText": "Fusion Summon 1 Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your field or GY, including a Synchro Monster it lists as material. If this Set card is destroyed by your opponent's card effect and sent to the GY: Draw 1 card.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13639&request_locale=ja",
+        "title": "Q&A #13639",
+        "date": "2020-12-24",
+        "desc": "A Synchro Monster requirement must actually be used, it is not sufficient for one to merely be listed."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10231&request_locale=ja",
+        "title": "Q&A #10231",
+        "date": "2020-12-24",
+        "desc": "A Synchro Monster must be used to meet that Synchro Monster requirement listed on the Fusion Monster."
+      }
+    ],
+    "name": "Miracle Synchro Fusion",
+    "lastUpdated": "2020-12-25",
+    "lastPrint": "2010-08-17",
+    "icon": "spell"
+  },
+  {
+    "id": 14304,
+    "oldText": "Fusion Summon 1 Fusion Monster from your Extra Deck that lists a \"Destiny HERO\" monster as material, using monsters from your hand or Deck as Fusion Material, but destroy it during the End Phase of the next turn, also for the rest of this turn after this card resolves, you cannot Special Summon monsters, except DARK \"HERO\" monsters. You can only activate 1 \"Fusion Destiny\" per turn.",
+    "newText": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or Deck as Fusion Material, including a \"Destiny HERO\" monster it lists as material, but destroy it during the End Phase of the next turn, also for the rest of this turn after this card resolves, you cannot Special Summon monsters, except DARK \"HERO\" monsters. You can only activate 1 \"Fusion Destiny\" per turn.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22921&request_locale=ja",
+        "title": "Q&A #22921",
+        "date": "2020-12-24",
+        "desc": "You must use a \"Red-Eyes\" material requirement when Summoning a monster using Red-Eyes Fusion."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15538&request_locale=ja",
+        "title": "Q&A #15538",
+        "date": "2020-12-24",
+        "desc": "You must use a \"Red-Eyes\" monster to meet that \"Red-Eyes\" material requirement. Using a \"Red-Eyes\" monster for some other material requirement is not sufficient."
+      }
+    ],
+    "name": "Fusion Destiny",
+    "lastUpdated": "2020-12-25",
+    "lastPrint": "2020-08-28",
+    "icon": "spell"
+  },
+  {
+    "id": 10807,
+    "oldText": "Neither player can add cards from their Deck to their hand except by drawing them.",
+    "newText": "Cards cannot be added from either player's Main Deck to the hand, except by drawing them.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19409&request_locale=ja",
+        "title": "Q&A #19409",
+        "date": "2020-12-25",
+        "desc": "In the Official Card Game, Mistake also prevents adding cards from the opponent's Deck to the hand."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9279&request_locale=en",
+        "title": "Droll & Lock Bird",
+        "date": "2020-12-28",
+        "desc": "Droll & Lock Bird is a comparable card that uses this textual construct."
+      }
+    ],
+    "name": "Mistake",
+    "lastUpdated": "2020-12-28",
+    "lastPrint": "2020-11-13",
+    "icon": "trap"
+  },
+  {
+    "id": 7397,
+    "oldText": "Neither player can add cards from their Deck to their hand except by drawing them. During either player's turn, when your opponent would Special Summon exactly 1 monster: You can send this face-up card to the Graveyard; negate the Special Summon, and if you do, destroy it.",
+    "newText": "Cards cannot be added from either player's Main Deck to the hand, except by drawing them. When your opponent would Special Summon exactly 1 monster (Quick Effect): You can send this face-up card to the GY; negate the Special Summon, and if you do, destroy that monster.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6860&request_locale=ja",
+        "title": "Q&A #6860",
+        "date": "2020-12-25",
+        "desc": "In the Official Card Game, Thunder King Rai-Oh's effect also prevents the player from adding cards from the opponent's Deck, or to the opponent's hand."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19409&request_locale=ja",
+        "title": "Q&A #19409",
+        "date": "2020-12-25",
+        "desc": "In the Official Card Game, Mistake also prevents adding cards from the opponent's Deck to the hand."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9279&request_locale=en",
+        "title": "Droll & Lock Bird",
+        "date": "2020-12-28",
+        "desc": "Droll & Lock Bird is a comparable card that uses this textual construct."
+      }
+    ],
+    "name": "Thunder King Rai-Oh",
+    "lastUpdated": "2020-12-28",
+    "lastPrint": "2014-03-28",
+    "icon": "effect"
+  },
+  {
+    "id": 11746,
+    "oldText": "This card gains these effects depending on the number of face-up \"Zefra\" monsters with different names in your Extra Deck.\n●3 or more: Monsters you control gain 100 ATK for each face-up card in any Extra Deck.\n●5 or more: Monsters you control cannot be destroyed by an opponent's card effects.\n●8 or more: Monsters you control cannot be targeted by an opponent's card effects.\n●10: You can send this card to the Graveyard; shuffle all cards from your opponent's hand, field, and Graveyard into the Deck.",
+    "newText": "This card gains these effects depending on the number of face-up \"Zefra\" monsters with different names in your Extra Deck.\n●3 or more: Monsters you control gain 100 ATK for each face-up card in any Extra Deck.\n●5 or more: Monsters you control cannot be destroyed by an opponent's card effects.\n●8 or more: Monsters you control cannot be targeted by an opponent's card effects.\n●10: You can send this face-up card to the GY; shuffle all cards from your opponent's hand, field, and Graveyard into the Deck.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11746&request_locale=ja",
+        "title": "Card FAQ – Chosen of Zefra",
+        "date": "2020-12-25",
+        "desc": "Chosen of Zefra's \"●10:\" effect cannot be activated as part of its Trap Card activation."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13628&request_locale=en",
+        "title": "Elemental Training",
+        "date": "2020-12-25",
+        "desc": "Elemental Training is an example of a card that shares this behavior, and uses the revised text."
+      }
+    ],
+    "name": "Chosen of Zefra",
+    "lastUpdated": "2020-12-25",
+    "lastPrint": "2015-07-03",
+    "icon": "trap"
+  },
+  {
+    "id": 11741,
+    "oldText": "Once per turn, when an opponent's monster declares a direct attack: You can negate the attack, and if you do, Special Summon 1 \"Performapal\" monster from your Deck, but its effects are negated. When an attack is declared involving a monster you control and an opponent's monster: You can send this card to the Graveyard; you take no battle damage from that battle.",
+    "newText": "Once per turn, when an opponent's monster declares a direct attack: You can negate the attack, and if you do, Special Summon 1 \"Performapal\" monster from your Deck, but its effects are negated. When an attack is declared involving a monster you control and an opponent's monster: You can send this face-up card to the GY; you take no battle damage from that battle.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11741&request_locale=ja",
+        "title": "Card FAQ – Performapal Pinch Helper",
+        "date": "2020-12-25",
+        "desc": "Performapal Pinch Helper's effect that prevents battle damage cannot be activated as part of its Trap Card activation."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13628&request_locale=en",
+        "title": "Elemental Training",
+        "date": "2020-12-25",
+        "desc": "Elemental Training is an example of a card that shares this behavior, and uses the revised text."
+      }
+    ],
+    "name": "Performapal Pinch Helper",
+    "lastUpdated": "2020-12-25",
+    "lastPrint": "2016-09-02",
+    "icon": "trap"
+  },
+  {
+    "id": 14585,
+    "oldText": "You can target any number of your Fiend monsters that are banished or in your GY, up to the number of \"Destiny Board\" and/or \"Spirit Message\" cards you control; add them to your hand. You can send this card from your Spell & Trap Zone to the GY; place 1 \"Spirit Message\" card from your hand, Deck, or GY in your Spell & Trap Zone. (This is treated as being placed by the effect of \"Destiny Board\".) You can only use 1 \"Sentence of Doom\" effect per turn, and only once that turn.",
+    "newText": "You can target any number of your Fiend monsters that are banished or in your GY, up to the number of \"Destiny Board\" and/or \"Spirit Message\" cards you control; add them to your hand. You can send this face-up card from your Spell & Trap Zone to the GY; place 1 \"Spirit Message\" card from your hand, Deck, or GY in your Spell & Trap Zone. (This is treated as being placed by the effect of \"Destiny Board\".) You can only use 1 \"Sentence of Doom\" effect per turn, and only once that turn.",
+    "author": "gallantron",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14585&request_locale=ja",
+        "title": "Card FAQ – Sentence of Doom",
+        "date": "2020-12-25",
+        "desc": "Sentence of Doom's effect that places a \"Spirit Message\" cannot be activated as part of its Trap Card activation."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13628&request_locale=en",
+        "title": "Elemental Training",
+        "date": "2020-12-25",
+        "desc": "Elemental Training is an example of a card that shares this behavior, and uses the revised text."
+      }
+    ],
+    "name": "Sentence of Doom",
+    "lastUpdated": "2020-12-25",
+    "lastPrint": "2019-09-27",
+    "icon": "trap"
+  },
+  {
+    "id": 7489,
+    "icon": "trap",
+    "name": "Security Orb",
+    "oldText": "When your opponent's monster declares an attack: Target that attacking monster; change that target's battle position. If this Set card is destroyed by your opponent's Spell/Trap effect and sent to the GY: Destroy 1 monster on the field.",
+    "newText": "When your opponent's monster declares an attack: Target that attacking monster; change that target's battle position. If this Set card is destroyed by your opponent's Spell/Trap effect and sent to the GY: Target 1 monster on the field; destroy it.",
+    "author": "gallantron",
+    "lastPrint": "2020-05-15",
+    "lastUpdated": "2020-12-25",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7489&request_locale=ja",
+        "title": "Card FAQ – Security Orb",
+        "date": "2020-12-25",
+        "desc": "Security Orb's effect that destroys a monster is activated by targeting a monster on the field."
+      }
+    ]
+  },
+  {
+    "id": 9869,
+    "icon": "xyz",
+    "name": "Evolzar Dolkka",
+    "oldText": "2 Level 4 Dinosaur-Type monsters\nDuring either player's turn, when a monster effect activates: You can detach 1 Xyz Material from this card; negate the activation, and if you do, destroy that monster.",
+    "newText": "2 Level 4 Dinosaur-Type monsters\nWhen another monster's effect is activated (Quick Effect): You can detach 1 material from this card; negate the activation, and if you do, destroy that monster.",
+    "author": "gallantron",
+    "lastPrint": "2012-08-14",
+    "lastUpdated": "2020-12-27",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9869&request_locale=ja",
+        "title": "Evolzar Dolkka",
+        "date": "2020-12-27",
+        "desc": "In the Official Card Game, Evolzar Dolkka's effect cannot be activated in response to its own effect."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12321&request_locale=en",
+        "title": "Crystal Wing Synchro Dragon",
+        "date": "2020-12-27",
+        "desc": "Crystal Wing Synchro Dragon is an example of a similar card using this textual construct."
+      }
+    ]
+  },
+  {
+    "id": 11849,
+    "icon": "spell",
+    "name": "Mistaken Arrest",
+    "oldText": "Until the end of your next turn after this card resolves, neither player can add cards from their Deck to their hand except by drawing them.",
+    "newText": "Until the end of your next turn after this card resolves, cards cannot be added from either player's Main Deck to the hand, except by drawing them.",
+    "author": "gallantron",
+    "lastPrint": "2020-11-13",
+    "lastUpdated": "2020-12-28",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19409&request_locale=ja",
+        "title": "Q&A #19409",
+        "date": "2020-12-25",
+        "desc": "In the Official Card Game, Mistaken Arrest also prevents adding cards from the opponent's Deck to the hand."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9279&request_locale=en",
+        "title": "Droll & Lock Bird",
+        "date": "2020-12-28",
+        "desc": "Droll & Lock Bird is a comparable card that uses this textual construct."
+      }
+    ]
+  },
+  {
+    "id": 10191,
+    "icon": "spell",
+    "name": "Madolche Chateau",
+    "oldText": "When this card is activated: Shuffle all \"Madolche\" monsters in your GY into the Deck. All \"Madolche\" monsters on the field gain 500 ATK/DEF. If a monster(s) in your GY would be returned to the Deck by the effect of a \"Madolche\" monster, you can add it to your hand instead.",
+    "newText": "When this card is activated: Shuffle all \"Madolche\" monsters in your GY (if any) into the Deck. All \"Madolche\" monsters on the field gain 500 ATK/DEF. If a monster(s) in your GY would be returned to the Deck by the effect of a \"Madolche\" monster, you can add it to your hand instead.",
+    "author": "gallantron",
+    "lastPrint": "2020-11-13",
+    "lastUpdated": "2020-12-28",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10191&request_locale=ja",
+        "title": "Madolche Chateau",
+        "date": "2020-12-28",
+        "desc": "In the Official Card Game, it is explicit that Madolche Chateau can be activated while there are no \"Madolche\" monsters in the GY."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13108&request_locale=en",
+        "title": "Pulse Mines",
+        "date": "2020-12-28",
+        "desc": "Pulse Mines is an example of this textual construct being used to indicate that no appropriate monsters are required to activate the card."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11735&request_locale=en",
+        "title": "Oracle of Zefra",
+        "date": "2020-12-28",
+        "desc": "Oracle of Zefra is a comparable card that also has a mandatory effect as part of its card activation."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11735&request_locale=ja",
+        "title": "Card FAQ – Oracle of Zefra",
+        "date": "2020-12-28",
+        "desc": "Oracle of Zefra cannot be activated if there are no \"Zefra\" monsters in the Main Deck."
+      }
+    ]
+  },
+  {
+    "id": 11734,
+    "icon": "spell",
+    "name": "Zefra Path",
+    "oldText": "Activate this card only if you have 2 \"Zefra\" cards in your Pendulum Zones, with active Pendulum Scales of 1 and 7. If this card is activated: Shuffle all monsters you control into the Deck, except \"Zefra\" monsters. Neither player can Special Summon monsters, except from the hand or the Extra Deck. While you have a card(s) in your Pendulum Zone, this card cannot be targeted by card effects. Destroy this card if a card(s) in your Pendulum Zone is destroyed.",
+    "newText": "Activate this card only if you have 2 \"Zefra\" cards in your Pendulum Zones, with active Pendulum Scales of 1 and 7. When this card is activated: Shuffle all monsters you control (if any) into the Deck, except \"Zefra\" monsters. Neither player can Special Summon monsters, except from the hand or the Extra Deck. While you have a card(s) in your Pendulum Zone, this card cannot be targeted by card effects. Destroy this card if a card(s) in your Pendulum Zone is destroyed.",
+    "author": "gallantron",
+    "lastPrint": "2015-05-15",
+    "lastUpdated": "2020-12-28",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11734&request_locale=ja",
+        "title": "Zefra Path",
+        "date": "2020-12-28",
+        "desc": "In the Official Card Game, it is explicit that Zefra Path can be activated while you control no non-\"Zefra\" monsters."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13108&request_locale=en",
+        "title": "Pulse Mines",
+        "date": "2020-12-28",
+        "desc": "Pulse Mines is an example of this textual construct being used to indicate that no appropriate monsters are required to activate the card."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11735&request_locale=en",
+        "title": "Oracle of Zefra",
+        "date": "2020-12-28",
+        "desc": "Oracle of Zefra is a comparable card that also has a mandatory effect as part of its card activation."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11735&request_locale=ja",
+        "title": "Card FAQ – Oracle of Zefra",
+        "date": "2020-12-28",
+        "desc": "Oracle of Zefra cannot be activated if there are no \"Zefra\" monsters in the Main Deck."
+      }
+    ]
+  },
+  {
+    "id": 10327,
+    "icon": "spell",
+    "name": "The Seal of Orichalcos",
+    "oldText": "All monsters you control gain 500 ATK. Once per turn, this card cannot be destroyed by card effects. While you control 2 or more face-up Attack Position monsters, your opponent cannot target your monster(s) with the lowest ATK for an attack. If this card is activated: Destroy all Special Summoned monsters you control. You cannot Special Summon monsters from the Extra Deck. You can only activate \"The Seal of Orichalcos\" once per Duel.",
+    "newText": "All monsters you control gain 500 ATK. Once per turn, this card cannot be destroyed by card effects. While you control 2 or more face-up Attack Position monsters, your opponent cannot target your monster(s) with the lowest ATK for an attack. If this card is activated: Destroy all Special Summoned monsters you control (if any). You cannot Special Summon monsters from the Extra Deck. You can only activate \"The Seal of Orichalcos\" once per Duel.",
+    "author": "gallantron",
+    "lastPrint": "2020-09-11",
+    "lastUpdated": "2020-12-28",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10327&request_locale=ja",
+        "title": "The Seal of Orichalcos",
+        "date": "2020-12-28",
+        "desc": "In the Official Card Game, it is explicit that Seal of Orichalcos can be activated while you control no Special Summoned monsters."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13108&request_locale=en",
+        "title": "Pulse Mines",
+        "date": "2020-12-28",
+        "desc": "Pulse Mines is an example of this textual construct being used to indicate that no appropriate monsters are required to activate the card."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11735&request_locale=en",
+        "title": "Oracle of Zefra",
+        "date": "2020-12-28",
+        "desc": "Oracle of Zefra is a comparable card that also has a mandatory effect as part of its card activation."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11735&request_locale=ja",
+        "title": "Card FAQ – Oracle of Zefra",
+        "date": "2020-12-28",
+        "desc": "Oracle of Zefra cannot be activated if there are no \"Zefra\" monsters in the Main Deck."
+      }
+    ]
+  },
+  {
+    "id": 15326,
+    "icon": "trap",
+    "name": "Plunder Patroll Parrrty",
+    "oldText": "If you control a \"Plunder Patroll\" monster: Draw cards equal to the number of Equip Cards you control +1, then shuffle cards from your hand into the Deck equal to the number of Equip Cards you control. You can only use this effect of \"Plunder Patroll Parrrty\" once per turn. If you Special Summon a \"Plunder Patroll\" monster(s) from the Extra Deck, while this card is in your GY: You can equip this card to that Special Summoned monster as an Equip Card with this effect.\n●The equipped monster gains 500 ATK.\nYou can only use this effect of \"Plunder Patroll Parrrty\" once per Duel.",
+    "newText": "If you control a \"Plunder Patroll\" monster: Draw cards equal to the number of Equip Cards you control +1, then shuffle cards from your hand into the Deck equal to the number of Equip Cards  you control (if any). You can only use this effect of \"Plunder Patroll Parrrty\" once per turn. If you Special Summon a \"Plunder Patroll\" monster(s) from the Extra Deck, while this card is in your GY: You can equip this card to that Special Summoned monster as an Equip Card with this effect.\n●The equipped monster gains 500 ATK.\nYou can only use this effect of \"Plunder Patroll Parrrty\" once per Duel.",
+    "author": "gallantron",
+    "lastPrint": "2020-05-01",
+    "lastUpdated": "2020-12-28",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=15326&request_locale=ja",
+        "title": "Card FAQ – Plunder Patroll Parrrty",
+        "date": "2020-12-28",
+        "desc": "In its Japanese print, Plunder Patroll Parrrty can be activated while you control no Equip Cards."
+      }
+    ]
+  },
+  {
+    "id": 6509,
+    "icon": "effect",
+    "name": "Familiar-Possessed - Hiita",
+    "oldText": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Hiita the Fire Charmer\" and 1 face-up FIRE monster you control to the GY. If this card Special Summoned by its own effect attacks a Defense Position monster, inflict piercing battle damage.",
+    "newText": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Hiita the Fire Charmer\" and 1 face-up FIRE monster from your Monster Zone to the GY. If this card Special Summoned by its own effect attacks a Defense Position monster, inflict piercing battle damage.",
+    "author": "gallantron",
+    "lastPrint": "2020-10-23",
+    "lastUpdated": "2020-12-29",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6509&request_locale=ja",
+        "title": "Card FAQ – Familiar-Possessed - Hiita",
+        "date": "2020-12-29",
+        "desc": "In the Official Card Game, \"Hiita the Fire Charmer\" must be sent to the GY from the Monster Zone."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12576&request_locale=en",
+        "title": "Berserkion the Electromagna Warrior",
+        "date": "2020-12-29",
+        "desc": "Berserkion the Electromagna Warrior is an example of a similar card using the revised textual construct."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7403&request_locale=en",
+        "title": "Chimeratech Fortress Dragon",
+        "date": "2020-12-29",
+        "desc": "Chimeratech Fortress Dragon is an example of a similar card that does not share Familiar-Possessed - Hiita's functionality."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6872&request_locale=ja",
+        "title": "Q&A #6872",
+        "date": "2020-12-29",
+        "desc": "In order to Summon Chimeratech Fortress Dragon using the listed procedure, Cyber Dragon can be sent to the GY from the Spell & Trap Zone."
+      }
+    ]
+  },
+  {
+    "id": 6508,
+    "icon": "effect",
+    "name": "Familiar-Possessed - Eria",
+    "oldText": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Eria the Water Charmer\" and 1 face-up WATER monster you control to the GY. If this card Special Summoned by its own effect attacks a Defense Position monster, inflict piercing battle damage.",
+    "newText": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Eria the Water Charmer\" and 1 face-up WATER monster from your Monster Zone to the GY. If this card Special Summoned by its own effect attacks a Defense Position monster, inflict piercing battle damage.",
+    "author": "gallantron",
+    "lastPrint": "2020-10-23",
+    "lastUpdated": "2020-12-29",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6508&request_locale=ja",
+        "title": "Card FAQ – Familiar-Possessed - Eria",
+        "date": "2020-12-29",
+        "desc": "In the Official Card Game, \"Eria the Water Charmer\" must be sent to the GY from the Monster Zone."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12576&request_locale=en",
+        "title": "Berserkion the Electromagna Warrior",
+        "date": "2020-12-29",
+        "desc": "Berserkion the Electromagna Warrior is an example of a similar card using the revised textual construct."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7403&request_locale=en",
+        "title": "Chimeratech Fortress Dragon",
+        "date": "2020-12-29",
+        "desc": "Chimeratech Fortress Dragon is an example of a similar card that does not share Familiar-Possessed - Eria's functionality."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6872&request_locale=ja",
+        "title": "Q&A #6872",
+        "date": "2020-12-29",
+        "desc": "In order to Summon Chimeratech Fortress Dragon using the listed procedure, Cyber Dragon can be sent to the GY from the Spell & Trap Zone."
+      }
+    ]
+  },
+  {
+    "id": 6507,
+    "icon": "effect",
+    "name": "Familiar-Possessed - Aussa",
+    "oldText": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Aussa the Earth Charmer\" and 1 face-up EARTH monster you control to the GY. If this card Special Summoned by its own effect attacks a Defense Position monster, inflict piercing battle damage.",
+    "newText": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Aussa the Earth Charmer\" and 1 face-up EARTH monster from your Monster Zone to the GY. If this card Special Summoned by its own effect attacks a Defense Position monster, inflict piercing battle damage.",
+    "author": "gallantron",
+    "lastPrint": "2020-10-23",
+    "lastUpdated": "2020-12-29",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6507&request_locale=ja",
+        "title": "Card FAQ – Familiar-Possessed - Aussa",
+        "date": "2020-12-29",
+        "desc": "In the Official Card Game, \"Aussa the Earth Charmer\" must be sent to the GY from the Monster Zone."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12576&request_locale=en",
+        "title": "Berserkion the Electromagna Warrior",
+        "date": "2020-12-29",
+        "desc": "Berserkion the Electromagna Warrior is an example of a similar card using the revised textual construct."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7403&request_locale=en",
+        "title": "Chimeratech Fortress Dragon",
+        "date": "2020-12-29",
+        "desc": "Chimeratech Fortress Dragon is an example of a similar card that does not share Familiar-Possessed - Eria's functionality."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6872&request_locale=ja",
+        "title": "Q&A #6872",
+        "date": "2020-12-29",
+        "desc": "In order to Summon Chimeratech Fortress Dragon using the listed procedure, Cyber Dragon can be sent to the GY from the Spell & Trap Zone."
+      }
+    ]
+  },
+  {
+    "id": 6510,
+    "icon": "effect",
+    "name": "Familiar-Possessed - Wynn",
+    "oldText": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Wynn the Wind Charmer\" and 1 face-up WIND monster you control to the GY. If this card Special Summoned by its own effect attacks a Defense Position monster, inflict piercing battle damage.",
+    "newText": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Wynn the Wind Charmer\" and 1 face-up WIND monster from your Monster Zone to the GY. If this card Special Summoned by its own effect attacks a Defense Position monster, inflict piercing battle damage.",
+    "author": "gallantron",
+    "lastPrint": "2020-10-23",
+    "lastUpdated": "2020-12-29",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6510&request_locale=ja",
+        "title": "Card FAQ – Familiar-Possessed - Wynn",
+        "date": "2020-12-29",
+        "desc": "In the Official Card Game, \"Wynn the Wind Charmer\" must be sent to the GY from the Monster Zone."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12576&request_locale=en",
+        "title": "Berserkion the Electromagna Warrior",
+        "date": "2020-12-29",
+        "desc": "Berserkion the Electromagna Warrior is an example of a similar card using the revised textual construct."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7403&request_locale=en",
+        "title": "Chimeratech Fortress Dragon",
+        "date": "2020-12-29",
+        "desc": "Chimeratech Fortress Dragon is an example of a similar card that does not share Familiar-Possessed - Eria's functionality."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6872&request_locale=ja",
+        "title": "Q&A #6872",
+        "date": "2020-12-29",
+        "desc": "In order to Summon Chimeratech Fortress Dragon using the listed procedure, Cyber Dragon can be sent to the GY from the Spell & Trap Zone."
+      }
+    ]
+  },
+  {
+    "id": 9907,
+    "icon": "effect",
+    "name": "Familiar-Possessed - Dharc",
+    "oldText": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Dharc the Dark Charmer\" you control and 1 face-up DARK monster you control to the Graveyard. When you do: You can add 1 Level 3 or 4 LIGHT Spellcaster-Type monster from your Deck to your hand. If this card was Special Summoned by this effect and attacks a Defense Position monster, inflict piercing Battle Damage to your opponent.",
+    "newText": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Dharc the Dark Charmer\" and 1 face-up DARK monster from your Monster Zone to the GY. When Summoned this way: You can add 1 Level 3 or 4 LIGHT Spellcaster monster from your Deck to your hand. If this card Special Summoned by its own effect attacks a Defense Position monster, inflict piercing battle damage.",
+    "author": "gallantron",
+    "lastPrint": "2012-01-24",
+    "lastUpdated": "2020-12-29",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=9907&request_locale=ja",
+        "title": "Card FAQ – Familiar-Possessed - Dharc",
+        "date": "2020-12-29",
+        "desc": "In the Official Card Game, \"Dharc the Dark Charmer\" must be sent to the GY from the Monster Zone."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12576&request_locale=en",
+        "title": "Berserkion the Electromagna Warrior",
+        "date": "2020-12-29",
+        "desc": "Berserkion the Electromagna Warrior is an example of a similar card using the revised textual construct."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7403&request_locale=en",
+        "title": "Chimeratech Fortress Dragon",
+        "date": "2020-12-29",
+        "desc": "Chimeratech Fortress Dragon is an example of a similar card that does not share Familiar-Possessed - Eria's functionality."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6872&request_locale=ja",
+        "title": "Q&A #6872",
+        "date": "2020-12-29",
+        "desc": "In order to Summon Chimeratech Fortress Dragon using the listed procedure, Cyber Dragon can be sent to the GY from the Spell & Trap Zone."
+      }
+    ]
+  },
+  {
+    "id": 12951,
+    "icon": "effect",
+    "name": "Familiar-Possessed - Lyna",
+    "oldText": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Lyna the Light Charmer\" you control and 1 face-up LIGHT monster you control to the GY. When Summoned this way: You can add 1 Spellcaster monster with 1500 DEF from your Deck to your hand, except \"Familiar-Possessed - Lyna\". If this card Special Summoned by its own effect attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+    "newText": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Lyna the Light Charmer\" and 1 face-up LIGHT monster from your Monster Zone to the GY. When Summoned this way: You can add 1 Spellcaster monster with 1500 DEF from your Deck to your hand, except \"Familiar-Possessed - Lyna\". If this card Special Summoned by its own effect attacks a Defense Position monster, inflict piercing battle damage.",
+    "author": "gallantron",
+    "lastPrint": "2018-08-31",
+    "lastUpdated": "2020-12-29",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12951&request_locale=ja",
+        "title": "Card FAQ – Familiar-Possessed - Lyna",
+        "date": "2020-12-29",
+        "desc": "In the Official Card Game, \"Lyna the Light Charmer\" must be sent to the GY from the Monster Zone."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12576&request_locale=en",
+        "title": "Berserkion the Electromagna Warrior",
+        "date": "2020-12-29",
+        "desc": "Berserkion the Electromagna Warrior is an example of a similar card using the revised textual construct."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7403&request_locale=en",
+        "title": "Chimeratech Fortress Dragon",
+        "date": "2020-12-29",
+        "desc": "Chimeratech Fortress Dragon is an example of a similar card that does not share Familiar-Possessed - Eria's functionality."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6872&request_locale=ja",
+        "title": "Q&A #6872",
+        "date": "2020-12-29",
+        "desc": "In order to Summon Chimeratech Fortress Dragon using the listed procedure, Cyber Dragon can be sent to the GY from the Spell & Trap Zone."
+      }
+    ]
+  },
+  {
+    "id": 12354,
+    "icon": "effect",
+    "name": "Gandora-X the Dragon of Demolition",
+    "oldText": "When this card is Normal or Special Summoned from the hand: You can destroy as many other monsters on the field as possible, and if you do, inflict damage to your opponent equal to the highest original ATK on the field among those destroyed monsters (your choice, if tied). This card's ATK becomes equal to the damage inflicted to your opponent by this effect. Once per turn, during your End Phase: Halve your LP.",
+    "newText": "When this card is Normal or Special Summoned from the hand: You can destroy as many other monsters on the field as possible, and if you do, inflict damage to your opponent equal to the highest ATK on the field among those destroyed monsters (your choice, if tied). This card's ATK becomes equal to the damage inflicted to your opponent by this effect. Once per turn, during your End Phase: Halve your LP.",
+    "author": "gallantron",
+    "lastPrint": "2020-01-24",
+    "lastUpdated": "2020-12-30",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12354&request_locale=ja",
+        "title": "Gandora-X the Dragon of Demolition",
+        "date": "2020-12-29",
+        "desc": "In the Official Card Game, Gandora-X references the destroyed monsters' current ATK on the field, not their original ATK."
+      }
+    ]
+  },
+  {
+    "id": 13715,
+    "icon": "ritual",
+    "name": "Archfiend's Awakening",
+    "oldText": "You can Ritual Summon this card with \"Contract with the Abyss\". This card's name becomes \"Summoned Skull\" on the field, but is still treated as an \"Archfiend\" card. Cannot be destroyed by battle, except by battle with a Ritual Monster, and cannot be destroyed by monster effects, except those of Ritual Monsters. If this Ritual Summoned card you control is sent to your GY by an opponent's card: You can Special Summon 1 \"Summoned Skull\" from your hand, Deck, or GY.",
+    "newText": "You can Ritual Summon this card with \"Contract with the Abyss\". This card's name becomes \"Summoned Skull\" on the field, but is still treated as an \"Archfiend\" card. Cannot be destroyed by battle, except by battle with a Ritual Monster, and cannot be destroyed by monster effects, except those of Ritual Monsters. If this Ritual Summoned card you control is sent to your GY by your opponent: You can Special Summon 1 \"Summoned Skull\" from your hand, Deck, or GY.",
+    "author": "gallantron",
+    "lastPrint": "2019-08-23",
+    "lastUpdated": "2020-12-30",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13715&request_locale=ja",
+        "title": "Archfiend's Awakening",
+        "date": "2020-12-29",
+        "desc": "In the Official Card Game, Archfiend's Awakening uses \"sent to the GY by your opponent\"."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12280&request_locale=ja",
+        "title": "Q&A #12280",
+        "date": "2021-01-02",
+        "desc": "If Archfiend's Awakening is sent to your GY by your opponent using the effect of your Summon Over, it is sent to the GY by your opponent, using your card.\nIn the Official Card Game, the effect of Archfiend's Awakening can then be activated."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15741&request_locale=ja",
+        "title": "閉ザサレシ世界ノ冥神",
+        "date": "2020-12-29",
+        "desc": "This Link Monster from the upcoming \"Blazing Vortex\" pack is an example of a card where the TCG's addition of \"card\" may cause confusion."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7934&request_locale=en",
+        "title": "Gozen Match",
+        "date": "2020-12-29",
+        "desc": "An opponent's Gozen Match is an example of a card where the TCG's addition of \"card\" may cause confusion."
+      }
+    ]
+  },
+  {
+    "id": 13847,
+    "icon": "fusion",
+    "name": "Cyber Eternity Dragon",
+    "oldText": "1 \"Cyber Dragon\" monster + 2 Machine monsters\nIf you have a Machine Fusion Monster(s) in your GY, your opponent cannot target this card with card effects, also it cannot be destroyed by your opponent's card effects. If this Fusion Summoned card you control is sent to your GY by an opponent's card: You can Special Summon 1 \"Cyber Dragon\" from your hand, Deck, or GY. You can banish this card from your GY; this turn, your opponent cannot target Fusion Monsters you control with card effects, also they cannot be destroyed by your opponent's card effects.",
+    "newText": "1 \"Cyber Dragon\" monster + 2 Machine monsters\nIf you have a Machine Fusion Monster(s) in your GY, your opponent cannot target this card with card effects, also it cannot be destroyed by your opponent's card effects. If this Fusion Summoned card you control is sent to your GY by your opponent: You can Special Summon 1 \"Cyber Dragon\" from your hand, Deck, or GY. You can banish this card from your GY; this turn, your opponent cannot target Fusion Monsters you control with card effects, also they cannot be destroyed by your opponent's card effects.",
+    "author": "gallantron",
+    "lastPrint": "2018-09-28",
+    "lastUpdated": "2020-12-30",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13847&request_locale=ja",
+        "title": "Cyber Eternity Dragon",
+        "date": "2020-12-29",
+        "desc": "In the Official Card Game, Cyber Eternity Dragon uses \"sent to the GY by your opponent\"."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12280&request_locale=ja",
+        "title": "Q&A #12280",
+        "date": "2021-01-02",
+        "desc": "If Cyber Eternity Dragon is sent to your GY by your opponent using the effect of your Summon Over, it is sent to the GY by your opponent, using your card.\nIn the Official Card Game, the effect of Cyber Eternity Dragon can then be activated."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15741&request_locale=ja",
+        "title": "閉ザサレシ世界ノ冥神",
+        "date": "2020-12-29",
+        "desc": "This Link Monster from the upcoming \"Blazing Vortex\" pack is an example of a card where the TCG's addition of \"card\" may cause confusion."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7934&request_locale=en",
+        "title": "Gozen Match",
+        "date": "2020-12-29",
+        "desc": "An opponent's Gozen Match is an example of a card where the TCG's addition of \"card\" may cause confusion."
+      }
+    ]
+  },
+  {
+    "id": 13882,
+    "icon": "fusion",
+    "name": "Archfiend's Manifestation",
+    "oldText": "\"Summoned Skull\" + 1 DARK monster\nThis card's name becomes \"Summoned Skull\" on the field, but is still treated as an \"Archfiend\" card. All \"Summoned Skull\" you control gain 500 ATK. If this Fusion Summoned card you control is sent to your GY by an opponent's card: You can Special Summon 1 \"Summoned Skull\" from your hand, Deck, or GY.",
+    "newText": "\"Summoned Skull\" + 1 DARK monster\nThis card's name becomes \"Summoned Skull\" on the field, but is still treated as an \"Archfiend\" card. All \"Summoned Skull\" you control gain 500 ATK. If this Fusion Summoned card you control is sent to your GY by your opponent: You can Special Summon 1 \"Summoned Skull\" from your hand, Deck, or GY.",
+    "author": "gallantron",
+    "lastPrint": "2019-08-23",
+    "lastUpdated": "2020-12-30",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13882&request_locale=ja",
+        "title": "Archfiend's Manifestation",
+        "date": "2020-12-29",
+        "desc": "In the Official Card Game, Archfiend's Manifestation uses \"sent to the GY by your opponent\"."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12280&request_locale=ja",
+        "title": "Q&A #12280",
+        "date": "2021-01-02",
+        "desc": "If Archfiend's Manifestation is sent to your GY by your opponent using the effect of your Summon Over, it is sent to the GY by your opponent, using your card.\nIn the Official Card Game, the effect of Archfiend's Manifestation can then be activated."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15741&request_locale=ja",
+        "title": "閉ザサレシ世界ノ冥神",
+        "date": "2020-12-29",
+        "desc": "This Link Monster from the upcoming \"Blazing Vortex\" pack is an example of a card where the TCG's addition of \"card\" may cause confusion."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7934&request_locale=en",
+        "title": "Gozen Match",
+        "date": "2020-12-29",
+        "desc": "An opponent's Gozen Match is an example of a card where the TCG's addition of \"card\" may cause confusion."
+      }
+    ]
+  },
+  {
+    "id": 14063,
+    "icon": "synchro",
+    "name": "Archfiend's Call",
+    "oldText": "1 Tuner + 1+ non-Tuner monsters\nThis card's name becomes \"Summoned Skull\" on the field, but is still treated as an \"Archfiend\" card. Your opponent cannot target any \"Summoned Skull\" you control with card effects. If this Synchro Summoned card you control is sent to your GY by an opponent's card: You can Special Summon 1 \"Summoned Skull\" from your hand, Deck, or GY.",
+    "newText": "1 Tuner + 1+ non-Tuner monsters\nThis card's name becomes \"Summoned Skull\" on the field, but is still treated as an \"Archfiend\" card. Your opponent cannot target any \"Summoned Skull\" you control with card effects. If this Synchro Summoned card you control is sent to your GY by your opponent: You can Special Summon 1 \"Summoned Skull\" from your hand, Deck, or GY.",
+    "author": "gallantron",
+    "lastPrint": "2019-08-23",
+    "lastUpdated": "2020-12-30",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14063&request_locale=ja",
+        "title": "Archfiend's Call",
+        "date": "2020-12-29",
+        "desc": "In the Official Card Game, Archfiend's Call uses \"sent to the GY by your opponent\"."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12280&request_locale=ja",
+        "title": "Q&A #12280",
+        "date": "2021-01-02",
+        "desc": "If Archfiend's Call is sent to your GY by your opponent using the effect of your Summon Over, it is sent to the GY by your opponent, using your card.\nIn the Official Card Game, the effect of Archfiend's Call can then be activated."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15741&request_locale=ja",
+        "title": "閉ザサレシ世界ノ冥神",
+        "date": "2020-12-29",
+        "desc": "This Link Monster from the upcoming \"Blazing Vortex\" pack is an example of a card where the TCG's addition of \"card\" may cause confusion."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7934&request_locale=en",
+        "title": "Gozen Match",
+        "date": "2020-12-29",
+        "desc": "An opponent's Gozen Match is an example of a card where the TCG's addition of \"card\" may cause confusion."
+      }
+    ]
+  },
+  {
+    "id": 14297,
+    "icon": "link",
+    "name": "Mekk-Knight Crusadia Avramax",
+    "oldText": "2+ monsters Special Summoned from the Extra Deck\nWhile this Link Summoned card is on the field, your opponent cannot target this card with card effects, also their monsters cannot target monsters for attacks, except this one. Once per battle, during damage calculation, if this card battles a Special Summoned monster (Quick Effect): You can make this card gain ATK equal to that opponent's monster's ATK during that damage calculation only. If this Link Summoned card you control is sent to your GY by an opponent's card: You can shuffle 1 card on the field into the Deck.",
+    "newText": "2+ monsters Special Summoned from the Extra Deck\nWhile this Link Summoned card is on the field, your opponent cannot target this card with card effects, also their monsters cannot target monsters for attacks, except this one. Once per battle, during damage calculation, if this card battles a Special Summoned monster (Quick Effect): You can make this card gain ATK equal to that opponent's monster's ATK during that damage calculation only. If this Link Summoned card you control is sent to your GY by your opponent: You can shuffle 1 card on the field into the Deck.",
+    "author": "gallantron",
+    "lastPrint": "2020-08-28",
+    "lastUpdated": "2020-12-30",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14297&request_locale=ja",
+        "title": "Mekk-Knight Crusadia Avramax",
+        "date": "2020-12-29",
+        "desc": "In the Official Card Game, Mekk-Knight Crusadia Avramax uses \"sent to the GY by your opponent\"."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12280&request_locale=ja",
+        "title": "Q&A #12280",
+        "date": "2021-01-02",
+        "desc": "If Mekk-Knight Crusadia Avramax is sent to your GY by your opponent using the effect of your Summon Over, it is sent to the GY by your opponent, using your card.\nIn the Official Card Game, the effect of Mekk-Knight Crusadia Avramax can then be activated."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15741&request_locale=ja",
+        "title": "閉ザサレシ世界ノ冥神",
+        "date": "2020-12-29",
+        "desc": "This Link Monster from the upcoming \"Blazing Vortex\" pack is an example of a card where the TCG's addition of \"card\" may cause confusion."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7934&request_locale=en",
+        "title": "Gozen Match",
+        "date": "2020-12-29",
+        "desc": "An opponent's Gozen Match is an example of a card where the TCG's addition of \"card\" may cause confusion."
+      }
+    ]
+  },
+  {
+    "id": 14332,
+    "icon": "xyz",
+    "name": "Archfiend's Ascent",
+    "oldText": "2 Level 6 monsters\nThis card's name becomes \"Summoned Skull\" on the field, but is still treated as an \"Archfiend\" card. If \"Summoned Skull(s)\" you control would be destroyed by battle or card effect, you can detach 1 material from this card instead. If this Xyz Summoned card you control is sent to your GY by an opponent's card: You can Special Summon 1 \"Summoned Skull\" from your hand, Deck, or GY.",
+    "newText": "2 Level 6 monsters\nThis card's name becomes \"Summoned Skull\" on the field, but is still treated as an \"Archfiend\" card. If \"Summoned Skull(s)\" you control would be destroyed by battle or card effect, you can detach 1 material from this card instead. If this Xyz Summoned card you control is sent to your GY by your opponent: You can Special Summon 1 \"Summoned Skull\" from your hand, Deck, or GY.",
+    "author": "gallantron",
+    "lastPrint": "2019-08-23",
+    "lastUpdated": "2020-12-30",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14332&request_locale=ja",
+        "title": "Archfiend's Ascent",
+        "date": "2020-12-29",
+        "desc": "In the Official Card Game, Archfiend's Ascent uses \"sent to the GY by your opponent\"."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12280&request_locale=ja",
+        "title": "Q&A #12280",
+        "date": "2021-01-02",
+        "desc": "If Archfiend's Ascent is sent to your GY by your opponent using the effect of your Summon Over, it is sent to the GY by your opponent, using your card.\nIn the Official Card Game, the effect of Archfiend's Ascent can then be activated."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15741&request_locale=ja",
+        "title": "閉ザサレシ世界ノ冥神",
+        "date": "2020-12-29",
+        "desc": "This Link Monster from the upcoming \"Blazing Vortex\" pack is an example of a card where the TCG's addition of \"card\" may cause confusion."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7934&request_locale=en",
+        "title": "Gozen Match",
+        "date": "2020-12-29",
+        "desc": "An opponent's Gozen Match is an example of a card where the TCG's addition of \"card\" may cause confusion."
+      }
+    ]
+  },
+  {
+    "id": 14430,
+    "icon": "synchro",
+    "name": "Hi-Speedroid Kitedrake",
+    "oldText": "1 WIND Machine Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can activate 1 of these effects.\n●Destroy all other cards on the field.\n●Negate the effects of all face-up cards your opponent currently controls.\nIf this card in your possession is sent to your GY by an opponent's card: You can add 1 \"Speedroid\" monster from your Deck to your hand.\nYou can only use each effect of \"Hi-Speedroid Kitedrake\" once per turn.",
+    "newText": "1 WIND Machine Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can activate 1 of these effects.\n●Destroy all other cards on the field.\n●Negate the effects of all face-up cards your opponent currently controls.\nIf this card in your possession is sent to your GY by your opponent: You can add 1 \"Speedroid\" monster from your Deck to your hand.\nYou can only use each effect of \"Hi-Speedroid Kitedrake\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2019-07-12",
+    "lastUpdated": "2020-12-30",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14430&request_locale=ja",
+        "title": "Hi-Speedroid Kitedrake",
+        "date": "2020-12-29",
+        "desc": "In the Official Card Game, Hi-Speedroid Kitedrake uses \"sent to the GY by your opponent\"."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12280&request_locale=ja",
+        "title": "Q&A #12280",
+        "date": "2021-01-02",
+        "desc": "If Hi-Speedroid Kitedrake is sent to your GY by your opponent using the effect of your Summon Over, it is sent to the GY by your opponent, using your card.\nIn the Official Card Game, the effect of Hi-Speedroid Kitedrake can then be activated."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15741&request_locale=ja",
+        "title": "閉ザサレシ世界ノ冥神",
+        "date": "2020-12-29",
+        "desc": "This Link Monster from the upcoming \"Blazing Vortex\" pack is an example of a card where the TCG's addition of \"card\" may cause confusion."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7934&request_locale=en",
+        "title": "Gozen Match",
+        "date": "2020-12-29",
+        "desc": "An opponent's Gozen Match is an example of a card where the TCG's addition of \"card\" may cause confusion."
+      }
+    ]
+  },
+  {
+    "id": 14934,
+    "icon": "link",
+    "name": "Herald of Mirage Lights",
+    "oldText": "2 monsters with the same Type and Attribute, except Tokens\nWhen a Spell/Trap Card or effect is activated (Quick Effect): You can send 1 Fairy monster from your hand to the GY; negate the activation, and if you do, destroy it. If this card in your possession is sent to your GY by an opponent's card: You can add up to 2 Ritual Monsters and/or Ritual Spells with different names from your GY to your hand. You can only use each effect of \"Herald of Mirage Lights\" once per turn.",
+    "newText": "2 monsters with the same Type and Attribute, except Tokens\nWhen a Spell/Trap Card or effect is activated (Quick Effect): You can send 1 Fairy monster from your hand to the GY; negate the activation, and if you do, destroy it. If this card in your possession is sent to your GY by your opponent: You can add up to 2 Ritual Monsters and/or Ritual Spells with different names from your GY to your hand. You can only use each effect of \"Herald of Mirage Lights\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2020-03-20",
+    "lastUpdated": "2020-12-30",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14934&request_locale=ja",
+        "title": "Herald of Mirage Lights",
+        "date": "2020-12-29",
+        "desc": "In the Official Card Game, Herald of Mirage Lights uses \"sent to the GY by your opponent\"."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12280&request_locale=ja",
+        "title": "Q&A #12280",
+        "date": "2021-01-02",
+        "desc": "If Herald of Mirage Lights is sent to your GY by your opponent using the effect of your Summon Over, it is sent to the GY by your opponent, using your card.\nIn the Official Card Game, the effect of Herald of Mirage Lights can then be activated."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15741&request_locale=ja",
+        "title": "閉ザサレシ世界ノ冥神",
+        "date": "2020-12-29",
+        "desc": "This Link Monster from the upcoming \"Blazing Vortex\" pack is an example of a card where the TCG's addition of \"card\" may cause confusion."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7934&request_locale=en",
+        "title": "Gozen Match",
+        "date": "2020-12-29",
+        "desc": "An opponent's Gozen Match is an example of a card where the TCG's addition of \"card\" may cause confusion."
+      }
+    ]
+  },
+  {
+    "id": 15266,
+    "icon": "effect",
+    "name": "Gizmek Okami, the Dreaded Deluge Dragon",
+    "oldText": "You can pay 1500 LP; destroy all monsters on the field that were Special Summoned from the Extra Deck, also you can only attack with 1 monster this turn. You can only use each of the following effects of \"Gizmek Okami, the Dreaded Deluge Dragon\" once per turn. If 2 or more monsters Special Summoned from the Extra Deck are on the field: You can Special Summon this card from your hand. If this card in your possession is sent to your GY by an opponent's card: You can banish 1 monster from your opponent's GY, then gain LP equal to its ATK.",
+    "newText": "You can pay 1500 LP; destroy all monsters on the field that were Special Summoned from the Extra Deck, also you can only attack with 1 monster this turn. You can only use each of the following effects of \"Gizmek Okami, the Dreaded Deluge Dragon\" once per turn. If 2 or more monsters Special Summoned from the Extra Deck are on the field: You can Special Summon this card from your hand. If this card in your possession is sent to your GY by your opponent: You can banish 1 monster from your opponent's GY, then gain LP equal to its ATK.",
+    "author": "gallantron",
+    "lastPrint": "2020-08-07",
+    "lastUpdated": "2020-12-30",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15266&request_locale=ja",
+        "title": "Gizmek Okami, the Dreaded Deluge Dragon",
+        "date": "2020-12-29",
+        "desc": "In the Official Card Game, Gizmek Okami, the Dreaded Deluge Dragon uses \"sent to the GY by your opponent\"."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12280&request_locale=ja",
+        "title": "Q&A #12280",
+        "date": "2021-01-02",
+        "desc": "If Gizmek Okami, the Dreaded Deluge Dragon is sent to your GY by your opponent using the effect of your Summon Over, it is sent to the GY by your opponent, using your card.\nIn the Official Card Game, the effect of Gizmek Okami, the Dreaded Deluge Dragon can then be activated."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15741&request_locale=ja",
+        "title": "閉ザサレシ世界ノ冥神",
+        "date": "2020-12-29",
+        "desc": "This Link Monster from the upcoming \"Blazing Vortex\" pack is an example of a card where the TCG's addition of \"card\" may cause confusion."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7934&request_locale=en",
+        "title": "Gozen Match",
+        "date": "2020-12-29",
+        "desc": "An opponent's Gozen Match is an example of a card where the TCG's addition of \"card\" may cause confusion."
+      }
+    ]
+  },
+  {
+    "id": 7805,
+    "icon": "effect",
+    "name": "Neos Wiseman",
+    "oldText": "Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by sending 1 face-up \"Elemental HERO Neos\" and 1 face-up \"Yubel\" you control to the Graveyard, and cannot be Special Summoned by other ways. This card cannot be destroyed by card effects. At the end of the Damage Step, if this card battled an opponent's monster: Inflict damage to your opponent equal to the ATK of the monster it battled, and you gain Life Points equal to that monster's DEF.",
+    "newText": "Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by sending 1 face-up \"Elemental HERO Neos\" and 1 face-up \"Yubel\" from your Monster Zone to the GY. This card cannot be destroyed by card effects. At the end of the Damage Step, if this card battled an opponent's monster: Inflict damage to your opponent equal to the ATK of the monster it battled, and you gain Life Points equal to that monster's DEF.",
+    "author": "gallantron",
+    "lastPrint": "2011-10-04",
+    "lastUpdated": "2020-12-30",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7805&request_locale=ja",
+        "title": "Card FAQ – Neos Wiseman",
+        "date": "2020-12-30",
+        "desc": "In the Official Card Game, \"Elemental HERO Neos\" and \"Yubel\" must be sent from the Monster Zone to the GY."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12576&request_locale=en",
+        "title": "Berserkion the Electromagna Warrior",
+        "date": "2020-12-29",
+        "desc": "Berserkion the Electromagna Warrior is an example of a similar card using the revised textual construct."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7403&request_locale=en",
+        "title": "Chimeratech Fortress Dragon",
+        "date": "2020-12-29",
+        "desc": "Chimeratech Fortress Dragon is an example of a similar card that does not share Neos Wiseman's functionality."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6872&request_locale=ja",
+        "title": "Q&A #6872",
+        "date": "2020-12-29",
+        "desc": "In order to Summon Chimeratech Fortress Dragon using the listed procedure, Cyber Dragon can be sent to the GY from the Spell & Trap Zone."
+      }
+    ]
+  },
+  {
+    "id": 7580,
+    "icon": "effect",
+    "name": "Jinzo - Lord",
+    "oldText": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 1 face-up \"Jinzo\" you control to the GY. Trap Cards, and their effects on the field, cannot be activated. Negate all Trap effects on the field. Once per turn: You can destroy as many face-up Traps on the field as possible, and if you do, inflict 300 damage to your opponent for each card destroyed.",
+    "newText": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 1 face-up \"Jinzo\" from your Monster Zone to the GY. Trap Cards, and their effects on the field, cannot be activated. Negate all Trap effects on the field. Once per turn: You can destroy as many face-up Traps on the field as possible, and if you do, inflict 300 damage to your opponent for each card destroyed.",
+    "author": "gallantron",
+    "lastPrint": "2020-09-25",
+    "lastUpdated": "2020-12-30",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7580&request_locale=ja",
+        "title": "Card FAQ – Jinzo - Lord",
+        "date": "2020-12-30",
+        "desc": "In the Official Card Game, \"Jinzo\" must be sent from the Monster Zone to the GY."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12576&request_locale=en",
+        "title": "Berserkion the Electromagna Warrior",
+        "date": "2020-12-29",
+        "desc": "Berserkion the Electromagna Warrior is an example of a similar card using the revised textual construct."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7403&request_locale=en",
+        "title": "Chimeratech Fortress Dragon",
+        "date": "2020-12-29",
+        "desc": "Chimeratech Fortress Dragon is an example of a similar card that does not share Jinzo - Lord's functionality."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6872&request_locale=ja",
+        "title": "Q&A #6872",
+        "date": "2020-12-29",
+        "desc": "In order to Summon Chimeratech Fortress Dragon using the listed procedure, Cyber Dragon can be sent to the GY from the Spell & Trap Zone."
+      }
+    ]
+  },
+  {
+    "id": 7474,
+    "icon": "trap",
+    "name": "All-Out Attacks",
+    "oldText": "If a monster(s) is Special Summoned while this card is face-up on the field: Change that monster to face-up Attack Position, and must attack, if able, during the turn they are Special Summoned.",
+    "newText": "If a monster(s) is Special Summoned while this card is face-up on the field: Change that monster(s) to face-up Attack Position, also it must attack this turn, if able.",
+    "author": "gallantron",
+    "lastPrint": "2019-08-15",
+    "lastUpdated": "2020-12-30",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7474&request_locale=ja",
+        "title": "Card FAQ – All-Out Attacks",
+        "date": "2020-12-30",
+        "desc": "All-Out-Attacks should force all monsters to attack this turn, not just monsters that can successfully be changed to Attack Position.\nThe current text implies that monsters that are already in Attack Position are not forced to attack."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9969&request_locale=en",
+        "title": "Gravity Warrior",
+        "date": "2020-12-30",
+        "desc": "Gravity Warrior is an example of a card that uses the revised textual construct."
+      }
+    ]
+  },
+  {
+    "id": 5230,
+    "icon": "effect",
+    "name": "Dark Sage",
+    "oldText": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand or Deck) by Tributing 1 \"Dark Magician\" immediately after applying the effect of \"Time Wizard\" in which you called the coin toss right. When Special Summoned this way: Add 1 Spell Card from your Deck to your hand.",
+    "newText": "Cannot be Normal Summoned/Set. Must first be Special Summoned by its own effect. After applying the effect of \"Time Wizard\" in which you called the coin toss right, you can: Tribute 1 \"Dark Magician\"; Special Summon this card from your hand or Deck. If Special Summoned this way: Add 1 Spell Card from your Deck to your hand.",
+    "author": "pazim",
+    "lastPrint": "2012-10-02",
+    "lastUpdated": "2020-12-30",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5230&request_locale=ja",
+        "title": "Card FAQ – Dark Sage",
+        "date": "2020-12-30",
+        "desc": "In the Official Card Game, Dark Sage has a Trigger Effect that Special Summons itself."
+      }
+    ]
+  },
+  {
+    "id": 14440,
+    "icon": "pen_effect",
+    "name": "Reflection of Endymion",
+    "oldText": "You can only Special Summon \"Reflection(s) of Endymion\" once per turn. If this card is Special Summoned: You can target 1 card your opponent controls, and 1 card you control with a Spell Counter, except this card; return that opponent's card and your card to the hand, then place the same number of Spell Counters on this card that your returned card had. When this card with a Spell Counter is destroyed by battle: You can add 1 \"Endymion\" card from your Deck to your hand.",
+    "newText": "You can only Special Summon \"Reflection(s) of Endymion\" once per turn. If this card is Special Summoned: You can target 1 card your opponent controls, and 1 card you control with a Spell Counter, except this card; return them to the hand, then place the same number of Spell Counters on this card that your returned card had. When this card with a Spell Counter is destroyed by battle: You can add 1 \"Endymion\" card from your Deck to your hand.",
+    "author": "gallantron",
+    "lastPrint": "2019-04-19",
+    "lastUpdated": "2021-01-02",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8174&request_locale=ja",
+        "title": "Q&A #8174",
+        "date": "2021-01-02",
+        "desc": "In the Official Card Game, even if either of the targeted cards no longer exists at resolution, the other card is still returned to the hand as usual."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13459&request_locale=en",
+        "title": "Subterror Guru",
+        "date": "2021-01-02",
+        "desc": "If 'them' is undesirable, the construct 'return that opponent's card, also your card, to the hand' could be used instead, as exhibited by Subterror Guru."
+      }
+    ]
+  },
+  {
+    "id": 8461,
+    "icon": "effect",
+    "name": "Earthbound Immortal Wiraqocha Rasca",
+    "oldText": "There can only be 1 \"Earthbound Immortal\" monster on the field. If there is no face-up Field Spell on the field, destroy this card. Your opponent's monsters cannot target this card for attacks. This card can attack directly. If this card is Normal Summoned: Target 1 to 3 cards you control, but not more than your opponent has in their hand; shuffle them into the Deck, then discard the same number of random cards from your opponent's hand (or as many as possible), and if you do, this card gains 1000 ATK for each card discarded by this effect.",
+    "newText": "There can only be 1 \"Earthbound Immortal\" monster on the field. If there is no face-up Field Spell on the field, destroy this card. Your opponent's monsters cannot target this card for attacks. This card can attack directly. If this card is Normal Summoned: Target 1 to 3 other cards you control, but not more than your opponent has in their hand; shuffle them into the Deck, then discard the same number of random cards from your opponent's hand (or as many as possible), and if you do, this card gains 1000 ATK for each card discarded.",
+    "author": "gallantron",
+    "lastPrint": "2019-09-27",
+    "lastUpdated": "2021-01-02",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8461&request_locale=ja",
+        "title": "Card FAQ – Earthbound Immortal Wiraqocha Rasca",
+        "date": "2021-01-02",
+        "desc": "In the Official Card Game, Wiraqocha Rasca itself cannot be targeted with its effect that shuffles cards into the Deck."
+      }
+    ]
+  },
+  {
+    "id": 14445,
+    "icon": "link",
+    "name": "Day-Breaker the Shining Magical Warrior",
+    "oldText": "2 Spellcaster monsters\nIf this card is Link Summoned: Place 1 Spell Counter on it. Gains 300 ATK for each Spell Counter on it. You can only activate each of the following effects of \"Day-Breaker the Shining Magical Warrior\" once per turn.\n●If a Spellcaster monster(s) is Special Summoned to a zone(s) this card points to: Place 1 Spell Counter on this card.\n●You can remove 2 Spell Counters from this card, then target 1 card on the field; destroy it.",
+    "newText": "2 Spellcaster monsters\nIf this card is Link Summoned: Place 1 Spell Counter on it. Gains 300 ATK for each Spell Counter on it. You can only use each of the following effects of \"Day-Breaker the Shining Magical Warrior\" once per turn.\n●If a Spellcaster monster(s) is Special Summoned to a zone(s) this card points to: Place 1 Spell Counter on this card.\n●You can remove 2 Spell Counters from this card, then target 1 card on the field; destroy it.",
+    "author": "Gil",
+    "lastPrint": "2019-04-19",
+    "lastUpdated": "2021-01-02",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14445&request_locale=ja",
+        "title": "Day-Breaker the Shining Magical Warrior",
+        "date": "2021-01-02",
+        "desc": "Day-Breaker the Shining Magical Warrior's current TCG text limits effect activations, not effect usages. This does not match the Japanese original.\nFor example, even if the activation of one of its bulleted effects is negated by Solemn Strike, that effect could still not be activated again that turn."
+      }
+    ]
+  },
+  {
+    "id": 9953,
+    "icon": "trap",
+    "name": "Royal Prison",
+    "oldText": "Monsters cannot be Special Summoned from the Graveyard.",
+    "newText": "Neither player can Special Summon a Monster Card(s) from the GY.",
+    "author": "gallantron",
+    "lastPrint": "2012-01-24",
+    "lastUpdated": "2021-01-03",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9953&request_locale=ja",
+        "title": "Royal Prison",
+        "date": "2021-01-03",
+        "desc": "In the Official Card Game, Royal Prison's text specifically only prevents cards that are monsters in the GY from being Summoned."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7518&request_locale=ja",
+        "title": "Q&A #7518",
+        "date": "2021-01-03",
+        "desc": "Note that The Phantom Knights of Shadow Veil, which is a Trap Card, can be Special Summoned while Royal Prison's effect is applying."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13587&request_locale=ja",
+        "title": "Card FAQ – Ghost Belle & Haunted Mansion",
+        "date": "2021-01-03",
+        "desc": "Ghost Belle & Haunted Mansion is an example of a card that uses the revised textual construct."
+      }
+    ]
+  },
+  {
+    "id": 11296,
+    "icon": "xyz",
+    "name": "Number 86: Heroic Champion - Rhongomyniad",
+    "oldText": "2 or more (max. 5) Level 4 Warrior monsters\nOnce per turn, during your opponent's End Phase: Detach 1 material from this card. This card gains effects based on the number of materials attached to it.\n●1+: Cannot be destroyed by battle.\n●2+: Gains 1500 ATK/DEF.\n●3+: Unaffected by other cards' effects.\n●4+: Your opponent cannot Normal or Special Summon monsters.\n●5: Once per turn: You can destroy all cards your opponent controls.",
+    "newText": "2 or more (max. 5) Level 4 Warrior monsters\nOnce per turn, during your opponent's End Phase: Detach 1 material from this card. This card gains effects based on the number of materials attached to it.\n●1+: Cannot be destroyed by battle.\n●2+: Gains 1500 ATK/DEF.\n●3+: Unaffected by other cards' effects.\n●4+: Your opponent cannot Normal or Special Summon monsters.\n●5+: Once per turn: You can destroy all cards your opponent controls.",
+    "author": "gallantron",
+    "lastPrint": "2018-10-12",
+    "lastUpdated": "2020-01-03",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11296&request_locale=ja",
+        "title": "Number 86: Heroic Champion - Rhongomyniad",
+        "date": "2021-01-03",
+        "desc": "In the Official Card Game, a Heroic Champion - Rhongomyniad with six or more materials will still gain the final bulleted effect."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13825&request_locale=en",
+        "title": "Number 75: Bamboozling Gossip Shadow",
+        "date": "2021-01-03",
+        "desc": "Bamboozling Gossip Shadow's effect is one of the ways a Heroic Champion - Rhongomyniad may end up with six or more materials."
+      }
+    ]
+  },
+  {
+    "id": 11719,
+    "icon": "fusion",
+    "name": "El Shaddoll Anoyatyllis",
+    "oldText": "1 \"Shaddoll\" monster + 1 WATER monster\nMust first be Fusion Summoned. Neither player can Special Summon monsters from the hand or GY using Spell/Trap effects. If this card is sent to the GY: You can target 1 \"Shaddoll\" Spell/Trap in your GY; add it to your hand.",
+    "newText": "1 \"Shaddoll\" monster + 1 WATER monster\nMust first be Fusion Summoned. Neither player can Special Summon Monster Cards from the hand or GY using Spell/Trap effects. If this card is sent to the GY: You can target 1 \"Shaddoll\" Spell/Trap in your GY; add it to your hand.",
+    "author": "gallantron",
+    "lastPrint": "2020-02-14",
+    "lastUpdated": "2021-01-03",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11488&request_locale=ja",
+        "title": "Q&A #11488",
+        "date": "2021-01-03",
+        "desc": "Even if El Shaddoll Anoyatyllis' effect is applying, The Phantom Knights of Shadow Veil can be Special Summoned from the GY as a monster."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13587&request_locale=en",
+        "title": "Ghost Belle & Haunted Mansion",
+        "date": "2021-01-03",
+        "desc": "Ghost Belle & Haunted Mansion is an example of a card using the revised textual construct."
+      }
+    ]
+  },
+  {
+    "id": 12338,
+    "icon": "spell",
+    "name": "Fusion Tag",
+    "oldText": "Target 1 monster you control; reveal 1 Fusion Monster in your Extra Deck, and if you do, the targeted monster's name can be treated as the revealed Fusion Monster's, if used for a Fusion Summon this turn.",
+    "newText": "Target 1 monster you control; reveal 1 Fusion Monster in your Extra Deck, and if you do, the targeted monster's name can be treated as the revealed Fusion Monster's, if used as Fusion Material this turn.",
+    "author": "gallantron",
+    "lastPrint": "2017-08-25",
+    "lastUpdated": "2021-01-03",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12338&request_locale=ja",
+        "title": "Fusion Tag",
+        "date": "2021-01-03",
+        "desc": "In the Official Card Game, Fusion Tag allows the monster's name to be treated as the revealed monster's when used as Fusion Material, even if not used for a Fusion Summon."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7175&request_locale=en",
+        "title": "Elemental HERO Marine Neos",
+        "date": "2021-01-03",
+        "desc": "Summoning Elemental HERO Marine Neos using the listed procedure is an example of using Fusion Material without performing a Fusion Summon."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18073&request_locale=ja",
+        "title": "Q&A #18073",
+        "date": "2021-01-03",
+        "desc": "In the Official Card Game, the effect of Fusion Tag can be applied when Summoning Elemental HERO Marine Neos using its listed procedure."
+      }
+    ]
+  },
+  {
+    "id": 4794,
+    "icon": "trap",
+    "name": "Time Machine",
+    "oldText": "When a monster is destroyed by battle and sent to the GY: Special Summon that monster to the same field it was on, in the same battle position it was in when destroyed.",
+    "newText": "When exactly 1 monster is destroyed by battle and sent to the GY: Special Summon that monster to the same field it was on, in the same battle position it was in when destroyed.",
+    "author": "gallantron",
+    "lastPrint": "2020-07-03",
+    "lastUpdated": "2021-01-04",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=4794&request_locale=ja",
+        "title": "Card FAQ – Time Machine",
+        "date": "2021-01-04",
+        "desc": "In the Official Card Game, Time Machine can only be activated if exactly one monster is destroyed by battle.\nIt cannot be activated if both monsters are destroyed by the battle."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10568&request_locale=ja",
+        "title": "Card FAQ – Puzzle Reborn",
+        "date": "2021-01-04",
+        "desc": "Puzzle Reborn is an example of another card that uses the revised textual construct."
+      }
+    ]
+  },
+  {
+    "id": 11569,
+    "icon": "synchro",
+    "name": "Metaphys Horus",
+    "oldText": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can activate the appropriate effect(s), depending on the non-Tuner monster(s) used as Synchro Material;\n●Normal Monster: This face-up card is unaffected by other card effects this turn.\n●Effect Monster: You can target 1 other face-up card on the field; negate that target's effects.\n●Pendulum Monster: Your opponent chooses 1 monster they control and gives control of it to you, but it cannot attack this turn.",
+    "newText": "1 Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can activate the appropriate effect(s), depending on the non-Tuner monster(s) used as Synchro Material;\n●Normal Monster: This face-up card is unaffected by other card effects this turn.\n●Effect Monster: You can target 1 other face-up card on the field; negate that target's effects.\n●Pendulum Monster: Your opponent chooses 1 monster they control. Take control of that monster, but it cannot attack this turn.",
+    "author": "gallantron",
+    "lastPrint": "2019-10-11",
+    "lastUpdated": "2021-01-05",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14236&request_locale=ja",
+        "title": "Q&A #14236",
+        "date": "2021-01-05",
+        "desc": "In the Official Card Game, the \"●Pendulum Monster\" effect of Metaphys Horus is documented to affect the opponent's monster."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13950&request_locale=en",
+        "title": "Herald of the Abyss",
+        "date": "2021-01-05",
+        "desc": "Cards that use \"your opponent does X to their monsters\" are typically cards that do not affect the chosen monsters.\nHerald of the Abyss is an example of such a card."
+      }
+    ]
+  },
+  {
+    "id": 6335,
+    "icon": "effect",
+    "name": "Aussa the Earth Charmer",
+    "oldText": "FLIP: Target 1 EARTH monster your opponent controls; take control of that target while this card is face-up on the field.",
+    "newText": "FLIP: Target 1 EARTH monster your opponent controls; take control of it while this card is face-up on the field.",
+    "author": "gallantron",
+    "lastPrint": "2020-10-23",
+    "lastUpdated": "2021-01-06",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6335&request_locale=ja",
+        "title": "Aussa the Earth Charmer",
+        "date": "2021-01-06",
+        "desc": "In the Official Card Game, Aussa the Earth Charmer's effect will take control of the targeted monster even if it is not EARTH at resolution.\nAdditionally, in the Official Card Game, control will not revert to the opponent even if the opponent's monster is changed to non-EARTH after the effect of Aussa the Earth Charmer has been applied."
+      }
+    ]
+  },
+  {
+    "id": 6336,
+    "icon": "effect",
+    "name": "Eria the Water Charmer",
+    "oldText": "FLIP: Target 1 WATER monster your opponent controls; take control of that target while this card is face-up on the field.",
+    "newText": "FLIP: Target 1 WATER monster your opponent controls; take control of it while this card is face-up on the field.",
+    "author": "gallantron",
+    "lastPrint": "2020-10-23",
+    "lastUpdated": "2021-01-06",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6336&request_locale=ja",
+        "title": "Eria the Water Charmer",
+        "date": "2021-01-06",
+        "desc": "In the Official Card Game, Eria the Water Charmer's effect will take control of the targeted monster even if it is not WATER at resolution.\nAdditionally, in the Official Card Game, control will not revert to the opponent even if the opponent's monster is changed to non-WATER after the effect of Eria the Water Charmer has been applied."
+      }
+    ]
+  },
+  {
+    "id": 6337,
+    "icon": "effect",
+    "name": "Hiita the Fire Charmer",
+    "oldText": "FLIP: Target 1 FIRE monster your opponent controls; take control of that target while this card is face-up on the field.",
+    "newText": "FLIP: Target 1 FIRE monster your opponent controls; take control of it while this card is face-up on the field.",
+    "author": "gallantron",
+    "lastPrint": "2020-10-23",
+    "lastUpdated": "2021-01-06",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6337&request_locale=ja",
+        "title": "Hiita the Fire Charmer",
+        "date": "2021-01-06",
+        "desc": "In the Official Card Game, Hiita the Fire Charmer's effect will take control of the targeted monster even if it is not FIRE at resolution.\nAdditionally, in the Official Card Game, control will not revert to the opponent even if the opponent's monster is changed to non-FIRE after the effect of Hiita the Fire Charmer has been applied."
+      }
+    ]
+  },
+  {
+    "id": 6338,
+    "icon": "effect",
+    "name": "Wynn the Wind Charmer",
+    "oldText": "FLIP: Target 1 WIND monster your opponent controls; take control of that target while this card is face-up on the field.",
+    "newText": "FLIP: Target 1 WIND monster your opponent controls; take control of it while this card is face-up on the field.",
+    "author": "gallantron",
+    "lastPrint": "2020-10-23",
+    "lastUpdated": "2021-01-06",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6338&request_locale=ja",
+        "title": "Wynn the Wind Charmer",
+        "date": "2021-01-06",
+        "desc": "In the Official Card Game, Wynn the Wind Charmer's effect will take control of the targeted monster even if it is not WIND at resolution.\nAdditionally, in the Official Card Game, control will not revert to the opponent even if the opponent's monster is changed to non-WIND after the effect of Wynn the Wind Charmer has been applied."
+      }
+    ]
+  },
+  {
+    "id": 7664,
+    "icon": "effect",
+    "name": "Dharc the Dark Charmer",
+    "oldText": "FLIP: Take control of 1 DARK monster your opponent controls, while this card remains face-up on the field.",
+    "newText": "FLIP: Target 1 DARK monster your opponent controls; take control of it while this card is face-up on the field.",
+    "author": "gallantron",
+    "lastPrint": "2008-09-02",
+    "lastUpdated": "2021-01-06",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7664&request_locale=ja",
+        "title": "Dharc the Dark Charmer",
+        "date": "2021-01-06",
+        "desc": "In the Official Card Game, Dharc the Wind Charmer's effect will take control of the targeted monster even if it is not DARK at resolution.\nAdditionally, in the Official Card Game, control will not revert to the opponent even if the opponent's monster is changed to non-DARK after the effect of Dharc the Dark Charmer has been applied."
+      }
+    ]
+  },
+  {
+    "id": 8800,
+    "icon": "effect",
+    "name": "Lyna the Light Charmer",
+    "oldText": "FLIP: Take control of 1 LIGHT monster your opponent controls, while this card is face-up on the field.",
+    "newText": "FLIP: Target 1 LIGHT monster your opponent controls; take control of it while this card is face-up on the field.",
+    "author": "gallantron",
+    "lastPrint": "2010-05-11",
+    "lastUpdated": "2021-01-06",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8800&request_locale=ja",
+        "title": "Lyna the Light Charmer",
+        "date": "2021-01-06",
+        "desc": "In the Official Card Game, Lyna the Light Charmer's effect will take control of the targeted monster even if it is not LIGHT at resolution.\nAdditionally, in the Official Card Game, control will not revert to the opponent even if the opponent's monster is changed to non-LIGHT after the effect of Lyna the Light Charmer has been applied."
+      }
+    ]
+  },
+  {
+    "id": 9378,
+    "icon": "effect",
+    "name": "Vylon Prism",
+    "oldText": "If this card is sent from the Monster Card Zone to the Graveyard: You can pay 500 Life Points, then target 1 face-up monster you control; equip this card to that target. If the equipped monster attacks or is attacked: It gains 1000 ATK during the Damage Step only.",
+    "newText": "If this card is sent from the Monster Zone to the GY: You can pay 500 Life Points, then target 1 face-up monster you control; equip this card to that target. If the equipped monster battles, it gains 1000 ATK during the Damage Step only.",
+    "author": "gallantron",
+    "lastPrint": "2014-06-27",
+    "lastUpdated": "2021-01-07",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=9378&request_locale=ja",
+        "title": "Card FAQ – Vylon Prism",
+        "date": "2021-01-07",
+        "desc": "In the Official Card Game, the effect of an equipped Vylon Prism that makes the equipped monster gain ATK does not activate."
+      }
+    ]
+  }
+]

@@ -1,0 +1,100 @@
+html, body { margin: 0; height: 100%; width: 100%; }
+body { background: #ccc; font-family: Verdana, Geneva, sans-serif; }
+
+body
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.editboxes
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.editbox
+{
+    display: flex;
+    flex-direction: column;
+    
+    padding: 5px;
+    border: 1px dashed #000;
+    margin: 15px;
+}
+
+.editbox
+{
+    flex-basis: 0;
+    flex-grow: 1;
+}
+
+.editbox label
+{
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+#buttons
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#buttons input
+{
+    width: 200px;
+    margin: 0 15px;
+}
+
+#output:not(.has-output) :not(#output-error) { display: none; }
+#output:not(.has-error) #output-error { display: none; }
+
+#output
+{
+    display: flex;
+    flex-direction: row;
+    
+    flex-basis: 0;
+    flex-grow: 1;
+    padding: 10px;
+}
+
+#preview-old-text, #preview-new-text
+{
+    flex-basis: 0;
+    flex-grow: 1;
+    margin: 0 10px;
+    
+    background: #eee;
+
+    border: 1px solid #777;
+    border-radius: 5px;
+    
+    padding: 5px;
+    
+    font-family: Monospace;
+    font-size: 12px;
+}
+
+.deletion-word
+{
+    background: #fcc;
+    text-decoration: line-through;
+}
+.deletion { background: #f66; }
+.addition-word
+{
+    background: #cfc;
+    text-decoration: underline;
+}
+.addition { background: #6f6; }
+
+#output-json
+{
+    flex-basis: 0;
+    flex-grow: 2;
+    margin: 0 10px;
+}

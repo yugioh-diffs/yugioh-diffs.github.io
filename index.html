@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="x-ua-compatible" content="ie=edge" />
+        <meta name="viewport" content="width=1000, initial-scale=1" />
+        
+        <title>Yu-Gi-Oh! TCG Product Errors</title>
+
+        <link rel="stylesheet" href="index.css" />
+        <script src="dep/diff.js"></script>
+        <script src="index.js"></script>
+    </head>
+    
+    <body class="has-modal modal-noscript">
+        <div id="main-row">
+            <div id="selector">
+            </div>
+            <div id="about"><div id="about-content">
+                <header id="about-title">About this project</header>
+
+                <p>This page aims to compile a comprehensive list of product errors in the <span title="The Yu-Gi-Oh! Trading Card Game (&quot;TCG&quot;) is the version of the game that is distributed outside Asia.">Yu-Gi-Oh! Trading Card Game</span>.<br />
+                For purposes of this project, we consider a card's text to contain a "product error" if that card's latest TCG text does not appear to convey the card's documented functionality in the <span title="The Yu-Gi-Oh! Official Card Game (&quot;OCG&quot;) is the version of the game that is distributed in Japan and some other Asian territories.">Yu-Gi-Oh! Official Card Game</span>.</p>
+                
+                <header>What does "appear to convey" mean?</header>
+                <p>This is a subjective judgment call on the part of the contributors, of course. When deciding if a given card should be included on this list, we try to apply what we've come to call the &quot;reasonable player test&quot;. Simply put, if a reasonably well-educated player were to have the card used against them without prior knowledge, would they be able to deduce the card's documented OCG functionality from its TCG card text.</p>
+                
+                <p>If we feel that such an idealized &quot;reasonable player&quot; would likely come to an incorrect conclusion about the card's functionality, we include it in this list.</p>
+
+                <header>Do these cards function differently in the TCG?</header>
+                <p>This is not a question anybody can answer for you in a general sense. If you feel like an interaction involving one of the cards listed here is likely to come up at an event you are looking to attend, we recommend you bring your questions up with that event's Head Judge ahead of time.</p>
+                
+                <p>In particular, please note that inclusion in this list explicitly does <i>not</i> imply that the authors feel that the card, in its current TCG incarnation, should be considered to function one way or another. To find out more about the nature of OCG documentation and its impact on the TCG, we recommend <a href="https://db.ygorganization.com/about/not_tcg" rel="external nofollow" target="_blank">this summary</a>.</p>
+                
+                <p>Please use information contained in this list responsibly. We would again like to emphasize that the authors express <i>no</i> explicit opinion on any given card's TCG functionality, and cards' inclusion in this list should not be taken to imply such an opinion. <b>Do not use this page to try and one-up your judges.</b></p>
+                
+                <header>Who is this page aimed at?</header>
+                <p>We find equivalent functionality of cards between the CGs to be a self-evident benefit. This page aims to be an indexed reference that allows KONAMI to easily become aware of any issues surrounding cards that they are expecting to reprint in upcoming product.</p>
+                <p>The authors hope that this resource can, this way, contribute towards making the game we enjoy a little bit better for all its players.</p>
+                
+                <header>What are revised card texts?</header>
+                <p>The text listed on each page is an illustration of what the card's text might look like if revised to match the documented OCG functionality. In the majority of cases, we use textual constructs that already exist in the TCG to convey this functionality.</p>
+                
+                <p>For legal reasons, we do not accept card text contributions from outside sources. If you would like to make us aware of a card you feel should be included in this list, please contact one of our contributors and provide a list of references demonstrating the error in question. Please <b>do <i>not</i> include revised card text</b> in your submission.</p>
+                
+                <header>What license governs use of information you provide?</header>
+                <p>As outlined in a previous section, the goal of this project is to assist KONAMI. To best facilitate this, we require each contributor to license their individual contributions to the project under the <a href="https://creativecommons.org/publicdomain/zero/1.0/" rel="external license" target="_blank">Creative Commons CC0</a> license. This license is a &quot;No Rights Reserved&quot; license, and is designed to explicitly place our contributions in the public domain to the fullest degree possible.</p>
+                <p>Some materials shown on this page, such as current card texts, card names and artworks, are &copy; KONAMI and/or their associates.</p>
+                <p>We maintain a list of CC0 copyright waivers for each of our contributors on <a href="license.html" target="_blank">a separate page</a>.</p>
+            </div></div>
+            <div id="data">
+                <div id="data-info">
+                    <div id="data-name"></div>
+                    <div id="data-artwork-container">
+                        <img id="data-artwork" />
+                    </div>
+                </div>
+                <div id="data-texts">
+                    <div id="data-current-container">
+                        <div id="current-label" class="noselect">Current text:</div>
+                        <div id="current-text"></div>
+                    </div>
+                    <div id="data-arrow-container" class="noselect">
+                        <div id="data-arrow">&rArr;</div>
+                        <div id="data-arrow-sub"><input id="data-show-diff" type="checkbox" checked /><label for="data-show-diff">(emphasize changes)</label></div>
+                    </div>
+                    <div id="data-proposed-container">
+                        <div id="proposed-label">Revised text:</div>
+                        <div id="proposed-text"></div>
+                    </div>
+                </div>
+                <div id="data-extra-info">
+                    <div id="data-extra-info-label">References:</div>
+                    <div id="data-extra-info-entries">
+                    </div>
+                </div>
+                <div id="data-last-updated">
+                    <div class="data-last-updated-entry"><span class="data-last-updated-label">Card's last English print:</span><span class="data-last-updated-value" id="data-last-print-date"></span></div>
+                    <div class="data-last-updated-entry"><span class="data-last-updated-label">This entry was last updated on:</span><span class="data-last-updated-value" id="data-last-update-date"></span></div>
+                </div>
+            </div>
+        </div>
+        
+        <div id="notes">
+            <a href="#">About this project</a> | <span>Web design</span> by <a href="https://www.reddit.com/user/gallantron/" rel="author external nofollow" target="_blank">/u/gallantron</a>
+        </div>
+        
+        <div id="modal-background"></div>
+        <div id="modal-container">
+            <div id="modal-noscript" class="noselect">
+                <div><b>Please add us to your NoScript whitelist!</b>
+
+This website requires JavaScript to deliver the intended experience. Please add us to your NoScript whitelist, or enable JavaScript in your browser.
+
+We do not include JavaScript from external domains. You can peruse the logic that will be running in unobfuscated form <a href="index.js" target="_blank" rel="noopener noreferrer">here</a>. Furthermore, we include a first-party copy of <a href="https://github.com/jhchen/fast-diff" target="_blank" rel="external noopener noreferrer">fast-diff</a>, which you can see <a href="dep/diff.js" target="_blank" rel="noopener noreferrer">here</a>. To allow these scripts, you will need to whitelist <b>yugioh-diffs.github.io</b> in NoScript.
+
+Thank you for your trust!
+                </div>
+            </div>
+            <div id="modal-loading" class="noselect">
+                <div><b>Loading relevant data...</b>
+
+We're loading the data file right now.
+By the time you've read to this point, this should've really completed, and this dialog should've disappeared.
+
+If you're still seeing it, there are really two possibilities:<ul>
+<li>You are running a very old browser, and it failed to parse our main JavaScript file because of it.
+This page should work on any semi-recent version of a modern browser. We personally use Mozilla Firefox and Google Chrome.</li>
+<li>Something is broken in our main script file. This feels like something we should've noticed during testing, but maybe we didn't.
+If none of the other points on this page seem to fit, try getting in touch. You can reach us on Discord <a href="https://discordapp.com/users/114706168005394435/" rel="author external nofollow" target="_blank">@gallantron#1059</a>.</li>
+</ul>
+   
+Sorry for the inconvenience!
+            </div>
+        </div>
+        <script type="text/javascript">
+            document.body.classList.remove('modal-noscript');
+            document.body.classList.add('modal-loading');
+        </script>
+    </body>
+</html>
