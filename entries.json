@@ -2674,5 +2674,53 @@
         "desc": "In the Official Card Game, the effect of an equipped Vylon Prism that makes the equipped monster gain ATK does not activate."
       }
     ]
+  },
+  {
+    "id": 13473,
+    "icon": "effect",
+    "name": "Desperado Barrel Dragon",
+    "oldText": "If a face-up DARK Machine monster(s) you control is destroyed by battle or card effect: You can Special Summon this card from your hand. Once per turn, during the Battle Phase (Quick Effect): You can toss a coin 3 times; destroy face-up monsters on the field, up to the number of heads, then if the result was 3 heads, draw 1 card. This card cannot attack the turn this effect is activated. If this card is sent to the GY: You can add 1 Level 7 or lower monster that has a coin tossing effect, from your Deck to your hand.",
+    "newText": "If a face-up DARK Machine monster(s) you control is destroyed by battle or card effect: You can Special Summon this card from your hand. Once per turn, during the Battle Phase (Quick Effect), you can: Toss a coin 3 times and destroy face-up monsters on the field, up to the number of heads, then if the result was 3 heads, draw 1 card. This card cannot attack the turn this effect is activated. If this card is sent to the GY: You can add 1 Level 7 or lower monster that has a coin tossing effect, from your Deck to your hand.",
+    "author": "gallantron",
+    "lastPrint": "2020-07-03",
+    "lastUpdated": "2021-01-09",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13473&request_locale=ja",
+        "title": "Card FAQ – Desperado Barrel Dragon",
+        "date": "2021-01-09",
+        "desc": "In the Official Card Game, the coins are tossed during resolution of Desperado Barrel Dragon's effect."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14649&request_locale=en",
+        "title": "Infinitrack Brutal Dozer",
+        "date": "2021-01-09",
+        "desc": "Infinitrack Brutal Dozer is an example of a card using the revised textual construct."
+      }
+    ]
+  },
+  {
+    "id": 7035,
+    "icon": "effect",
+    "name": "Angel O7",
+    "oldText": "If this card is Tribute Summoned, it gains this effect:\n●Neither player can activate monster effects.",
+    "newText": "This Tribute Summoned (but not Tribute Set) card gains this effect.\n●Neither player can activate monster effects.",
+    "author": "gallantron",
+    "lastPrint": "2020-11-26",
+    "lastUpdated": "2021-01-09",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7035&request_locale=ja",
+        "title": "Card FAQ – Angel O7",
+        "date": "2021-01-09",
+        "desc": "In the Official Card Game, the text that makes Angel O7 gain the bulleted effect is not an activated effect."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10596&request_locale=ja",
+        "title": "Q&A #10596",
+        "date": "2021-01-09",
+        "desc": "If Angel O7 is Tribute Set, it does not gain the bulleted effect after being flipped face-up."
+      }
+    ]
   }
 ]
