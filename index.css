@@ -74,7 +74,7 @@ body.has-data #about, body:not(.has-data) #data { display: none; }
 }
 
 .selector-entry:nth-child(2n+0)       { background: #999; }
-.selector-entry:nth-child(2n-1)       { background: #aaa; }
+.selector-entry:nth-child(2n+1)       { background: #aaa; }
 .selector-entry:hover                 { background: #888; }
 .selector-entry:not(.selected):active { background: #777; }
 .selector-entry.selected              { background: #888; cursor: default; }

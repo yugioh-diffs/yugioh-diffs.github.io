@@ -735,7 +735,7 @@
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11597&request_locale=en",
         "title": "Blaze Accelerator Reload",
         "date": "2020-12-24",
-        "desc": "In the TCG, Volcanic Eruption can be sent to the GY by Blaze Accelerator Reload's effects."
+        "desc": "By its TCG text, Volcanic Eruption could be sent to the GY by Blaze Accelerator Reload's effects."
       }
     ],
     "name": "Volcanic Eruption",
@@ -1209,7 +1209,7 @@
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14221&request_locale=ja",
         "title": "Utopic Onomatopoeia",
         "date": "2020-12-24",
-        "desc": "In the Official Card Game, The effect of Utopic Onomatopoeia cannot Special Summon another copy of Utopic Onomatopoeia from the hand."
+        "desc": "In the Official Card Game, the effect of Utopic Onomatopoeia cannot Special Summon another copy of Utopic Onomatopoeia from the hand."
       }
     ],
     "name": "Utopic Onomatopoeia",
@@ -2720,6 +2720,30 @@
         "title": "Q&A #10596",
         "date": "2021-01-09",
         "desc": "If Angel O7 is Tribute Set, it does not gain the bulleted effect after being flipped face-up."
+      }
+    ]
+  },
+  {
+    "id": 15136,
+    "icon": "effect",
+    "name": "Raviel, Lord of Phantasms - Shimmering Scraper",
+    "oldText": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 3 monsters. You can only use each of the following effects of \"Raviel, Lord of Phantasms - Shimmering Scraper\" once per turn.\n●(Quick Effect): You can discard this card and target 1 \"Raviel, Lord of Phantasms\" you control; for the rest of this turn, its ATK becomes double its current ATK, also it can attack all monsters your opponent controls once each.\n●If this card is in your GY: You can Tribute 1 monster; add this card to your hand.",
+    "newText": "(This card is not treated as a \"Scrap\" card.)\nCannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 3 monsters. You can only use each of the following effects of \"Raviel, Lord of Phantasms - Shimmering Scraper\" once per turn.\n●(Quick Effect): You can discard this card and target 1 \"Raviel, Lord of Phantasms\" you control; for the rest of this turn, its ATK becomes double its current ATK, also it can attack all monsters your opponent controls once each.\n●If this card is in your GY: You can Tribute 1 monster; add this card to your hand.",
+    "author": "gallantron",
+    "lastPrint": "2020-07-10",
+    "lastUpdated": "2021-01-11",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15136&request_locale=ja",
+        "title": "Raviel, Lord of Phantasms - Shimmering Scraper",
+        "date": "2021-01-11",
+        "desc": "In the Official Card Game, Raviel, Lord of Phantasms - Shimmering Scraper is not a \"Scrap\" (スクラップ) card."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8979&request_locale=en",
+        "title": "Scrapstorm",
+        "date": "2021-01-11",
+        "desc": "By its TCG text, Scrapstorm could be activated by targeting Raviel, Lord of Phantasms - Shimmering Scraper."
       }
     ]
   }
