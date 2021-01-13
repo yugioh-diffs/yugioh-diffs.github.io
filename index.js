@@ -54,6 +54,7 @@ let loadEntry = ((entry) =>
     {
         window.location.hash = '';
         document.body.classList.remove('has-data');
+        document.title = 'Yu-Gi-Oh! TCG Product Errors';
         return;
     }
     
@@ -61,6 +62,7 @@ let loadEntry = ((entry) =>
     document.body.classList.add('has-data');
     document.getElementById('data-artwork').src = ('artwork/'+entry.id+'.png');
     document.getElementById('data-name').innerText = entry.name;
+    document.title = (entry.name + ' – Yu-Gi-Oh! TCG Product Errors');
     
     loadText(document.getElementById('current-text'), document.getElementById('proposed-text'), entry.oldText, entry.newText);
     
