@@ -2746,5 +2746,29 @@
         "desc": "By its TCG text, Scrapstorm could be activated by targeting Raviel, Lord of Phantasms - Shimmering Scraper."
       }
     ]
+  },
+  {
+    "id": 11165,
+    "icon": "spell",
+    "name": "Ayers Rock Sunrise",
+    "oldText": "Target 1 Beast monster in your GY; Special Summon that target, and if you do, all face-up monsters your opponent currently controls lose 200 ATK for each Beast, Plant, and Winged Beast monster currently in your GY, until the end of this turn. You can only activate 1 \"Ayers Rock Sunrise\" per turn.",
+    "newText": "Target 1 Beast monster in your GY; Special Summon that target, and if you do, all face-up monsters your opponent currently controls (if any) lose 200 ATK for each Beast, Plant, and Winged Beast monster currently in your GY (if any), until the end of this turn. You can only activate 1 \"Ayers Rock Sunrise\" per turn.",
+    "author": "gallantron",
+    "lastPrint": "2020-09-11",
+    "lastUpdated": "2021-01-14",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11165&request_locale=ja",
+        "title": "Card FAQ – Ayers Rock Sunrise",
+        "date": "2021-01-14",
+        "desc": "In the Official Card Game, Ayers Rock Sunrise can be activated even if the opponent controls no monsters, or if there are no other Beast/Plant/Winged-Beast monsters in the player's GY."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13108&request_locale=en",
+        "title": "Pulse Mines",
+        "date": "2021-01-14",
+        "desc": "Pulse Mines is an example of this textual construct being used to indicate that no appropriate monsters are required to activate the card."
+      }
+    ]
   }
 ]
