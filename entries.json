@@ -2788,5 +2788,23 @@
         "desc": "In the Official Card Game, neither player can target Ultimaya Tzolkin with card effects."
       }
     ]
+  },
+  {
+    "id": 15702,
+    "icon": "effect",
+    "name": "S-Force Rappa Chiyomaru",
+    "oldText": "Each of your opponent's monsters in the same column as one of your \"S-Force\" monsters can only target that monster for attacks. (Quick Effect): You can banish 1 \"S-Force\" card from your hand; return this card to the hand, and if you do, Special Summon 1 \"S-Force\" monster from your Deck in Defense Position, except \"S-Force Rappa Chiyomaru\". You can only use this effect of \"S-Force Rappa Chiyomaru\" once per turn.",
+    "newText": "Each of your opponent's monsters in the same column as one of your \"S-Force\" monsters can only target monsters in that column for attacks. (Quick Effect): You can banish 1 \"S-Force\" card from your hand; return this card to the hand, and if you do, Special Summon 1 \"S-Force\" monster from your Deck in Defense Position, except \"S-Force Rappa Chiyomaru\". You can only use this effect of \"S-Force Rappa Chiyomaru\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2020-10-31",
+    "lastUpdated": "2021-01-17",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15702&request_locale=ja",
+        "title": "S-Force Rappa Chiyomaru",
+        "date": "2021-01-17",
+        "desc": "In the Official Card Game, the effect of S-Force Rappa Chiyomaru still allows the opponent's monster to attack a non-\"S-Force\" monster, as long as it is in the same column.\nAn example would be a Knightmare Phoenix in the Extra Monster Zone, with S-Force Rappa Chiyomaru immediately below it."
+      }
+    ]
   }
 ]
