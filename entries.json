@@ -2770,5 +2770,23 @@
         "desc": "Pulse Mines is an example of this textual construct being used to indicate that no appropriate monsters are required to activate the card."
       }
     ]
+  },
+  {
+    "id": 11614,
+    "icon": "synchro",
+    "name": "Ultimaya Tzolkin",
+    "oldText": "(This card's original Level is always treated as 12.)\nCannot be Synchro Summoned. Must be Special Summoned (from your Extra Deck) by sending 2 Level 5 or higher monsters you control with the same Level to the GY (1 Tuner and 1 non-Tuner). Once per turn, when a Spell/Trap Card(s) is Set on your field (except during the Damage Step): You can Special Summon 1 \"Power Tool\" Synchro Monster or 1 Level 7 or 8 Dragon Synchro Monster from your Extra Deck. While you control another Synchro Monster, monsters cannot target this card for attacks, also your opponent cannot target it with card effects.",
+    "newText": "(This card's original Level is always treated as 12.)\nCannot be Synchro Summoned. Must be Special Summoned (from your Extra Deck) by sending 2 Level 5 or higher monsters you control with the same Level to the GY (1 Tuner and 1 non-Tuner). Once per turn, when a Spell/Trap Card(s) is Set on your field (except during the Damage Step): You can Special Summon 1 \"Power Tool\" Synchro Monster or 1 Level 7 or 8 Dragon Synchro Monster from your Extra Deck. While you control another Synchro Monster, monsters cannot target this card for attacks, also neither player can target it with card effects.",
+    "author": "gallantron",
+    "lastPrint": "2020-06-15",
+    "lastUpdated": "2021-01-17",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11614&request_locale=ja",
+        "title": "Card FAQ – Ultimaya Tzolkin",
+        "date": "2021-01-17",
+        "desc": "In the Official Card Game, neither player can target Ultimaya Tzolkin with card effects."
+      }
+    ]
   }
 ]
