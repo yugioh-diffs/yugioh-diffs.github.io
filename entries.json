@@ -2812,7 +2812,7 @@
     "icon": "link",
     "name": "Underworld Goddess of the Closed World",
     "oldText": "4+ Effect Monsters\nYou can also use 1 monster your opponent controls as material to Link Summon this card. If this card is Link Summoned: You can negate the effects of all face-up monsters your opponent currently controls. This Link Summoned card is unaffected by your opponent's activated effects, unless they target this card. Once per turn, when your opponent activates a card or effect that Special Summons a monster(s) from the GY (Quick Effect): You can negate the activation.",
-    "newText": "4+ Effect Monsters / You can also use 1 monster your opponent controls as material to Link Summon this card. If this card is Link Summoned: You can negate the effects of all face-up monsters your opponent currently controls. This Link Summoned card is unaffected by your opponent's activated effects, unless they target this card. Once per turn, when your opponent activates a card or effect that includes Special Summoning a Monster Card(s) from the GY (Quick Effect): You can negate the activation.",
+    "newText": "4+ Effect Monsters / You can also use 1 monster your opponent controls as material to Link Summon this card. If this card is Link Summoned: You can negate the effects of all face-up monsters your opponent currently controls. This Link Summoned card is unaffected by your opponent's activated effects, unless they target this card. Once per turn, when your opponent activates a card or effect that includes Special Summoning a monster(s) from the GY (Quick Effect): You can negate the activation.",
     "author": "gallantron",
     "lastPrint": "2021-01-18",
     "lastUpdated": "2021-01-18",
@@ -2828,18 +2828,6 @@
         "title": "PSY-Framegear Gamma",
         "date": "2021-01-18",
         "desc": "PSY-Framegear Gamma's effect is an example of an effect that \"includes an effect to Special Summon from the GY\", while not being an effect that \"would Special Summon from the GY\"."
-      },
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13587&request_locale=en",
-        "title": "Ghost Belle & Haunted Mansion",
-        "date": "2021-01-03",
-        "desc": "Ghost Belle & Haunted Mansion is an example of a card using \"Monster Card(s)\" in this context."
-      },
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11404&request_locale=en",
-        "title": "The Phantom Knights of Shadow Veil",
-        "date": "2021-01-18",
-        "desc": "The Phantom Knights of Shadow Veil's effect in the GY is an example of an effect that Special Summons a monster from the GY, but does not Special Summon a Monster Card from the GY."
       },
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14752&request_locale=en",
