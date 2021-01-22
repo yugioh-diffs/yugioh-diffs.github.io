@@ -878,7 +878,7 @@
     ],
     "name": "Cyberload Fusion",
     "lastUpdated": "2020-04-13",
-    "lastPrint": "2018-09-28",
+    "lastPrint": "2021-01-22",
     "icon": "spell"
   },
   {
@@ -1938,7 +1938,7 @@
     "oldText": "1 \"Cyber Dragon\" monster + 2 Machine monsters\nIf you have a Machine Fusion Monster(s) in your GY, your opponent cannot target this card with card effects, also it cannot be destroyed by your opponent's card effects. If this Fusion Summoned card you control is sent to your GY by an opponent's card: You can Special Summon 1 \"Cyber Dragon\" from your hand, Deck, or GY. You can banish this card from your GY; this turn, your opponent cannot target Fusion Monsters you control with card effects, also they cannot be destroyed by your opponent's card effects.",
     "newText": "1 \"Cyber Dragon\" monster + 2 Machine monsters\nIf you have a Machine Fusion Monster(s) in your GY, your opponent cannot target this card with card effects, also it cannot be destroyed by your opponent's card effects. If this Fusion Summoned card you control is sent to your GY by your opponent: You can Special Summon 1 \"Cyber Dragon\" from your hand, Deck, or GY. You can banish this card from your GY; this turn, your opponent cannot target Fusion Monsters you control with card effects, also they cannot be destroyed by your opponent's card effects.",
     "author": "gallantron",
-    "lastPrint": "2018-09-28",
+    "lastPrint": "2021-01-22",
     "lastUpdated": "2020-12-30",
     "references": [
       {
@@ -2840,6 +2840,66 @@
         "title": "Primathmech Laplacian (physical print)",
         "date": "2021-01-18",
         "desc": "A physical print of \"Primathmech Laplacian\" showing the use of \"/\" in the text box."
+      }
+    ]
+  },
+  {
+    "id": 8778,
+    "icon": "effect",
+    "name": "Blackwing - Gust the Backblast",
+    "oldText": "If you control no cards, you can Special Summon this card (from your hand). If your opponent's monster attacks a \"Blackwing\" monster you control: The attacking monster loses 300 ATK during the Damage Step only.",
+    "newText": "If you control no cards, you can Special Summon this card (from your hand). If your opponent's monster attacks a \"Blackwing\" monster you control, the attacking monster loses 300 ATK during the Damage Step only.",
+    "author": "gallantron",
+    "lastPrint": "2021-01-22",
+    "lastUpdated": "2021-01-22",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8778&request_locale=ja",
+        "title": "Card FAQ – Blackwing - Gust the Backblast",
+        "date": "2021-01-22",
+        "desc": "In the Official Card Game, Gust the Backblast's effect that causes the opponent's monster to lose ATK is a continuous effect."
+      }
+    ]
+  },
+  {
+    "id": 13856,
+    "icon": "trap",
+    "name": "Blackbird Close",
+    "oldText": "When an opponent's monster activates its effect: You can send 1 face-up \"Blackwing\" monster you control to the GY; negate the activation, and if you do, destroy it, then, you can Special Summon 1 \"Black-Winged Dragon\" from your Extra Deck. If you control a \"Blackwing\" Synchro Monster or \"Black-Winged Dragon\", you can activate this card from your hand.",
+    "newText": "When an monster your opponent controls activates its effect: You can send 1 face-up \"Blackwing\" monster you control to the GY; negate the activation, and if you do, destroy it, then, you can Special Summon 1 \"Black-Winged Dragon\" from your Extra Deck. If you control a \"Blackwing\" Synchro Monster or \"Black-Winged Dragon\", you can activate this card from your hand.",
+    "author": "gallantron",
+    "lastPrint": "2021-01-22",
+    "lastUpdated": "2021-01-22",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13856&request_locale=ja",
+        "title": "Blackbird Close",
+        "date": "2021-01-22",
+        "desc": "In the Official Card Game, Blackbird Close can only be activated if a monster on the opponent's field activates its effect."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14741&request_locale=en",
+        "title": "Nibiru, the Primal Being",
+        "date": "2021-01-22",
+        "desc": "For example, in the Official Card Game, Blackbird Close cannot be activated in response to the effect of Nibiru the Primal Being."
+      }
+    ]
+  },
+  {
+    "id": 4957,
+    "icon": "trap",
+    "name": "Light of Intervention",
+    "oldText": "While this card is on the field, Monster Cards cannot be Set or flipped face-down. If a Monster Card would be Set, it must be Normal Summoned in face-up Defense Position.",
+    "newText": "Monster Cards cannot be changed to face-down Defense Position. If a monster would be Normal Set or Special Summoned face-down, it must be Summoned in face-up Defense Position instead.",
+    "author": "gallantron",
+    "lastPrint": "2010-05-25",
+    "lastUpdated": "2021-01-22",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15901&request_locale=ja",
+        "title": "Q&A #15901",
+        "date": "2021-01-22",
+        "desc": "In the Official Card Game, Light of Intervention's effect causes effects that Special Summon in face-down Defense Position to Summon the monster face-up, instead."
       }
     ]
   }
