@@ -159,7 +159,7 @@
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13002&request_locale=en",
         "title": "Clashing Souls",
         "date": "2020-12-24",
-        "desc": "Clashing Souls' TCG text prevents the player's monster from being destroyed by the battle, sending all cards they control to the GY instead.\nIn the Japanese original text, this is not the case. Here, the monster is determined to be destroyed by the battle as usual, and all cards the monster's controller controls are sent to the GY as a result of this."
+        "desc": "Clashing Souls' TCG text prevents the player's monster from being destroyed by the battle, sending all cards they control to the GY instead.\nIn the Official Card Game, this is not the case. Here, the monster is determined to be destroyed by the battle as usual, and all cards the monster's controller controls are sent to the GY as a result of this."
       },
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20651&request_locale=ja",
@@ -2389,7 +2389,7 @@
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14445&request_locale=ja",
         "title": "Day-Breaker the Shining Magical Warrior",
         "date": "2021-01-02",
-        "desc": "Day-Breaker the Shining Magical Warrior's current TCG text limits effect activations, not effect usages. This does not match the Japanese original.\nFor example, even if the activation of one of its bulleted effects is negated by Solemn Strike, that effect could still not be activated again that turn."
+        "desc": "In the Official Card Game, players can only use – rather than activate – Day-Breaker the Shining Magical Warrior's effects once per turn.\nFor example, even if the activation of one of its bulleted effects is negated by Solemn Strike, that effect could still not be activated again that turn."
       }
     ]
   },
@@ -2743,7 +2743,7 @@
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8979&request_locale=en",
         "title": "Scrapstorm",
         "date": "2021-01-11",
-        "desc": "By its TCG text, Scrapstorm could be activated by targeting Raviel, Lord of Phantasms - Shimmering Scraper."
+        "desc": "In the Official Card Game, Scrapstorm could not be activated by targeting Raviel, Lord of Phantasms - Shimmering Scraper."
       }
     ]
   },
@@ -2936,6 +2936,30 @@
         "title": "Gozen Match",
         "date": "2020-12-29",
         "desc": "An opponent's Gozen Match is an example of a card where the TCG's addition of \"card\" may cause confusion."
+      }
+    ]
+  },
+  {
+    "id": 13984,
+    "icon": "effect",
+    "name": "Noble Knight Custennin",
+    "oldText": "If you control a \"Noble Arms\" Equip Spell, you can Special Summon this card (from your hand). You can only Special Summon \"Noble Knight Custennin\" once per turn this way. A \"Noble Knight\" monster that was Synchro, Xyz or Link Summoned using this card on the field as material gains this effect.\n●If this card is Special Summoned: You can Normal Summon 1 \"Noble Knight\" monster during your Main Phase this turn, in addition to your Normal Summon/Set (you can only gain this effect once per turn), also, you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except \"Noble Knight\" monsters.",
+    "newText": "If you control a \"Noble Arms\" Equip Spell, you can Special Summon this card (from your hand). You can only Special Summon \"Noble Knight Custennin\" once per turn this way. A \"Noble Knight\" monster that was Synchro, Xyz or Link Summoned using this card on the field as material gains this effect.\n●If this card is Special Summoned, you can: During your Main Phase this turn, you can Normal Summon 1 monster in addition to your Normal Summon/Set (you can only gain this effect once per turn), also, you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except \"Noble Knight\" monsters.",
+    "author": "gallantron",
+    "lastPrint": "2018-07-27",
+    "lastUpdated": "2021-01-26",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13984&request_locale=ja",
+        "title": "Card FAQ – Noble Knight Custennin",
+        "date": "2021-01-26",
+        "desc": "In the Official Card Game, the effect granted to a monster summoned using Noble Knight Custennin is optional to activate."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13984&request_locale=ja",
+        "title": "Card FAQ – Noble Knight Custennin",
+        "date": "2021-01-26",
+        "desc": "In the Official Card Game, the effect granted to a monster summoned using Noble Knight Custennin allows Normal Summoning any monster – not only a \"Noble Knight\" monster."
       }
     ]
   }

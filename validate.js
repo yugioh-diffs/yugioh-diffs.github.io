@@ -136,6 +136,8 @@ document.addEventListener('DOMContentLoaded', () =>
             {
                 LOG('Done processing. Offering json file for download.');
                 jsonFile = JSON.stringify(data, null, 2);
+                if (!jsonFile.endsWith('\n'))
+                    jsonFile += '\n';
                 document.getElementById('json').disabled = false;
             }
             else
