@@ -2819,7 +2819,7 @@
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=15741&request_locale=ja",
-        "title": "Card FAQ – Saros Eresh Kurnugias",
+        "title": "Card FAQ – Underworld Goddess of the Closed World",
         "date": "2021-01-18",
         "desc": "In the Official Card Game, Underworld Goddess of the Closed World's Quick Effect can be activated in response to any effect that includes Special Summoning from the GY.\nIts TCG text omits the crucial word \"includes\" for what we assume to be text box constraints. We opt to use \"effect that includes Special Summoning\" over \"effect that includes an effect to Special Summon\" for the same reasons."
       },
@@ -2924,6 +2924,42 @@
         "title": "Q&A #12280",
         "date": "2021-01-02",
         "desc": "If Buster Gundil the Cubic Behemoth is sent to your GY by your opponent using the effect of your Summon Over, it is sent to the GY by your opponent, using your card.\nIn the Official Card Game, the effect of Buster Gundil the Cubic Behemoth can then be activated."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15741&request_locale=en",
+        "title": "Underworld Goddess of the Closed World",
+        "date": "2021-01-26",
+        "desc": "The opponent Link Summoning their Underworld Goddess of the Closed World is another example where the TCG's addition of \"card\" may cause confusion."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7934&request_locale=en",
+        "title": "Gozen Match",
+        "date": "2020-12-29",
+        "desc": "An opponent's Gozen Match is an example of a card where the TCG's addition of \"card\" may cause confusion."
+      }
+    ]
+  },
+  {
+    "id": 12521,
+    "icon": "effect",
+    "name": "Indiora Doom Volt the Cubic Emperor",
+    "oldText": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 3 \"Cubic\" monsters you control to the Graveyard, and cannot be Special Summoned by other ways. If Summoned this way, this card gains 2400 ATK. If this card is Special Summoned from the hand: Inflict 800 damage to your opponent. If this card in your possession is sent to your Graveyard by your opponent's card (by battle or card effect): You can target up to 3 \"Cubic\" monsters in your Graveyard; Special Summon them, then you can add 1 \"Cubic\" card from your Deck or Graveyard to your hand.",
+    "newText": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 3 \"Cubic\" monsters you control to the Graveyard. If Summoned this way, this card gains 2400 ATK. If this card is Special Summoned from the hand: Inflict 800 damage to your opponent. If this card in your possession is sent to your Graveyard by your opponent: You can target up to 3 \"Cubic\" monsters in your Graveyard; Special Summon them, then you can add 1 \"Cubic\" card from your Deck or Graveyard to your hand.",
+    "author": "gallantron",
+    "lastPrint": "2020-01-24",
+    "lastUpdated": "2021-02-12",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12521&request_locale=ja",
+        "title": "Indiora Doom Volt the Cubic Emperor",
+        "date": "2021-02-12",
+        "desc": "In the Official Card Game, Indiora Doom Volt the Cubic Emperor uses \"sent to the GY by your opponent\", with no additional qualifiers."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12280&request_locale=ja",
+        "title": "Q&A #12280",
+        "date": "2021-01-02",
+        "desc": "If Indiora Doom Volt the Cubic Emperor is sent to your GY by your opponent using the effect of your Summon Over, it is sent to the GY by your opponent, using your card.\nIn the Official Card Game, the effect of Indiora Doom Volt the Cubic Emperor can then be activated."
       },
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15741&request_locale=en",
