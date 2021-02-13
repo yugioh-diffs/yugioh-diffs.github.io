@@ -116,7 +116,7 @@
   {
     "id": 9894,
     "oldText": "Once per turn: You can equip 1 \"Inzektor\" monster from your hand or Graveyard to this card. If an Equip Card(s) is sent to your Graveyard while equipped to this card (except during the Damage Step): You can Special Summon 1 \"Inzektor\" monster from your Deck, except \"Inzektor Dragonfly\". While this card is equipped to a monster, that monster's Level is increased by 3.",
-    "newText": "Once per turn: You can equip 1 \"Inzektor\" monster from your hand or Graveyard to this card. Each time an Equip Card(s) is sent to your Graveyard while equipped to this card (except during the Damage Step): You can Special Summon 1 \"Inzektor\" monster from your Deck, except \"Inzektor Dragonfly\". While this card is equipped to a monster, that monster's Level is increased by 3.",
+    "newText": "Once per turn: You can equip 1 \"Inzektor\" monster from your hand or GY to this card. Each time an Equip Card(s) is sent to your GY while equipped to this card (except during the Damage Step): You can Special Summon 1 \"Inzektor\" monster from your Deck, except \"Inzektor Dragonfly\". While this card is equipped to a monster, that monster's Level is increased by 3.",
     "author": "pazim",
     "references": [
       {
@@ -152,7 +152,7 @@
   {
     "id": 13002,
     "oldText": "During damage calculation, if your Attack Position monster battles an opponent's Attack Position monster with higher ATK: The controller of the battling monster with lower ATK can pay 500 LP for that monster to gain 500 ATK during damage calculation only, then keep repeating this effect until a player chooses not to pay LP. Neither player takes any battle damage from that battle, also, after damage calculation, if any player's monster would be destroyed by that battle, send all cards that player controls to the Graveyard instead.",
-    "newText": "During damage calculation, if your Attack Position monster battles an opponent's Attack Position monster with higher ATK: The controller of the battling monster with lower ATK can pay 500 LP for that monster to gain 500 ATK during damage calculation only, then keep repeating this effect until a player chooses not to pay LP. Neither player takes any battle damage from that battle, also, after damage calculation, if any player's monster was destroyed by that battle, send all cards that player controls to the Graveyard.",
+    "newText": "During damage calculation, if your Attack Position monster battles an opponent's Attack Position monster with higher ATK: The controller of the battling monster with lower ATK can pay 500 LP for that monster to gain 500 ATK during damage calculation only, then keep repeating this effect until a player chooses not to pay LP. Neither player takes any battle damage from that battle, also, after damage calculation, if any player's monster was destroyed by that battle, send all cards that player controls to the GY.",
     "author": "gallantron",
     "references": [
       {
@@ -224,7 +224,7 @@
   {
     "id": 12316,
     "oldText": "You can Ritual Summon this card with \"Amorphous Persona\". If this card is Ritual Summoned: Your opponent skips their next Main Phase 1. Negate the effects of face-up Fusion, Synchro, and Xyz Monsters while they are on the field. If this card is sent from the field to the Graveyard: You can add 1 \"Dracoverlord\" monster from your Deck to your hand, except \"Amorphactor Pain, the Imagination Dracoverlord\".",
-    "newText": "You can Ritual Summon this card with \"Amorphous Persona\". After this card is Ritual Summoned, your opponent skips their next Main Phase 1. Negate the effects of face-up Fusion, Synchro, and Xyz Monsters while they are on the field. If this card is sent from the field to the Graveyard: You can add 1 \"Dracoverlord\" monster from your Deck to your hand, except \"Amorphactor Pain, the Imagination Dracoverlord\".",
+    "newText": "You can Ritual Summon this card with \"Amorphous Persona\". After this card is Ritual Summoned, your opponent skips their next Main Phase 1. Negate the effects of face-up Fusion, Synchro, and Xyz Monsters while they are on the field. If this card is sent from the field to the GY: You can add 1 \"Dracoverlord\" monster from your Deck to your hand, except \"Amorphactor Pain, the Imagination Dracoverlord\".",
     "author": "pazim",
     "references": [
       {
@@ -1070,7 +1070,7 @@
   {
     "id": 12827,
     "oldText": "Your opponent cannot target other \"SPYRAL\" cards you control with card effects. Once per turn: You can add 1 \"SPYRAL\" monster from your Deck to your hand. Once per turn, during your End Phase, shuffle 1 monster from your Graveyard into the Deck or destroy this card.",
-    "newText": "Your opponent cannot target other \"SPYRAL\" cards you control with card effects. Once per turn: You can add 1 \"SPYRAL\" monster from your Deck to your hand. Once per turn, during your End Phase, shuffle 1 monster from your Graveyard into the Main Deck or destroy this card.",
+    "newText": "Your opponent cannot target other \"SPYRAL\" cards you control with card effects. Once per turn: You can add 1 \"SPYRAL\" monster from your Deck to your hand. Once per turn, during your End Phase, shuffle 1 monster from your GY into the Main Deck or destroy this card.",
     "author": "pazim",
     "references": [
       {
@@ -1256,7 +1256,7 @@
   {
     "id": 9455,
     "oldText": "During either player's turn: You can send this card from your hand to the Graveyard; this turn, each time your opponent Special Summons a monster(s), immediately draw 1 card. You can only use 1 \"Maxx \"C\"\" per turn.",
-    "newText": "During either player's turn: You can send this card from your hand to the Graveyard; this turn, each time your opponent Special Summons a monster(s), immediately draw 1 card. You can only use this effect of \"Maxx \"C\"\" once per turn.",
+    "newText": "During either player's turn: You can send this card from your hand to the GY; this turn, each time your opponent Special Summons a monster(s), immediately draw 1 card. You can only use this effect of \"Maxx \"C\"\" once per turn.",
     "author": "gallantron",
     "references": [
       {
@@ -1400,7 +1400,7 @@
   {
     "id": 11746,
     "oldText": "This card gains these effects depending on the number of face-up \"Zefra\" monsters with different names in your Extra Deck.\n●3 or more: Monsters you control gain 100 ATK for each face-up card in any Extra Deck.\n●5 or more: Monsters you control cannot be destroyed by an opponent's card effects.\n●8 or more: Monsters you control cannot be targeted by an opponent's card effects.\n●10: You can send this card to the Graveyard; shuffle all cards from your opponent's hand, field, and Graveyard into the Deck.",
-    "newText": "This card gains these effects depending on the number of face-up \"Zefra\" monsters with different names in your Extra Deck.\n●3 or more: Monsters you control gain 100 ATK for each face-up card in any Extra Deck.\n●5 or more: Monsters you control cannot be destroyed by an opponent's card effects.\n●8 or more: Monsters you control cannot be targeted by an opponent's card effects.\n●10: You can send this face-up card to the GY; shuffle all cards from your opponent's hand, field, and Graveyard into the Deck.",
+    "newText": "This card gains these effects depending on the number of face-up \"Zefra\" monsters with different names in your Extra Deck.\n●3 or more: Monsters you control gain 100 ATK for each face-up card in any Extra Deck.\n●5 or more: Monsters you control cannot be destroyed by an opponent's card effects.\n●8 or more: Monsters you control cannot be targeted by an opponent's card effects.\n●10: You can send this face-up card to the GY; shuffle all cards from your opponent's hand, field, and GY into the Deck.",
     "author": "gallantron",
     "references": [
       {
@@ -2944,7 +2944,7 @@
     "icon": "effect",
     "name": "Indiora Doom Volt the Cubic Emperor",
     "oldText": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 3 \"Cubic\" monsters you control to the Graveyard, and cannot be Special Summoned by other ways. If Summoned this way, this card gains 2400 ATK. If this card is Special Summoned from the hand: Inflict 800 damage to your opponent. If this card in your possession is sent to your Graveyard by your opponent's card (by battle or card effect): You can target up to 3 \"Cubic\" monsters in your Graveyard; Special Summon them, then you can add 1 \"Cubic\" card from your Deck or Graveyard to your hand.",
-    "newText": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 3 \"Cubic\" monsters you control to the Graveyard. If Summoned this way, this card gains 2400 ATK. If this card is Special Summoned from the hand: Inflict 800 damage to your opponent. If this card in your possession is sent to your Graveyard by your opponent: You can target up to 3 \"Cubic\" monsters in your Graveyard; Special Summon them, then you can add 1 \"Cubic\" card from your Deck or Graveyard to your hand.",
+    "newText": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 3 \"Cubic\" monsters you control to the GY. If Summoned this way, this card gains 2400 ATK. If this card is Special Summoned from the hand: Inflict 800 damage to your opponent. If this card in your possession is sent to your GY by your opponent: You can target up to 3 \"Cubic\" monsters in your GY; Special Summon them, then you can add 1 \"Cubic\" card from your Deck or GY to your hand.",
     "author": "gallantron",
     "lastPrint": "2020-01-24",
     "lastUpdated": "2021-02-12",
@@ -3022,7 +3022,7 @@
     "icon": "effect",
     "name": "Tamtam the Melodious Diva",
     "oldText": "If this card is Special Summoned while you control a \"Melodious\" monster: You can add 1 \"Polymerization\" from your Deck or Graveyard to your hand. If this card is sent to the Graveyard as a Fusion Material for a Fusion Summon: You can target 1 \"Melodious\" monster you control; it loses 500 ATK, and if it does, inflict 500 damage to your opponent.",
-    "newText": "If this card is Special Summoned while you control a \"Melodious\" monster: You can add 1 \"Polymerization\" from your Deck or Graveyard to your hand. If this card is sent to the Graveyard as Fusion Material for a Fusion Summon: You can target 1 \"Melodious\" monster you control; it loses exactly 500 ATK, and if it does, inflict 500 damage to your opponent.",
+    "newText": "If this card is Special Summoned while you control a \"Melodious\" monster: You can add 1 \"Polymerization\" from your Deck or GY to your hand. If this card is sent to the GY as Fusion Material for a Fusion Summon: You can target 1 \"Melodious\" monster you control; it loses exactly 500 ATK, and if it does, inflict 500 damage to your opponent.",
     "author": "gallantron",
     "lastPrint": "2016-09-02",
     "lastUpdated": "2021-02-12",
