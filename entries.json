@@ -223,7 +223,7 @@
   },
   {
     "id": 12316,
-    "oldText": "You can Ritual Summon this card with \"Amorphous Persona\". If this card is Ritual Summoned: Your opponent skips their next Main Phase 1. Negate the effects of face-up Fusion, Synchro, and Xyz Monsters while they are on the field. If this card is sent from the field to the Graveyard: You can add 1 \"Dracoverlord\" monster from your Deck to your hand, except \"Amorphactor Pain, the Imagination Dracoverlord\".",
+    "oldText": "You can Ritual Summon this card with \"Amorphous Persona\". If this card is Ritual Summoned: Your opponent skips their next Main Phase 1. Negate the effects of face-up Fusion, Synchro, and Xyz Monsters while they are on the field. If this card is sent from the field to the GY: You can add 1 \"Dracoverlord\" monster from your Deck to your hand, except \"Amorphactor Pain, the Imagination Dracoverlord\".",
     "newText": "You can Ritual Summon this card with \"Amorphous Persona\". After this card is Ritual Summoned, your opponent skips their next Main Phase 1. Negate the effects of face-up Fusion, Synchro, and Xyz Monsters while they are on the field. If this card is sent from the field to the GY: You can add 1 \"Dracoverlord\" monster from your Deck to your hand, except \"Amorphactor Pain, the Imagination Dracoverlord\".",
     "author": "pazim",
     "references": [
@@ -236,7 +236,7 @@
     ],
     "name": "Amorphactor Pain, the Imagination Dracoverlord",
     "lastUpdated": "2020-09-17",
-    "lastPrint": "2016-05-06",
+    "lastPrint": "2021-02-05",
     "icon": "ritual"
   },
   {
@@ -3038,6 +3038,48 @@
         "title": "Meteonis Drytron",
         "date": "2021-02-12",
         "desc": "Meteonis Drytron is an example of a card that uses the revised textual construct."
+      }
+    ]
+  },
+  {
+    "id": 14065,
+    "icon": "effect",
+    "name": "Alviss of the Nordic Alfar",
+    "oldText": "If only this card is banished by the effect of a \"Nordic\" Link Monster: You can send to the GY, 1 \"Nordic\" monster you control and 2 \"Nordic\" monsters from your Deck, whose total Levels equal 10, then Special Summon 1 \"Aesir\" monster from your Extra Deck. If an \"Aesir\" monster(s) in your possession is sent to your GY by your opponent's card: You can banish this card from your GY; Special Summon 1 \"Aesir\" monster from your Extra Deck, with a different name from the cards in your GY. You can only use this effect of \"Alviss of the Nordic Alfar\" once per Duel.",
+    "newText": "If only this card is banished by the effect of a \"Nordic\" Link Monster: You can send to the GY, 1 \"Nordic\" monster you control and 2 \"Nordic\" monsters from your Deck, whose total Levels equal 10, then Special Summon 1 \"Aesir\" monster from your Extra Deck. If an \"Aesir\" monster(s) in your possession is sent to your GY by your opponent, except by battle: You can banish this card from your GY; Special Summon 1 \"Aesir\" monster from your Extra Deck, with a different name from the cards in your GY. You can only use this effect of \"Alviss of the Nordic Alfar\" once per Duel.",
+    "author": "gallantron",
+    "lastPrint": "2018-10-19",
+    "lastUpdated": "2021-02-17",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14065&request_locale=ja",
+        "title": "Alviss of the Nordic Alfar",
+        "date": "2021-02-17",
+        "desc": "In the Official Card Game, Alviss of the Nordic Alfar's effect cannot be activated if an \"Aesir\" is destroyed by battle."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12521&request_locale=ja",
+        "title": "Indiora Doom Volt the Cubic Emperor",
+        "date": "2021-02-12",
+        "desc": "In the Official Card Game, Alviss of the Nordic Alfar uses \"sent to the GY by your opponent\", without the addition of \"opponent's card\"."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12280&request_locale=ja",
+        "title": "Q&A #12280",
+        "date": "2021-01-02",
+        "desc": "If an \"Aesir\" is sent to your GY by your opponent using the effect of your Summon Over, it is sent to the GY by your opponent, using your card.\nIn the Official Card Game, the effect of Alviss of the Nordic Alfar can then be activated."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15741&request_locale=en",
+        "title": "Underworld Goddess of the Closed World",
+        "date": "2021-01-26",
+        "desc": "The opponent Link Summoning their Underworld Goddess of the Closed World is another example where the TCG's addition of \"card\" may cause confusion."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7934&request_locale=en",
+        "title": "Gozen Match",
+        "date": "2020-12-29",
+        "desc": "An opponent's Gozen Match is an example of a card where the TCG's addition of \"card\" may cause confusion."
       }
     ]
   }
