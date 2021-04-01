@@ -3076,5 +3076,23 @@
         "desc": "In the Official Card Game, Ojama Country's first effect is activated by targeting an \"Ojama\" monster."
       }
     ]
+  },
+  {
+    "id": 15865,
+    "icon": "link",
+    "name": "Sunvine Gardna",
+    "oldText": "1 Plant Normal Monster\nIf a \"Sunavalon\" Link Monster you control leaves the field by card effect: Destroy this card. When an attack is declared involving this card, linked to a \"Sunavalon\" Link Monster, and an opponent's monster: You can activate this effect; the damage you take from that battle is halved. When this card is destroyed by battle: End the Battle Phase after the Damage Step.",
+    "newText": "1 Plant Normal Monster\nIf a \"Sunavalon\" Link Monster you control leaves the field by card effect: Destroy this card. When an attack is declared involving this card, linked to a \"Sunavalon\" Link Monster, and an opponent's monster: You can activate this effect; the damage you take from that battle is halved. When this card is destroyed by battle: You can activate this effect; End the Battle Phase after the Damage Step.",
+    "author": "gallantron",
+    "lastPrint": "2021-04-16",
+    "lastUpdated": "2021-04-01",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=15865&request_locale=ja",
+        "title": "Card FAQ – Sunvine Gardna",
+        "date": "2021-04-01",
+        "desc": "In the Official Card Game, Sunvine Gardna's effect that ends the Battle Phase is optional to activate."
+      }
+    ]
   }
 ]
