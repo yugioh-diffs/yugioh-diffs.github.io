@@ -2754,7 +2754,7 @@
     "oldText": "Target 1 Beast monster in your GY; Special Summon that target, and if you do, all face-up monsters your opponent currently controls lose 200 ATK for each Beast, Plant, and Winged Beast monster currently in your GY, until the end of this turn. You can only activate 1 \"Ayers Rock Sunrise\" per turn.",
     "newText": "Target 1 Beast monster in your GY; Special Summon that target, and if you do, all face-up monsters your opponent currently controls (if any) lose 200 ATK for each Beast, Plant, and Winged Beast monster currently in your GY (if any), until the end of this turn. You can only activate 1 \"Ayers Rock Sunrise\" per turn.",
     "author": "gallantron",
-    "lastPrint": "2020-09-11",
+    "lastPrint": "2021-05-07",
     "lastUpdated": "2021-01-14",
     "references": [
       {
@@ -3128,6 +3128,36 @@
         "title": "Dragunity Arma Gram",
         "date": "2021-04-23",
         "desc": "Dragunity Arma Gram's TCG text has a misplaced colon where a semi-colon should be. Its text, as it stands, doesn't make a whole lot of sense."
+      }
+    ]
+  },
+  {
+    "id": 15737,
+    "icon": "xyz",
+    "name": "Springans Ship - Exblowrer",
+    "oldText": "2+ Level 8 monsters\nYou can choose 1 of your opponent's Monster Zones or Spell & Trap Zones; detach any number of materials from this card, and if you do, destroy the same number of cards your opponent controls in that chosen zone and its adjacent Monster Zones and/or Spell & Trap Zones. During your opponent's Main or Battle Phase (Quick Effect): You can banish this card until the End Phase. You can only use each effect of \"Springans Ship - Exblowrer\" once per turn.",
+    "newText": "You can choose 1 of your opponent's Monster Zones or Spell & Trap Zones; detach any number of materials from this card, and if you do, destroy the same number of cards your opponent controls in that chosen zone, and/or that are directly above, directly below, or adjacent to the chosen zone. During your opponent's Main or Battle Phase (Quick Effect): You can banish this card until the End Phase. You can only use each effect of \"Springans Ship - Exblowrer\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2021-02-05",
+    "lastUpdated": "2021-05-02",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13377&request_locale=en",
+        "title": "Shelrokket Dragon",
+        "date": "2021-05-02",
+        "desc": "Shelrokket Dragon is another example of a card that references \"adjacent\" zones."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21518&request_locale=ja",
+        "title": "Q&A #21518",
+        "date": "2021-05-02",
+        "desc": "\"Adjacent\" zones, in Shelrokket Dragon's text, only refers to zones to the right/left of the zone in question."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15737&request_locale=ja",
+        "title": "Springans Ship - Exblowrer",
+        "date": "2021-05-02",
+        "desc": "In the Official Card Game, Springans Ship - Exblowrer's text specifically includes zones that are directly above and below the chosen zone."
       }
     ]
   }
