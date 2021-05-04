@@ -854,7 +854,7 @@
   {
     "id": 13849,
     "oldText": "Fusion Summon 1 Fusion Monster from your Extra Deck that lists a \"Cyber Dragon\" monster as material, by shuffling the Fusion Materials listed on it into the Deck, from among your cards on the field and/or your face-up banished cards, but monsters you control cannot attack for the rest of this turn, except that Fusion Summoned monster. You can only activate 1 \"Cyberload Fusion\" per turn.",
-    "newText": "Fusion Summon 1 Fusion Monster from your Extra Deck, by shuffling the Fusion Materials listed on it into the Deck, including a \"Cyber Dragon\" monster it lists as material, from among the monsters on your field and/or your face-up banished cards, but monsters you control cannot attack for the rest of this turn, except that Fusion Summoned monster. You can only activate 1 \"Cyberload Fusion\" per turn.",
+    "newText": "Fusion Summon 1 Fusion Monster from your Extra Deck, by shuffling the Fusion Materials listed on it into the Deck, including a \"Cyber Dragon\" monster that it lists as material, from among the monsters on your field and/or your face-up banished cards, but monsters you control cannot attack for the rest of this turn, except that Fusion Summoned monster. You can only activate 1 \"Cyberload Fusion\" per turn.",
     "author": "gallantron",
     "references": [
       {
@@ -877,7 +877,7 @@
       }
     ],
     "name": "Cyberload Fusion",
-    "lastUpdated": "2020-04-13",
+    "lastUpdated": "2021-04-05",
     "lastPrint": "2021-01-22",
     "icon": "spell"
   },
@@ -938,7 +938,7 @@
   {
     "id": 11843,
     "oldText": "Fusion Summon 1 Fusion Monster that lists a \"Red-Eyes\" monster as material from your Extra Deck, using monsters from your hand, Deck, or field as Fusion Materials, and if you do, its name becomes \"Red-Eyes Black Dragon\". You cannot Normal or Special Summon other monsters the turn you activate this card. You can only activate 1 \"Red-Eyes Fusion\" per turn.",
-    "newText": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand, Deck, or field as Fusion Materials, including a \"Red-Eyes\" monster it lists as material, and if you do, its name becomes \"Red-Eyes Black Dragon\". You cannot Normal or Special Summon other monsters the turn you activate this card. You can only activate 1 \"Red-Eyes Fusion\" per turn.",
+    "newText": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand, Deck, or field as Fusion Materials, including a \"Red-Eyes\" monster that it lists as material, and if you do, its name becomes \"Red-Eyes Black Dragon\". You cannot Normal or Special Summon other monsters the turn you activate this card. You can only activate 1 \"Red-Eyes Fusion\" per turn.",
     "author": "gallantron",
     "references": [
       {
@@ -955,7 +955,7 @@
       }
     ],
     "name": "Red-Eyes Fusion",
-    "lastUpdated": "2020-04-09",
+    "lastUpdated": "2021-04-05",
     "lastPrint": "2020-07-03",
     "icon": "spell"
   },
@@ -1280,7 +1280,7 @@
   {
     "id": 12167,
     "oldText": "Fusion Summon 1 Fusion Monster that lists \"Buster Blader\" as material from your Extra Deck, using monsters from your hand or either field as Fusion Material. If this card is in your GY: You can send 1 card from your hand to the GY; add this card to your hand. You can only use each effect of \"Destruction Swordsman Fusion\" once per turn.",
-    "newText": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or either field as Fusion Material, including a \"Buster Blader\" it lists as material. If this card is in your GY: You can send 1 card from your hand to the GY; add this card to your hand. You can only use each effect of \"Destruction Swordsman Fusion\" once per turn.",
+    "newText": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or either field as Fusion Material, including a \"Buster Blader\" that it lists as material. If this card is in your GY: You can send 1 card from your hand to the GY; add this card to your hand. You can only use each effect of \"Destruction Swordsman Fusion\" once per turn.",
     "author": "gallantron",
     "references": [
       {
@@ -1291,14 +1291,14 @@
       }
     ],
     "name": "Destruction Swordsman Fusion",
-    "lastUpdated": "2020-12-25",
+    "lastUpdated": "2021-04-05",
     "lastPrint": "2020-11-26",
     "icon": "spell"
   },
   {
     "id": 8988,
     "oldText": "Fusion Summon 1 Fusion Monster from your Extra Deck that lists a Synchro Monster as material, by banishing Fusion Materials listed on it from your field or GY. If this Set card is destroyed by your opponent's card effect and sent to your GY: Draw 1 card.",
-    "newText": "Fusion Summon 1 Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your field or GY, including a Synchro Monster it lists as material. If this Set card is destroyed by your opponent's card effect and sent to your GY: Draw 1 card.",
+    "newText": "Fusion Summon 1 Fusion Monster from your Extra Deck, by banishing Fusion Materials listed on it from your field or GY, including a Synchro Monster that it lists as material. If this Set card is destroyed by your opponent's card effect and sent to your GY: Draw 1 card.",
     "author": "gallantron",
     "references": [
       {
@@ -1315,14 +1315,14 @@
       }
     ],
     "name": "Miracle Synchro Fusion",
-    "lastUpdated": "2020-12-25",
+    "lastUpdated": "2021-04-05",
     "lastPrint": "2021-04-16",
     "icon": "spell"
   },
   {
     "id": 14304,
     "oldText": "Fusion Summon 1 Fusion Monster from your Extra Deck that lists a \"Destiny HERO\" monster as material, using monsters from your hand or Deck as Fusion Material, but destroy it during the End Phase of the next turn, also for the rest of this turn after this card resolves, you cannot Special Summon monsters, except DARK \"HERO\" monsters. You can only activate 1 \"Fusion Destiny\" per turn.",
-    "newText": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or Deck as Fusion Material, including a \"Destiny HERO\" monster it lists as material, but destroy it during the End Phase of the next turn, also for the rest of this turn after this card resolves, you cannot Special Summon monsters, except DARK \"HERO\" monsters. You can only activate 1 \"Fusion Destiny\" per turn.",
+    "newText": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or Deck as Fusion Material, including a \"Destiny HERO\" monster that it lists as material, but destroy it during the End Phase of the next turn, also for the rest of this turn after this card resolves, you cannot Special Summon monsters, except DARK \"HERO\" monsters. You can only activate 1 \"Fusion Destiny\" per turn.",
     "author": "gallantron",
     "references": [
       {
@@ -1339,7 +1339,7 @@
       }
     ],
     "name": "Fusion Destiny",
-    "lastUpdated": "2020-12-25",
+    "lastUpdated": "2021-04-05",
     "lastPrint": "2020-08-28",
     "icon": "spell"
   },
