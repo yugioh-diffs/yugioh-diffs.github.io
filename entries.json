@@ -3250,5 +3250,23 @@
         "desc": "Altergeist Multifaker is an example of a card that uses the revised textual construct."
       }
     ]
+  },
+  {
+    "id": 15769,
+    "icon": "trap",
+    "name": "E.M.R.",
+    "oldText": "Tribute 1 Machine monster, then target 1 card on the field for every 1000 original ATK of the Tributed monster; destroy those cards.",
+    "newText": "Tribute 1 Machine monster, then target cards on the field, up to 1 card for every 1000 original ATK of the Tributed monster; destroy those cards.",
+    "author": "gallantron",
+    "lastPrint": "2021-02-05",
+    "lastUpdated": "2021-05-17",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15769&request_locale=ja",
+        "title": "E.M.R.",
+        "date": "2021-05-17",
+        "desc": "In the Official Card Game, E.M.R. does not require the user to target exactly one card for every 1000 original ATK of the Tributed monster. (Fewer cards can also be targeted.)"
+      }
+    ]
   }
 ]
