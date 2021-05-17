@@ -3168,7 +3168,7 @@
     "oldText": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Rise of the Snake Deity\" or by its own effect. Gains 500 ATK for each Reptile monster in your GY. Neither player can target this card with card effects, also it is unaffected by other cards and their effects. When this card is destroyed by battle and sent to the GY: You can banish 1 other Reptile monster from your GY; Special Summon this card. When this card inflicts battle damage to your opponent: Place 1 Hyper-Venom Counter on it. When the 3rd Hyper-Venom Counter is placed on this card, you win the Duel.",
     "newText": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Rise of the Snake Deity\" and cannot be Special Summoned by other ways except by its own effect. Gains 500 ATK for each Reptile monster in your GY. Neither player can target this card with card effects, also it is unaffected by other cards and their effects. When this card is destroyed by battle and sent to the GY: You can banish 1 other Reptile monster from your GY; Special Summon this card. If this card inflicts battle damage to your opponent: Place 1 Hyper-Venom Counter on it. When the 3rd Hyper-Venom Counter is placed on this card, you win the Duel.",
     "author": "gallantron",
-    "lastPrint": "2021-05-06",
+    "lastPrint": "2021-05-07",
     "lastUpdated": "2021-05-06",
     "references": [
       {
@@ -3182,6 +3182,72 @@
         "title": "Stardust Dragon/Assault Mode",
         "date": "2021-05-06",
         "desc": "Stardust Dragon/Assault Mode is another example of a card using the revised textual construct."
+      }
+    ]
+  },
+  {
+    "id": 16077,
+    "icon": "effect",
+    "name": "Aron, the Ogdoadic King",
+    "oldText": "If this card is in your GY: You can Tribute 2 monsters; Special Summon this card. If your opponent adds a card(s) to their hand (except during the Draw Phase or Damage Step): You can send 1 random card from their hand to the GY. If a monster(s) your opponent controls is sent to the GY (except during the Damage Step): You can add 1 LIGHT or DARK Reptile monster from your Deck or GY to your hand, except \"Aron, the Ogdoadic King\". You can only use each effect of \"Aron, the Ogdoadic King\" once per turn.",
+    "newText": "If this card is in your GY: You can Tribute 2 monsters; Special Summon this card. If your opponent adds a card(s) to their hand (except during the Draw Phase or Damage Step): You can send 1 random card from their hand to the GY. If a monster(s) your opponent controls is sent to the GY by a card effect (except during the Damage Step): You can add 1 LIGHT or DARK Reptile monster from your Deck or GY to your hand, except \"Aron, the Ogdoadic King\". You can only use each effect of \"Aron, the Ogdoadic King\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2021-05-07",
+    "lastUpdated": "2021-05-17",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16077&request_locale=ja",
+        "title": "Aron, the Ogdoadic King",
+        "date": "2021-05-16",
+        "desc": "In the Official Card Game, Aron, the Ogdoadic King's effect that adds a LIGHT or DARK Reptile to the hand can only be activated if a monster is sent to the GY by a card effect. (It cannot be activated if, for example, a monster is used as Link Material.)"
+      }
+    ]
+  },
+  {
+    "id": 15716,
+    "icon": "effect",
+    "name": "Ancient Warriors - Rebellious Lu Feng",
+    "oldText": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by controlling the highest ATK \"Ancient Warriors\" monster on the field (even if it's tied). You can only Special Summon \"Ancient Warriors - Rebellious Lu Feng\" once per turn this way. Once per turn, during the Main Phase (Quick Effect): You can destroy the 1 face-up monster your opponent controls with the highest ATK (your choice, if tied), also you cannot activate monster effects the turn you activate this effect, except \"Ancient Warriors\" monsters'. Once per turn, during the End Phase, if your opponent controls a monster with the highest ATK on the field (even if tied): Give control of this card to your opponent.",
+    "newText": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by controlling the highest ATK \"Ancient Warriors\" monster on the field (even if it's tied). You can only Special Summon \"Ancient Warriors - Rebellious Lu Feng\" once per turn this way. Once per turn, during the Main Phase (Quick Effect): You can destroy the 1 face-up monster your opponent controls with the highest ATK (your choice, if tied). You cannot activate monster effects the turn you activate this effect, except \"Ancient Warriors\" monsters'. Once per turn, during the End Phase, if your opponent controls a monster with the highest ATK on the field (even if tied): Give control of this card to your opponent.",
+    "author": "gallantron",
+    "lastPrint": "2021-02-05",
+    "lastUpdated": "2021-05-17",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15716&request_locale=ja",
+        "title": "Ancient Warriors - Rebellious Lu Feng",
+        "date": "2021-05-16",
+        "desc": "In the Official Card Game, the text that prevents monster effects, except \"Ancient Warriors\" monsters', from being activated during the same turn as Lu Feng's effect, is not itself an effect."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13463&request_locale=en",
+        "title": "Altergeist Multifaker",
+        "date": "2021-05-16",
+        "desc": "Altergeist Multifaker is an example of a card that uses the revised textual construct."
+      }
+    ]
+  },
+  {
+    "id": 15470,
+    "icon": "effect",
+    "name": "Toon Black Luster Soldier",
+    "oldText": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing Toon monsters from your hand or field, whose total Levels equal 8 or more. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack directly. Once per turn, if you control \"Toon World\": You can target 1 card on the field; banish it, also this card cannot attack the turn this effect is activated.",
+    "newText": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing Toon monsters from your hand or field, whose total Levels equal 8 or more. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack directly. Once per turn, if you control \"Toon World\": You can target 1 card on the field; banish it. This card cannot attack the turn this effect is activated.",
+    "author": "gallantron",
+    "lastPrint": "2020-06-19",
+    "lastUpdated": "2021-05-17",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15470&request_locale=ja",
+        "title": "Toon Black Luster Soldier",
+        "date": "2021-05-17",
+        "desc": "In the Official Card Game, the text that prevents Toon Black Luster Soldier from attacking during the turn its effect is activated is not an effect."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13463&request_locale=en",
+        "title": "Altergeist Multifaker",
+        "date": "2021-05-17",
+        "desc": "Altergeist Multifaker is an example of a card that uses the revised textual construct."
       }
     ]
   }
