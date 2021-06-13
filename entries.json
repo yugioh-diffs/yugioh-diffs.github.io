@@ -3268,5 +3268,23 @@
         "desc": "In the Official Card Game, E.M.R. does not require the user to target exactly one card for every 1000 original ATK of the Tributed monster. (Fewer cards can also be targeted.)"
       }
     ]
+  },
+  {
+    "id": 10617,
+    "icon": "effect",
+    "name": "Umbral Horror Will o' the Wisp",
+    "oldText": "When this card is Normal or Special Summoned: You can target 1 \"Umbral Horror\" monster you control or in your Graveyard, except this card; this card's Level becomes the current Level of that monster. When this Attack Position card is destroyed by battle and sent to the Graveyard, and was in face-up Attack Position at the start of the Damage Step: Destroy the monster that destroyed this card.",
+    "newText": "When this card is Normal or Special Summoned: You can target 1 \"Umbral Horror\" monster you control or in your GY, except this card; this card's Level becomes the current Level of that monster. When this Attack Position card is destroyed by battle and sent to the GY: Destroy the monster that destroyed this card.",
+    "author": "Catmaster0",
+    "lastPrint": "2014-08-29",
+    "lastUpdated": "2021-06-05",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8753&request_locale=ja",
+        "title": "Q&A #8753",
+        "date": "2021-06-05",
+        "desc": "In the Official Card Game, Umbral Horror Will o' the Wisp does not have to be in Attack Position at the start of the Damage Step."
+      }
+    ]
   }
 ]
