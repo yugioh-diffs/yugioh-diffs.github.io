@@ -3484,5 +3484,77 @@
         "desc": "Master Hyperion's current TCG text limits effect activations, not effect usages. This does not match the Japanese original.\nFor example, even if the activation of its second effect is negated by Solemn Strike while Sanctuary of the Sky is face-up, that effect could still not be activated an additional time."
       }
     ]
+  },
+  {
+    "id": 14437,
+    "icon": "link",
+    "name": "Decode Talker Extended",
+    "oldText": "2+ Effect Monsters\nThis card's name becomes \"Decode Talker\" while on the field. Gains 500 ATK for each monster it points to. During your Battle Phase, if a monster this card points to is destroyed by battle or sent to the GY: This card can make a second attack during each Battle Phase this turn.",
+    "newText": "2+ Effect Monsters\nThis card's name becomes \"Decode Talker\" while on the field. Gains 500 ATK for each monster it points to. During your Battle Phase, if a monster this card points to is destroyed by battle or sent to the GY, you can: This card can make a second attack during each Battle Phase this turn.",
+    "author": "gallantron",
+    "lastPrint": "2019-10-11",
+    "lastUpdated": "2021-06-22",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14437&request_locale=ja",
+        "title": "Decode Talker Extended",
+        "date": "2021-06-21",
+        "desc": "In the Official Card Game, the effect of Decode Talker Extended that grants it a second attack is optional to activate."
+      }
+    ]
+  },
+  {
+    "id": 11600,
+    "icon": "trap",
+    "name": "Double Trap Hole",
+    "oldText": "If your opponent Special Summons a monster(s) in Defense Position: Banish those monster(s) that were Summoned in (and currently in) Defense Position.",
+    "newText": "When your opponent Special Summons a monster(s) in Defense Position: Banish those monster(s) that were Summoned in (and are currently in) Defense Position.",
+    "author": "gallantron",
+    "lastPrint": "2015-01-16",
+    "lastUpdated": "2021-06-21",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11600&request_locale=ja",
+        "title": "Card FAQ – Double Trap Hole",
+        "date": "2021-06-21",
+        "desc": "In the Official Card Game, Double Trap Hole cannot be activated if something else happened strictly after the monsters' Summon."
+      }
+    ]
+  },
+  {
+    "id": 8548,
+    "icon": "synchro",
+    "name": "Dragunity Knight - Vajrayana",
+    "oldText": "1 Dragon Tuner + 1+ non-Tuner Winged Beast monsters\nWhen this card is Synchro Summoned: You can target 1 Level 3 or lower Dragon \"Dragunity\" monster in your GY; equip that target to this card. Once per turn: You can send 1 Equip Card equipped to this card to the GY; double this card's ATK until the end of this turn.",
+    "newText": "1 Dragon Tuner + 1+ non-Tuner Winged Beast monsters\nWhen this card is Synchro Summoned: You can target 1 Level 3 or lower Dragon \"Dragunity\" monster in your GY; equip that target to this card. Once per turn: You can send 1 Equip Card you control equipped to this card to the GY; double this card's ATK until the end of this turn.",
+    "author": "gallantron",
+    "lastPrint": "2018-08-17",
+    "lastUpdated": "2021-06-21",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8548&request_locale=ja",
+        "title": "Dragunity Knight - Vajrayana",
+        "date": "2021-06-21",
+        "desc": "In the Official Card Game, Dragunity Knight - Vajrayana's effect can only be activated by sending an Equip Card you control to the GY."
+      }
+    ]
+  },
+  {
+    "id": 14335,
+    "icon": "link",
+    "name": "Duel Link Dragon, the Duel Dragon",
+    "oldText": "2+ monsters, including a Synchro Monster\nDuring the Main Phase (Quick Effect): You can banish 1 \"Power Tool\" Synchro Monster or 1 Level 7 or 8 Dragon Synchro Monster from your Extra Deck; Special Summon 1 \"Duel Dragon Token\" with the same Type, Attribute, Level, ATK and DEF that monster had in the Extra Deck. You can only use this effect of \"Duel Link Dragon, the Duel Dragon\" once per turn. While you control \"Duel Dragon Token\", your opponent's monsters cannot target this card for attacks, also your opponent cannot target this card with card effects.",
+    "newText": "2+ monsters, including a Synchro Monster\nDuring the Main Phase (Quick Effect): You can banish 1 \"Power Tool\" Synchro Monster or 1 Level 7 or 8 Dragon Synchro Monster from your Extra Deck; Special Summon 1 \"Duel Dragon Token\" with the same Type, Attribute, Level, ATK and DEF that monster had in the Extra Deck, to your zone this card points to. You can only use this effect of \"Duel Link Dragon, the Duel Dragon\" once per turn. While you control \"Duel Dragon Token\", your opponent's monsters cannot target this card for attacks, also your opponent cannot target this card with card effects.",
+    "author": "gallantron",
+    "lastPrint": "2020-10-20",
+    "lastUpdated": "2021-06-21",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14335&request_locale=ja",
+        "title": "Duel Link Dragon, the Duel Dragon",
+        "date": "2021-06-21",
+        "desc": "In the Official Card Game, the Duel Dragon Token must be Summoned to a zone that Duel Link Dragon points to."
+      }
+    ]
   }
 ]

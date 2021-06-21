@@ -122,7 +122,7 @@ document.addEventListener('DOMContentLoaded', () =>
         document.getElementById('card-id').value = '';
         document.getElementById('new-text').value = '';
         // document.getElementById('author').value = '';
-        // document.getElementById('date').value = '';
+        document.getElementById('date').value = '';
         for (let i=1; i<4; ++i)
         {
             document.getElementById('ref-'+i+'-url').value = '';
