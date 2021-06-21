@@ -3286,5 +3286,203 @@
         "desc": "In the Official Card Game, Umbral Horror Will o' the Wisp does not have to be in Attack Position at the start of the Damage Step."
       }
     ]
+  },
+  {
+    "id": 16034,
+    "icon": "trap",
+    "name": "Amaze Attraction Majestic Merry-Go-Round",
+    "oldText": "Target 1 \"Amazement\" monster you control or 1 face-up monster your opponent controls; equip this card to it. You can apply the following effect, based on which player controls the equipped monster;\n��You: The equipped monster gains 500 ATK. If it would be destroyed by battle or card effect, you can send this card to the GY instead.\n��Your opponent: The equipped monster loses 500 ATK for each of your \"Attraction\" Traps equipped to a monster(s).\nYou can only use this effect of \"Amaze Attraction Majestic Merry-Go-Round\" once per turn.",
+    "newText": "Target 1 \"Amazement\" monster you control or 1 face-up monster your opponent controls; equip this card to it. Apply the appropriate effect, based on which player controls the equipped monster.\n●You: The equipped monster gains 500 ATK. If it would be destroyed by battle or card effect, you can send this card to the GY instead.\n●Your opponent: The equipped monster loses 500 ATK for each of your \"Attraction\" Traps equipped to a monster(s).",
+    "author": "gallantron",
+    "lastPrint": "2021-06-04",
+    "lastUpdated": "2021-06-21",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16034&request_locale=ja",
+        "title": "Amaze Attraction Majestic Merry-Go-Round",
+        "date": "2021-06-21",
+        "desc": "In the Official Card Game, the bulleted effects of Merry-Go-Round are not activated effects. Additionally, they do not have a restriction on their usage."
+      }
+    ]
+  },
+  {
+    "id": 14578,
+    "icon": "trap",
+    "name": "Battlewasp - Nest",
+    "oldText": "When your \"Battlewasp\" monster is targeted for an attack: Special Summon 1 \"Battlewasp\" monster from your hand or Deck, and if you do, place 1 counter on this card, then end the Battle Phase. You can only use this effect of \"Battlewasp - Nest\" once per turn. If this card has 2 or more counters during the End Phase, send it to the GY.",
+    "newText": "When your \"Battlewasp\" monster is targeted for an attack: You can Special Summon 1 \"Battlewasp\" monster from your hand or Deck, and if you do, place 1 counter on this card, then end the Battle Phase. You can only use this effect of \"Battlewasp - Nest\" once per turn. If this card has 2 or more counters during the End Phase, send it to the GY.",
+    "author": "gallantron",
+    "lastPrint": "2019-07-12",
+    "lastUpdated": "2021-06-21",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14578&request_locale=ja",
+        "title": "Card FAQ – Battlewasp - Nest",
+        "date": "2021-06-21",
+        "desc": "In the Official Card Game, the effect of Battlewasp - Nest is optional to activate."
+      }
+    ]
+  },
+  {
+    "id": 9470,
+    "icon": "effect",
+    "name": "The Blazing Mars",
+    "oldText": "While this card is in your hand or GY: You can banish 3 other monsters from your GY; Special Summon this card, also you cannot Special Summon other monsters for the rest of this turn. During your Main Phase 1: You can send all other monsters you control to the GY; inflict 500 damage to your opponent for each monster sent to the GY. You can only use each effect of \"The Blazing Mars\" once per turn.",
+    "newText": "While this card is in your hand or GY: You can banish 3 other monsters from your GY; Special Summon this card, also you cannot Special Summon other monsters for the rest of this turn. During your Main Phase 1: You can send all other monsters you control to the GY; inflict 500 damage to your opponent for each monster sent to the GY. You can only use this effect of \"The Blazing Mars\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2020-09-11",
+    "lastUpdated": "2021-06-21",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9470&request_locale=ja",
+        "title": "The Blazing Mars",
+        "date": "2021-06-21",
+        "desc": "In the Official Card Game, the first effect of The Blazing Mars can be used any number of times."
+      }
+    ]
+  },
+  {
+    "id": 7134,
+    "icon": "trap",
+    "name": "Backs to the Wall",
+    "oldText": "Pay LP so that you only have 100 left; Special Summon as many \"Six Samurai\" monsters with different names from your GY as possible. You cannot Special Summon a monster with the same name as a monster you already control.",
+    "newText": "Pay LP so that you only have 100 left; Special Summon as many \"Six Samurai\" monsters with different names from your GY as possible. You cannot Special Summon a monster with the same name as a monster that is already on the field.",
+    "author": "gallantron",
+    "lastPrint": "2017-11-17",
+    "lastUpdated": "2021-06-21",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9037&request_locale=ja",
+        "title": "Q&A #9037",
+        "date": "2021-06-21",
+        "desc": "In the Official Card Game, Backs to the Wall does not allow you to Summon a monster with the same name as one that your opponent controls."
+      }
+    ]
+  },
+  {
+    "id": 5479,
+    "icon": "spell",
+    "name": "Card of Sanctity",
+    "oldText": "Banish all other cards you control and in your hand (min.1 from each); draw until you have 2 cards in your hand.",
+    "newText": "Banish all other cards you control and in your hand (min.1 total); draw until you have 2 cards in your hand.",
+    "author": "gallantron",
+    "lastPrint": "2015-11-13",
+    "lastUpdated": "2021-06-21",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5479&request_locale=ja",
+        "title": "Card FAQ – Card of Sanctity",
+        "date": "2021-06-21",
+        "desc": "In the Official Card Game, Card of Sanctity does not require you to have another card both on your field and in your hand, but only either on your field or in your hand."
+      }
+    ]
+  },
+  {
+    "id": 14825,
+    "icon": "effect",
+    "name": "Chronomaly Tuspa Rocket",
+    "oldText": "If this card is Normal or Special Summoned: You can send 1 \"Chronomaly\" monster from your Deck or Extra Deck to the GY, then target 1 face-up monster on the field; it loses ATK equal to the Level/Rank of the monster sent to the GY x 200. A \"Number\" Xyz Monster that was Summoned using this card on the field as material gains this effect.\n●This card can make up to 2 attacks on monsters during each Battle Phase.\nYou can only use each effect of \"Chronomaly Tuspa Rocket\" once per turn.",
+    "newText": "If this card is Normal or Special Summoned: You can send 1 \"Chronomaly\" monster from your Deck or Extra Deck to the GY, then target 1 face-up monster on the field; it loses ATK equal to the Level/Rank of the monster sent to the GY x 200, until the end of this turn. A \"Number\" Xyz Monster that was Summoned using this card on the field as material gains this effect.\n●This card can make up to 2 attacks on monsters during each Battle Phase.\nYou can only use each effect of \"Chronomaly Tuspa Rocket\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2020-01-31",
+    "lastUpdated": "2021-06-21",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14825&request_locale=ja",
+        "title": "Chronomaly Tuspa Rocket",
+        "date": "2021-06-21",
+        "desc": "In the Official Card Game, the ATK loss from Chronomaly Tuspa Rocket's effect lasts until the end of the turn."
+      }
+    ]
+  },
+  {
+    "id": 7159,
+    "icon": "spell",
+    "name": "Convert Contact",
+    "oldText": "If you control no monsters: Send 2 \"Neo-Spacian\" monsters (1 from your hand and 1 from your Deck) to the GY, then draw 2 cards.",
+    "newText": "If you control no monsters: Send 2 \"Neo-Spacian\" cards (1 from your hand and 1 from your Deck) to the GY, then draw 2 cards.",
+    "author": "gallantron",
+    "lastPrint": "2018-06-29",
+    "lastUpdated": "2021-06-21",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7159&request_locale=ja",
+        "title": "Convert Contact",
+        "date": "2021-06-21",
+        "desc": "In the Official Card Game, Convert Contact allows non-Monster \"Neo-Spacian\" cards to be sent to the GY."
+      }
+    ]
+  },
+  {
+    "id": 11198,
+    "icon": "effect",
+    "name": "Sylvan Princessprout",
+    "oldText": "You can only activate each effect of \"Sylvan Princessprout\" once per turn.\n●You can Tribute this card; excavate the top card of your Deck, send it to the Graveyard, then you can place 1 \"sprout\" monster in your Graveyard on top of your Deck.\n●If this card is excavated from the Deck and sent to the Graveyard by a card effect: You can declare a Level from 1 to 8; Special Summon this card from the Graveyard, and if you do, it becomes that Level.",
+    "newText": "You can only use each effect of \"Sylvan Princessprout\" once per turn.\n●You can Tribute this card; excavate the top card of your Deck, send it to the Graveyard, then you can place 1 \"sprout\" monster in your Graveyard on top of your Deck.\n●If this card is excavated from the Deck and sent to the Graveyard by a card effect: You can declare a Level from 1 to 8; Special Summon this card from the Graveyard, and if you do, it becomes that Level.",
+    "author": "Catmaster0",
+    "lastPrint": "2015-09-18",
+    "lastUpdated": "2021-6-17",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11198&request_locale=ja",
+        "title": "Card FAQ – Sylvan Princessprout",
+        "date": "2021-06-17",
+        "desc": "Sylvan Princessprout's current TCG text limits effect activations, not effect usages. This does not match the Japanese original.\nFor example, even if the activation of its first effect is negated by Solemn Strike, that effect could still not be activated again"
+      }
+    ]
+  },
+  {
+    "id": 11202,
+    "icon": "spell",
+    "name": "Noble Knights of the Round Table",
+    "oldText": "During your End Phase: You can activate each of these effects up to once per turn, depending on the total number of \"Noble Knight\" cards with different names in your GY and/or you control;\n●3+: Send 1 \"Noble Knight\" card from your Deck to the GY.\n●6+: Special Summon 1 \"Noble Knight\" monster from your hand, then you can equip 1 \"Noble Arms\" Equip Spell from your hand to that monster.\n●9+: Target 1 \"Noble Knight\" monster in your GY; add that target to your hand.\n●12: Draw 1 card.",
+    "newText": "During your End Phase: You can use each of these effects up to once per turn, depending on the total number of \"Noble Knight\" cards with different names in your GY and/or you control;\n●3+: Send 1 \"Noble Knight\" card from your Deck to the GY.\n●6+: Special Summon 1 \"Noble Knight\" monster from your hand, then you can equip 1 \"Noble Arms\" Equip Spell from your hand to that monster.\n●9+: Target 1 \"Noble Knight\" monster in your GY; add that target to your hand.\n●12: Draw 1 card.",
+    "author": "Catmaster0",
+    "lastPrint": "2020-11-13",
+    "lastUpdated": "2021-6-17",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11202&request_locale=ja",
+        "title": "Noble Knights of the Round Table",
+        "date": "2021-06-17",
+        "desc": "Noble Knights of the Round Table's current TCG text limits effect activations, not effect usages. This does not match the Japanese original.\nFor example, even if the activation of its effect is negated by Solemn Strike, that effect could still not be activated again"
+      }
+    ]
+  },
+  {
+    "id": 13711,
+    "icon": "spell",
+    "name": "F.A. Winners",
+    "oldText": "If you control a \"F.A.\" monster, this card cannot be destroyed by your opponent's card effects. When your \"F.A.\" monster whose Level is at least 5 higher than its original Level battles an opponent's monster and inflicts battle damage to them: You can banish 1 card from your hand, field, or GY. You can only activate this effect of \"F.A. Winners\" once per turn. If 3 of your \"F.A.\" Field Spells with different names are currently banished, and were all banished by the effect of \"F.A. Winners\", you win the Duel.",
+    "newText": "If you control a \"F.A.\" monster, this card cannot be destroyed by your opponent's card effects. When your \"F.A.\" monster whose Level is at least 5 higher than its original Level battles an opponent's monster and inflicts battle damage to them: You can banish 1 card from your hand, field, or GY. You can only use this effect of \"F.A. Winners\" once per turn. If 3 of your \"F.A.\" Field Spells with different names are currently banished, and were all banished by the effect of \"F.A. Winners\", you win the Duel.",
+    "author": "Catmaster0",
+    "lastPrint": "2018-05-04",
+    "lastUpdated": "2021-6-17",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13711&request_locale=ja",
+        "title": "Card FAQ – F.A. Winners",
+        "date": "2021-06-17",
+        "desc": "F.A. Winners' current TCG text limits effect activations, not effect usages. This does not match the Japanese original.\nFor example, even if the activation of its second effect is negated by Solemn Strike, that effect could still not be activated again"
+      }
+    ]
+  },
+  {
+    "id": 9287,
+    "icon": "effect",
+    "name": "Master Hyperion",
+    "oldText": "You can Special Summon this card (from your hand) by banishing 1 \"The Agent\" monster from your hand, field, or Graveyard. Once per turn: You can banish 1 LIGHT Fairy-Type monster from your Graveyard, then target 1 card on the field; destroy that target. While \"The Sanctuary in the Sky\" is on the field, you can activate this effect up to twice per turn.",
+    "newText": "You can Special Summon this card (from your hand) by banishing 1 \"The Agent\" monster from your hand, field, or GY. Once per turn: You can banish 1 LIGHT Fairy-Type monster from your Graveyard, then target 1 card on the field; destroy that target. While \"The Sanctuary in the Sky\" is on the field, you can use this effect up to twice per turn.",
+    "author": "Catmaster0",
+    "lastPrint": "2015-03-20",
+    "lastUpdated": "2021-6-17",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=9287&request_locale=ja",
+        "title": "Card FAQ – Master Hyperion",
+        "date": "2021-06-17",
+        "desc": "Master Hyperion's current TCG text limits effect activations, not effect usages. This does not match the Japanese original.\nFor example, even if the activation of its second effect is negated by Solemn Strike while Sanctuary of the Sky is face-up, that effect could still not be activated an additional time."
+      }
+    ]
   }
 ]

@@ -51,6 +51,7 @@ let loadText = ((oldContainer, newContainer, oldText, newText) =>
 
 document.addEventListener('DOMContentLoaded', () =>
 {
+    document.getElementById('author').value = (window.localStorage.getItem('savedAuthorName') || '');
     for (let i=1; i<4; ++i)
     {
         document.getElementById('ref-'+i+'-url').addEventListener('input', async function ()
@@ -120,8 +121,8 @@ document.addEventListener('DOMContentLoaded', () =>
         }
         document.getElementById('card-id').value = '';
         document.getElementById('new-text').value = '';
-        document.getElementById('author').value = '';
-        document.getElementById('date').value = '';
+        // document.getElementById('author').value = '';
+        // document.getElementById('date').value = '';
         for (let i=1; i<4; ++i)
         {
             document.getElementById('ref-'+i+'-url').value = '';
@@ -159,10 +160,14 @@ document.addEventListener('DOMContentLoaded', () =>
                 let author = document.getElementById('author').value.trim();
                 if (!author)
                     throw 'Author missing';
+                window.localStorage.setItem('savedAuthorName', author);
                 
                 let date = document.getElementById('date').value.trim();
                 if (!date)
-                    throw 'Date missing';
+                {
+                    const s = new Date().toISOString();
+                    date = s.substr(0,s.indexOf('T'));
+                }
                 try { new Date(date); } catch (v) { throw 'Invalid date'; }
                 
                 let references = [];
