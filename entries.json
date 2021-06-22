@@ -3556,5 +3556,59 @@
         "desc": "In the Official Card Game, the Duel Dragon Token must be Summoned to a zone that Duel Link Dragon points to."
       }
     ]
+  },
+  {
+    "id": 10405,
+    "icon": "xyz",
+    "name": "Number 53: Heart-eartH",
+    "oldText": "3 Level 5 monsters\nOnce per turn, when this card is targeted for an attack: It gains ATK equal to that attacking monster's original ATK, until the End Phase. If this face-up card on the field would be destroyed, you can detach 1 Xyz Material from this card instead. When this card on the field is destroyed by a card effect while it has no Xyz Materials: You can Special Summon 1 \"Number 92: Heart-eartH Dragon\" from your Extra Deck and attach this card from the Graveyard to it as an Xyz Material. (This Special Summon is treated as an Xyz Summon.)",
+    "newText": "3 Level 5 monsters\nOnce per turn, when this card is targeted for an attack: It gains ATK equal to that attacking monster's original ATK, until the end of this turn. If this face-up card on the field would be destroyed, you can detach 1 Xyz Material from this card instead. When this card on the field is destroyed by a card effect while it has no Xyz Materials: Special Summon 1 \"Number 92: Heart-eartH Dragon\" from your Extra Deck and attach this card from the Graveyard to it as an Xyz Material. (This Special Summon is treated as an Xyz Summon.)",
+    "author": "Catmaster0",
+    "lastPrint": "2013-01-25",
+    "lastUpdated": "2021-6-21",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10405&request_locale=ja",
+        "title": "Card FAQ – Number 53: Heart-eartH",
+        "date": "2021-06-21",
+        "desc": "In the Official Card Game, the ATK modification from Number 53's effect lasts until the end of the current turn. Additionally, in the Official Card Game, the third effect is mandatory to activate."
+      }
+    ]
+  },
+  {
+    "id": 10261,
+    "icon": "xyz",
+    "name": "Number C32: Shark Drake Veiss",
+    "oldText": "4 Level 4 WATER monsters\nYou can also Xyz Summon this card by using a \"Number 32: Shark Drake\" you control as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) During either player's turn, if your Life Points are 1000 or less: You can detach 1 Xyz Material from this card and banish 1 monster from your Graveyard to target 1 face-up monster on the field; that target's ATK and DEF become 0 until the End Phase.",
+    "newText": "4 Level 4 WATER monsters\nYou can also Xyz Summon this card by using a \"Number 32: Shark Drake\" you control as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) During either player's turn, if your Life Points are 1000 or less: You can detach 1 Xyz Material from this card and banish 1 monster from your Graveyard to target 1 face-up monster on the field; that target's ATK and DEF become 0 until the end of your turn.",
+    "author": "Catmaster0",
+    "lastPrint": "2012-11-09",
+    "lastUpdated": "2021-6-21",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10261&request_locale=ja",
+        "title": "Card FAQ – Number C32: Shark Drake Veiss",
+        "date": "2021-06-21",
+        "desc": "In the Official Card Game, the targeted monster's ATK/DEF become zero until the end of your next turn, rather than the current turn."
+      }
+    ]
+  },
+  {
+    "id": 10813,
+    "icon": "effect",
+    "name": "Noble Knight Drystan",
+    "oldText": "While you control another \"Noble Knight\" monster, your opponent cannot target your monsters with less than 1800 ATK, except this card, with card effects, and their monsters cannot target them with attacks. If a \"Noble Arms\" Equip Spell becomes equipped to this card: Target 1 face-up card on the field; destroy that target. You can only use this effect of \"Noble Knight Drystan\" once per turn.",
+    "newText": "While you control another \"Noble Knight\" monster, your opponent cannot target monsters you control with less than 1800 ATK, except this card, with card effects, and their monsters cannot target them with attacks. If a \"Noble Arms\" Equip Spell becomes equipped to this card: Target 1 face-up card on the field; destroy that target. You can only use this effect of \"Noble Knight Drystan\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2020-11-13",
+    "lastUpdated": "2021-06-22",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10813&request_locale=ja",
+        "title": "Noble Knight Drystan",
+        "date": "2021-06-22",
+        "desc": "In the Official Card Game, Noble Knight Drystran's effect only applies to monsters that are specifically on your field."
+      }
+    ]
   }
 ]
