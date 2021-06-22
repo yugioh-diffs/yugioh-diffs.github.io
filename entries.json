@@ -3610,5 +3610,101 @@
         "desc": "In the Official Card Game, Noble Knight Drystran's effect only applies to monsters that are specifically on your field."
       }
     ]
+  },
+  {
+    "id": 5439,
+    "icon": "trap",
+    "name": "Ordeal of a Traveler",
+    "oldText": "When an opponent's monster declares an attack: Your opponent chooses 1 random card in your hand and calls the type of the card (Monster, Spell, or Trap), and if they call it wrong, return the attacking monster to the hand.",
+    "newText": "When an opponent's monster declares an attack, you can: your opponent chooses 1 random card in your hand and calls the type of the card (Monster, Spell, or Trap), and if they call it wrong, return the attacking monster to the hand.",
+    "author": "Catmaster0",
+    "lastPrint": "2012-10-02",
+    "lastUpdated": "2021-6-21",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5439&request_locale=ja",
+        "title": "Card FAQ – Ordeal of a Traveler",
+        "date": "2021-06-21",
+        "desc": "In the Official Card Game, Ordeal of a Traveler's effect is optional to activate."
+      }
+    ]
+  },
+  {
+    "id": 4968,
+    "icon": "spell",
+    "name": "Prohibition",
+    "oldText": "Activate by declaring 1 card name. Cards with that name, and their effects, cannot be used. Cards already on the field are not affected (including face-down cards).",
+    "newText": "Prohibition\nContinuous Spell Card\nActivate this card by declaring 1 card name. Apply these effects to all cards whose original name is the card name you declared. (This does not apply to card(s) that are already on the field before this effect started applying.)\n●They cannot be placed on the field.\n●They cannot be activated, nor can their effects be activated or applied.\n●They cannot be Summoned or Set.\n●They cannot attack, nor can they change their battle positions.\n●They cannot be used as material for a Special Summon that requires materials.",
+    "author": "Catmaster0",
+    "lastPrint": "2012-10-02",
+    "lastUpdated": "2021-6-21",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=4968&request_locale=ja",
+        "title": "Card FAQ – Prohibition",
+        "date": "2021-06-21",
+        "desc": "In the Official Card Game, Prohibition functions based on the cards' original name. Additionally, its text specifies which actions it prohibits."
+      }
+    ]
+  },
+  {
+    "id": 11668,
+    "icon": "trap",
+    "name": "Rocket Hand",
+    "oldText": "Target 1 Attack Position monster you control with 800 or more ATK; equip this card to that target. It gains 800 ATK. You can send this equipped card to the Graveyard, then target 1 face-up card on the field; destroy it, then change the ATK of the monster this card was equipped to, to 0, also its battle position cannot be changed. You can only use 1 \"Rocket Hand\" effect per turn, and only once that turn.",
+    "newText": "Target 1 Attack Position monster you control with 800 or more ATK; equip this card to it. It gains 800 ATK. You can send this equipped card to the Graveyard, then target 1 face-up card on the field; destroy it, then change the ATK of the monster this card was equipped to, to 0, also its battle position cannot be changed. You can only use 1 \"Rocket Hand\" effect per turn, and only once that turn.",
+    "author": "Catmaster0",
+    "lastPrint": "2017-08-25",
+    "lastUpdated": "2021-06-22",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17073&request_locale=ja",
+        "title": "Q&A #17073",
+        "date": "2021-06-22",
+        "desc": "In the Official Card Game, the targeted monster does not need to remain in Attack Position in order for Rocket Hand to be equipped to it."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17074&request_locale=ja",
+        "title": "Q&A #17074",
+        "date": "2021-06-22",
+        "desc": "In the Official Card Game, the targeted monster does not need to have 800 or more ATK in order for Rocket Hand to be equipped to it."
+      }
+    ]
+  },
+  {
+    "id": 5391,
+    "icon": "spell",
+    "name": "Second Coin Toss",
+    "oldText": "When a coin toss is performed, you can choose to redo the coin toss. (If the toss involved multiple coin flips, redo all of them.) You can only use the effect of \"Second Coin Toss\" once per turn.",
+    "newText": "When a coin toss is performed, you can choose to redo your coin toss. (If the toss involved multiple coin flips, redo all of yours.) You can only use the effect of \"Second Coin Toss\" once per turn.",
+    "author": "Catmaster0",
+    "lastPrint": "2013-10-11",
+    "lastUpdated": "2021-06-22",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5391&request_locale=ja",
+        "title": "Card FAQ – Second Coin Toss",
+        "date": "2021-06-22",
+        "desc": "In the Official Card Game, Second Coin Toss cannot be applied if only your opponent flips a coin."
+      }
+    ]
+  },
+  {
+    "id": 6159,
+    "icon": "trap",
+    "name": "Shattered Axe",
+    "oldText": "Activate this card by targeting 1 face-up monster on the field. During each of your Standby Phases: It loses 500 ATK. When that target is destroyed, destroy this card.",
+    "newText": "Activate this card by targeting 1 face-up monster on the field. During each of your Standby Phases, it loses 500 ATK. When that target is destroyed, destroy this card.",
+    "author": "Catmaster0",
+    "lastPrint": "2015-11-13",
+    "lastUpdated": "2021-06-22",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6159&request_locale=ja",
+        "title": "Card FAQ – Shattered Axe",
+        "date": "2021-06-22",
+        "desc": "In the Official Card Game, the effect of Shattered Axe that decreases the targeted monster's ATK is not an activated effect."
+      }
+    ]
   }
 ]
