@@ -3346,16 +3346,22 @@
     "icon": "trap",
     "name": "Backs to the Wall",
     "oldText": "Pay LP so that you only have 100 left; Special Summon as many \"Six Samurai\" monsters with different names from your GY as possible. You cannot Special Summon a monster with the same name as a monster you already control.",
-    "newText": "Pay LP so that you only have 100 left; Special Summon as many \"Six Samurai\" monsters with different names from your GY as possible. You cannot Special Summon a monster with the same name as a monster that is already on the field.",
+    "newText": "Pay LP so that you only have 100 left; Special Summon as many \"Six Samurai\" monsters with different names from your GY as possible. You cannot Special Summon a monster with the same name as a card that is already on the field.",
     "author": "gallantron",
     "lastPrint": "2017-11-17",
-    "lastUpdated": "2021-06-21",
+    "lastUpdated": "2021-06-23",
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9037&request_locale=ja",
         "title": "Q&A #9037",
         "date": "2021-06-21",
         "desc": "In the Official Card Game, Backs to the Wall does not allow you to Summon a monster with the same name as one that your opponent controls."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7134&request_locale=ja",
+        "title": "Backs to the Wall",
+        "date": "2021-06-23",
+        "desc": "In the Official Card Game, Backs to the Wall requires the Summoned monsters' names to be different from any cards on the field, not just monsters on the field."
       }
     ]
   },
@@ -3490,10 +3496,10 @@
     "icon": "link",
     "name": "Decode Talker Extended",
     "oldText": "2+ Effect Monsters\nThis card's name becomes \"Decode Talker\" while on the field. Gains 500 ATK for each monster it points to. During your Battle Phase, if a monster this card points to is destroyed by battle or sent to the GY: This card can make a second attack during each Battle Phase this turn.",
-    "newText": "2+ Effect Monsters\nThis card's name becomes \"Decode Talker\" while on the field. Gains 500 ATK for each monster it points to. During your Battle Phase, if a monster this card points to is destroyed by battle or sent to the GY, you can: This card can make a second attack during each Battle Phase this turn.",
+    "newText": "2+ Effect Monsters\nThis card's name becomes \"Decode Talker\" while on the field. Gains 500 ATK for each monster it points to. During your Battle Phase, if a monster this card points to is destroyed by battle or sent to the GY: You can activate this effect; this card can make a second attack during each Battle Phase this turn.",
     "author": "gallantron",
     "lastPrint": "2019-10-11",
-    "lastUpdated": "2021-06-22",
+    "lastUpdated": "2021-06-23",
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14437&request_locale=ja",
