@@ -590,14 +590,14 @@
   {
     "id": 13105,
     "oldText": "For each monster a player controls in their Main Monster Zone, their Spells/Traps in the same column as that monster cannot be destroyed by their opponent's card effects, and their opponent cannot target them with card effects.",
-    "newText": "For each monster a player controls in their Main Monster Zone, any cards in their Spell/Trap Zone in the same column as that monster cannot be destroyed by their opponent's card effects, and their opponent cannot target them with card effects.",
+    "newText": "For each monster a player controls in their Main Monster Zone, any cards in their Spell & Trap Zone in the same column as that monster cannot be destroyed by their opponent's card effects, and their opponent cannot target them with card effects.",
     "author": "gallantron",
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13105&request_locale=ja",
         "title": "Defense Zone",
         "date": "2020-12-24",
-        "desc": "In the Official Card Game, Defense Zone's effect only applies to cards in the player's Spell/Trap Zone."
+        "desc": "In the Official Card Game, Defense Zone's effect only applies to cards in the player's Spell & Trap Zone."
       },
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5234&request_locale=en",
@@ -607,8 +607,8 @@
       }
     ],
     "name": "Defense Zone",
-    "lastUpdated": "2020-07-06",
     "lastPrint": "2018-08-31",
+    "lastUpdated": "2021-06-23",
     "icon": "spell"
   },
   {
