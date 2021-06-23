@@ -3456,24 +3456,6 @@
     ]
   },
   {
-    "id": 13711,
-    "icon": "spell",
-    "name": "F.A. Winners",
-    "oldText": "If you control a \"F.A.\" monster, this card cannot be destroyed by your opponent's card effects. When your \"F.A.\" monster whose Level is at least 5 higher than its original Level battles an opponent's monster and inflicts battle damage to them: You can banish 1 card from your hand, field, or GY. You can only activate this effect of \"F.A. Winners\" once per turn. If 3 of your \"F.A.\" Field Spells with different names are currently banished, and were all banished by the effect of \"F.A. Winners\", you win the Duel.",
-    "newText": "If you control a \"F.A.\" monster, this card cannot be destroyed by your opponent's card effects. When your \"F.A.\" monster whose Level is at least 5 higher than its original Level battles an opponent's monster and inflicts battle damage to them: You can banish 1 card from your hand, field, or GY. You can only use this effect of \"F.A. Winners\" once per turn. If 3 of your \"F.A.\" Field Spells with different names are currently banished, and were all banished by the effect of \"F.A. Winners\", you win the Duel.",
-    "author": "Catmaster0",
-    "lastPrint": "2018-05-04",
-    "lastUpdated": "2021-6-17",
-    "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13711&request_locale=ja",
-        "title": "Card FAQ – F.A. Winners",
-        "date": "2021-06-17",
-        "desc": "F.A. Winners' current TCG text limits effect activations, not effect usages. This does not match the Japanese original.\nFor example, even if the activation of its second effect is negated by Solemn Strike, that effect could still not be activated again"
-      }
-    ]
-  },
-  {
     "id": 9287,
     "icon": "effect",
     "name": "Master Hyperion",
