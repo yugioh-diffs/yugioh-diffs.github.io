@@ -3712,5 +3712,161 @@
         "desc": "In the Official Card Game, the effect of Shattered Axe that decreases the targeted monster's ATK is not an activated effect."
       }
     ]
+  },
+  {
+    "id": 6486,
+    "icon": "fusion",
+    "name": "Elemental HERO Rampart Blaster",
+    "oldText": "\"Elemental HERO Clayman\" + \"Elemental HERO Burstinatrix\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. This card can attack while in face-up Defense Position, but only if your opponent controls no monsters, and if it does, this card's ATK is halved during damage calculation only.",
+    "newText": "\"Elemental HERO Clayman\" + \"Elemental HERO Burstinatrix\"\nMust be Fusion Summoned. While this card is in face-up Defense Position, it can attack directly, but when it does so using this effect, its ATK is halved during damage calculation only.",
+    "author": "gallantron",
+    "lastPrint": "2011-10-04",
+    "lastUpdated": "2021-06-23",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9224&request_locale=ja",
+        "title": "Q&A #9224",
+        "date": "2021-06-23",
+        "desc": "In the Official Card Game, Elemental HERO Rampart Blaster can attack directly while in Defense Position, even if the opponent controls monsters."
+      }
+    ]
+  },
+  {
+    "id": 9996,
+    "icon": "effect",
+    "name": "Evilswarm Coppelia",
+    "oldText": "Cannot be Special Summoned. When this card leaves the field because of your opponent's card (either by battle or by card effect): You can target 1 face-up monster your opponent controls; take control of that target until your next End Phase.",
+    "newText": "Cannot be Special Summoned. If this card has left the field because of your opponent: Target 1 face-up monster your opponent controls; take control of that target until your next End Phase.",
+    "author": "gallantron",
+    "lastPrint": "2013-04-26",
+    "lastUpdated": "2021-06-23",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=9996&request_locale=ja",
+        "title": "Card FAQ – Evilswarm Coppelia",
+        "date": "2021-06-23",
+        "desc": "In the Official Card Game, Evilswarm Coppelia's effect is mandatory to activate."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12516&request_locale=ja",
+        "title": "Q&A #12516",
+        "date": "2021-06-23",
+        "desc": "In the Official Card Game, Evilswarm Coppelia's effect must be activated if the opponent tributes it as a cost to Special Summon their Lava Golem."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12517&request_locale=ja",
+        "title": "Q&A #12517",
+        "date": "2021-06-23",
+        "desc": "In the Official Card Game, Evilswarm Coppelia's effect cannot be activated if the owner tributes it, even if this happens due to the opponent's Share the Pain."
+      }
+    ]
+  },
+  {
+    "id": 13711,
+    "icon": "spell",
+    "name": "F.A. Winners",
+    "oldText": "If you control a \"F.A.\" monster, this card cannot be destroyed by your opponent's card effects. When your \"F.A.\" monster whose Level is at least 5 higher than its original Level battles an opponent's monster and inflicts battle damage to them: You can banish 1 card from your hand, field, or GY. You can only activate this effect of \"F.A. Winners\" once per turn. If 3 of your \"F.A.\" Field Spells with different names are currently banished, and were all banished by the effect of \"F.A. Winners\", you win the Duel.",
+    "newText": "If you control a \"F.A.\" monster, this card cannot be destroyed by your opponent's card effects. When your \"F.A.\" monster whose Level is at least 5 higher than its original Level battles an opponent's monster and inflicts battle damage to them: You can banish 1 card from your hand, field, or GY. You can only use this effect of \"F.A. Winners\" once per turn. If 3 of your \"F.A.\" Field Spells with different names are currently banished, and were all banished by the effect of \"F.A. Winners\", you win the Duel.",
+    "author": "gallantron",
+    "lastPrint": "2018-05-04",
+    "lastUpdated": "2021-06-23",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13711&request_locale=ja",
+        "title": "F.A. Winners",
+        "date": "2021-06-23",
+        "desc": "In the Official Card Game, F.A. Winners' effect to banish cards is restricted on usage, not activation."
+      }
+    ]
+  },
+  {
+    "id": 7244,
+    "icon": "effect",
+    "name": "Felgrand Dragon",
+    "oldText": "Cannot be Special Summoned except from the Graveyard, and only if it was sent there from the field. If this card is Special Summoned: Target 1 monster in your Graveyard; this card gains ATK equal to that monster's Level x 200.",
+    "newText": "Cannot be Special Summoned except from the GY, and only if it was sent there from the field. If this card is Special Summoned from the GY: Target 1 monster in your GY; this card gains ATK equal to that monster's Level x 200.",
+    "author": "gallantron",
+    "lastPrint": "2016-07-08",
+    "lastUpdated": "2021-06-23",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7244&request_locale=ja",
+        "title": "Felgrand Dragon",
+        "date": "2021-06-23",
+        "desc": "In the Official Card Game, Felgrand Dragon's effect can only be activated if it was Special Summoned from the GY.\nThe effect cannot be activated if it was Summoned from elsewhere, for example by ignoring its Summoning conditions."
+      }
+    ]
+  },
+  {
+    "id": 5405,
+    "icon": "trap",
+    "name": "Fiend Comedian",
+    "oldText": "Toss a coin and call it. If you call it right, all your opponent's cards in the Graveyard are removed from play immediately. If you call it wrong, send a number of cards equal to the cards in your opponent's Graveyard from your Deck to your Graveyard.",
+    "newText": "Toss a coin and call it. If you call it right, banish all cards in your opponent's GY. If you call it wrong, send a number of cards from the top of your Deck to the GY, equal to the number of cards in your opponent's GY.",
+    "author": "gallantron",
+    "lastPrint": "2003-06-06",
+    "lastUpdated": "2021-06-23",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5405&request_locale=ja",
+        "title": "Fiend Comedian",
+        "date": "2021-06-23",
+        "desc": "In the Official Card Game, Fiend Comedian sends cards from the top of the Deck to the GY."
+      }
+    ]
+  },
+  {
+    "id": 6198,
+    "icon": "effect",
+    "name": "Fox Fire",
+    "oldText": "During the End Phase, if this card was destroyed by battle and sent to the Graveyard this turn and was face-up at the start of the Damage Step: Special Summon this card from the Graveyard. This face-up card cannot be Tributed for a Tribute Summon.",
+    "newText": "Once per turn, during the End Phase, if this card is in the GY because it was destroyed by battle and sent there this turn: Special Summon this card. This face-up card cannot be Tributed for a Tribute Summon.",
+    "author": "gallantron",
+    "lastPrint": "2013-02-08",
+    "lastUpdated": "2021-06-23",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6198&request_locale=ja",
+        "title": "Card FAQ – Fox Fire",
+        "date": "2021-06-23",
+        "desc": "In the Official Card Game, Fox Fire's effect must be activated even if it was face-down at the start of the Damage Step."
+      }
+    ]
+  },
+  {
+    "id": 16041,
+    "icon": "trap",
+    "name": "Fukubiki",
+    "oldText": "Each player shuffles their Deck and excavates the top card of their Deck. Add the excavated card with the higher ATK to that player's hand, also send the card with the lower ATK to that player's GY (Spells/Traps, and monsters with ? ATK, are treated as 0). If tied, place those cards on the bottoms of the Decks.",
+    "newText": "Each player shuffles their Deck and excavates the top card of their Deck. Add the excavated card with the higher ATK to that player's hand, also send the card with the lower ATK to the GY (Spells/Traps, and monsters with ? ATK, are treated as 0). If tied, place the cards on the bottom of the Decks.",
+    "author": "gallantron",
+    "lastPrint": "2021-06-04",
+    "lastUpdated": "2021-06-23",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16041&request_locale=ja",
+        "title": "Fukubiki",
+        "date": "2021-06-23",
+        "desc": "In the Official Card Game, the lower ATK card is not sent to any particular player's GY."
+      }
+    ]
+  },
+  {
+    "id": 9642,
+    "icon": "effect",
+    "name": "Gem-Elephant",
+    "oldText": "During your Main Phase: You can return this face-up card on the field to the hand. During damage calculation, if this card attacked or was attacked: You can send 1 Normal Monster from your hand to the Graveyard; this card gains 1000 DEF.",
+    "newText": "During your Main Phase: You can return this face-up card on the field to the hand. During damage calculation, if this card battles: You can send 1 Normal Monster from your hand to the GY; this card gains 1000 DEF during that damage calculation only.",
+    "author": "gallantron",
+    "lastPrint": "2011-08-16",
+    "lastUpdated": "2021-06-23",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9642&request_locale=ja",
+        "title": "Gem-Elephant",
+        "date": "2021-06-23",
+        "desc": "In the Official Card Game, Gem-Elephant's DEF is only increased during the damage calculation that its effect resolved in."
+      }
+    ]
   }
 ]
