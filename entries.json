@@ -4078,5 +4078,137 @@
         "desc": "In the Official Card Game, while activating the effect of Meklord Army Deployer Obbligato after it is sent to the GY is optional, later applying the effect and inflicting damage during the End Phase is mandatory."
       }
     ]
+  },
+  {
+    "id": 15759,
+    "icon": "trap",
+    "name": "Springans Call!",
+    "oldText": "Target 1 \"Springans\" monster or \"Fallen of Albaz\" in your GY; Special Summon it. During the Main Phase, except the turn this card was sent to the GY: You can banish this card and 1 Fusion Monster from your GY, then target 1 \"Springans\" Xyz Monster you control; attach 1 Fusion Monster that lists \"Fallen of Albaz\" as material from your Extra Deck to that monster as material. You can only use each effect of \"Springans Call!\" once per turn.",
+    "newText": "Target 1 \"Springans\" monster or \"Fallen of Albaz\" in your GY; Special Summon it. During either player's turn, except the turn this card was sent to the GY: You can banish this card and 1 Fusion Monster from your GY, then target 1 \"Springans\" Xyz Monster you control; attach 1 Fusion Monster that lists \"Fallen of Albaz\" as material from your Extra Deck to that monster as material. You can only use each effect of \"Springans Call!\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2021-02-05",
+    "lastUpdated": "2021-06-27",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15759&request_locale=ja",
+        "title": "Springans Call!",
+        "date": "2021-06-27",
+        "desc": "In the Official Card Game, the effect of Springans Call! in the GY can be activated at any point, not only during the Main Phase."
+      }
+    ]
+  },
+  {
+    "id": 7652,
+    "icon": "trap",
+    "name": "Summon Limit",
+    "oldText": "Neither player can Summon more than two times per turn. (Negated Summons count toward this limit. Negated cards/effects that would Summon do not count.)",
+    "newText": "Neither player can Summon more than two times per turn.",
+    "author": "gallantron",
+    "lastPrint": "2019-07-12",
+    "lastUpdated": "2021-06-27",
+    "references": [
+      {
+        "url": "https://www.yugioh-card.com/japan/notice/revision/#processing",
+        "title": "Yu-Gi-Oh! Official Card Game | Changes due to rule revisions",
+        "date": "2021-06-27",
+        "desc": "In the Official Card Game, as of April 1st, 2020, negated Summons are no longer counted for Summon Limit."
+      }
+    ]
+  },
+  {
+    "id": 7434,
+    "icon": "effect",
+    "name": "Superancient Deepsea King Coelacanth",
+    "oldText": "Once per turn: You can discard 1 card; Special Summon as many Level 4 or lower Fish-Type monsters as possible from your Deck, but they cannot declare an attack and their effects are negated. During either player's turn, when this face-up card on the field is targeted by a card effect: You can Tribute 1 other Fish-Type monster; negate the activation, and if you do, destroy that card.",
+    "newText": "Once per turn: You can discard 1 card; Special Summon as many Level 4 or lower Fish-Type monsters as possible from your Deck, but they cannot declare an attack and their effects are negated. During either player's turn, when this face-up card on the field is targeted by a card effect: You can Tribute 1 other Fish-Type monster; negate that effect, and if you do, destroy that card.",
+    "author": "gallantron",
+    "lastPrint": "2012-05-29",
+    "lastUpdated": "2021-06-27",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7434&request_locale=ja",
+        "title": "Superancient Deepsea King Coelacanth",
+        "date": "2021-06-27",
+        "desc": "In the Official Card Game, the effect of Superancient Deepsea King Coelacanth only negates the effect of the preceding Chain Link, not its activation."
+      }
+    ]
+  },
+  {
+    "id": 8085,
+    "icon": "synchro",
+    "name": "Tempest Magician",
+    "oldText": "1 Tuner + 1 or more non-Tuner Spellcaster-Type monsters\nWhen this card is Synchro Summoned, place 1 Spell Counter on it. Once per turn, you can discard any number of cards to place 1 Spell Counter on a monster(s) you control for each card you discarded. You can remove all Spell Counters on the field to inflict 500 damage to your opponent for each removed Spell Counter.",
+    "newText": "1 Tuner + 1+ non-Tuner Spellcaster monsters\nIf this card is Synchro Summoned: place 1 Spell Counter on it. Once per turn: You can send any number of cards from your hand to the GY; place the same number of Spell Counters among card(s) you control that you can place a Spell Counter on. You can remove all Spell Counters on the field; inflict 500 damage to your opponent for each Spell Counter you removed.",
+    "author": "gallantron",
+    "lastPrint": "2009-12-15",
+    "lastUpdated": "2021-06-27",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8085&request_locale=ja",
+        "title": "Tempest Magician",
+        "date": "2021-06-27",
+        "desc": "In the Official Card Games, Tempest Magician's effect is activated by sending cards to the GY, rather than by discarding them."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14443&request_locale=en",
+        "title": "Spell Power Mastery",
+        "date": "2021-06-27",
+        "desc": "Spell Power Mastery is an example of a card that uses the revised textual construct."
+      }
+    ]
+  },
+  {
+    "id": 13548,
+    "icon": "spell",
+    "name": "Whitefish Salvage",
+    "oldText": "You can target 1 Fish monster in your GY; add it to your hand. You can only use this effect of \"Whitefish Salvage\" once per turn. If this card in your possession is destroyed by an opponent's card effect and sent to your GY: Take 1 Fish monster from your Deck, and either add it to your hand or Special Summon it.",
+    "newText": "You can target 1 Fish monster in your GY; add it to your hand. You can only use this effect of \"Whitefish Salvage\" once per turn. If this card in your possession is destroyed by an opponent's card effect and sent to your GY: You can take 1 Fish monster from your Deck, and either add it to your hand or Special Summon it.",
+    "author": "gallantron",
+    "lastPrint": "2020-08-28",
+    "lastUpdated": "2021-06-27",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13548&request_locale=ja",
+        "title": "Card FAQ – Whitefish Salvage",
+        "date": "2021-06-27",
+        "desc": "In the Official Card Game, activating the effect of Whitefish Salvage when it is sent to the GY is optional."
+      }
+    ]
+  },
+  {
+    "id": 7409,
+    "icon": "effect",
+    "name": "Yubel",
+    "oldText": "This card cannot be destroyed by battle. You take no Battle Damage from battles involving this card. Before damage calculation, when this face-up Attack Position card is attacked by an opponent's monster: Inflict damage to your opponent equal to that monster's ATK. During your End Phase: Tribute 1 other monster or destroy this card. When this card is destroyed, except by its own effect: Its owner can Special Summon 1 \"Yubel - Terror Incarnate\" from their hand, Deck, or Graveyard.",
+    "newText": "This card cannot be destroyed by battle. You take no Battle Damage from battles involving this card. If this card was attacked by an opponent's monster while it was in face-up Attack Position, before damage calculation: Inflict damage to your opponent equal to that monster's ATK. During your End Phase: Tribute 1 other monster or destroy this card. When this card is destroyed, except by its own effect: Its owner can Special Summon 1 \"Yubel - Terror Incarnate\" from their hand, Deck, or Graveyard.",
+    "author": "gallantron",
+    "lastPrint": "2012-02-21",
+    "lastUpdated": "2021-06-27",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7409&request_locale=ja",
+        "title": "Yubel",
+        "date": "2021-06-27",
+        "desc": "In the Official Card Game, in order to activate its effect, Yubel needs to have been in face-up Attack Position when chosen as the attack target. It does not need to be in face-up Attack Position upon reaching Before Damage Calculation."
+      }
+    ]
+  },
+  {
+    "id": 13504,
+    "icon": "link",
+    "name": "Zefra Metaltron",
+    "oldText": "2+ monsters Special Summoned from the Extra Deck\nIf a monster(s) this card points to that was Special Summoned from the Extra Deck is destroyed by battle or an opponent's card effect: Add 1 monster from your GY or 1 face-up Pendulum Monster from your Extra Deck to your hand. You can target 1 monster on each player's field that was Special Summoned from the Extra Deck, except this card; banish both until the End Phase. You can only use each effect of \"Zefra Metaltron\" once per turn.",
+    "newText": "2+ monsters Special Summoned from the Extra Deck\nIf a monster(s) this card points to that was Special Summoned from the Extra Deck is destroyed by battle or an opponent's card effect: You can add 1 monster from your GY, or 1 face-up Pendulum Monster from your Extra Deck, to your hand. You can target 1 monster on each player's field that was Special Summoned from the Extra Deck, except this card; banish both until the End Phase. You can only use each effect of \"Zefra Metaltron\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2018-02-02",
+    "lastUpdated": "2021-06-27",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13504&request_locale=ja",
+        "title": "Zefra Metaltron",
+        "date": "2021-06-27",
+        "desc": "In the Official Card Game, the effect of Zefra Metaltron that adds a monster from the GY or the Extra Deck to the hand is optional to activate."
+      }
+    ]
   }
 ]
