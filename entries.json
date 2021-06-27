@@ -4240,5 +4240,41 @@
         "desc": "In the Official Card Game, Downbeat's text specifies that it uses the monster's original Level while on the field."
       }
     ]
+  },
+  {
+    "id": 6514,
+    "icon": "spell",
+    "name": "Boss Rush",
+    "oldText": "You cannot Normal Summon or Set. During the End Phase of the turn that a \"B.E.S.\" monster or a \"Big Core\" is destroyed and sent to the Graveyard, you can Special Summon 1 \"B.E.S.\" monster or 1 \"Big Core\" from your Deck.",
+    "newText": "You cannot Normal Summon/Set. During the End Phase, if a face-up \"B.E.S.\" monster, or a face-up \"Big Core\", was destroyed and sent to the GY this turn: You can Special Summon 1 \"B.E.S.\" monster or 1 \"Big Core\" from your Deck. You cannot Normal Summon/Set during the turn you activate this card.",
+    "author": "gallantron",
+    "lastPrint": "2007-11-14",
+    "lastUpdated": "2021-06-27",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6514&request_locale=ja",
+        "title": "Boss Rush",
+        "date": "2021-06-27",
+        "desc": "In the Official Card Game, you cannot Normal Summon/Set during the turn you activate Boss Rush."
+      }
+    ]
+  },
+  {
+    "id": 6723,
+    "icon": "effect",
+    "name": "Puppet King",
+    "oldText": "When your opponent adds a Monster Card(s) to their hand, except by drawing, you can Special Summon this card from your hand. If you do, destroy it during your next turn's End Phase.",
+    "newText": "When your opponent adds a Monster Card(s) from the Deck to their hand, except by drawing: You can Special Summon this card from your hand. If you do, during the End Phase of your next turn: destroy this card.",
+    "author": "gallantron",
+    "lastPrint": "2009-03-03",
+    "lastUpdated": "2021-06-27",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6723&request_locale=ja",
+        "title": "Puppet King",
+        "date": "2021-06-27",
+        "desc": "In the Official Card Game, the effect of Puppet King that Special Summons it can only be activated if a card is added from the Deck to the opponent's hand, rather than from anywhere."
+      }
+    ]
   }
 ]
