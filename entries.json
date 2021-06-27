@@ -3874,5 +3874,23 @@
         "desc": "King of the Swamp is a comparable card, whose effect can also be applied by opponent when performing a Fusion Summon."
       }
     ]
+  },
+  {
+    "id": 9436,
+    "icon": "effect",
+    "name": "Gladiator Beast Lanista",
+    "oldText": "When this card is Special Summoned by the effect of a \"Gladiator Beast\" monster: Target 1 \"Gladiator Beast\" monster in your Graveyard; banish that target, and this card's name becomes the target's name until the End Phase. At the end of the Battle Phase, if this card attacked or was attacked: You can shuffle it into the Deck; Special Summon 1 \"Gladiator Beast\" monster from your Deck, except \"Gladiator Beast Lanista\".",
+    "newText": "When this card is Special Summoned by the effect of a \"Gladiator Beast\" monster: You can target 1 \"Gladiator Beast\" monster in your Graveyard; banish that target, and this card's name becomes the target's name until the End Phase. At the end of the Battle Phase, if this card attacked or was attacked: You can shuffle it into the Deck; Special Summon 1 \"Gladiator Beast\" monster from your Deck, except \"Gladiator Beast Lanista\".",
+    "author": "gallantron",
+    "lastPrint": "2012-02-21",
+    "lastUpdated": "2021-06-27",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9436&request_locale=ja",
+        "title": "Gladiator Beast Lanista",
+        "date": "2021-06-27",
+        "desc": "In the Official Card Game, Gladiator Beast Lanista's effect is optional to activate."
+      }
+    ]
   }
 ]
