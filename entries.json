@@ -4222,5 +4222,23 @@
         "desc": "In the Official Card Game, the opponent does not need to control a higher ATK monster in order for Number 9: Dyson Sphere's effect that allows it to attack directly to be applied."
       }
     ]
+  },
+  {
+    "id": 13434,
+    "icon": "spell",
+    "name": "Downbeat",
+    "oldText": "Tribute 1 face-up monster; Special Summon from your Deck, 1 monster with the same original Type and Attribute that the Tributed monster had on the field, but 1 Level lower. You can only activate 1 \"Downbeat\" per turn.",
+    "newText": "Tribute 1 face-up monster; Special Summon from your Deck, 1 monster with the same original Type and Attribute that the Tributed monster had on the field, but 1 Level lower than its original Level on the field. You can only activate 1 \"Downbeat\" per turn.",
+    "author": "gallantron",
+    "lastPrint": "2018-02-02",
+    "lastUpdated": "2021-06-27",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13434&request_locale=ja",
+        "title": "Downbeat",
+        "date": "2021-06-27",
+        "desc": "In the Official Card Game, Downbeat's text specifies that it uses the monster's original Level while on the field."
+      }
+    ]
   }
 ]
