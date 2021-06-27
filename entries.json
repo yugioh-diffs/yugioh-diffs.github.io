@@ -3096,24 +3096,6 @@
     ]
   },
   {
-    "id": 10266,
-    "icon": "xyz",
-    "name": "Number 9: Dyson Sphere",
-    "oldText": "2 Level 9 monsters\nOnce per Battle Step, during your opponent's turn, if this card with Xyz Material is attacked: Negate the attack (this is a Quick Effect). When this card is targeted for an attack while it has no Xyz Materials: You can target 2 monsters in your Graveyard; attach those targets to this card as Xyz Materials. During your Main Phase 1: You can detach 1 Xyz Material from this card; this card can attack your opponent directly this turn. Your opponent must control a monster with higher ATK than this card for you to activate and to resolve this effect.",
-    "newText": "2 Level 9 monsters\nOnce per Battle Step, during your opponent's turn, if this card with Xyz Material is attacked (Quick Effect): You can negate the attack. When this card is targeted for an attack while it has no Xyz Materials: You can target 2 monsters in your Graveyard; attach those targets to this card as Xyz Materials. During your Main Phase 1: You can detach 1 Xyz Material from this card; this card can attack your opponent directly this turn. Your opponent must control a monster with higher ATK than this card for you to activate and to resolve this effect.",
-    "author": "gallantron",
-    "lastPrint": "2012-11-09",
-    "lastUpdated": "2021-04-08",
-    "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10266&request_locale=ja",
-        "title": "Card FAQ – Number 9: Dyson Sphere",
-        "date": "2021-04-08",
-        "desc": "In the Official Card Game, Number 9: Dyson Sphere's effect that negates attacks is optional to activate."
-      }
-    ]
-  },
-  {
     "id": 15586,
     "icon": "effect",
     "name": "Dragunity Arma Gram",
@@ -4208,6 +4190,36 @@
         "title": "Zefra Metaltron",
         "date": "2021-06-27",
         "desc": "In the Official Card Game, the effect of Zefra Metaltron that adds a monster from the GY or the Extra Deck to the hand is optional to activate."
+      }
+    ]
+  },
+  {
+    "id": 10266,
+    "icon": "xyz",
+    "name": "Number 9: Dyson Sphere",
+    "oldText": "2 Level 9 monsters\nOnce per Battle Step, during your opponent's turn, if this card with Xyz Material is attacked: Negate the attack (this is a Quick Effect). When this card is targeted for an attack while it has no Xyz Materials: You can target 2 monsters in your Graveyard; attach those targets to this card as Xyz Materials. During your Main Phase 1: You can detach 1 Xyz Material from this card; this card can attack your opponent directly this turn. Your opponent must control a monster with higher ATK than this card for you to activate and to resolve this effect.",
+    "newText": "2 Level 9 monsters\nOnce per battle, during your opponent's Battle Step, if this card with Xyz Material is being attacked (Quick Effect): You can negate the attack. When this card is targeted for an attack while it has no Xyz Materials: You can target 2 monsters in your Graveyard; attach those targets to this card as Xyz Materials. During your Main Phase 1, if your opponent controls a monster with higher ATK than this card: You can detach 1 Xyz Material from this card; this card can attack your opponent directly this turn.",
+    "author": "gallantron",
+    "lastPrint": "2012-11-09",
+    "lastUpdated": "2021-06-27",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10266&request_locale=ja",
+        "title": "Number 9: Dyson Sphere",
+        "date": "2021-06-27",
+        "desc": "In the Official Card Game, the effect of Number 9: Dyson Sphere that negates attacks is optional to activate."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12452&request_locale=ja",
+        "title": "Q&A #12452",
+        "date": "2021-06-27",
+        "desc": "In the Official Card Game, the effect of Number 9: Dyson Sphere can be activated each time an opponent's monster attacks Number 9: Dyson Sphere. This is true even if the preceding attack was negated, and the Battle Step thus never ended."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10266&request_locale=ja",
+        "title": "Number 9: Dyson Sphere",
+        "date": "2021-06-27",
+        "desc": "In the Official Card Game, the opponent does not need to control a higher ATK monster in order for Number 9: Dyson Sphere's effect that allows it to attack directly to be applied."
       }
     ]
   }
