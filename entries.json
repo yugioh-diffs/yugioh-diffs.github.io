@@ -3892,5 +3892,191 @@
         "desc": "In the Official Card Game, Gladiator Beast Lanista's effect is optional to activate."
       }
     ]
+  },
+  {
+    "id": 9195,
+    "icon": "fusion",
+    "name": "Ignition Beast Volcannon",
+    "oldText": "1 Machine-Type monster + 1 Pyro-Type monster\nWhen this card is Fusion Summoned: You can target 1 monster your opponent controls; destroy that target, also destroy this card, then if both monsters were destroyed, inflict damage to your opponent equal to the ATK of the monster in the Graveyard that was targeted by this effect.",
+    "newText": "1 Machine-Type monster + 1 Pyro-Type monster\nWhen this card is Fusion Summoned: You can target 1 monster your opponent controls; destroy both that target and this card, then inflict damage to your opponent equal to the ATK of the targeted monster in the GY.",
+    "author": "gallantron",
+    "lastPrint": "2013-01-25",
+    "lastUpdated": "2021-06-27",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10309&request_locale=ja",
+        "title": "Q&A #10309",
+        "date": "2021-06-27",
+        "desc": "In the Official Card Game, if either card no longer exists on the field, the other is not destroyed."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10311&request_locale=ja",
+        "title": "Q&A #10311",
+        "date": "2021-06-27",
+        "desc": "In the Official Card Game, if the opponent's monster is not sent to the GY as a result of being destroyed, no damage is inflicted."
+      }
+    ]
+  },
+  {
+    "id": 13305,
+    "icon": "effect",
+    "name": "Interrupt Resistor",
+    "oldText": "When you take battle damage: You can Special Summon this card from your hand, and if you do, it gains ATK equal to the damage you took. Once per turn, during damage calculation, when another Defense Position monster you control is attacked by an opponent's monster (Quick Effect): You can activate this effect; during this damage calculation, your attacked monster's DEF becomes equal to this card's DEF, also it cannot be destroyed by that battle.",
+    "newText": "When you take battle damage: You can Special Summon this card from your hand, and if you do, it gains ATK equal to the damage you took. Once per turn, during damage calculation, when another Defense Position monster you control is attacked by an opponent's monster: You can activate this effect; during this damage calculation, your attacked monster's DEF becomes equal to this card's DEF, also it cannot be destroyed by that battle.",
+    "author": "gallantron",
+    "lastPrint": "2018-07-27",
+    "lastUpdated": "2021-06-27",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13305&request_locale=ja",
+        "title": "Card FAQ – Interrupt Resistor",
+        "date": "2021-06-27",
+        "desc": "In the Official Card Game, the second effect of Interrupt Resistor is a Trigger effect."
+      }
+    ]
+  },
+  {
+    "id": 9315,
+    "icon": "effect",
+    "name": "Legendary Six Samurai - Mizuho",
+    "oldText": "If you control \"Legendary Six Samurai - Shinai\", you can Special Summon this card (from your hand). Once per turn: You can Tribute another face-up \"Six Samurai\" monster, then target 1 card on the field; destroy that target.",
+    "newText": "If you control \"Legendary Six Samurai - Shinai\", you can Special Summon this card (from your hand). Once per turn: You can Tribute 1 other \"Six Samurai\" monster, then target 1 card on the field; destroy that target.",
+    "author": "gallantron",
+    "lastPrint": "2017-11-17",
+    "lastUpdated": "2021-06-27",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9315&request_locale=ja",
+        "title": "Legendary Six Samurai - Mizuho",
+        "date": "2021-06-27",
+        "desc": "In the Official Card Game, you do not need to Tribute a face-up \"Six Samurai\" monster to activate Legendary Six Samurai - Shinai's effect."
+      }
+    ]
+  },
+  {
+    "id": 4808,
+    "icon": "trap",
+    "name": "Lightforce Sword",
+    "oldText": "Banish 1 random card from your opponent's hand, face-down. During your opponent's 4th Standby Phase after this card's activation, return that card to their hand.",
+    "newText": "Banish 1 random card from your opponent's hand, face-down. During the Standby Phase of your opponent's 4th turn after this card's activation, return that card to their hand.",
+    "author": "gallantron",
+    "lastPrint": "2019-01-25",
+    "lastUpdated": "2021-06-27",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4808&request_locale=ja",
+        "title": "Lightforce Sword",
+        "date": "2021-06-27",
+        "desc": "In the Official Card Game, the banished card is returned during the Standby Phase of the 4th turn, rather than the 4th Standby Phase.\n(If Lightforce Sword resolves during the opponent's Draw Phase, the Standby Phase of the 4th turn will be their 5th Standby Phase.)"
+      }
+    ]
+  },
+  {
+    "id": 14189,
+    "icon": "trap",
+    "name": "Lunalight Serenade Dance",
+    "oldText": "When a Fusion Monster(s) is Fusion Summoned to your field (except during the Damage Step): You can target 1 of those monsters; apply these effects in sequence.\n●Special Summon 1 \"Lunalight Token\" (Beast-Warrior/DARK/Level 4/ATK 2000/DEF 2000) to your opponent's field.\n●That target gains 500 ATK for each monster your opponent controls (even if this card leaves the field).\nDuring your Main Phase: You can banish this card from your GY; send 1 card from your hand to the GY, and if you do, Special Summon 1 \"Lunalight\" monster from your Deck. You can only use this effect of \"Lunalight Serenade Dance\" once per turn.",
+    "newText": "When a Fusion Monster(s) is Fusion Summoned to your field (except during the Damage Step): You can target 1 of those monsters; Special Summon 1 \"Lunalight Token\" (Beast-Warrior/DARK/Level 4/ATK 2000/DEF 2000) to your opponent's field, also that target gains 500 ATK for each monster your opponent controls (if any) (even if this card leaves the field).\nDuring your Main Phase: You can banish this card from your GY; send 1 card from your hand to the GY, and if you do, Special Summon 1 \"Lunalight\" monster from your Deck. You can only use this effect of \"Lunalight Serenade Dance\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2021-01-22",
+    "lastUpdated": "2021-06-27",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14189&request_locale=ja",
+        "title": "Card FAQ – Lunalight Serenade Dance",
+        "date": "2021-06-27",
+        "desc": "In the Official Card Game, Special Summoning a Lunalight Token and the Fusion Monster gaining ATK are treated as having happened simultaneously."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22223&request_locale=ja",
+        "title": "Q&A #22223",
+        "date": "2021-06-27",
+        "desc": "In the Official Card Game, the effect of Lunalight Serenade Dance can be activated even if the opponent does not control any monsters."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22236&request_locale=ja",
+        "title": "Q&A #22236",
+        "date": "2021-06-27",
+        "desc": "In the Official Card Game, even if the effect of Lunalight Serenade Dance fails to Special Summon a \"Lunalight Token\", the targeted monster's ATK is still increased."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13108&request_locale=en",
+        "title": "Pulse Mines",
+        "date": "2020-12-28",
+        "desc": "Pulse Mines is an example of \"(if any)\" being used to indicate that no appropriate monsters are required to activate the effect."
+      }
+    ]
+  },
+  {
+    "id": 5988,
+    "icon": "trap",
+    "name": "Light of Judgment",
+    "oldText": "If \"The Sanctuary in the Sky\" is on the field: Discard 1 LIGHT monster to the GY; apply 1 of the following effects.\n●Look at your opponent's hand and discard 1 card from their hand.\n●Send 1 card your opponent controls to the GY.",
+    "newText": "If \"The Sanctuary in the Sky\" is on the field: Discard 1 LIGHT monster to the GY; apply 1 of the following effects.\n●Look at your opponent's hand and send 1 card from it to the GY.\n●Send 1 card your opponent controls to the GY.",
+    "author": "gallantron",
+    "lastPrint": "2018-01-19",
+    "lastUpdated": "2021-06-27",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5988&request_locale=ja",
+        "title": "Light of Judgment",
+        "date": "2021-06-27",
+        "desc": "In the Official Card Game, the chosen card in the opponent's hand is merely sent to the GY, not discarded."
+      }
+    ]
+  },
+  {
+    "id": 13737,
+    "icon": "effect",
+    "name": "Mana Dragon Zirnitron",
+    "oldText": "If a Spell/Trap you control leaves the field because of an opponent's effect, and is now in the GY or banished (except during the Damage Step): You can Special Summon this card from your GY (if it was there when that Spell/Trap left) or hand (even if not), then you can Set 1 Spell/Trap that is banished or in your GY to your Spell & Trap Zone. You can only use this effect of \"Mana Dragon Zirnitron\" once per turn. If Summoned this way, banish this card when it leaves the field.",
+    "newText": "If a Spell/Trap you control leaves the field because of an opponent's effect, and is now in the GY or banished (except during the Damage Step): You can Special Summon this card from your GY (if it was there when that Spell/Trap left) or hand (even if not), then you can Set 1 of your Spells/Traps, that is banished or in the GY, to your Spell & Trap Zone. You can only use this effect of \"Mana Dragon Zirnitron\" once per turn. If Summoned this way, banish this card when it leaves the field.",
+    "author": "gallantron",
+    "lastPrint": "2018-07-27",
+    "lastUpdated": "2021-06-27",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13737&request_locale=ja",
+        "title": "Mana Dragon Zirnitron",
+        "date": "2021-06-27",
+        "desc": "In the Official Card Game, Mana Dragon Zirnitron's effect only allows banished cards in the player's possession to be Set to the field."
+      }
+    ]
+  },
+  {
+    "id": 6759,
+    "icon": "spell",
+    "name": "Mausoleum of the Emperor",
+    "oldText": "During the Main Phase: The turn player can activate these effect(s).\n●Pay 1000 LP; immediately after this effect resolves, Normal Summon 1 monster from your hand that requires 1 Tribute, without Tributing.\n●Pay 2000 LP; immediately after this effect resolves, Normal Summon 1 monster from your hand that requires 2 Tributes, without Tributing.\n(This is their one Normal Summon/Set for that turn.)",
+    "newText": "During the Main Phase: The turn player can activate these effect(s).\n●Pay 1000 LP; immediately after this effect resolves, Normal Summon/Set 1 monster from your hand that requires 1 Tribute, without Tributing.\n●Pay 2000 LP; immediately after this effect resolves, Normal Summon/Set 1 monster from your hand that requires 2 Tributes, without Tributing.\n(This is their one Normal Summon/Set for that turn.)",
+    "author": "gallantron",
+    "lastPrint": "2021-06-10",
+    "lastUpdated": "2021-06-27",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6759&request_locale=ja",
+        "title": "Mausoleum of the Emperor",
+        "date": "2021-06-27",
+        "desc": "In the Official Card Game, the effects of Mausoleum of the Emperor allow you to Normal Set a card.\nIn particular, note that the Japanese 通常召喚, which literally translates to \"Normal Summon\", is the OCG equivalent of the TCG's \"Normal Summon or Set\".\nThe OCG equivalent to \"Normal Summon (but not Set)\" would be just 召喚."
+      }
+    ]
+  },
+  {
+    "id": 15340,
+    "icon": "effect",
+    "name": "Meklord Army Deployer Obbligato",
+    "oldText": "During your Main Phase: You can activate this effect; destroy this card, and if you do, Special Summon 2 \"Meklord Army\" monsters from your Deck in Defense Position, except \"Meklord Army Deployer Obbligato\", also you cannot Special Summon monsters for the rest of this turn, except Machine monsters. If this card is sent to the GY: You can activate this effect; during the End Phase of this turn, you can inflict 100 damage to your opponent for each \"Meklord\" monster you control. You can only use each effect of \"Meklord Army Deployer Obbligato\" once per turn.",
+    "newText": "During your Main Phase: You can activate this effect; destroy this card, and if you do, Special Summon 2 \"Meklord Army\" monsters from your Deck in Defense Position, except \"Meklord Army Deployer Obbligato\", also you cannot Special Summon monsters for the rest of this turn, except Machine monsters. If this card is sent to the GY: You can activate this effect; during the End Phase of this turn, inflict 100 damage to your opponent for each \"Meklord\" monster you control. You can only use each effect of \"Meklord Army Deployer Obbligato\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2020-09-25",
+    "lastUpdated": "2021-06-27",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15340&request_locale=ja",
+        "title": "Meklord Army Deployer Obbligato",
+        "date": "2021-06-27",
+        "desc": "In the Official Card Game, while activating the effect of Meklord Army Deployer Obbligato after it is sent to the GY is optional, later applying the effect and inflicting damage during the End Phase is mandatory."
+      }
+    ]
   }
 ]
