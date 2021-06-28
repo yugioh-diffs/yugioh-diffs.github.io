@@ -4276,5 +4276,23 @@
         "desc": "In the Official Card Game, the effect of Puppet King that Special Summons it can only be activated if a card is added from the Deck to the opponent's hand, rather than from anywhere."
       }
     ]
+  },
+  {
+    "id": 6288,
+    "icon": "spell",
+    "name": "Union Attack",
+    "oldText": "Target 1 face-up monster you control; add up the total ATK of all other face-up Attack Position monsters you currently control, then during the Battle Phase of this turn only, the monster gains that much ATK, but cannot inflict Battle Damage to your opponent, also other face-up Attack Position monsters cannot attack.",
+    "newText": "Target 1 face-up monster you control; this turn, that monster cannot inflict Battle Damage to your opponent, also other face-up Attack Position monsters cannot attack, also, during the Start Step of each Battle Phase this turn, have that monster gain ATK equal to the total ATK of all other Attack Position monsters you control, until the end of that Battle Phase.",
+    "author": "gallantron",
+    "lastPrint": "2013-06-28",
+    "lastUpdated": "2021-06-27",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6288&request_locale=ja",
+        "title": "Union Attack",
+        "date": "2021-06-27",
+        "desc": "In the Official Card Game, Union Attack sums up the ATK of the other face-up Attack Position monsters during each Start Step, rather than at the time that Union Attack resolves."
+      }
+    ]
   }
 ]
