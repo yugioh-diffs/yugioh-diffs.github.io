@@ -4354,5 +4354,41 @@
         "desc": "Droll & Lock Bird is a comparable card that uses this textual construct."
       }
     ]
+  },
+  {
+    "id": 10212,
+    "icon": "xyz",
+    "name": "Number 6: Chronomaly Atlandis",
+    "oldText": "2 Level 6 monsters\nWhen this card is Xyz Summoned: You can target 1 \"Number\" monster in your Graveyard; equip that target to this card. This card gains ATK equal to half the ATK of that equipped monster. Once per turn: You can detach 1 Xyz Material from this card, then send the monster equipped by this effect to the Graveyard; halve your opponent's Life Points. You cannot conduct your Battle Phase the turn you activate this effect.",
+    "newText": "2 Level 6 monsters\nWhen this card is Xyz Summoned: You can target 1 \"Number\" monster in your Graveyard; equip that target to this card. This card gains ATK equal to half the ATK of that equipped monster. Once per turn: You can detach 1 Xyz Material from this card, then send the monster equipped by this effect from your Spell & Trap Zone to the Graveyard; halve your opponent's Life Points. You cannot conduct your Battle Phase the turn you activate this effect.",
+    "author": "gallantron",
+    "lastPrint": "2013-06-14",
+    "lastUpdated": "2021-06-28",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10212&request_locale=ja",
+        "title": "Number 6: Chronomaly Atlandis",
+        "date": "2021-06-28",
+        "desc": "In the Official Card Game, the equipped card must be sent to the GY from your Spell & Trap Zone.\nFor example, if the opponent takes control of Number 6 using Mind Control, they cannot activate that effect, as the equipped card is not in their Spell & Trap Zone."
+      }
+    ]
+  },
+  {
+    "id": 14975,
+    "icon": "effect",
+    "name": "Morph King Stygi-Gel",
+    "oldText": "If this card is Normal or Special Summoned: You can target 1 other face-up monster on the field; you cannot Special Summon monsters from the Extra Deck, except Synchro Monsters, for the rest of this turn, also change this card's Level to the Level of that target, and if you do, gain LP equal to that target's Level x 200. During your Main Phase: You can Special Summon 1 Fiend monster with a Level lower than this card from your hand. You can only use this effect of \"Morph King Stygi-Gel\" once per turn.",
+    "newText": "If this card is Normal or Special Summoned: You can target 1 other face-up monster on the field; you cannot Special Summon monsters from the Extra Deck, except Synchro Monsters, for the rest of this turn, also change this card's Level to the Level of that target, and if you do, gain LP equal to that target's Level x 200. During your Main Phase: You can Special Summon 1 Fiend monster with a Level lower than this card from your hand. You can only use each effect of \"Morph King Stygi-Gel\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2021-07-09",
+    "lastUpdated": "2021-06-28",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14975&request_locale=ja",
+        "title": "Morph King Stygi-Gel",
+        "date": "2021-06-28",
+        "desc": "In the Official Card Game, each of Morph King Stygi-Gel's effects can only be used once per turn."
+      }
+    ]
   }
 ]
