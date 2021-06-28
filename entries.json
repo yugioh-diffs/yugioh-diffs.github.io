@@ -1488,30 +1488,6 @@
     ]
   },
   {
-    "id": 9869,
-    "icon": "xyz",
-    "name": "Evolzar Dolkka",
-    "oldText": "2 Level 4 Dinosaur-Type monsters\nDuring either player's turn, when a monster effect activates: You can detach 1 Xyz Material from this card; negate the activation, and if you do, destroy that monster.",
-    "newText": "2 Level 4 Dinosaur-Type monsters\nWhen another monster's effect is activated (Quick Effect): You can detach 1 material from this card; negate the activation, and if you do, destroy that monster.",
-    "author": "gallantron",
-    "lastPrint": "2012-08-14",
-    "lastUpdated": "2020-12-27",
-    "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9869&request_locale=ja",
-        "title": "Evolzar Dolkka",
-        "date": "2020-12-27",
-        "desc": "In the Official Card Game, Evolzar Dolkka's effect cannot be activated in response to its own effect."
-      },
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12321&request_locale=en",
-        "title": "Crystal Wing Synchro Dragon",
-        "date": "2020-12-27",
-        "desc": "Crystal Wing Synchro Dragon is an example of a similar card using this textual construct."
-      }
-    ]
-  },
-  {
     "id": 11849,
     "icon": "spell",
     "name": "Mistaken Arrest",
