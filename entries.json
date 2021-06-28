@@ -4330,5 +4330,29 @@
         "desc": "In the Official Card Game, the effect of Numeron Network is optional to activate."
       }
     ]
+  },
+  {
+    "id": 12302,
+    "icon": "pen_effect",
+    "name": "Amorphage Sloth",
+    "oldText": "While you control an \"Amorphage\" monster, neither player can add cards from their Deck to their hand except by drawing them. Once per turn, during your Standby Phase, Tribute 1 monster or destroy this card.",
+    "newText": "While you control an \"Amorphage\" monster, cards cannot be added from either player's Main Deck to the hand, except by drawing them. Once per turn, during your Standby Phase, Tribute 1 monster or destroy this card.",
+    "author": "gallantron",
+    "lastPrint": "2019-08-23",
+    "lastUpdated": "2021-06-28",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19409&request_locale=ja",
+        "title": "Q&A #19409",
+        "date": "2020-12-25",
+        "desc": "In the Official Card Game, Amorphage Sloth's Pendulum effect also prevents adding cards from the opponent's Deck to the hand."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9279&request_locale=en",
+        "title": "Droll & Lock Bird",
+        "date": "2020-12-28",
+        "desc": "Droll & Lock Bird is a comparable card that uses this textual construct."
+      }
+    ]
   }
 ]
