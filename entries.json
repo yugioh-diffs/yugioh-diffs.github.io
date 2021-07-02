@@ -138,10 +138,10 @@
     "author": "Catmaster0",
     "references": [
       {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6055&request_locale=ja.",
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6055&request_locale=ja",
         "title": "Card FAQ – Enchanting Fitting Room",
         "date": "2020-12-24",
-        "desc": "The \"also, after that,\" conjunction in the TCG text has shuffling the rest into the Deck treated as strictly sequential.\nThe OCG's FAQ page indicates that shuffling cards into the Deck should be treated as simultaneous with Special Summoning the excavated monsters."
+        "desc": "In the Official Card Game, shuffling cards into the Deck is treated as simultaneous with Special Summoning the excavated monsters."
       }
     ],
     "name": "Enchanting Fitting Room",
