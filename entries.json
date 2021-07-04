@@ -351,7 +351,7 @@
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5256&request_locale=en",
         "title": "Gilasaurus",
         "date": "2020-12-24",
-        "desc": "Gilasaurus is an example of a similar card using the revised textual construct"
+        "desc": "Gilasaurus is an example of a similar card using the revised textual construct."
       }
     ],
     "name": "Dynatherium",
@@ -2320,10 +2320,10 @@
     "icon": "pen_effect",
     "name": "Reflection of Endymion",
     "oldText": "You can only Special Summon \"Reflection(s) of Endymion\" once per turn. If this card is Special Summoned: You can target 1 card your opponent controls, and 1 card you control with a Spell Counter, except this card; return that opponent's card and your card to the hand, then place the same number of Spell Counters on this card that your returned card had. When this card with a Spell Counter is destroyed by battle: You can add 1 \"Endymion\" card from your Deck to your hand.",
-    "newText": "You can only Special Summon \"Reflection(s) of Endymion\" once per turn. If this card is Special Summoned: You can target 1 card your opponent controls, and 1 card you control with a Spell Counter, except this card; return them to the hand, then place the same number of Spell Counters on this card that your returned card had. When this card with a Spell Counter is destroyed by battle: You can add 1 \"Endymion\" card from your Deck to your hand.",
+    "newText": "You can only Special Summon \"Reflection(s) of Endymion\" once per turn. If this card is Special Summoned: You can target 1 card your opponent controls, and 1 card you control with a Spell Counter, except this card; return that opponent's card, also your card, to the hand, then place the same number of Spell Counters on this card that your returned card had. When this card with a Spell Counter is destroyed by battle: You can add 1 \"Endymion\" card from your Deck to your hand.",
     "author": "gallantron",
     "lastPrint": "2019-04-19",
-    "lastUpdated": "2021-01-02",
+    "lastUpdated": "2021-07-04",
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8174&request_locale=ja",
@@ -2335,7 +2335,7 @@
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13459&request_locale=en",
         "title": "Subterror Guru",
         "date": "2021-01-02",
-        "desc": "If 'them' is undesirable, the construct 'return that opponent's card, also your card, to the hand' could be used instead, as exhibited by Subterror Guru."
+        "desc": "Subterror Guru is an example of a similar card using the revised textual construct."
       }
     ]
   },
@@ -3255,7 +3255,7 @@
     "id": 16034,
     "icon": "trap",
     "name": "Amaze Attraction Majestic Merry-Go-Round",
-    "oldText": "Target 1 \"Amazement\" monster you control or 1 face-up monster your opponent controls; equip this card to it. You can apply the following effect, based on which player controls the equipped monster;\n��You: The equipped monster gains 500 ATK. If it would be destroyed by battle or card effect, you can send this card to the GY instead.\n��Your opponent: The equipped monster loses 500 ATK for each of your \"Attraction\" Traps equipped to a monster(s).\nYou can only use this effect of \"Amaze Attraction Majestic Merry-Go-Round\" once per turn.",
+    "oldText": "Target 1 \"Amazement\" monster you control or 1 face-up monster your opponent controls; equip this card to it. You can apply the following effect, based on which player controls the equipped monster;\n●You: The equipped monster gains 500 ATK. If it would be destroyed by battle or card effect, you can send this card to the GY instead.\n●Your opponent: The equipped monster loses 500 ATK for each of your \"Attraction\" Traps equipped to a monster(s).\nYou can only use this effect of \"Amaze Attraction Majestic Merry-Go-Round\" once per turn.",
     "newText": "Target 1 \"Amazement\" monster you control or 1 face-up monster your opponent controls; equip this card to it. Apply the appropriate effect, based on which player controls the equipped monster.\n●You: The equipped monster gains 500 ATK. If it would be destroyed by battle or card effect, you can send this card to the GY instead.\n●Your opponent: The equipped monster loses 500 ATK for each of your \"Attraction\" Traps equipped to a monster(s).",
     "author": "gallantron",
     "lastPrint": "2021-06-04",
