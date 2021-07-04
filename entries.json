@@ -189,7 +189,7 @@
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13543&request_locale=ja",
         "title": "Xtra HERO Wonder Driver",
         "date": "2020-12-24",
-        "desc": "Xtra HERO Wonder Driver's current TCG text limits effect activations, not effect usages. This does not match the Japanese original.\nFor example, even if the activation of its first effect is negated by Solemn Strike, that effect could still not be activated again that turn."
+        "desc": "In the Official Card Game, if the activation of XTRA Hero Wonder Driver's effect is negated by Borreload Savage Dragon, that effect could not be activated again that turn."
       },
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13543&request_locale=ja",
@@ -249,7 +249,7 @@
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5285&request_locale=ja",
         "title": "Card FAQ – Makyura the Destructor",
         "date": "2020-12-24",
-        "desc": "Activating Makyura the Destructor's effect is optional in the OCG."
+        "desc": "In the Official Card Game, activating Makyura the Destructor's effect is optional."
       }
     ],
     "name": "Makyura the Destructor",
@@ -267,7 +267,7 @@
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22866&request_locale=ja",
         "title": "Q&A #22866",
         "date": "2020-12-24",
-        "desc": "In the OCG, Liquid Soldier needs to be sent specifically for a Fusion Summon, not merely as Fusion Material."
+        "desc": "In the Official Card Game, Liquid Soldier needs to be sent specifically for a Fusion Summon, not merely as Fusion Material."
       }
     ],
     "name": "Elemental HERO Liquid Soldier",
@@ -327,7 +327,7 @@
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21887&request_locale=ja",
         "title": "Q&A #21887",
         "date": "2020-12-24",
-        "desc": "In the OCG, even if one player cannot draw cards, the other player still does."
+        "desc": "In the Official Card Game, even if one player cannot draw cards, the other player still does."
       }
     ],
     "name": "Number 75: Bamboozling Gossip Shadow",
@@ -345,7 +345,7 @@
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11010&request_locale=ja",
         "title": "Card FAQ – Dynatherium",
         "date": "2020-12-24",
-        "desc": "In the OCG, Dynatherium's effect does not target as indicated by its 4th FAQ entry."
+        "desc": "In the Official Card Game, Dynatherium's effect does not target."
       },
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5256&request_locale=en",
@@ -369,7 +369,7 @@
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5476&request_locale=ja",
         "title": "Toon Gemini Elf",
         "date": "2020-12-24",
-        "desc": "Activating Toon Gemini Elf's effect if it inflicts battle damage to the opponent is optional in the OCG."
+        "desc": "In the Official Card Game, activating Toon Gemini Elf's effect if it inflicts battle damage to the opponent is optional."
       }
     ],
     "name": "Toon Gemini Elf",
@@ -387,7 +387,7 @@
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21501&request_locale=ja",
         "title": "Q&A #21501",
         "date": "2020-12-24",
-        "desc": "In the OCG, even if the targeted monster is no longer 1 \"Mekk-Knight\" monster due to being face-down, it will still be moved."
+        "desc": "In the Official Card Game, even if the targeted monster is no longer 1 \"Mekk-Knight\" monster due to being face-down, it will still be moved."
       }
     ],
     "name": "Mekk-Knight Indigo Eclipse",
@@ -1261,15 +1261,19 @@
   },
   {
     "id": 9455,
+    "icon": "effect",
+    "name": "Maxx \"C\"",
     "oldText": "During either player's turn: You can send this card from your hand to the Graveyard; this turn, each time your opponent Special Summons a monster(s), immediately draw 1 card. You can only use 1 \"Maxx \"C\"\" per turn.",
-    "newText": "During either player's turn: You can send this card from your hand to the GY; this turn, each time your opponent Special Summons a monster(s), immediately draw 1 card. You can only use this effect of \"Maxx \"C\"\" once per turn.",
+    "newText": "(Quick Effect): You can send this card from your hand to the GY; this turn, each time your opponent Special Summons a monster(s), immediately draw 1 card. You can only use this effect of \"Maxx \"C\"\" once per turn.",
     "author": "gallantron",
+    "lastPrint": "2017-04-14",
+    "lastUpdated": "2021-07-04",
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9455&request_locale=ja",
         "title": "Maxx \"C\"",
         "date": "2020-12-24",
-        "desc": "The Japanese print of Maxx \"C\" has a simple usage restriction on its effect.\nThe current English print appears to purport a far broader restriction, including actions such as Summoning Maxx \"C\" or using it as material."
+        "desc": "In the Official Card Game, Maxx \"C\" has a simple usage restriction on its effect.\nThe current English print appears to purport a far broader restriction, including actions such as Summoning Maxx \"C\" or using it as material."
       },
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4968&request_locale=en",
@@ -1277,11 +1281,7 @@
         "date": "2020-12-24",
         "desc": "Prohibition is an example of a card that refers to generic \"usage\" of monsters."
       }
-    ],
-    "name": "Maxx \"C\"",
-    "lastUpdated": "2020-12-28",
-    "lastPrint": "2017-04-14",
-    "icon": "effect"
+    ]
   },
   {
     "id": 12167,
@@ -2287,7 +2287,7 @@
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7474&request_locale=ja",
         "title": "Card FAQ – All-Out Attacks",
         "date": "2020-12-30",
-        "desc": "All-Out-Attacks should force all monsters to attack this turn, not just monsters that can successfully be changed to Attack Position.\nThe current text implies that monsters that are already in Attack Position are not forced to attack."
+        "desc": "In the Official Card Game, All-Out-Attacks forces all monsters to attack this turn, not just monsters that can successfully be changed to Attack Position.\nThe current text implies that monsters that are already in Attack Position are not forced to attack."
       },
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9969&request_locale=en",
@@ -3163,7 +3163,7 @@
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16077&request_locale=ja",
         "title": "Aron, the Ogdoadic King",
         "date": "2021-05-16",
-        "desc": "In the Official Card Game, Aron, the Ogdoadic King's effect that adds a LIGHT or DARK Reptile to the hand can only be activated if a monster is sent to the GY by a card effect. (It cannot be activated if, for example, a monster is used as Link Material.)"
+        "desc": "In the Official Card Game, Aron, the Ogdoadic King's effect that adds a LIGHT or DARK Reptile to the hand can only be activated if a monster is sent to the GY by a card effect.\n(It cannot be activated if, for example, a monster is used as Link Material.)"
       }
     ]
   },
@@ -3388,16 +3388,16 @@
     "icon": "effect",
     "name": "Sylvan Princessprout",
     "oldText": "You can only activate each effect of \"Sylvan Princessprout\" once per turn.\n●You can Tribute this card; excavate the top card of your Deck, send it to the Graveyard, then you can place 1 \"sprout\" monster in your Graveyard on top of your Deck.\n●If this card is excavated from the Deck and sent to the Graveyard by a card effect: You can declare a Level from 1 to 8; Special Summon this card from the Graveyard, and if you do, it becomes that Level.",
-    "newText": "You can only use each effect of \"Sylvan Princessprout\" once per turn.\n●You can Tribute this card; excavate the top card of your Deck, send it to the Graveyard, then you can place 1 \"sprout\" monster in your Graveyard on top of your Deck.\n●If this card is excavated from the Deck and sent to the Graveyard by a card effect: You can declare a Level from 1 to 8; Special Summon this card from the Graveyard, and if you do, it becomes that Level.",
-    "author": "Catmaster0",
+    "newText": "You can only use each effect of \"Sylvan Princessprout\" once per turn.\n●You can Tribute this card; excavate the top card of your Deck, send it to the GY, then you can place 1 \"sprout\" monster in your GY on top of your Deck.\n●If this card is excavated from the Deck and sent to the GY by a card effect: You can declare a Level from 1 to 8; Special Summon this card from the GY, and if you do, it becomes that Level.",
+    "author": "gallantron",
     "lastPrint": "2015-09-18",
-    "lastUpdated": "2021-6-17",
+    "lastUpdated": "2021-07-04",
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11198&request_locale=ja",
         "title": "Card FAQ – Sylvan Princessprout",
         "date": "2021-06-17",
-        "desc": "Sylvan Princessprout's current TCG text limits effect activations, not effect usages. This does not match the Japanese original.\nFor example, even if the activation of its first effect is negated by Solemn Strike, that effect could still not be activated again"
+        "desc": "In the Official Card Game, if the activation of Sylvan Princessprout's first effect is negated by Borreload Savage Dragon, that effect could not be activated again that turn."
       }
     ]
   },
@@ -3415,7 +3415,7 @@
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11202&request_locale=ja",
         "title": "Noble Knights of the Round Table",
         "date": "2021-06-17",
-        "desc": "Noble Knights of the Round Table's current TCG text limits effect activations, not effect usages. This does not match the Japanese original.\nFor example, even if the activation of its effect is negated by Borreload Savage Dragon's effect, that effect could still not be activated again"
+        "desc": "In the Official Card Game, if the activation of one of Noble Knights of the Round Table's effects is negated by Borreload Savage Dragon, that effect could not be activated again that turn."
       }
     ]
   },
@@ -3424,16 +3424,16 @@
     "icon": "effect",
     "name": "Master Hyperion",
     "oldText": "You can Special Summon this card (from your hand) by banishing 1 \"The Agent\" monster from your hand, field, or Graveyard. Once per turn: You can banish 1 LIGHT Fairy-Type monster from your Graveyard, then target 1 card on the field; destroy that target. While \"The Sanctuary in the Sky\" is on the field, you can activate this effect up to twice per turn.",
-    "newText": "You can Special Summon this card (from your hand) by banishing 1 \"The Agent\" monster from your hand, field, or GY. Once per turn: You can banish 1 LIGHT Fairy-Type monster from your Graveyard, then target 1 card on the field; destroy that target. While \"The Sanctuary in the Sky\" is on the field, you can use this effect up to twice per turn.",
-    "author": "Catmaster0",
+    "newText": "You can Special Summon this card (from your hand) by banishing 1 \"The Agent\" monster from your hand, field, or GY. Once per turn: You can banish 1 LIGHT Fairy monster from your GY, then target 1 card on the field; destroy it. While \"The Sanctuary in the Sky\" is on the field, this effect can be used up to twice per turn.",
+    "author": "gallantron",
     "lastPrint": "2015-03-20",
-    "lastUpdated": "2021-6-17",
+    "lastUpdated": "2021-07-04",
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=9287&request_locale=ja",
         "title": "Card FAQ – Master Hyperion",
         "date": "2021-06-17",
-        "desc": "Master Hyperion's current TCG text limits effect activations, not effect usages. This does not match the Japanese original.\nFor example, even if the activation of its second effect is negated by Solemn Strike while Sanctuary of the Sky is face-up, that effect could still not be activated an additional time."
+        "desc": "In the Official Card Game, if the activation of Master Hyperion's effect is negated by Borreload Savage Dragon, that effect could not be activated again that turn."
       }
     ]
   },
@@ -3514,10 +3514,10 @@
     "icon": "xyz",
     "name": "Number 53: Heart-eartH",
     "oldText": "3 Level 5 monsters\nOnce per turn, when this card is targeted for an attack: It gains ATK equal to that attacking monster's original ATK, until the End Phase. If this face-up card on the field would be destroyed, you can detach 1 Xyz Material from this card instead. When this card on the field is destroyed by a card effect while it has no Xyz Materials: You can Special Summon 1 \"Number 92: Heart-eartH Dragon\" from your Extra Deck and attach this card from the Graveyard to it as an Xyz Material. (This Special Summon is treated as an Xyz Summon.)",
-    "newText": "3 Level 5 monsters\nOnce per turn, when this card is targeted for an attack: It gains ATK equal to that attacking monster's original ATK, until the end of this turn. If this face-up card on the field would be destroyed, you can detach 1 Xyz Material from this card instead. When this card on the field is destroyed by a card effect while it has no Xyz Materials: Special Summon 1 \"Number 92: Heart-eartH Dragon\" from your Extra Deck and attach this card from the Graveyard to it as an Xyz Material. (This Special Summon is treated as an Xyz Summon.)",
-    "author": "Catmaster0",
+    "newText": "3 Level 5 monsters\nOnce per turn, when this card is targeted for an attack: It gains ATK equal to that attacking monster's original ATK, until the end of this turn. If this face-up card on the field would be destroyed, you can detach 1 material from it instead. If this card on the field is destroyed by a card effect while it has no material: Special Summon 1 \"Number 92: Heart-eartH Dragon\" from your Extra Deck and attach this card from the GY to it as material. (This Special Summon is treated as an Xyz Summon.)",
+    "author": "gallantron",
     "lastPrint": "2013-01-25",
-    "lastUpdated": "2021-6-21",
+    "lastUpdated": "2021-07-04",
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10405&request_locale=ja",
@@ -3532,16 +3532,16 @@
     "icon": "xyz",
     "name": "Number C32: Shark Drake Veiss",
     "oldText": "4 Level 4 WATER monsters\nYou can also Xyz Summon this card by using a \"Number 32: Shark Drake\" you control as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) During either player's turn, if your Life Points are 1000 or less: You can detach 1 Xyz Material from this card and banish 1 monster from your Graveyard to target 1 face-up monster on the field; that target's ATK and DEF become 0 until the End Phase.",
-    "newText": "4 Level 4 WATER monsters\nYou can also Xyz Summon this card by using a \"Number 32: Shark Drake\" you control as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) During either player's turn, if your Life Points are 1000 or less: You can detach 1 Xyz Material from this card and banish 1 monster from your Graveyard to target 1 face-up monster on the field; that target's ATK and DEF become 0 until the end of your turn.",
-    "author": "Catmaster0",
+    "newText": "4 Level 4 WATER monsters\nYou can also Xyz Summon this card by using a \"Number 32: Shark Drake\" you control as material. (Transfer its materials to this card.) If your Life Points are 1000 or less (Quick Effect): You can detach 1 material from this card and banish 1 monster from your GY, then target 1 face-up monster on the field; that target's ATK/DEF become 0 until the end of your turn.",
+    "author": "gallantron",
     "lastPrint": "2012-11-09",
-    "lastUpdated": "2021-6-21",
+    "lastUpdated": "2021-07-04",
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10261&request_locale=ja",
         "title": "Card FAQ – Number C32: Shark Drake Veiss",
         "date": "2021-06-21",
-        "desc": "In the Official Card Game, the targeted monster's ATK/DEF become zero until the end of your next turn, rather than the current turn."
+        "desc": "In the Official Card Game, the targeted monster's ATK/DEF become zero until the end of your turn, rather than the current turn."
       }
     ]
   },
@@ -3604,10 +3604,10 @@
     "icon": "trap",
     "name": "Rocket Hand",
     "oldText": "Target 1 Attack Position monster you control with 800 or more ATK; equip this card to that target. It gains 800 ATK. You can send this equipped card to the Graveyard, then target 1 face-up card on the field; destroy it, then change the ATK of the monster this card was equipped to, to 0, also its battle position cannot be changed. You can only use 1 \"Rocket Hand\" effect per turn, and only once that turn.",
-    "newText": "Target 1 Attack Position monster you control with 800 or more ATK; equip this card to it. It gains 800 ATK. You can send this equipped card to the Graveyard, then target 1 face-up card on the field; destroy it, then change the ATK of the monster this card was equipped to, to 0, also its battle position cannot be changed. You can only use 1 \"Rocket Hand\" effect per turn, and only once that turn.",
-    "author": "Catmaster0",
+    "newText": "Target 1 Attack Position monster you control with 800 or more ATK; equip this card to it. It gains 800 ATK. You can send this equipped card to the GY, then target 1 face-up card on the field; destroy it, then change the ATK of the monster this card was equipped to, to 0, also its battle position cannot be changed. You can only use 1 \"Rocket Hand\" effect per turn, and only once that turn.",
+    "author": "gallantron",
     "lastPrint": "2017-08-25",
-    "lastUpdated": "2021-06-22",
+    "lastUpdated": "2021-07-04",
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17073&request_locale=ja",
@@ -3844,10 +3844,10 @@
     "icon": "effect",
     "name": "Gladiator Beast Lanista",
     "oldText": "When this card is Special Summoned by the effect of a \"Gladiator Beast\" monster: Target 1 \"Gladiator Beast\" monster in your Graveyard; banish that target, and this card's name becomes the target's name until the End Phase. At the end of the Battle Phase, if this card attacked or was attacked: You can shuffle it into the Deck; Special Summon 1 \"Gladiator Beast\" monster from your Deck, except \"Gladiator Beast Lanista\".",
-    "newText": "When this card is Special Summoned by the effect of a \"Gladiator Beast\" monster: You can target 1 \"Gladiator Beast\" monster in your Graveyard; banish that target, and this card's name becomes the target's name until the End Phase. At the end of the Battle Phase, if this card attacked or was attacked: You can shuffle it into the Deck; Special Summon 1 \"Gladiator Beast\" monster from your Deck, except \"Gladiator Beast Lanista\".",
+    "newText": "When this card is Special Summoned by the effect of a \"Gladiator Beast\" monster: You can target 1 \"Gladiator Beast\" monster in your GY; banish that target, and if you do, this card's name becomes the target's name until the End Phase. At the end of the Battle Phase, if this card battled: You can shuffle it into the Deck; Special Summon 1 \"Gladiator Beast\" monster from your Deck, except \"Gladiator Beast Lanista\".",
     "author": "gallantron",
     "lastPrint": "2012-02-21",
-    "lastUpdated": "2021-06-27",
+    "lastUpdated": "2021-07-04",
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9436&request_locale=ja",
@@ -4084,10 +4084,10 @@
     "icon": "effect",
     "name": "Superancient Deepsea King Coelacanth",
     "oldText": "Once per turn: You can discard 1 card; Special Summon as many Level 4 or lower Fish-Type monsters as possible from your Deck, but they cannot declare an attack and their effects are negated. During either player's turn, when this face-up card on the field is targeted by a card effect: You can Tribute 1 other Fish-Type monster; negate the activation, and if you do, destroy that card.",
-    "newText": "Once per turn: You can discard 1 card; Special Summon as many Level 4 or lower Fish-Type monsters as possible from your Deck, but they cannot declare an attack and their effects are negated. During either player's turn, when this face-up card on the field is targeted by a card effect: You can Tribute 1 other Fish-Type monster; negate that effect, and if you do, destroy that card.",
+    "newText": "Once per turn: You can discard 1 card; Special Summon as many Level 4 or lower Fish-Type monsters as possible from your Deck, but they cannot declare an attack and their effects are negated. When this face-up card on the field is targeted by a card effect (Quick Effect): You can Tribute 1 other Fish-Type monster; negate that effect, and if you do, destroy that card.",
     "author": "gallantron",
     "lastPrint": "2012-05-29",
-    "lastUpdated": "2021-06-27",
+    "lastUpdated": "2021-07-04",
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7434&request_locale=ja",
@@ -4144,10 +4144,10 @@
     "icon": "effect",
     "name": "Yubel",
     "oldText": "This card cannot be destroyed by battle. You take no Battle Damage from battles involving this card. Before damage calculation, when this face-up Attack Position card is attacked by an opponent's monster: Inflict damage to your opponent equal to that monster's ATK. During your End Phase: Tribute 1 other monster or destroy this card. When this card is destroyed, except by its own effect: Its owner can Special Summon 1 \"Yubel - Terror Incarnate\" from their hand, Deck, or Graveyard.",
-    "newText": "This card cannot be destroyed by battle. You take no Battle Damage from battles involving this card. If this card was attacked by an opponent's monster while it was in face-up Attack Position, before damage calculation: Inflict damage to your opponent equal to that monster's ATK. During your End Phase: Tribute 1 other monster or destroy this card. When this card is destroyed, except by its own effect: Its owner can Special Summon 1 \"Yubel - Terror Incarnate\" from their hand, Deck, or Graveyard.",
+    "newText": "This card cannot be destroyed by battle. You take no Battle Damage from battles involving this card. If this card was attacked by an opponent's monster while it was in face-up Attack Position, before damage calculation: Inflict damage to your opponent equal to that monster's ATK. During your End Phase: Tribute 1 other monster or destroy this card. When this card is destroyed, except by its own effect: Its owner can Special Summon 1 \"Yubel - Terror Incarnate\" from their hand, Deck, or GY.",
     "author": "gallantron",
     "lastPrint": "2012-02-21",
-    "lastUpdated": "2021-06-27",
+    "lastUpdated": "2021-07-04",
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7409&request_locale=ja",
@@ -4180,10 +4180,10 @@
     "icon": "xyz",
     "name": "Number 9: Dyson Sphere",
     "oldText": "2 Level 9 monsters\nOnce per Battle Step, during your opponent's turn, if this card with Xyz Material is attacked: Negate the attack (this is a Quick Effect). When this card is targeted for an attack while it has no Xyz Materials: You can target 2 monsters in your Graveyard; attach those targets to this card as Xyz Materials. During your Main Phase 1: You can detach 1 Xyz Material from this card; this card can attack your opponent directly this turn. Your opponent must control a monster with higher ATK than this card for you to activate and to resolve this effect.",
-    "newText": "2 Level 9 monsters\nOnce per battle, during your opponent's Battle Step, if this card with Xyz Material is being attacked (Quick Effect): You can negate the attack. When this card is targeted for an attack while it has no Xyz Materials: You can target 2 monsters in your Graveyard; attach those targets to this card as Xyz Materials. During your Main Phase 1, if your opponent controls a monster with higher ATK than this card: You can detach 1 Xyz Material from this card; this card can attack your opponent directly this turn.",
+    "newText": "2 Level 9 monsters\nOnce per battle, during your opponent's Battle Step, if this card with material is being attacked (Quick Effect): You can negate the attack. If this card is targeted for an attack, while it has no material: You can target 2 monsters in your GY; attach those targets to this card as materials. During your Main Phase 1, if your opponent controls a monster with higher ATK than this card: You can detach 1 material from this card; this card can attack your opponent directly this turn.",
     "author": "gallantron",
     "lastPrint": "2012-11-09",
-    "lastUpdated": "2021-06-27",
+    "lastUpdated": "2021-07-04",
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10266&request_locale=ja",
@@ -4342,10 +4342,10 @@
     "icon": "xyz",
     "name": "Number 6: Chronomaly Atlandis",
     "oldText": "2 Level 6 monsters\nWhen this card is Xyz Summoned: You can target 1 \"Number\" monster in your Graveyard; equip that target to this card. This card gains ATK equal to half the ATK of that equipped monster. Once per turn: You can detach 1 Xyz Material from this card, then send the monster equipped by this effect to the Graveyard; halve your opponent's Life Points. You cannot conduct your Battle Phase the turn you activate this effect.",
-    "newText": "2 Level 6 monsters\nWhen this card is Xyz Summoned: You can target 1 \"Number\" monster in your Graveyard; equip that target to this card. This card gains ATK equal to half the ATK of that equipped monster. Once per turn: You can detach 1 Xyz Material from this card, then send the monster equipped by this effect from your Spell & Trap Zone to the Graveyard; halve your opponent's Life Points. You cannot conduct your Battle Phase the turn you activate this effect.",
+    "newText": "2 Level 6 monsters\nWhen this card is Xyz Summoned: You can target 1 \"Number\" monster in your GY; equip that target to this card. This card gains ATK equal to half the ATK of that equipped monster. Once per turn: You can detach 1 material from this card, then send the monster equipped by this effect from your Spell & Trap Zone to the GY; halve your opponent's Life Points. You cannot conduct your Battle Phase the turn you activate this effect.",
     "author": "gallantron",
     "lastPrint": "2013-06-14",
-    "lastUpdated": "2021-06-28",
+    "lastUpdated": "2021-07-04",
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10212&request_locale=ja",

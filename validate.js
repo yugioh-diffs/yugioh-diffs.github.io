@@ -124,6 +124,19 @@ document.addEventListener('DOMContentLoaded', () =>
                         changed = true;
                     }
                     
+                    if ((entry.icon !== 'spell') && (entry.icon !== 'trap') && entry.newText.toLowerCase().includes('during either player\'s turn'))
+                        LOG(entry.name+' ('+entry.id+') uses "during either player\'s turn" in its revised text. Is this intended?');
+                    if (entry.newText.toLowerCase().includes('graveyard'))
+                        LOG(entry.name+' ('+entry.id+') uses "graveyard" in its revised text. Is this intended?');
+                    if (entry.newText.toLowerCase().includes('xyz material'))
+                        LOG(entry.name+' ('+entry.id+') uses "Xyz Material" in its revised text. Is this intended?');
+                    if (entry.newText.toLowerCase().includes('attacks or is attacked'))
+                        LOG(entry.name+' ('+entry.id+') uses "attacks or is attacked" in its revised text. Is this intended?');
+                    if (entry.newText.toLowerCase().includes('attacked or was attacked'))
+                        LOG(entry.name+' ('+entry.id+') uses "attacked or was attacked" in its revised text. Is this intended?');
+                    if (entry.newText.toLowerCase().includes('ATK and DEF'))
+                        LOG(entry.name+' ('+entry.id+') uses "ATK and DEF" in its revised text. Is this intended?');
+                    
                     return changed;
                 } catch (e) {
                     console.warn(e,entry);
