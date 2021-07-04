@@ -277,21 +277,27 @@
   },
   {
     "id": 12850,
+    "icon": "fusion",
+    "name": "Invoked Elysium",
     "oldText": "1 \"Invoked\" monster + 1 monster that was Special Summoned from the Extra Deck\nMust first be Fusion Summoned with the above Fusion Materials. While face-up on the field, this card is also DARK, EARTH, WATER, FIRE, and WIND-Attribute. Once per turn (Quick Effect): You can target 1 \"Invoked\" monster you control or in your GY; banish it and all monsters your opponent controls with the same Attribute as that monster.",
-    "newText": "1 \"Invoked\" monster + 1 monster that was Special Summoned from the Extra Deck\nMust first be Fusion Summoned with the above Fusion Materials. While face-up on the field, this card is also DARK, EARTH, WATER, FIRE, and WIND-Attribute. Once per turn (Quick Effect): You can target 1 \"Invoked\" monster you control or in your GY; banish it, and if you do, banish all monsters your opponent controls with the same Attribute(s) that monster had while on the field.",
+    "newText": "1 \"Invoked\" monster + 1 monster that was Special Summoned from the Extra Deck\nMust first be Fusion Summoned with the above Fusion Materials. While face-up on the field, this card is also DARK, EARTH, WATER, FIRE, and WIND-Attribute. Once per turn (Quick Effect): You can target 1 \"Invoked\" monster you control or in your GY; banish it, also banish all monsters your opponent controls with the same Attribute as that monster.",
     "author": "gallantron",
+    "lastPrint": "2020-07-24",
+    "lastUpdated": "2021-07-04",
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8157&request_locale=ja",
         "title": "Q&A #8157",
         "date": "2020-12-24",
-        "desc": "In the OCG, Invoked Elysium's activated effect will banish the targeted \"Invoked\" monster even if there are no appropriate monsters on the opponent's field."
+        "desc": "In the Official Card Game, Invoked Elysium's activated effect will banish the targeted \"Invoked\" monster even if there are no appropriate monsters on the opponent's field."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9671&request_locale=ja",
+        "title": "Q&A #9671",
+        "date": "2021-07-04",
+        "desc": "In the Official Card Game, Invoked Elysium's activated effect will banish any appropriate monsters on the opponent's field, even if the targeted \"Invoked\" monster cannot be banished."
       }
-    ],
-    "name": "Invoked Elysium",
-    "lastUpdated": "2020-08-28",
-    "lastPrint": "2020-07-24",
-    "icon": "fusion"
+    ]
   },
   {
     "id": 13462,
