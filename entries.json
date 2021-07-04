@@ -4390,5 +4390,23 @@
         "desc": "In the Official Card Game, the targeted Machine monster will not be destroyed if there are no appropriate monsters on the opponent's field."
       }
     ]
+  },
+  {
+    "id": 14479,
+    "icon": "effect",
+    "name": "Reversible Beetle",
+    "oldText": "FLIP: Shuffle this card, and any face-up monsters in its column, into the Deck(s).\nIf this card is Normal or Special Summoned: Change this card, and any monsters in its column, to face-down Defense Position. You can only use each effect of \"Reversible Beetle\" once per turn.",
+    "newText": "FLIP: Shuffle this card, also any face-up monsters in its column, into the Deck(s).\nIf this card is Normal or Special Summoned: Change this card, also any monsters in its column, to face-down Defense Position. You can only use each effect of \"Reversible Beetle\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2019-07-27",
+    "lastUpdated": "2021-07-04",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14479&request_locale=ja",
+        "title": "Card FAQ – Reversible Beetle",
+        "date": "2021-07-04",
+        "desc": "In the Official Card Game, even if Reversible Beetle itself cannot be shuffled into the Deck, any other monsters in its column still are."
+      }
+    ]
   }
 ]
