@@ -3409,7 +3409,7 @@
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11202&request_locale=ja",
         "title": "Noble Knights of the Round Table",
         "date": "2021-06-17",
-        "desc": "Noble Knights of the Round Table's current TCG text limits effect activations, not effect usages. This does not match the Japanese original.\nFor example, even if the activation of its effect is negated by Solemn Strike, that effect could still not be activated again"
+        "desc": "Noble Knights of the Round Table's current TCG text limits effect activations, not effect usages. This does not match the Japanese original.\nFor example, even if the activation of its effect is negated by Borreload Savage Dragon's effect, that effect could still not be activated again"
       }
     ]
   },

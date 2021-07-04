@@ -49,8 +49,79 @@ let loadText = ((oldContainer, newContainer, oldText, newText) =>
     }
 });
 
+let existingEntryIdx = (async () =>
+{
+    const idx = {};
+    for (const entry of await (await fetch('entries.json')).json())
+        idx[entry.id] = entry;
+    return idx;
+})();
+
 document.addEventListener('DOMContentLoaded', () =>
 {
+    document.getElementById('card-id').addEventListener('input', function()
+    {
+        let v = this.value;
+        if (v.startsWith('https://db.ygorganization.com/card#'))
+        {
+            if (v.charAt(v.length-3) === ':')
+                this.value = v.substring(35, v.length-3);
+            else
+                this.value = v.substring(35);
+            this.blur();
+        }
+    });
+    document.getElementById('card-id').addEventListener('change', async function()
+    {
+        if (document.getElementById('new-text').value) return;
+        const id = parseInt(document.getElementById('card-id').value);
+        if (isNaN(id)) return;
+        const existing = (await existingEntryIdx)[id];
+        if (document.getElementById('new-text').value) return;
+        if (existing)
+        {
+            document.getElementById('new-text').value = existing.newText;
+            document.getElementById('date').value = '';
+            for (let i=1; i<4; ++i)
+            {
+                const ref = existing.references[i-1];
+                if (ref)
+                {
+                    document.getElementById('ref-'+i+'-url').value = ref.url;
+                    document.getElementById('ref-'+i+'-title').value = ref.title;
+                    document.getElementById('ref-'+i+'-date').value = ref.date;
+                    document.getElementById('ref-'+i+'-desc').value = ref.desc;
+                }
+                else
+                {
+                    document.getElementById('ref-'+i+'-url').value = '';
+                    document.getElementById('ref-'+i+'-title').value = '';
+                    document.getElementById('ref-'+i+'-date').value = '';
+                    document.getElementById('ref-'+i+'-desc').value = '';
+                }
+            }
+        }
+        else
+        {
+            let dbText = null;
+            try
+            {
+                dbText = (await (await fetch('https://db.ygorganization.com/data/card/'+id)).json()).cardData.en.effectText;
+            } catch (f) { console.error(f); dbText = 'OrgDB query failed:\n'+f; }
+            if (document.getElementById('new-text').value) return;
+            
+            document.getElementById('new-text').value = dbText;
+            document.getElementById('date').value = '';
+            for (let i=1; i<4; ++i)
+            {
+                document.getElementById('ref-'+i+'-url').value = '';
+                document.getElementById('ref-'+i+'-title').value = '';
+                document.getElementById('ref-'+i+'-date').value = '';
+                document.getElementById('ref-'+i+'-desc').value = '';
+            }
+        }
+        document.getElementById('output').className = '';
+    });
     document.getElementById('author').value = (window.localStorage.getItem('savedAuthorName') || '');
     for (let i=1; i<4; ++i)
     {
@@ -147,8 +218,6 @@ document.addEventListener('DOMContentLoaded', () =>
                 let id = document.getElementById('card-id').value.trim();
                 if (!id)
                     throw 'Card ID missing';
-                if (id.startsWith('https://db.ygorganization.com/card#'))
-                    id = id.substr(35);
                 id = parseInt(id);
                 if (isNaN(id))
                     throw 'Invalid Card ID';
