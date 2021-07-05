@@ -4408,5 +4408,23 @@
         "desc": "In the Official Card Game, even if Reversible Beetle itself cannot be shuffled into the Deck, any other monsters in its column still are."
       }
     ]
+  },
+  {
+    "id": 8842,
+    "icon": "trap",
+    "name": "Guard Mines",
+    "oldText": "Activate only when a card is activated with an effect that would target and destroy 1 monster you control. Negate the effect and destroy that card. Then inflict 500 damage to your opponent.",
+    "newText": "When a Spell/Trap Card is activated that targets exactly 1 monster you control, and would destroy that monster: negate the activation, and if you do, destroy that card, then inflict 500 damage to your opponent.",
+    "author": "gallantron",
+    "lastPrint": "2011-05-31",
+    "lastUpdated": "2021-07-05",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8842&request_locale=ja",
+        "title": "Guard Mines",
+        "date": "2021-07-05",
+        "desc": "In the Official Card Game, Guard Mines negates the activation of the Chain Link it was chained to, rather than its effect."
+      }
+    ]
   }
 ]
