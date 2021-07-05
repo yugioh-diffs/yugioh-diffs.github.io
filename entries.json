@@ -3586,7 +3586,7 @@
     "icon": "spell",
     "name": "Prohibition",
     "oldText": "Activate by declaring 1 card name. Cards with that name, and their effects, cannot be used. Cards already on the field are not affected (including face-down cards).",
-    "newText": "Prohibition\nContinuous Spell Card\nActivate this card by declaring 1 card name. Apply these effects to all cards whose original name is the card name you declared. (This does not apply to card(s) that are already on the field before this effect started applying.)\n●They cannot be placed on the field.\n●They cannot be activated, nor can their effects be activated or applied.\n●They cannot be Summoned or Set.\n●They cannot attack, nor can they change their battle positions.\n●They cannot be used as material for a Special Summon that requires materials.",
+    "newText": "Activate this card by declaring 1 card name. Apply these effects to all cards whose original name is the card name you declared. (This does not apply to card(s) that are already on the field before this effect started applying.)\n●They cannot be placed on the field.\n●They cannot be activated, nor can their effects be activated or applied.\n●They cannot be Summoned or Set.\n●They cannot attack, nor can they change their battle positions.\n●They cannot be used as material for a Special Summon that requires materials.",
     "author": "Catmaster0",
     "lastPrint": "2012-10-02",
     "lastUpdated": "2021-6-21",
