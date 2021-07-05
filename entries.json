@@ -4228,16 +4228,16 @@
     "icon": "spell",
     "name": "Boss Rush",
     "oldText": "You cannot Normal Summon or Set. During the End Phase of the turn that a \"B.E.S.\" monster or a \"Big Core\" is destroyed and sent to the Graveyard, you can Special Summon 1 \"B.E.S.\" monster or 1 \"Big Core\" from your Deck.",
-    "newText": "You cannot Normal Summon/Set. During the End Phase, if a face-up \"B.E.S.\" monster, or a face-up \"Big Core\", was destroyed and sent to the GY this turn: You can Special Summon 1 \"B.E.S.\" monster or 1 \"Big Core\" from your Deck. You cannot Normal Summon/Set during the turn you activate this card.",
+    "newText": "You can only activate this card if you have not Normal Summoned/Set this turn. While this card is face-up on the field, you cannot Normal Summon/Set. During the End Phase, if a face-up \"B.E.S.\" monster, or a face-up \"Big Core\", was destroyed and sent to the GY this turn: You can Special Summon 1 \"B.E.S.\" monster or 1 \"Big Core\" from your Deck.",
     "author": "gallantron",
     "lastPrint": "2007-11-14",
-    "lastUpdated": "2021-06-27",
+    "lastUpdated": "2021-07-05",
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6514&request_locale=ja",
         "title": "Boss Rush",
         "date": "2021-06-27",
-        "desc": "In the Official Card Game, you cannot Normal Summon/Set during the turn you activate Boss Rush."
+        "desc": "In the Official Card Game, you cannot activate Boss Rush after you have Normal Summoned/Set that turn."
       }
     ]
   },
