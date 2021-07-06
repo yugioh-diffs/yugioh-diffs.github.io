@@ -4444,5 +4444,35 @@
         "desc": "In the Official Card Game, Cyber Blader only negates activated effects, rather than all card effects."
       }
     ]
+  },
+  {
+    "id": 10074,
+    "icon": "spell",
+    "name": "Bound Wand",
+    "oldText": "Equip only to a Spellcaster monster that has a Level. It gains ATK equal to its Level x 100. If the equipped monster is destroyed by your opponent's card and sent to the GY, and this card is sent to your GY as a result: You can Special Summon that monster.",
+    "newText": "Equip only to a Spellcaster monster. It gains ATK equal to its Level x 100. If the equipped monster is destroyed by your opponent's card and sent to the GY, and this card is sent to your GY as a result: You can Special Summon that monster.",
+    "author": "gallantron",
+    "lastPrint": "2019-03-22",
+    "lastUpdated": "2021-07-06",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10074&request_locale=ja",
+        "title": "Bound Wand",
+        "date": "2021-07-06",
+        "desc": "In the Official Card Game, Bound Wand makes no mention of needing to be equipped to a monster that has a Level."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7691&request_locale=en",
+        "title": "Synchro Boost",
+        "date": "2021-07-06",
+        "desc": "Synchro Boost is a similar Equip Spell whose effect depends on the equipped monster's Level."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20779&request_locale=ja",
+        "title": "Q&A #20779",
+        "date": "2021-07-06",
+        "desc": "In the Official Card Game, Synchro Boost can be equipped to monsters that do not have a Level."
+      }
+    ]
   }
 ]
