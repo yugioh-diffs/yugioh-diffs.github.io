@@ -4474,5 +4474,23 @@
         "desc": "In the Official Card Game, Synchro Boost can be equipped to monsters that do not have a Level."
       }
     ]
+  },
+  {
+    "id": 5008,
+    "icon": "trap",
+    "name": "Anti-Spell Fragrance",
+    "oldText": "Both players must Set Spell Cards before activating them, and cannot activate them until their next turn after Setting them.",
+    "newText": "Both players must Set Spell Cards before activating them. If either player Sets a Spell Card, that Spell Card cannot be activated until the end of their next turn.",
+    "author": "gallantron",
+    "lastPrint": "2019-10-11",
+    "lastUpdated": "2021-07-07",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5008&request_locale=ja",
+        "title": "Card FAQ – Anti-Spell Fragrance",
+        "date": "2021-07-07",
+        "desc": "In the Official Card Game, Anti-Spell Fragrance only applies to Spells that were Set while its effect was applying."
+      }
+    ]
   }
 ]
