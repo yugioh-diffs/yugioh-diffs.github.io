@@ -4494,6 +4494,24 @@
     ]
   },
   {
+    "id": 8571,
+    "icon": "effect",
+    "name": "Warlock of the Ice Barrier",
+    "oldText": "While you control another \"Ice Barrier\" monster, both players must Set Spell Cards before activating them, and cannot activate them until their next turn.",
+    "newText": "While you control another \"Ice Barrier\" monster, both players must Set Spell Cards before activating them, also, if either player Sets a Spell Card, they cannot activate that Spell Card until their next turn.",
+    "author": "gallantron",
+    "lastPrint": "2021-02-19",
+    "lastUpdated": "2021-07-07",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8571&request_locale=ja",
+        "title": "Card FAQ – Warlock of the Ice Barrier",
+        "date": "2021-07-07",
+        "desc": "In the Official Card Game, the effect of Warlock of the Ice Barrier only applies to cards that were Set while its effect was applying."
+      }
+    ]
+  },
+  {
     "id": 5111,
     "icon": "trap",
     "name": "Tornado Wall",
