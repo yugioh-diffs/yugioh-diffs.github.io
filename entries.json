@@ -3100,28 +3100,28 @@
     "icon": "xyz",
     "name": "Springans Ship - Exblowrer",
     "oldText": "2+ Level 8 monsters\nYou can choose 1 of your opponent's Monster Zones or Spell & Trap Zones; detach any number of materials from this card, and if you do, destroy the same number of cards your opponent controls in that chosen zone and its adjacent Monster Zones and/or Spell & Trap Zones. During your opponent's Main or Battle Phase (Quick Effect): You can banish this card until the End Phase. You can only use each effect of \"Springans Ship - Exblowrer\" once per turn.",
-    "newText": "2+ Level 8 monsters\nYou can choose 1 of your opponent's Monster Zones or Spell & Trap Zones; detach any number of materials from this card, and if you do, destroy the same number of cards your opponent controls in that chosen zone, and/or any of those kinds of zones directly above, directly below, or adjacent to the chosen zone. During your opponent's Main or Battle Phase (Quick Effect): You can banish this card until the End Phase. You can only use each effect of \"Springans Ship - Exblowrer\" once per turn.",
+    "newText": "2+ Level 8 monsters\nYou can choose 1 of your opponent's Monster Zones or Spell & Trap Zones; detach any number of materials from this card, and if you do, destroy the same number of cards your opponent controls in that chosen zone and/or its horizontally and/or vertically adjacent Monster Zones and/or Spell & Trap Zones. During your opponent's Main or Battle Phase (Quick Effect): You can banish this card until the End Phase. You can only use each effect of \"Springans Ship - Exblowrer\" once per turn.",
     "author": "gallantron",
     "lastPrint": "2021-02-05",
-    "lastUpdated": "2021-07-06",
+    "lastUpdated": "2021-07-07",
     "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15737&request_locale=ja",
+        "title": "Springans Ship - Exblowrer",
+        "date": "2021-05-02",
+        "desc": "In the Official Card Game, Springans Ship - Exblowrer's effect will destroy cards in both its horizontally and its vertically adjacent zones."
+      },
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13377&request_locale=en",
         "title": "Shelrokket Dragon",
         "date": "2021-05-02",
-        "desc": "Shelrokket Dragon is another example of a card that references \"adjacent\" zones."
+        "desc": "Shelrokket Dragon is another card that uses unqualified \"adjacent\" in its TCG text."
       },
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21517&request_locale=ja",
         "title": "Q&A #21517",
         "date": "2021-07-06",
-        "desc": "\"Adjacent\" zones, in Shelrokket Dragon's text, only refers to zones to the right/left of the zone in question."
-      },
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15737&request_locale=ja",
-        "title": "Springans Ship - Exblowrer",
-        "date": "2021-05-02",
-        "desc": "In the Official Card Game, Springans Ship - Exblowrer's text specifically includes zones that are directly above and below the chosen zone."
+        "desc": "In the Official Card Game, Shelrokket Dragon's effect will only destroy cards in the chosen monster's horizontally adjacent zones."
       }
     ]
   },
