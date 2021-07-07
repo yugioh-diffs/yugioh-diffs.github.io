@@ -4558,5 +4558,35 @@
         "desc": "In the Official Card Game, Springans Ship - Exblowrer's effect will destroy cards in both its horizontally and its vertically adjacent zones."
       }
     ]
+  },
+  {
+    "id": 15999,
+    "icon": "synchro",
+    "name": "Star Mine",
+    "oldText": "1 Tuner + 1+ non-Tuner monsters\nYou can only Special Summon \"Star Mine(s)\" once per turn. If this card in its owner's possession is destroyed by an opponent's attack or card effect: Take 2000 damage, then inflict 2000 damage to your opponent. If a monster in this card's adjacent zone is destroyed by your opponent's attack or card effect: Destroy this card, and if you do, take 2000 damage, then inflict 2000 damage to your opponent.",
+    "newText": "1 Tuner + 1+ non-Tuner monsters\nYou can only Special Summon \"Star Mine(s)\" once per turn. If this card in its owner's possession is destroyed by an opponent's attack or card effect: Take 2000 damage, then inflict 2000 damage to your opponent. If a monster in this card's horizontally adjacent zone is destroyed by your opponent's attack or card effect: Destroy this card, and if you do, take 2000 damage, then inflict 2000 damage to your opponent.",
+    "author": "gallantron",
+    "lastPrint": "2021-06-04",
+    "lastUpdated": "2021-07-07",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=15999&request_locale=ja",
+        "title": "Card FAQ – Star Mine",
+        "date": "2021-07-07",
+        "desc": "In the Official Card Game, Star Mine's effect can only be activated if it is in a Main Monster Zone, and a monster horizontally adjacent to it is destroyed."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15737&request_locale=en",
+        "title": "Springans Ship - Exblowrer",
+        "date": "2021-07-07",
+        "desc": "Springans Ship - Exblowrer is another card that uses unqualified \"adjacent\" in its TCG text."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15737&request_locale=ja",
+        "title": "Springans Ship - Exblowrer",
+        "date": "2021-07-07",
+        "desc": "In the Official Card Game, Springans Ship - Exblowrer's effect will destroy cards in both its horizontally and its vertically adjacent zones."
+      }
+    ]
   }
 ]
