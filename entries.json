@@ -4528,5 +4528,35 @@
         "desc": "In the Official Card Game, Tornado Wall prevents all Battle Damage. Furthermore, it is destroyed if, at any point, \"Umi\" is not on the field."
       }
     ]
+  },
+  {
+    "id": 13377,
+    "icon": "effect",
+    "name": "Shelrokket Dragon",
+    "oldText": "When a Link Monster's effect is activated that targets this face-up card on the field (Quick Effect): You can destroy this card, then destroy 1 monster in the column this card was in, and if you do, destroy any monsters in that card's adjacent zones. During the End Phase, if this card is in the GY because it was destroyed on the field by battle or card effect and sent there this turn: You can Special Summon 1 \"Rokket\" monster from your Deck, except \"Shelrokket Dragon\". You can only use each effect of \"Shelrokket Dragon\" once per turn.",
+    "newText": "When a Link Monster's effect is activated that targets this face-up card on the field (Quick Effect): You can destroy this card, then destroy 1 monster in the column this card was in, and if you do, destroy any monsters in that card's horizontally adjacent zones. During the End Phase, if this card is in the GY because it was destroyed on the field by battle or card effect and sent there this turn: You can Special Summon 1 \"Rokket\" monster from your Deck, except \"Shelrokket Dragon\". You can only use each effect of \"Shelrokket Dragon\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2019-08-16",
+    "lastUpdated": "2021-07-07",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21517&request_locale=ja",
+        "title": "Q&A #21517",
+        "date": "2021-07-07",
+        "desc": "In the Official Card Game, Shelrokket Dragon's effect will only destroy monsters in horizontally adjacent zones."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15737&request_locale=en",
+        "title": "Springans Ship - Exblowrer",
+        "date": "2021-07-07",
+        "desc": "Springans Ship - Exblowrer is another card that uses unqualified \"adjacent\" in its TCG text."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15737&request_locale=ja",
+        "title": "Springans Ship - Exblowrer",
+        "date": "2021-07-07",
+        "desc": "In the Official Card Game, Springans Ship - Exblowrer's effect will destroy cards in both its horizontally and its vertically adjacent zones."
+      }
+    ]
   }
 ]
