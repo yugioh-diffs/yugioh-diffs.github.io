@@ -4588,5 +4588,23 @@
         "desc": "In the Official Card Game, Springans Ship - Exblowrer's effect will destroy cards in both its horizontally and its vertically adjacent zones."
       }
     ]
+  },
+  {
+    "id": 5752,
+    "icon": "spell",
+    "name": "Magical Dimension",
+    "oldText": "If you control a Spellcaster monster: Target 1 monster you control; Tribute that target, then Special Summon 1 Spellcaster monster from your hand, then you can destroy 1 monster on the field.",
+    "newText": "If you control a Spellcaster monster: Target 1 monster you control; Tribute that target, and if you do, Special Summon 1 Spellcaster monster from your hand, then you can destroy 1 monster on the field.",
+    "author": "gallantron",
+    "lastPrint": "2019-04-19",
+    "lastUpdated": "2021-07-10",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5752&request_locale=ja",
+        "title": "Card FAQ – Magical Dimension",
+        "date": "2021-07-10",
+        "desc": "In the Official Card Game, tributing the targeted monster and Special Summoning a Spellcaster monster are treated as having happened simultaneously."
+      }
+    ]
   }
 ]
