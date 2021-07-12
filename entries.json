@@ -4606,5 +4606,23 @@
         "desc": "In the Official Card Game, tributing the targeted monster and Special Summoning a Spellcaster monster are treated as having happened simultaneously."
       }
     ]
+  },
+  {
+    "id": 11418,
+    "icon": "trap",
+    "name": "The Door of Destiny",
+    "oldText": "When an opponent's monster declares a direct attack: Negate the attack, then Special Summon this card as an Effect Monster (Fiend-Type/LIGHT/Level 1/ATK 0/DEF 0). (This card is also still a Trap Card.) During your Standby Phase, while this card is treated as a monster: You can banish any number of \"Utopia\" monsters with different names from your Graveyard; inflict 500 damage to your opponent for each of those banished monsters, and if you do, this card gains ATK equal to the damage they took.",
+    "newText": "You can activate this card when an opponent's monster declares a direct attack. When this card's activation resolves, negate the attack, then Special Summon this card as an Effect Monster (Fiend-Type/LIGHT/Level 1/ATK 0/DEF 0). (This card is also still a Trap Card.) During your Standby Phase, while this card is treated as a monster: You can banish any number of \"Utopia\" monsters with different names from your GY; inflict 500 damage to your opponent for each of those banished monsters, and if you do, this card gains ATK equal to the damage they took.",
+    "author": "gallantron",
+    "lastPrint": "2015-04-17",
+    "lastUpdated": "2021-07-12",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11418&request_locale=ja",
+        "title": "Card FAQ – The Door of Destiny",
+        "date": "2021-07-12",
+        "desc": "In the Official Card Game, The Door of Destiny's effect that Special Summons itself is the effect of its Trap Card activation.\nIf The Door of Destiny remains face-up in the Spell & Trap Zone for some reason, in the Official Card Game, that effect cannot later be activated again, even if another opponent's monster declares a direct attack."
+      }
+    ]
   }
 ]
