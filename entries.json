@@ -4624,5 +4624,29 @@
         "desc": "In the Official Card Game, The Door of Destiny's effect that Special Summons itself is the effect of its Trap Card activation.\nIf The Door of Destiny remains face-up in the Spell & Trap Zone for some reason, in the Official Card Game, that effect cannot later be activated again, even if another opponent's monster declares a direct attack."
       }
     ]
+  },
+  {
+    "id": 12966,
+    "icon": "spell",
+    "name": "Ultra Polymerization",
+    "oldText": "Pay 2000 LP; Fusion Summon 1 Fusion Monster from your Extra Deck, using 2 monsters you control as Fusion Materials. Neither player can activate cards or effects in response to this card's activation. You can banish this card from your GY, then target 1 Fusion Monster that was Fusion Summoned with this card's effect; Special Summon all the Fusion Materials used for its Fusion Summon from your GY, but change their ATK/DEF to 0, also they have their effects negated.",
+    "newText": "Pay 2000 LP; Fusion Summon 1 Fusion Monster from your Extra Deck, using 2 monsters you control as Fusion Materials. Neither player can activate cards or effects in response to this card's activation. You can banish this card from your GY, then target 1 Fusion Monster that was Fusion Summoned with this card's effect; Special Summon all its listed Fusion Materials used for its Fusion Summon from your GY, but change their ATK/DEF to 0, also they have their effects negated.",
+    "author": "gallantron",
+    "lastPrint": "2018-11-16",
+    "lastUpdated": "2021-07-15",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7647&request_locale=ja",
+        "title": "Q&A #7647",
+        "date": "2021-07-15",
+        "desc": "In the Official Card Game, if \"Proto-Cyber Dragon\" is used as Fusion Material using Ultra Polymerization, the effect of Ultra Polymerization cannot be activated, as \"Proto-Cyber Dragon\" is not \"Cyber Dragon\" while in the GY."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20451&request_locale=ja",
+        "title": "Q&A #20451",
+        "date": "2021-07-15",
+        "desc": "In the Official Card Game, if Starving Venom Fusion Dragon is Fusion Summoned using Ultra Polymerization, the effect of Ultra Polymerization cannot be activated, as its materials in the GY are not two DARK monsters on your field."
+      }
+    ]
   }
 ]
