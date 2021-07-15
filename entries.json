@@ -4648,5 +4648,29 @@
         "desc": "In the Official Card Game, if Starving Venom Fusion Dragon is Fusion Summoned using Ultra Polymerization, the effect of Ultra Polymerization cannot be activated, as its materials in the GY are not two DARK monsters on your field."
       }
     ]
+  },
+  {
+    "id": 8347,
+    "icon": "spell",
+    "name": "Brain Research Lab",
+    "oldText": "Once per turn, you can Normal Summon 1 Psychic-Type monster in addition to your Normal Summon or Set. If successful, place 1 Psychic Counter on this card. You can also place 1 Psychic Counter on this card instead of paying Life Points to activate any Psychic-Type monster's effect that you control. When this card is removed from the field, the controller of this card takes 1000 damage for each Psychic Counter on it.",
+    "newText": "During their Main Phase, the turn player can Normal Summon 1 Psychic-Type monster in addition to their Normal Summon/Set. (They can only gain this effect once per turn.) If a Psychic monster is Summoned this way, place 1 Psychic Counter on this card. If this card's controller would activate a Psychic monster's effect by paying an amount of LP not greater than their current LP, they can place 1 Psychic Counter on this card instead of paying LP. When this card leaves the field, take 1000 damage for each Psychic Counter on it.",
+    "author": "gallantron",
+    "lastPrint": "2009-09-01",
+    "lastUpdated": "2021-07-15",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8657&request_locale=ja",
+        "title": "Q&A #8657",
+        "date": "2021-07-15",
+        "desc": "In the Official Card Game, the effect of Brain Research Lab that allows an additional Normal Summon to be performed can be applied by either player.\nHowever, the effect of Brain Research Lab that allows a Psychic Counter to be placed instead of paying LP can only be applied by its controller."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8347&request_locale=ja",
+        "title": "Card FAQ – Brain Research Lab",
+        "date": "2021-07-15",
+        "desc": "In the Official Card Game, the effect of Brain Research Lab cannot be applied if the amount of LP paid would exceed the player's current LP."
+      }
+    ]
   }
 ]
