@@ -4414,10 +4414,10 @@
     "icon": "trap",
     "name": "Guard Mines",
     "oldText": "Activate only when a card is activated with an effect that would target and destroy 1 monster you control. Negate the effect and destroy that card. Then inflict 500 damage to your opponent.",
-    "newText": "When a Spell/Trap Card is activated that targets exactly 1 monster you control, and would destroy that monster: negate the activation, and if you do, destroy that card, then inflict 500 damage to your opponent.",
+    "newText": "When a Spell/Trap Card or Monster effect is activated that targets exactly 1 monster you control, and would destroy that monster: negate the activation, and if you do, destroy that card, then inflict 500 damage to your opponent.",
     "author": "gallantron",
     "lastPrint": "2011-05-31",
-    "lastUpdated": "2021-07-05",
+    "lastUpdated": "2021-07-20",
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8842&request_locale=ja",
@@ -4678,7 +4678,7 @@
     "icon": "spell",
     "name": "Super Double Summon",
     "oldText": "Select 1 Gemini monster you control and Normal Summon it. During the End Phase of this turn, return it to your hand.",
-    "newText": "Target 1 Gemini monster you control; it becomes an Effect Monster and gains its effects, also, return it to the hand during the End Phase of this turn.",
+    "newText": "Target 1 Gemini monster you control; it becomes an Effect Monster and gains its effects, also return it to the hand during the End Phase of this turn.",
     "author": "gallantron",
     "lastPrint": "2007-11-14",
     "lastUpdated": "2021-07-16",
