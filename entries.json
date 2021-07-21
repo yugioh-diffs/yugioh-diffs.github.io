@@ -4726,5 +4726,23 @@
         "desc": "In the Official Card Game, if Double or Nothing! is activated after a monster's second attack during that Battle Phase is negated, that monster can still make another attack during that Battle Phase."
       }
     ]
+  },
+  {
+    "id": 6185,
+    "icon": "effect",
+    "name": "Sasuke Samurai #4",
+    "oldText": "If this card battles a monster, toss a coin and call heads or tails before damage calculation. If you call it right, destroy the opponent's monster with this effect.",
+    "newText": "At the start of the Damage Step, if this card battles an opponent's monster: Toss a coin and call it. If you call it right, destroy that monster.",
+    "author": "gallantron",
+    "lastPrint": "2006-11-25",
+    "lastUpdated": "2021-07-21",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6185&request_locale=ja",
+        "title": "Card FAQ – Sasuke Samurai #4",
+        "date": "2021-07-21",
+        "desc": "In the Official Card Game, Sasuke Samurai #4's effect is activated upon reaching Start of the Damage Step."
+      }
+    ]
   }
 ]
