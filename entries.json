@@ -4708,5 +4708,23 @@
         "desc": "In the Official Card Game, the effect of Ninjitsu Art of Duplication that destroys the Summoned monsters does not activate."
       }
     ]
+  },
+  {
+    "id": 9663,
+    "icon": "spell",
+    "name": "Double or Nothing!",
+    "oldText": "When a monster's attack is negated: Target that monster; it can make a second attack during this Battle Phase, and if it does, its ATK is doubled during the Damage Step only.",
+    "newText": "When a monster's attack is negated: Target that monster; it can make another attack during this Battle Phase, and if it does, its ATK is doubled during the Damage Step only.",
+    "author": "gallantron",
+    "lastPrint": "2019-04-03",
+    "lastUpdated": "2021-07-21",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12530&request_locale=ja",
+        "title": "Q&A #12530",
+        "date": "2021-07-21",
+        "desc": "In the Official Card Game, if Double or Nothing! is activated after a monster's second attack during that Battle Phase is negated, that monster can still make another attack during that Battle Phase."
+      }
+    ]
   }
 ]
