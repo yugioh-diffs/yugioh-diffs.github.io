@@ -4750,5 +4750,29 @@
         "desc": "In the Official Card Game, Sasuke Samurai #4's effect is activated upon reaching Start of the Damage Step."
       }
     ]
+  },
+  {
+    "id": 16195,
+    "icon": "effect",
+    "name": "Aluber the Jester of Despia",
+    "oldText": "If this card is Normal or Special Summoned: You can add 1 \"Despia\" Spell/Trap from your Deck to your hand. If a face-up Fusion Monster you control is destroyed by battle, or leaves the field because of an opponent's card effect, while this card is in your GY: You can target 1 Effect Monster your opponent controls; Special Summon this card, and if you do, negate the targeted monster's effects until the end of this turn. You can only use 1 \"Aluber the Jester of Despia\" effect per turn, and only once that turn.",
+    "newText": "If this card is Normal or Special Summoned: You can add 1 \"Branded\" Spell/Trap from your Deck to your hand. If a face-up Fusion Monster you control is destroyed by battle, or leaves the field because of an opponent's card effect, while this card is in your GY: You can target 1 Effect Monster your opponent controls; Special Summon this card, and if you do, negate the targeted monster's effects until the end of this turn. You can only use 1 \"Aluber the Jester of Despia\" effect per turn, and only once that turn.",
+    "author": "gallantron",
+    "lastPrint": "2021-08-12",
+    "lastUpdated": "2021-07-26",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16195&request_locale=ja",
+        "title": "Aluber the Jester of Despia",
+        "date": "2021-07-26",
+        "desc": "In the Official Card Game, the effect of Aluber the Jester of Despia can add a \"Branded\" Spell/Trap to the hand, rather than a \"Despia\" Spell/Trap."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16016&request_locale=en",
+        "title": "Branded in White",
+        "date": "2021-07-26",
+        "desc": "Branded in White is an example of a \"Branded\" card, which is not a \"Despia\" card."
+      }
+    ]
   }
 ]
