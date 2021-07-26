@@ -4798,5 +4798,149 @@
         "desc": "Ghost Ogre & Snow Rabbit is a comparable card that uses \"cards (...) already on the field\"."
       }
     ]
+  },
+  {
+    "id": 10925,
+    "icon": "effect",
+    "name": "Chirubimé, Princess of Autumn Leaves",
+    "oldText": "Your opponent cannot target face-up Plant monsters for attacks, except this one. If this card in your possession is sent to your GY by your opponent's card: You can Special Summon 1 Plant monster from your Deck, except \"Chirubimé, Princess of Autumn Leaves\".",
+    "newText": "Your opponent cannot target face-up Plant monsters for attacks, except this one. If this card in your possession is sent to your GY by your opponent: You can Special Summon 1 Plant monster from your Deck, except \"Chirubimé, Princess of Autumn Leaves\".",
+    "author": "gallantron",
+    "lastPrint": "2020-04-02",
+    "lastUpdated": "2021-07-26",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10925&request_locale=ja",
+        "title": "Chirubimé, Princess of Autumn Leaves",
+        "date": "2021-07-26",
+        "desc": "In the Official Card Game, Chirubimé, Princess of Autumn Leaves uses \"sent to the GY by your opponent\"."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12280&request_locale=ja",
+        "title": "Q&A #12280",
+        "date": "2021-01-02",
+        "desc": "If Chirubimé, Princess of Autumn Leaves is sent to your GY by your opponent using the effect of your Summon Over, it is sent to the GY by your opponent, using your card.\nIn the Official Card Game, the effect of Chirubimé, Princess of Autumn Leaves can then be activated."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15741&request_locale=en",
+        "title": "Underworld Goddess of the Closed World",
+        "date": "2021-01-26",
+        "desc": "The opponent Link Summoning their Underworld Goddess of the Closed World is another example where the TCG's addition of \"card\" may cause confusion."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7934&request_locale=en",
+        "title": "Gozen Match",
+        "date": "2020-12-29",
+        "desc": "An opponent's Gozen Match is an example of a card where the TCG's addition of \"card\" may cause confusion."
+      }
+    ]
+  },
+  {
+    "id": 10760,
+    "icon": "effect",
+    "name": "Vampire Sorcerer",
+    "oldText": "If this card in your possession is sent to your GY by your opponent's card: You can add 1 DARK \"Vampire\" monster or 1 \"Vampire\" Spell/Trap from your Deck to your hand. You can banish this card from your GY; 1 DARK \"Vampire\" monster you Normal Summon this turn can be Summoned without Tributing.",
+    "newText": "If this card in your possession is sent to your GY by your opponent: You can add 1 DARK \"Vampire\" monster or 1 \"Vampire\" Spell/Trap from your Deck to your hand. You can banish this card from your GY; 1 DARK \"Vampire\" monster you Normal Summon this turn can be Summoned without Tributing.",
+    "author": "gallantron",
+    "lastPrint": "2018-05-25",
+    "lastUpdated": "2021-07-26",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10760&request_locale=ja",
+        "title": "Vampire Sorcerer",
+        "date": "2021-07-26",
+        "desc": "In the Official Card Game, Vampire Sorcerer uses \"sent to the GY by your opponent\"."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12280&request_locale=ja",
+        "title": "Q&A #12280",
+        "date": "2021-01-02",
+        "desc": "If Vampire Sorcerer is sent to your GY by your opponent using the effect of your Summon Over, it is sent to the GY by your opponent, using your card.\nIn the Official Card Game, the effect of Vampire Sorcerer can then be activated."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15741&request_locale=en",
+        "title": "Underworld Goddess of the Closed World",
+        "date": "2021-01-26",
+        "desc": "The opponent Link Summoning their Underworld Goddess of the Closed World is another example where the TCG's addition of \"card\" may cause confusion."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7934&request_locale=en",
+        "title": "Gozen Match",
+        "date": "2020-12-29",
+        "desc": "An opponent's Gozen Match is an example of a card where the TCG's addition of \"card\" may cause confusion."
+      }
+    ]
+  },
+  {
+    "id": 14025,
+    "icon": "fusion",
+    "name": "Prank-Kids Battle Butler",
+    "oldText": "\"Prank-Kids Lampsies\" + \"Prank-Kids Dropsies\" + \"Prank-Kids Fansies\"\nMust be Fusion Summoned. (Quick Effect): You can Tribute this card; destroy all monsters your opponent controls. If this card in your possession is sent to your GY by your opponent's card: You can target 1 non-Fusion Monster in your GY; Special Summon it. You can only use this effect of \"Prank-Kids Battle Butler\" once per turn.",
+    "newText": "\"Prank-Kids Lampsies\" + \"Prank-Kids Dropsies\" + \"Prank-Kids Fansies\"\nMust be Fusion Summoned. (Quick Effect): You can Tribute this card; destroy all monsters your opponent controls. If this card in your possession is sent to your GY by your opponent: You can target 1 non-Fusion Monster in your GY; Special Summon it. You can only use this effect of \"Prank-Kids Battle Butler\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2018-11-16",
+    "lastUpdated": "2021-07-26",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14025&request_locale=ja",
+        "title": "Prank-Kids Battle Butler",
+        "date": "2021-07-26",
+        "desc": "In the Official Card Game, Prank-Kids Battle Butler uses \"sent to the GY by your opponent\"."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12280&request_locale=ja",
+        "title": "Q&A #12280",
+        "date": "2021-01-02",
+        "desc": "If Prank-Kids Battle Butler is sent to your GY by your opponent using the effect of your Summon Over, it is sent to the GY by your opponent, using your card.\nIn the Official Card Game, the effect of Prank-Kids Battle Butler can then be activated."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15741&request_locale=en",
+        "title": "Underworld Goddess of the Closed World",
+        "date": "2021-01-26",
+        "desc": "The opponent Link Summoning their Underworld Goddess of the Closed World is another example where the TCG's addition of \"card\" may cause confusion."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7934&request_locale=en",
+        "title": "Gozen Match",
+        "date": "2020-12-29",
+        "desc": "An opponent's Gozen Match is an example of a card where the TCG's addition of \"card\" may cause confusion."
+      }
+    ]
+  },
+  {
+    "id": 14028,
+    "icon": "link",
+    "name": "Prank-Kids Rip-Roarin-Roaster",
+    "oldText": "2+ \"Prank-Kids\" monsters\nMust be Link Summoned. (Quick Effect): You can Tribute this card; destroy all Spells and Traps your opponent controls. If this card in your possession is sent to your GY by your opponent's card: You can target 1 card in your GY, except a Link Monster; add it to your hand. You can only use this effect of \"Prank-Kids Rip-Roarin-Roaster\" once per turn.",
+    "newText": "2+ \"Prank-Kids\" monsters\nMust be Link Summoned. (Quick Effect): You can Tribute this card; destroy all Spells and Traps your opponent controls. If this card in your possession is sent to your GY by your opponent: You can target 1 card in your GY, except a Link Monster; add it to your hand. You can only use this effect of \"Prank-Kids Rip-Roarin-Roaster\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2018-11-16",
+    "lastUpdated": "2021-07-26",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14028&request_locale=ja",
+        "title": "Prank-Kids Rip-Roarin-Roaster",
+        "date": "2021-07-26",
+        "desc": "In the Official Card Game, Prank-Kids Rip-Roarin-Roaster uses \"sent to the GY by your opponent\"."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12280&request_locale=ja",
+        "title": "Q&A #12280",
+        "date": "2021-01-02",
+        "desc": "If Prank-Kids Rip-Roarin-Roaster is sent to your GY by your opponent using the effect of your Summon Over, it is sent to the GY by your opponent, using your card.\nIn the Official Card Game, the effect of Prank-Kids Rip-Roarin-Roaster can then be activated."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15741&request_locale=en",
+        "title": "Underworld Goddess of the Closed World",
+        "date": "2021-01-26",
+        "desc": "The opponent Link Summoning their Underworld Goddess of the Closed World is another example where the TCG's addition of \"card\" may cause confusion."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7934&request_locale=en",
+        "title": "Gozen Match",
+        "date": "2020-12-29",
+        "desc": "An opponent's Gozen Match is an example of a card where the TCG's addition of \"card\" may cause confusion."
+      }
+    ]
   }
 ]
