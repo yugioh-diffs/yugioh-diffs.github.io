@@ -4948,22 +4948,22 @@
     "icon": "effect",
     "name": "Dramaturge of Despia",
     "oldText": "If a Fusion, Synchro, Xyz, or Link Monster is Special Summoned (except during the Damage Step): You can target 1 Effect Monster on the field; negate its effects until the end of this turn. If this card in your hand or field is used as Fusion Material, and sent to the GY or banished: You can Special Summon this card. You can only use each effect of \"Dramaturge of Despia\" once per turn.",
-    "newText": "If a Fusion, Synchro, Xyz, or Link Monster is Special Summoned (except during the Damage Step): You can target 1 Effect Monster on the field; negate its effects until the end of this turn. If this card in your hand or field is used as material for a Fusion Summon, and sent to the GY or banished: You can Special Summon this card. You can only use each effect of \"Dramaturge of Despia\" once per turn.",
+    "newText": "If a Fusion, Synchro, Xyz, or Link Monster is Special Summoned (except during the Damage Step): You can target 1 Effect Monster on the field; negate its effects until the end of this turn. If this card in the hand or field is used as material for a Fusion Summon, and sent to the GY or banished: You can Special Summon this card. You can only use each effect of \"Dramaturge of Despia\" once per turn.",
     "author": "gallantron",
-    "lastPrint": "2021-08-12",
+    "lastPrint": "2021-07-26",
     "lastUpdated": "2021-07-27",
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16196&request_locale=ja",
         "title": "Dramaturge of Despia",
         "date": "2021-07-27",
-        "desc": "In the Official Card Game, the effect of Dramaturge of Despia can only be activated if it is used as material for a Fusion Summon."
+        "desc": "In the Official Card Game, the effect of Dramaturge of Despia can only be activated if it is used as material for a Fusion Summon.\nFurthermore, in the Official Card Game, the effect of Dramaturge of Despia can also be activated if it is used as material while the opponent controls it."
       },
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13972&request_locale=en",
         "title": "Trishula, the Dragon of Icy Imprisonment",
         "date": "2021-07-27",
-        "desc": "In the Official Card Game, the effect of Dramaturge of Despia cannot be activated if it is used as Fusion Material for the Special Summon of Trishula, the Dragon of Icy Imprisonment."
+        "desc": "For example, in the Official Card Game, the effect of Dramaturge of Despia cannot be activated if it is used as Fusion Material for the Special Summon of Trishula, the Dragon of Icy Imprisonment."
       }
     ]
   }
