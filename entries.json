@@ -4966,5 +4966,23 @@
         "desc": "For example, in the Official Card Game, the effect of Dramaturge of Despia cannot be activated if it is used as Fusion Material for the Special Summon of Trishula, the Dragon of Icy Imprisonment."
       }
     ]
+  },
+  {
+    "id": 4589,
+    "icon": "effect",
+    "name": "Weather Report",
+    "oldText": "FLIP: Destroys all opponent's face-up \"Swords of Revealing Light\" on the field. If \"Swords of Revealing Light\" is destroyed, you can perform your Battle Phase twice this turn (or your next turn, if activated during opponent's turn).",
+    "newText": "FLIP: Destroy as many \"Swords of Revealing Light\" your opponent controls as possible, and if you do, you can perform your next Battle Phase twice.",
+    "author": "gallantron",
+    "lastPrint": "2002-09-16",
+    "lastUpdated": "2021-07-28",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=4589&request_locale=ja",
+        "title": "Card FAQ – Weather Report",
+        "date": "2021-07-28",
+        "desc": "In the Official Card Game, Weather Report's effect lets you perform your next Battle Phase twice."
+      }
+    ]
   }
 ]
