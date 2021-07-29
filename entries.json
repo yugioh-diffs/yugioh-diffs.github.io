@@ -5092,7 +5092,7 @@
     "icon": "trap",
     "name": "Beast Soul Swap",
     "oldText": "Target 1 Beast-Type monster you control; return it to the hand, and if you do, Special Summon 1 Beast-Type monster from your hand with the same Level as the monster that was returned to the hand.",
-    "newText": "Target 1 Beast-Type monster you control; return it to the hand, then Special Summon 1 Beast-Type monster from your hand with the same Level as the monster that was returned to the hand.",
+    "newText": "Target 1 Beast monster you control; return it to the hand, then Special Summon 1 Beast monster from your hand with the same Level as the monster that was returned to the hand.",
     "author": "gallantron",
     "lastPrint": "2013-07-01",
     "lastUpdated": "2021-07-29",
