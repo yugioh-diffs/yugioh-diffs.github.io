@@ -5004,6 +5004,30 @@
     ]
   },
   {
+    "id": 16256,
+    "icon": "spell",
+    "name": "Synchro Overtake",
+    "oldText": "Reveal 1 Synchro Monster in your Extra Deck, choose 1 of the Synchro Materials whose name is listed on that card, and add to your hand or Special Summon that monster, from your Deck or GY, also you cannot Special Summon monsters from the Extra Deck the turn you activate this card, except Synchro Monsters. You can only activate 1 \"Synchro Overtake\" per turn.",
+    "newText": "Reveal 1 Synchro Monster in your Extra Deck, choose 1 of the Synchro Materials whose name is listed on that card, and add to your hand or Special Summon that monster, from your Deck or GY. You cannot Special Summon monsters from the Extra Deck the turn you activate this card, except Synchro Monsters. You can only activate 1 \"Synchro Overtake\" per turn.",
+    "author": "gallantron",
+    "lastPrint": "2021-08-12",
+    "lastUpdated": "2021-07-29",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16256&request_locale=ja",
+        "title": "Synchro Overtake",
+        "date": "2021-07-29",
+        "desc": "In the Official Card Game, the text that prevents you from Special Summoning monsters from the Extra Deck, except Synchro Monsters, is not an effect of Synchro Overtake."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13463&request_locale=en",
+        "title": "Altergeist Multifaker",
+        "date": "2021-07-29",
+        "desc": "Altergeist Multifaker is an example of a card that uses the revised textual construct."
+      }
+    ]
+  },
+  {
     "id": 15057,
     "icon": "spell",
     "name": "Fusion Deployment",
