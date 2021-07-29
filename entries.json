@@ -5052,6 +5052,24 @@
     ]
   },
   {
+    "id": 9603,
+    "icon": "xyz",
+    "name": "Vylon Disigma",
+    "oldText": "3 Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card to target 1 face-up Attack Position Effect Monster your opponent controls; equip that target to this card. At the start of the Damage Step, if this card battles a monster whose Attribute is the same as a card equipped by this effect: Destroy that monster.",
+    "newText": "3 Level 4 monsters\nOnce per turn: You can detach 1 material from this card to target 1 face-up Attack Position Effect Monster your opponent controls; equip that target to this card. At the start of the Damage Step, if this card battles a monster: Destroy that monster. This monster must be equipped with a monster with the same attribute as the monster it is battling to activate and to resolve this effect.",
+    "author": "gallantron",
+    "lastPrint": "2012-07-24",
+    "lastUpdated": "2021-07-29",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11248&request_locale=ja",
+        "title": "Q&A #11248",
+        "date": "2021-07-29",
+        "desc": "In the Official Card Game, Vylon Disigma needs to remain equipped with an appropriate monster in order for its effect to be applied."
+      }
+    ]
+  },
+  {
     "id": 10627,
     "icon": "effect",
     "name": "Mecha Phantom Beast Coltwing",
