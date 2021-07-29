@@ -99,7 +99,7 @@ document.addEventListener('DOMContentLoaded', () =>
                         changed = true;
                     }
                     
-                    if (entry.lastPrint !== dbEntry.cardData.en.thisSrc.date)
+                    if (entry.lastPrint < dbEntry.cardData.en.thisSrc.date)
                     {
                         LOG('Adjusted last-printed date for '+entry.name+': ' + entry.lastPrint + ' -> '+dbEntry.cardData.en.thisSrc.date);
                         entry.lastPrint = dbEntry.cardData.en.thisSrc.date;

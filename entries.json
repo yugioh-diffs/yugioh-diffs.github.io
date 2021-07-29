@@ -5050,5 +5050,23 @@
         "desc": "Altergeist Multifaker is an example of a card that uses the revised textual construct."
       }
     ]
+  },
+  {
+    "id": 10627,
+    "icon": "effect",
+    "name": "Mecha Phantom Beast Coltwing",
+    "oldText": "If this card is Special Summoned: Special Summon 2 \"Mecha Phantom Beast Tokens\" (Machine/WIND/Level 3/ATK 0/DEF 0). You must control another \"Mecha Phantom Beast\" monster to activate and to resolve this effect. This card's Level is increased by the total Levels of all \"Mecha Phantom Beast Tokens\" you control. While you control a Token, this card cannot be destroyed by battle or card effects. Once per turn: You can Tribute 2 Tokens, then target 1 card your opponent controls; destroy that target, and if you do, banish it.",
+    "newText": "If this card is Special Summoned, and you control another \"Mecha Phantom Beast\" monster: Special Summon 2 \"Mecha Phantom Beast Tokens\" (Machine/WIND/Level 3/ATK 0/DEF 0). This card's Level is increased by the total Levels of all \"Mecha Phantom Beast Tokens\" you control. While you control a Token, this card cannot be destroyed by battle or card effects. Once per turn: You can Tribute 2 Tokens, then target 1 card your opponent controls; destroy that target, and if you do, banish it.",
+    "author": "gallantron",
+    "lastPrint": "2020-11-13",
+    "lastUpdated": "2021-07-29",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10627&request_locale=ja",
+        "title": "Mecha Phantom Beast Coltwing",
+        "date": "2021-07-29",
+        "desc": "In the Official Card Game, you do not need to control another \"Mecha Phantom Beast\" monster in order for Mecha Phantom Beast Coltwing's effect to be applied."
+      }
+    ]
   }
 ]
