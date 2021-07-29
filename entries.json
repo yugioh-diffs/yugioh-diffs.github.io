@@ -4950,7 +4950,7 @@
     "oldText": "If a Fusion, Synchro, Xyz, or Link Monster is Special Summoned (except during the Damage Step): You can target 1 Effect Monster on the field; negate its effects until the end of this turn. If this card in your hand or field is used as Fusion Material, and sent to the GY or banished: You can Special Summon this card. You can only use each effect of \"Dramaturge of Despia\" once per turn.",
     "newText": "If a Fusion, Synchro, Xyz, or Link Monster is Special Summoned (except during the Damage Step): You can target 1 Effect Monster on the field; negate its effects until the end of this turn. If this card in the hand or field is used as material for a Fusion Summon, and sent to the GY or banished: You can Special Summon this card. You can only use each effect of \"Dramaturge of Despia\" once per turn.",
     "author": "gallantron",
-    "lastPrint": "2021-07-26",
+    "lastPrint": "2021-08-12",
     "lastUpdated": "2021-07-27",
     "references": [
       {
@@ -4982,6 +4982,24 @@
         "title": "Card FAQ – Weather Report",
         "date": "2021-07-28",
         "desc": "In the Official Card Game, Weather Report's effect lets you perform your next Battle Phase twice."
+      }
+    ]
+  },
+  {
+    "id": 16230,
+    "icon": "synchro",
+    "name": "Stellar Wind Wolfrayet",
+    "oldText": "1 Tuner + 1+ non-Tuner monsters\nYou can only control 1 \"Stellar Wind Wolfrayet\". Gains 300 ATK each time another monster's effect is activated, while the ATK of this card is less than 4000. Once per turn, if this card's ATK is 4000 or higher (Quick Effect): You can shuffle both this card and all monsters your opponent controls into the Deck.",
+    "newText": "1 Tuner + 1+ non-Tuner monsters\nYou can only control 1 \"Stellar Wind Wolfrayet\". Immediately after another monster's activated effect resolves while the ATK of this card is less than 4000, this card gains 300 ATK. Once per turn, if this card's ATK is 4000 or higher (Quick Effect): You can shuffle both this card and all monsters your opponent controls into the Deck.",
+    "author": "gallantron",
+    "lastPrint": "2021-08-12",
+    "lastUpdated": "2021-07-29",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16230&request_locale=ja",
+        "title": "Card FAQ – Stellar Wind Wolfrayet",
+        "date": "2021-07-29",
+        "desc": "In the Official Card Game, the effect of Stellar Wind Wolfrayet applies immediately after another monster's effect resolves, rather than when that effect is activated."
       }
     ]
   }
