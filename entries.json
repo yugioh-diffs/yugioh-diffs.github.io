@@ -5086,5 +5086,23 @@
         "desc": "In the Official Card Game, you do not need to control another \"Mecha Phantom Beast\" monster in order for Mecha Phantom Beast Coltwing's effect to be applied."
       }
     ]
+  },
+  {
+    "id": 6281,
+    "icon": "trap",
+    "name": "Beast Soul Swap",
+    "oldText": "Target 1 Beast-Type monster you control; return it to the hand, and if you do, Special Summon 1 Beast-Type monster from your hand with the same Level as the monster that was returned to the hand.",
+    "newText": "Target 1 Beast-Type monster you control; return it to the hand, then Special Summon 1 Beast-Type monster from your hand with the same Level as the monster that was returned to the hand.",
+    "author": "gallantron",
+    "lastPrint": "2013-07-01",
+    "lastUpdated": "2021-07-29",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6281&request_locale=ja",
+        "title": "Card FAQ – Beast Soul Swap",
+        "date": "2021-07-29",
+        "desc": "In the Official Card Game, returning the monster to the hand and Special Summoning a monster are not considered to happen at the same time."
+      }
+    ]
   }
 ]
