@@ -5218,5 +5218,23 @@
         "desc": "In the Official Card Game, the effect of Speed Warrior cannot be activated during the Start Step or the End Step. It can only be activated during the Battle Step."
       }
     ]
+  },
+  {
+    "id": 12268,
+    "icon": "trap",
+    "name": "The Phantom Knights of Dark Gauntlets",
+    "oldText": "Send 1 \"Phantom Knights\" Spell/Trap from your Deck to the GY. When an opponent's monster declares a direct attack while you control no cards and this card is in your GY: Special Summon this card in Defense Position as an Effect Monster (Warrior/DARK/Level 4/ATK 300/DEF 600), but banish it when it leaves the field. (This card is NOT treated as a Trap.) If Summoned this way, this card gains 300 DEF for each \"Phantom Knights\" Spell/Trap in your GY.",
+    "newText": "Send 1 \"Phantom Knights\" Spell/Trap from your Deck to the GY. When an opponent's monster declares a direct attack while you control no cards and this card is in your GY: You can Special Summon this card in Defense Position as an Effect Monster (Warrior/DARK/Level 4/ATK 300/DEF 600), but banish it when it leaves the field. (This card is NOT treated as a Trap.) If Summoned this way, this card gains 300 DEF for each \"Phantom Knights\" Spell/Trap in your GY.",
+    "author": "gallantron",
+    "lastPrint": "2018-10-12",
+    "lastUpdated": "2021-07-29",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12268&request_locale=ja",
+        "title": "Card FAQ – The Phantom Knights of Dark Gauntlets",
+        "date": "2021-07-29",
+        "desc": "In the Official Card Game, The Phantom Knights of Dark Gauntlets' effect in the GY is optional to activate."
+      }
+    ]
   }
 ]
