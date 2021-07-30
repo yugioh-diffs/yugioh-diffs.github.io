@@ -5200,5 +5200,23 @@
         "desc": "In the Official Card Game, if the effect of Rank-Up-Magic Numeron Force is applied by the effect of Numeron Network, the effects of Numeron Network are then also negated."
       }
     ]
+  },
+  {
+    "id": 7688,
+    "icon": "effect",
+    "name": "Speed Warrior",
+    "oldText": "Once per Battle Phase, if this card was Normal Summoned this turn (except during the Damage Step): You can make its ATK become double its original ATK, until the end of the Battle Phase.",
+    "newText": "Once per Battle Phase, during the Battle Step, if this card was Normal Summoned this turn: You can make its ATK become double its original ATK, until the end of the Battle Phase.",
+    "author": "gallantron",
+    "lastPrint": "2015-08-28",
+    "lastUpdated": "2021-07-29",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7688&request_locale=ja",
+        "title": "Card FAQ – Speed Warrior",
+        "date": "2021-07-29",
+        "desc": "In the Official Card Game, the effect of Speed Warrior cannot be activated during the Start Step or the End Step. It can only be activated during the Battle Step."
+      }
+    ]
   }
 ]
