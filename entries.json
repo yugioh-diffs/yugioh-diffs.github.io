@@ -5380,5 +5380,41 @@
         "desc": "In the Official Card Game, the effect of Spiritual Forest only prevents the first monster from being destroyed by battle. It does not prevent each monster from being destroyed by battle once."
       }
     ]
+  },
+  {
+    "id": 7282,
+    "icon": "effect",
+    "name": "Gladiator Beast Alexander",
+    "oldText": "This card cannot be Special Summoned except by the effect of \"Gladiator Beast Dimacari\". If this card was Special Summoned, it is unaffected by the effects of Spell Cards. At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 \"Gladiator Beast\" monster from your Deck, except \"Gladiator Beast Alexander\".",
+    "newText": "Cannot be Special Summoned by a card effect, except the effect of \"Gladiator Beast Dimacari\". This Special Summoned card is unaffected by Spell effects. At the end of the Battle Phase, if this card battled, you can: Shuffle it into to the Deck; Special Summon 1 \"Gladiator Beast\" monster from your Deck, except \"Gladiator Beast Alexander\".",
+    "author": "gallantron",
+    "lastPrint": "2007-11-14",
+    "lastUpdated": "2021-07-30",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9075&request_locale=ja",
+        "title": "Q&A #9075",
+        "date": "2021-07-30",
+        "desc": "In the Official Card Game, Gladiator Beast Alexander can be Pendulum Summoned."
+      }
+    ]
+  },
+  {
+    "id": 7283,
+    "icon": "effect",
+    "name": "Gladiator Beast Spartacus",
+    "oldText": "This card cannot be Special Summoned except by the effect of \"Gladiator Beast Hoplomus\". When this card is Special Summoned, add 1 \"Gladiator Beast\" Equip Spell Card from your Deck to your hand. At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 \"Gladiator Beast\" monster from your Deck, except \"Gladiator Beast Spartacus\".",
+    "newText": "Cannot be Special Summoned by a card effect, except the effect of \"Gladiator Beast Hoplomus\". If this card is Special Summoned: add 1 \"Gladiator Beast\" Equip Spell from your Deck to your hand. At the end of the Battle Phase, if this card battled, you can: Shuffle it into to the Deck; Special Summon 1 \"Gladiator Beast\" monster from your Deck, except \"Gladiator Beast Spartacus\".",
+    "author": "gallantron",
+    "lastPrint": "2007-11-14",
+    "lastUpdated": "2021-07-30",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9075&request_locale=ja",
+        "title": "Q&A #9075",
+        "date": "2021-07-30",
+        "desc": "In the Official Card Game, Gladiator Beast Spartacus can be Pendulum Summoned."
+      }
+    ]
   }
 ]
