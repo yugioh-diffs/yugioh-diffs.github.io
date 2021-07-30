@@ -5326,5 +5326,29 @@
         "desc": "In the Official Card Game, Vivid Knight's effect is optional to activate."
       }
     ]
+  },
+  {
+    "id": 7981,
+    "icon": "effect",
+    "name": "Gallis the Star Beast",
+    "oldText": "You can reveal this card in your hand; send the top card of your Deck to the Graveyard, then, if it was a monster, inflict damage to your opponent equal to its Level x 200 and Special Summon this card from your hand, otherwise destroy this card.",
+    "newText": "You can reveal this card in your hand; send the top card of your Deck to the GY, also, after that, if it was a monster in the Deck, Special Summon this card from your hand, and if you do, inflict damage to your opponent equal to that monster's original Level x 200. Otherwise, destroy this card.",
+    "author": "gallantron",
+    "lastPrint": "2012-02-21",
+    "lastUpdated": "2021-07-30",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8155&request_locale=ja",
+        "title": "Q&A #8155",
+        "date": "2021-07-30",
+        "desc": "In the Official Card Game, even if the sent card is banished instead of being sent to the GY, Gallis the Star Beast is still Special Summoned."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9320&request_locale=ja",
+        "title": "Q&A #9320",
+        "date": "2021-07-30",
+        "desc": "In the Official Card Game, even if the opponent takes no damage, Gallis the Star Beast is still Special Summoned."
+      }
+    ]
   }
 ]
