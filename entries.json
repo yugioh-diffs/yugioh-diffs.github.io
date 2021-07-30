@@ -5104,5 +5104,23 @@
         "desc": "In the Official Card Game, returning the monster to the hand and Special Summoning a monster are not considered to happen at the same time."
       }
     ]
+  },
+  {
+    "id": 9991,
+    "icon": "effect",
+    "name": "Evilswarm Obliviwisp",
+    "oldText": "If this card battles a monster, after damage calculation: Negate the effects of that monster (including in the Graveyard).",
+    "newText": "If this card battles an Effect Monster, after damage calculation: Negate that monster's effects (including in the GY).",
+    "author": "gallantron",
+    "lastPrint": "2014-01-17",
+    "lastUpdated": "2021-07-29",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=9991&request_locale=ja",
+        "title": "Card FAQ – Evilswarm Obliviwisp",
+        "date": "2021-07-29",
+        "desc": "In the Official Card Game, the effect of Evilswarm Obliviwisp only activates if it battles an Effect Monster."
+      }
+    ]
   }
 ]
