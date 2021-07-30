@@ -5272,5 +5272,23 @@
         "desc": "In the Official Card Game, not all of the materials used must be \"Yang Zing\" monsters."
       }
     ]
+  },
+  {
+    "id": 10677,
+    "icon": "trap",
+    "name": "Bujin Regalia - The Sword",
+    "oldText": "Activate 1 of these effects.\n●Target 1 \"Bujin\" monster in your Graveyard; add that target to your hand.\n●Target 1 of your banished \"Bujin\" monsters; send that target to the Graveyard.",
+    "newText": "Activate 1 of these effects.\n●Target 1 \"Bujin\" monster in your GY; add that target to your hand.\n●Target 1 of your banished \"Bujin\" monsters; return that target to the GY.",
+    "author": "gallantron",
+    "lastPrint": "2014-08-29",
+    "lastUpdated": "2021-07-30",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10677&request_locale=ja",
+        "title": "Bujin Regalia - The Sword",
+        "date": "2021-07-30",
+        "desc": "In the Official Card Game, the targeted banished \"Bujin\" monster is returned to the GY, rather than being sent there."
+      }
+    ]
   }
 ]
