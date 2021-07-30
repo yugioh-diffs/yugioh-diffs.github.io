@@ -5290,5 +5290,23 @@
         "desc": "In the Official Card Game, the targeted banished \"Bujin\" monster is returned to the GY, rather than being sent there."
       }
     ]
+  },
+  {
+    "id": 15386,
+    "icon": "xyz",
+    "name": "Number 3: Cicada King",
+    "oldText": "2 Level 3 monsters\nIf the battle position of this card is changed: You can Special Summon 1 Insect monster from your hand or GY in Defense Position. When a monster on the field activates its effect: You can detach 1 material from this card, then target that monster; negate its effects, then make 1 Insect monster on the field either gain 500 DEF, or change its battle position. You can only use each effect of \"Number 3: Cicada King\" once per turn.",
+    "newText": "2 Level 3 monsters\nIf the battle position of this card is changed: You can Special Summon 1 Insect monster from your hand or GY in Defense Position. When a monster on the field activates its effect (Quick Effect): You can detach 1 material from this card, then target that monster; negate its effects, then make 1 Insect monster on the field either gain 500 DEF, or change its battle position. You can only use each effect of \"Number 3: Cicada King\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2020-07-24",
+    "lastUpdated": "2021-07-30",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15386&request_locale=en",
+        "title": "Number 3: Cicada King",
+        "date": "2021-07-30",
+        "desc": "Number 3: Cicada King's current English text is not explicit about its effect being a Quick Effect.\nThis is implicit from it responding to another card/effect's activation, but can still easily lead to confusion."
+      }
+    ]
   }
 ]
