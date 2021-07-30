@@ -5254,5 +5254,23 @@
         "desc": "In the Official Card Game, White Wing Magician's Pendulum effect is optional to apply."
       }
     ]
+  },
+  {
+    "id": 11284,
+    "icon": "trap",
+    "name": "Yang Zing Unleashed",
+    "oldText": "All monsters your opponent controls must attack, if able. During either player's Main Phase or Battle Phase: You can send this face-up card from your Spell & Trap Zone to the Graveyard; immediately after this effect resolves, Synchro Summon 1 Synchro Monster, using 1 or more \"Yang Zing\" monsters you control as Synchro Materials.",
+    "newText": "All monsters your opponent controls must attack, if able. During either player's Main Phase or Battle Phase: You can send this face-up card from your Spell & Trap Zone to the GY; immediately after this effect resolves, Synchro Summon 1 Synchro Monster using materials you control, including a \"Yang Zing\" monster.",
+    "author": "gallantron",
+    "lastPrint": "2015-09-18",
+    "lastUpdated": "2021-07-30",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10197&request_locale=ja",
+        "title": "Q&A #10197",
+        "date": "2021-07-30",
+        "desc": "In the Official Card Game, not all of the materials used must be \"Yang Zing\" monsters."
+      }
+    ]
   }
 ]
