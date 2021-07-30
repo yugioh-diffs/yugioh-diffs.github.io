@@ -5182,5 +5182,23 @@
         "desc": "In the Official Card Game, Pharaoh's Treasure is only sent to the GY when its effect resolves."
       }
     ]
+  },
+  {
+    "id": 10662,
+    "icon": "spell",
+    "name": "Rank-Up-Magic Numeron Force",
+    "oldText": "Target 1 face-up Xyz Monster you control; Special Summon from your Extra Deck, 1 \"Number C\" monster with the same Type as that monster you control, but 1 Rank higher, by using it as the Xyz Material. (This Special Summon is treated as an Xyz Summon. Xyz Materials attached to it also become Xyz Materials on the Summoned monster.) Then, if any face-up cards are on the field other than this card and the monster Summoned by it, negate the effects of those other cards.",
+    "newText": "Target 1 face-up Xyz Monster you control; Special Summon from your Extra Deck, 1 \"Number C\" monster with the same Type as that monster you control, but 1 Rank higher, by using it as the entire material. (This Special Summon is treated as an Xyz Summon. Transfer its materials to the Summoned monster.) Then, negate the effects of all face-up cards on the field other than the Summoned monster (if any).",
+    "author": "gallantron",
+    "lastPrint": "2015-03-20",
+    "lastUpdated": "2021-07-29",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12352&request_locale=ja",
+        "title": "Q&A #12352",
+        "date": "2021-07-29",
+        "desc": "In the Official Card Game, if the effect of Rank-Up-Magic Numeron Force is applied by the effect of Numeron Network, the effects of Numeron Network are then also negated."
+      }
+    ]
   }
 ]
