@@ -5236,5 +5236,23 @@
         "desc": "In the Official Card Game, The Phantom Knights of Dark Gauntlets' effect in the GY is optional to activate."
       }
     ]
+  },
+  {
+    "id": 12910,
+    "icon": "pen_effect",
+    "name": "White Wing Magician",
+    "oldText": "Once per turn, when an activated card or effect resolves that targets a DARK Spellcaster-Type monster you control, negate that effect, then destroy this card.",
+    "newText": "Once per turn, when an activated card or effect resolves that targets a DARK Spellcaster monster you control, you can negate that effect, then destroy this card.",
+    "author": "gallantron",
+    "lastPrint": "2017-06-23",
+    "lastUpdated": "2021-07-30",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12910&request_locale=ja",
+        "title": "Card FAQ – White Wing Magician",
+        "date": "2021-07-30",
+        "desc": "In the Official Card Game, White Wing Magician's Pendulum effect is optional to apply."
+      }
+    ]
   }
 ]
