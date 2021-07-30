@@ -5350,5 +5350,23 @@
         "desc": "In the Official Card Game, even if the opponent takes no damage, Gallis the Star Beast is still Special Summoned."
       }
     ]
+  },
+  {
+    "id": 16091,
+    "icon": "pen_effect",
+    "name": "DoSolfachord Coolia",
+    "oldText": "You can Special Summon this card (from your hand) by Tributing 2 Pendulum Monsters. You can only use each of the following effects of \"DoSolfachord Coolia\" once per turn. You can target 1 face-up card your opponent controls, or up to 2 cards if you have an odd Pendulum Scale in your Pendulum Zone; negate its effects until the end of your opponent's turn. When an effect of a monster on the field is activated, with an equal or lower ATK than the highest Pendulum Scale in your Pendulum Zone x 300: You can destroy that monster.",
+    "newText": "You can Special Summon this card (from your hand) by Tributing 2 Pendulum Monsters. You can only use each of the following effects of \"DoSolfachord Coolia\" once per turn. You can target 1 face-up card your opponent controls, or up to 2 cards if you have an odd Pendulum Scale in your Pendulum Zone; negate its effects until the end of your opponent's turn. When an effect of a monster on the field is activated, with an equal or lower ATK than the highest Pendulum Scale in your Pendulum Zone x 300 (Quick Effect): You can destroy that monster.",
+    "author": "gallantron",
+    "lastPrint": "2021-05-07",
+    "lastUpdated": "2021-07-30",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16091&request_locale=en",
+        "title": "DoSolfachord Coolia",
+        "date": "2021-07-30",
+        "desc": "DoSolfachord Coolia's current English text is not explicit about its effect being a Quick Effect.\nThis is implicit from it responding to another card/effect's activation, but can still easily lead to confusion."
+      }
+    ]
   }
 ]
