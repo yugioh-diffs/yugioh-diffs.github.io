@@ -134,8 +134,10 @@ document.addEventListener('DOMContentLoaded', () =>
                         LOG(entry.name+' ('+entry.id+') uses "attacks or is attacked" in its revised text. Is this intended?');
                     if (entry.newText.toLowerCase().includes('attacked or was attacked'))
                         LOG(entry.name+' ('+entry.id+') uses "attacked or was attacked" in its revised text. Is this intended?');
-                    if (entry.newText.toLowerCase().includes('ATK and DEF'))
+                    if (entry.newText.toLowerCase().includes('atk and def'))
                         LOG(entry.name+' ('+entry.id+') uses "ATK and DEF" in its revised text. Is this intended?');
+                    if (entry.newText.toLowerCase().includes('-type'))
+                        LOG(entry.name+' ('+entry.id+') uses "-type" in its revised text. Is this intended?');
                     
                     return changed;
                 } catch (e) {
