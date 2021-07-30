@@ -5122,5 +5122,23 @@
         "desc": "In the Official Card Game, the effect of Evilswarm Obliviwisp only activates if it battles an Effect Monster."
       }
     ]
+  },
+  {
+    "id": 11466,
+    "icon": "effect",
+    "name": "Fenrir the Nordic Wolf",
+    "oldText": "Cannot be Normal Summoned/Set. During your Main Phase 2, if an \"Aesir\" monster is on the field, you can Special Summon this card (from your hand) to your opponent's side of the field in Defense Position. If an \"Aesir\" monster is not on the field, destroy this card. At the start of your Battle Phase: Change all Defense Position monsters you control to face-up Attack Position. Both players take any battle damage from attacks involving this card.",
+    "newText": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) to your opponent's in Defense Position during your Main Phase 2, while an \"Aesir\" monster is on the field. If no \"Aesir\" monster is on the field, destroy this card. At the start of your Battle Phase: Change all Defense Position monsters you control to face-up Attack Position. Both players take any battle damage from attacks involving this card.",
+    "author": "gallantron",
+    "lastPrint": "2014-10-24",
+    "lastUpdated": "2021-07-29",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11466&request_locale=ja",
+        "title": "Card FAQ – Fenrir the Nordic Wolf",
+        "date": "2021-07-29",
+        "desc": "In the Official Card Game, Fenrir the Nordic Wolf must first be Special Summoned using the listed procedure, before it can then be improperly Special Summoned using other means."
+      }
+    ]
   }
 ]
