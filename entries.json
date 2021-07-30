@@ -5164,5 +5164,23 @@
         "desc": "Firewall Dragon is another card using the \"Once while face-up on the field\" construct."
       }
     ]
+  },
+  {
+    "id": 5449,
+    "icon": "trap",
+    "name": "Pharaoh's Treasure",
+    "oldText": "Shuffle this card face-up into your Deck. If you draw this face-up card that was added to the Deck by this effect: Send it to the GY, then target 1 card in your GY, except this card; add that target to your hand.",
+    "newText": "Shuffle this card face-up into your Deck. If you draw this face-up card that was added to the Deck by this effect: target 1 card in your GY; send this card to the GY, and if you do, add that target to your hand.",
+    "author": "gallantron",
+    "lastPrint": "2019-08-02",
+    "lastUpdated": "2021-07-29",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5449&request_locale=ja",
+        "title": "Card FAQ – Pharaoh's Treasure",
+        "date": "2021-07-29",
+        "desc": "In the Official Card Game, Pharaoh's Treasure is only sent to the GY when its effect resolves."
+      }
+    ]
   }
 ]
