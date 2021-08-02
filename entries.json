@@ -4926,7 +4926,7 @@
     "oldText": "If a Fusion, Synchro, Xyz, or Link Monster is Special Summoned (except during the Damage Step): You can target 1 Effect Monster on the field; negate its effects until the end of this turn. If this card in your hand or field is used as Fusion Material, and sent to the GY or banished: You can Special Summon this card. You can only use each effect of \"Dramaturge of Despia\" once per turn.",
     "newText": "If a Fusion, Synchro, Xyz, or Link Monster is Special Summoned (except during the Damage Step): You can target 1 Effect Monster on the field; negate its effects until the end of this turn. If this card in the hand or field is used as material for a Fusion Summon, and sent to the GY or banished: You can Special Summon this card. You can only use each effect of \"Dramaturge of Despia\" once per turn.",
     "author": "gallantron",
-    "lastPrint": "2021-08-12",
+    "lastPrint": "2021-08-13",
     "lastUpdated": "2021-07-27",
     "references": [
       {
@@ -4968,7 +4968,7 @@
     "oldText": "1 Tuner + 1+ non-Tuner monsters\nYou can only control 1 \"Stellar Wind Wolfrayet\". Gains 300 ATK each time another monster's effect is activated, while the ATK of this card is less than 4000. Once per turn, if this card's ATK is 4000 or higher (Quick Effect): You can shuffle both this card and all monsters your opponent controls into the Deck.",
     "newText": "1 Tuner + 1+ non-Tuner monsters\nYou can only control 1 \"Stellar Wind Wolfrayet\". Immediately after another monster's activated effect resolves while the ATK of this card is less than 4000, this card gains 300 ATK. Once per turn, if this card's ATK is 4000 or higher (Quick Effect): You can shuffle both this card and all monsters your opponent controls into the Deck.",
     "author": "gallantron",
-    "lastPrint": "2021-08-12",
+    "lastPrint": "2021-08-13",
     "lastUpdated": "2021-07-29",
     "references": [
       {
@@ -4986,7 +4986,7 @@
     "oldText": "Reveal 1 Synchro Monster in your Extra Deck, choose 1 of the Synchro Materials whose name is listed on that card, and add to your hand or Special Summon that monster, from your Deck or GY, also you cannot Special Summon monsters from the Extra Deck the turn you activate this card, except Synchro Monsters. You can only activate 1 \"Synchro Overtake\" per turn.",
     "newText": "Reveal 1 Synchro Monster in your Extra Deck, choose 1 of the Synchro Materials whose name is listed on that card, and add to your hand or Special Summon that monster, from your Deck or GY. You cannot Special Summon monsters from the Extra Deck the turn you activate this card, except Synchro Monsters. You can only activate 1 \"Synchro Overtake\" per turn.",
     "author": "gallantron",
-    "lastPrint": "2021-08-12",
+    "lastPrint": "2021-08-13",
     "lastUpdated": "2021-07-29",
     "references": [
       {
