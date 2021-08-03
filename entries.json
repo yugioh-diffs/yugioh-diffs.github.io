@@ -5416,5 +5416,29 @@
         "desc": "In the Official Card Game, Gladiator Beast Spartacus can be Pendulum Summoned."
       }
     ]
+  },
+  {
+    "id": 10270,
+    "icon": "xyz",
+    "name": "Madolche Queen Tiaramisu",
+    "oldText": "2 Level 4 \"Madolche\" monsters\nOnce per turn: You can detach 1 Xyz Material from this card, then target up to 2 \"Madolche\" cards in your Graveyard; shuffle those cards into the Deck, also, after that, shuffle cards your opponent controls into the Deck, up to the number of \"Madolche\" cards returned.",
+    "newText": "2 Level 4 \"Madolche\" monsters\nOnce per turn: You can detach 1 material from this card, then target up to 2 \"Madolche\" cards in your GY; shuffle those cards into the Deck, also shuffle cards your opponent controls into the Deck, up to the number of \"Madolche\" cards returned to the hand or Deck as a result.",
+    "author": "gallantron",
+    "lastPrint": "2015-03-20",
+    "lastUpdated": "2021-08-03",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10270&request_locale=ja",
+        "title": "Card FAQ – Madolche Queen Tiaramisu",
+        "date": "2021-08-03",
+        "desc": "In the Official Card Game, shuffling the targeted cards into the Deck and shuffling cards your opponent controls into the Deck are treated as having happened simultaneously."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12450&request_locale=ja",
+        "title": "Q&A #12450",
+        "date": "2021-08-03",
+        "desc": "In the Official Card Game, if the effect of Madolche Chateau causes the targeted \"Madolche\" card(s) to be returned to the hand instead of the Deck, these cards are still included in the number of cards returned."
+      }
+    ]
   }
 ]
