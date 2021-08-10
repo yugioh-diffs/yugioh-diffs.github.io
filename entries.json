@@ -5440,5 +5440,29 @@
         "desc": "In the Official Card Game, if the effect of Madolche Chateau causes the targeted \"Madolche\" card(s) to be returned to the hand instead of the Deck, these cards are still included in the number of cards returned."
       }
     ]
+  },
+  {
+    "id": 6495,
+    "icon": "trap",
+    "name": "Hero Barrier",
+    "oldText": "Negate 1 attack from an opponent's monster. You must control a face-up \"Elemental HERO\" monster to resolve this effect.",
+    "newText": "During your opponent's turn: negate the next attack this turn from a monster your opponent controls while you control an \"Elemental HERO\" monster.",
+    "author": "gallantron",
+    "lastPrint": "2011-10-04",
+    "lastUpdated": "2021-08-10",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6495&request_locale=ja",
+        "title": "Hero Barrier",
+        "date": "2021-08-10",
+        "desc": "In the Official Card Game, Hero Barrier does not need to be activated while an attack is ongoing, nor is an \"Elemental HERO\" required to activate or resolve it initially."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7178&request_locale=en",
+        "title": "Necro Gardna",
+        "date": "2021-08-10",
+        "desc": "Necro Gardna is a card with comparable functionality that uses the revised textual construct."
+      }
+    ]
   }
 ]
