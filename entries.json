@@ -5464,5 +5464,35 @@
         "desc": "Necro Gardna is a card with comparable functionality that uses the revised textual construct."
       }
     ]
+  },
+  {
+    "id": 15064,
+    "icon": "trap",
+    "name": "Gravedigger's Trap Hole",
+    "oldText": "When your opponent activates a monster effect in their hand or GY, or when your opponent's banished monster effect is activated: Negate its effect, and if you do, inflict 2000 damage to your opponent.",
+    "newText": "(This card is not treated as a \"Trap Hole\" card, but is still treated as a \"Hole\" card.)\nWhen your opponent activates a monster effect in their hand or GY, or when your opponent's banished monster effect is activated: Negate its effect, and if you do, inflict 2000 damage to your opponent.",
+    "author": "gallantron",
+    "lastPrint": "2020-05-01",
+    "lastUpdated": "2021-08-10",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15064&request_locale=ja",
+        "title": "Gravedigger's Trap Hole",
+        "date": "2021-08-10",
+        "desc": "In the Official Card Game, Gravedigger's Trap Hole is not part of the 「落とし穴」 (\"Hole\") archetype. It is a member of the 「ホール」 (\"Trap Hole\") archetype."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14203&request_locale=ja",
+        "title": "Traptrix Sera",
+        "date": "2021-08-10",
+        "desc": "In the Official Card Game, Gravedigger's Trap Hole can be Set from the Deck using the effect of Traptrix Sera, which Sets a \"Hole\" Normal Trap."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9753&request_locale=ja",
+        "title": "Goblin Pothole Squad",
+        "date": "2021-08-10",
+        "desc": "In the Official Card Game, the effect of Goblin Pothole Squad, which prevents \"Trap Hole\"s from being activated when a monster is Summoned, will still allow Gravedigger's Trap Hole to be activated.\nThis can happen if, for instance, Virtual World Hime - Nyannyan activates its effect in the GY in response to a monster's Normal Summon."
+      }
+    ]
   }
 ]
