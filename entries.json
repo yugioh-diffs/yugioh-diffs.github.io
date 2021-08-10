@@ -5518,5 +5518,23 @@
         "desc": "In the Official Card Game, this Normal Summon can be negated by cards such as Solemn Judgment."
       }
     ]
+  },
+  {
+    "id": 5402,
+    "icon": "trap",
+    "name": "Spirit's Invitation",
+    "oldText": "Each time your Spirit monster returns to your hand, select 1 monster on your opponent's side of the field and return it to its owner's hand. Pay 500 Life Points during each of your Standby Phases. If you do not, destroy this card.",
+    "newText": "Each time a Spirit monster(s) returns to your hand: Your opponent chooses 1 monster they control, and you return it to the hand. Once per turn, during your Standby Phase, pay 500 LP or destroy this card.",
+    "author": "gallantron",
+    "lastPrint": "2005-07-27",
+    "lastUpdated": "2021-08-10",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5402&request_locale=ja",
+        "title": "Spirit's Invitation",
+        "date": "2021-08-10",
+        "desc": "In the Official Card Game, the opponent of the player that controls Spirit's Invitation chooses the monster to be returned to the hand."
+      }
+    ]
   }
 ]
