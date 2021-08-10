@@ -5494,5 +5494,29 @@
         "desc": "In the Official Card Game, the effect of Goblin Pothole Squad, which prevents \"Trap Hole\"s from being activated when a monster is Summoned, will still allow Gravedigger's Trap Hole to be activated.\nThis can happen if, for instance, Virtual World Hime - Nyannyan activates its effect in the GY in response to a monster's Normal Summon."
       }
     ]
+  },
+  {
+    "id": 7332,
+    "icon": "effect",
+    "name": "Gemini Summoner",
+    "oldText": "Once per turn, during your opponent's End Phase: You can pay 500 LP; Normal Summon/Set 1 Gemini monster from your hand or Normal Summon 1 face-up Gemini monster you control. The first time this card would be destroyed by battle each turn, it is not destroyed.",
+    "newText": "Once per turn, during your opponent's End Phase: You can pay 500 LP; immediately after this effect resolves, Normal Summon/Set 1 Gemini monster from your hand or Normal Summon 1 face-up Gemini monster you control. The first time this card would be destroyed by battle each turn, it is not destroyed.",
+    "author": "gallantron",
+    "lastPrint": "2016-10-07",
+    "lastUpdated": "2021-08-10",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7332&request_locale=ja",
+        "title": "Card FAQ – Gemini Summoner",
+        "date": "2021-08-10",
+        "desc": "In the Official Card Game, the Normal Summon due to the effect of Gemini Summoner is performed immediately after its effect resolves."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4861&request_locale=en",
+        "title": "Solemn Judgment",
+        "date": "2021-08-10",
+        "desc": "In the Official Card Game, this Normal Summon can be negated by cards such as Solemn Judgment."
+      }
+    ]
   }
 ]
