@@ -5566,7 +5566,7 @@
     "icon": "link",
     "name": "Xtra HERO Infernal Devicer",
     "oldText": "2 \"HERO\" monsters\nIf this card is Link Summoned: You can reveal 1 \"HERO\" Fusion Monster in your Extra Deck, and if you do, add up to 2 of the Fusion Materials listed on that card, with different names, from your Deck to your hand. You cannot Special Summon monsters the turn you activate this effect, except \"HERO\" monsters. You can only use this effect of \"Xtra HERO Defiant Devicer\" once per turn. Fiend monsters this card points to gain ATK/DEF equal to its Level x 100.",
-    "newText": "2 \"HERO\" monsters\nIf this card is Link Summoned: You can reveal 1 \"HERO\" Fusion Monster in your Extra Deck, and if you do, add up to 2 of the Fusion Materials whose different names are listed on that card from your Deck to your hand. You cannot Special Summon monsters the turn you activate this effect, except \"HERO\" monsters. You can only use this effect of \"Xtra HERO Infernal Devicer\" once per turn. A Fiend monster this card points to gains ATK/DEF equal to its Level x 100.",
+    "newText": "2 \"HERO\" monsters / If this card is Link Summoned: You can reveal 1 \"HERO\" Fusion Monster in your Extra Deck, and if you do, add up to 2 of the Fusion Materials whose names are specifically listed on that card, with different names, from your Deck to your hand. You cannot Special Summon monsters the turn you activate this effect, except \"HERO\" monsters. You can only use this effect of \"Xtra HERO Infernal Devicer\" once per turn. A Fiend monster this card points to gains ATK/DEF equal to its Level x 100.",
     "author": "gallantron",
     "lastPrint": "2020-03-20",
     "lastUpdated": "2021-08-11",
@@ -5582,6 +5582,12 @@
         "title": "Xtra HERO Infernal Devicer",
         "date": "2021-08-11",
         "desc": "The English database text for Xtra Hero Infernal Devicer does not match its printed text, referencing the card name \"Xtra Hero Defiant Devicer\"."
+      },
+      {
+        "url": "https://ms.yugipedia.com//e/ea/PrimathmechLaplacian-MYFI-EN-ScR-1E.png",
+        "title": "MYFI-EN009 Primathmech Laplacian",
+        "date": "2021-08-11",
+        "desc": "Primathmech Laplacian is another example of a card that uses a slash on the material line to gain extra space in the text box."
       }
     ]
   }
