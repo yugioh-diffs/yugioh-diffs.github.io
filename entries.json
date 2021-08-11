@@ -5560,5 +5560,29 @@
         "desc": "Using Soul Crossing to Tribute Summon The Winged Dragon of Ra - Sphere Mode, which allows you to Tribute your opponent's monsters as part of its listed procedure, is an example of a situation where the opponent's monsters may be Tributed, but not as a result of Soul Crossing's text."
       }
     ]
+  },
+  {
+    "id": 14936,
+    "icon": "link",
+    "name": "Xtra HERO Infernal Devicer",
+    "oldText": "2 \"HERO\" monsters\nIf this card is Link Summoned: You can reveal 1 \"HERO\" Fusion Monster in your Extra Deck, and if you do, add up to 2 of the Fusion Materials listed on that card, with different names, from your Deck to your hand. You cannot Special Summon monsters the turn you activate this effect, except \"HERO\" monsters. You can only use this effect of \"Xtra HERO Defiant Devicer\" once per turn. Fiend monsters this card points to gain ATK/DEF equal to its Level x 100.",
+    "newText": "2 \"HERO\" monsters\nIf this card is Link Summoned: You can reveal 1 \"HERO\" Fusion Monster in your Extra Deck, and if you do, add up to 2 of the Fusion Materials whose different names are listed on that card from your Deck to your hand. You cannot Special Summon monsters the turn you activate this effect, except \"HERO\" monsters. You can only use this effect of \"Xtra HERO Infernal Devicer\" once per turn. A Fiend monster this card points to gains ATK/DEF equal to its Level x 100.",
+    "author": "gallantron",
+    "lastPrint": "2020-03-20",
+    "lastUpdated": "2021-08-11",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14936&request_locale=ja",
+        "title": "Xtra HERO Infernal Devicer",
+        "date": "2021-08-11",
+        "desc": "In the Official Card Game, Xtra HERO Infernal Devicer's effect requires the monsters' names to be specifically listed as materials on the Fusion Monster.\nAdditionally, in the Official Card Game, the effect of Xtra Hero Infernal Devicer increases the ATK of monsters it points to based on their Level, not its own."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14936&request_locale=en",
+        "title": "Xtra HERO Infernal Devicer",
+        "date": "2021-08-11",
+        "desc": "The English database text for Xtra Hero Infernal Devicer does not match its printed text, referencing the card name \"Xtra Hero Defiant Devicer\"."
+      }
+    ]
   }
 ]
