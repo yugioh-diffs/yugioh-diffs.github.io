@@ -5536,5 +5536,29 @@
         "desc": "In the Official Card Game, the opponent of the player that controls Spirit's Invitation chooses the monster to be returned to the hand."
       }
     ]
+  },
+  {
+    "id": 15838,
+    "icon": "spell",
+    "name": "Soul Crossing",
+    "oldText": "During the Main Phase: Immediately after this effect resolves, Tribute Summon 1 Divine-Beast monster. When you do, you can Tribute a monster(s) your opponent controls, even though you do not control them, but if you Tribute Summon this way, apply this effect.\n●Until the end of the next turn after this card resolves, you can only activate 1 card or effect per turn, not counting the effects of Divine-Beast monsters.\nYou can only activate 1 \"Soul Crossing\" per turn.",
+    "newText": "During the Main Phase: Immediately after this effect resolves, Tribute Summon 1 Divine-Beast monster. When you do, you can Tribute a monster(s) your opponent controls, even though you do not control them, but if you Tribute their monster(s) for the Summon, apply this effect.\n●Until the end of the next turn, you can only activate 1 card or effect per turn, not counting the effects of Divine-Beast monsters.\nYou can only activate 1 \"Soul Crossing\" per turn.",
+    "author": "gallantron",
+    "lastPrint": "2021-06-18",
+    "lastUpdated": "2021-08-11",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15838&request_locale=ja",
+        "title": "Soul Crossing",
+        "date": "2021-08-11",
+        "desc": "In the Official Card Game, Soul Crossing specifies that the bulleted effect will be applied regardless of whether the opponent's monster(s) are tributed as a result of Soul Crossing's text."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11927&request_locale=en",
+        "title": "The Winged Dragon of Ra - Sphere Mode",
+        "date": "2021-08-11",
+        "desc": "Using Soul Crossing to Tribute Summon The Winged Dragon of Ra - Sphere Mode, which allows you to Tribute your opponent's monsters as part of its listed procedure, is an example of a situation where the opponent's monsters may be Tributed, but not as a result of Soul Crossing's text."
+      }
+    ]
   }
 ]
