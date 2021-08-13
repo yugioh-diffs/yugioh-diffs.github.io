@@ -5590,5 +5590,23 @@
         "desc": "Primathmech Laplacian is another example of a card that uses a slash on the material line to gain extra space in the text box."
       }
     ]
+  },
+  {
+    "id": 5543,
+    "icon": "trap",
+    "name": "Barrel Behind the Door",
+    "oldText": "Activate only when a card's effect that would inflict damage to you is activated. Your opponent takes the damage instead.",
+    "newText": "When a Spell/Trap Card or monster effect is activated that would inflict damage to you: Any damage you would take from that card or effect is taken by your opponent instead.",
+    "author": "gallantron",
+    "lastPrint": "2009-07-28",
+    "lastUpdated": "2021-08-13",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5543&request_locale=ja",
+        "title": "Card FAQ – Barrel Behind the Door",
+        "date": "2021-08-13",
+        "desc": "In the Official Card Game, Barrel Behind the Door can only be activated in response to a Spell/Trap Card or monster effect activation.\n(It cannot be activated in response to a Spell/Trap effect's activation.)"
+      }
+    ]
   }
 ]
