@@ -5524,10 +5524,10 @@
     "icon": "trap",
     "name": "Spirit's Invitation",
     "oldText": "Each time your Spirit monster returns to your hand, select 1 monster on your opponent's side of the field and return it to its owner's hand. Pay 500 Life Points during each of your Standby Phases. If you do not, destroy this card.",
-    "newText": "Each time a Spirit monster(s) returns to your hand: Your opponent chooses 1 monster they control, and you return it to the hand. Once per turn, during your Standby Phase, pay 500 LP or destroy this card.",
+    "newText": "Each time a Spirit monster(s) you control returns to your hand: Your opponent chooses 1 monster they control, and you return it to the hand. Once per turn, during your Standby Phase, pay 500 LP or destroy this card.",
     "author": "gallantron",
     "lastPrint": "2005-07-27",
-    "lastUpdated": "2021-08-10",
+    "lastUpdated": "2021-08-17",
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5402&request_locale=ja",
@@ -5606,6 +5606,42 @@
         "title": "Card FAQ – Barrel Behind the Door",
         "date": "2021-08-13",
         "desc": "In the Official Card Game, Barrel Behind the Door can only be activated in response to a Spell/Trap Card or monster effect activation.\n(It cannot be activated in response to a Spell/Trap effect's activation.)"
+      }
+    ]
+  },
+  {
+    "id": 10441,
+    "icon": "effect",
+    "name": "Evilswarm Kerykeion",
+    "oldText": "You can only use each effect of \"Evilswarm Kerykeion\" once per turn. While this card is in the Graveyard, if it was sent there this turn, you can Normal Summon 1 \"lswarm\" monster for 1 less Tribute.\nYou can banish 1 \"lswarm\" monster from your Graveyard, then target 1 \"lswarm\" monster in your Graveyard; add that target to your hand, also, this card gains the following effect.\n●This turn: You can activate this effect; Normal Summon 1 \"lswarm\" monster.",
+    "newText": "You can banish 1 \"lswarm\" monster from your GY, then target 1 \"lswarm\" monster in your GY; add it to your hand. If the previous effect was activated this turn (and was not negated): You can activate this effect; Immediately after this effect resolves, Normal Summon 1 \"lswarm\" monster. While this card is in the GY, if it was sent there this turn, you can Normal Summon 1 \"lswarm\" monster for 1 less Tribute. You can only use each effect of \"Evilswarm Kerykeion\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2014-08-29",
+    "lastUpdated": "2021-08-17",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10441&request_locale=ja",
+        "title": "Card FAQ – Evilswarm Kerykeion",
+        "date": "2021-08-17",
+        "desc": "In the Official Card Game, the Normal Summon of a \"lswarm\" monster is performed after the effect of Evilswarm Kerykeion has resolved.\nFurthermore, in the Official Card Game, Evilswarm Kerykeion always has that effect, though it can only be activated if the previous effect has been applied that turn."
+      }
+    ]
+  },
+  {
+    "id": 10440,
+    "icon": "effect",
+    "name": "Constellar Sombre",
+    "oldText": "You can only use each effect of \"Constellar Sombre\" once per turn. While this card is in the Graveyard, if it was sent there this turn, you can Normal Summon 1 \"Constellar\" monster for 1 less Tribute.\nYou can banish 1 \"Constellar\" monster from your Graveyard, then target 1 \"Constellar\" monster in your Graveyard; add that target to your hand, also, this card gains the following effect.\n●This turn: You can activate this effect; Normal Summon 1 \"Constellar\" monster.",
+    "newText": "You can banish 1 \"Constellar\" monster from your GY, then target 1 \"Constellar\" monster in your GY; add it to your hand. If the previous effect was activated this turn (and was not negated): You can activate this effect; Immediately after this effect resolves, Normal Summon 1 \"Constellar\" monster. While this card is in the GY, if it was sent there this turn, you can Normal Summon 1 \"Constellar\" monster for 1 less Tribute. You can only use each effect of \"Constellar Sombre\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2014-08-29",
+    "lastUpdated": "2021-08-17",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10440&request_locale=ja",
+        "title": "Card FAQ – Constellar Sombre",
+        "date": "2021-08-17",
+        "desc": "In the Official Card Game, the Normal Summon of a \"Constellar\" monster is performed after the effect of Constellar Sombre has resolved.\nFurthermore, in the Official Card Game, Constellar Sombre always has that effect, though it can only be activated if the previous effect has been applied that turn."
       }
     ]
   }
