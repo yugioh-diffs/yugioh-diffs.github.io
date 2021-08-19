@@ -5644,5 +5644,29 @@
         "desc": "In the Official Card Game, the Normal Summon of a \"Constellar\" monster is performed after the effect of Constellar Sombre has resolved.\nFurthermore, in the Official Card Game, Constellar Sombre always has that effect, though it can only be activated if the previous effect has been applied that turn."
       }
     ]
+  },
+  {
+    "id": 11890,
+    "icon": "fusion",
+    "name": "Goddess Bow",
+    "oldText": "Must be Special Summoned with \"The Claw of Hermos\", using a Warrior monster. If this card is Special Summoned: Target 1 other face-up monster on the field; equip this card to it. While this card is equipped to a monster by this effect, negate the first effect activated by your opponent during each Battle Phase, also, after that, the equipped monster can make a second attack during this Battle Phase.",
+    "newText": "Must be Special Summoned with \"The Claw of Hermos\", using a Warrior monster. If this card is Special Summoned: Target 1 other face-up monster on the field; equip this card to it. While this card is equipped to a monster by this effect, negate your opponent's first effect that resolves during each Battle Phase, also, after that, the equipped monster can make a second attack during this Battle Phase.",
+    "author": "gallantron",
+    "lastPrint": "2020-09-11",
+    "lastUpdated": "2021-08-19",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15857&request_locale=ja",
+        "title": "Q&A #15857",
+        "date": "2021-08-19",
+        "desc": "In the Official Card Game, the effect of Goddess Bow negates the first effect to resolve during the Battle Phase, rather than the first effect to be activated."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12963&request_locale=en",
+        "title": "Magician's Right Hand",
+        "date": "2021-08-19",
+        "desc": "Magician's Right Hand is a comparable card that uses the revised textual construct."
+      }
+    ]
   }
 ]
