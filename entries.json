@@ -5668,5 +5668,23 @@
         "desc": "Magician's Right Hand is a comparable card that uses the revised textual construct."
       }
     ]
+  },
+  {
+    "id": 12544,
+    "icon": "xyz",
+    "name": "Number 100: Numeron Dragon",
+    "oldText": "2 \"Number\" Xyz Monsters with the same name and Rank\nOnce per turn: You can detach 1 material from this card; this card gains ATK equal to the combined Ranks of all Xyz Monsters currently on the field x 1000, until the end of your opponent's turn. When this card is destroyed by card effect: You can destroy as many monsters on the field as possible (min. 1), then each player Sets 1 Spell/Trap from their GY to their field. When an opponent's monster declares an attack while this card is in your GY and you have no cards in your hand or field: You can Special Summon this card.",
+    "newText": "2 \"Number\" Xyz Monsters with the same name and Rank\nOnce per turn: You can detach 1 material from this card; this card gains ATK equal to the combined Ranks of all Xyz Monsters currently on the field x 1000, until the end of your opponent's turn. When this card is destroyed by card effect: You can destroy as many monsters on the field as possible (min. 1), then, if any player(s) has a Spell/Trap in their GY, they Set 1 of them to their field. When an opponent's monster declares an attack while this card is in your GY and you have no cards in your hand or field: You can Special Summon this card.",
+    "author": "gallantron",
+    "lastPrint": "2020-09-11",
+    "lastUpdated": "2021-08-19",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19266&request_locale=ja",
+        "title": "Q&A #19266",
+        "date": "2021-08-19",
+        "desc": "In the Official Card Game, the effect of Number 100: Numeron Dragon can be activated even if neither player has a Spell/Trap in their GY."
+      }
+    ]
   }
 ]
