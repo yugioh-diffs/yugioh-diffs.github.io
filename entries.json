@@ -5686,5 +5686,41 @@
         "desc": "In the Official Card Game, the effect of Number 100: Numeron Dragon can be activated even if neither player has a Spell/Trap in their GY."
       }
     ]
+  },
+  {
+    "id": 5984,
+    "icon": "spell",
+    "name": "Talisman of Trap Sealing",
+    "oldText": "You can only activate this card while there is a face-up \"Sealmaster Meisei\" on your side of the field. While this card is face-up on the field, Trap Cards cannot be activated and the effects of face-up Trap Cards on the field are negated. When \"Sealmaster Meisei\" is removed from the field, destroy this card.",
+    "newText": "Activate this card only if you control a face-up \"Sealmaster Meisei\". Trap Cards cannot be activated. Negate all Trap effects on the field. If you do not control a \"Sealmaster Meisei\", destroy this card.",
+    "author": "gallantron",
+    "lastPrint": "2005-10-20",
+    "lastUpdated": "2021-08-21",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11743&request_locale=ja",
+        "title": "Q&A #11743",
+        "date": "2021-08-21",
+        "desc": "In the Official Card Game, Talisman of Trap Sealing will be destroyed as soon as the player no longer controls \"Sealmaster Meisei\", even if that \"Sealmaster Meisei\" did not leave the field."
+      }
+    ]
+  },
+  {
+    "id": 5989,
+    "icon": "trap",
+    "name": "Talisman of Spell Sealing",
+    "oldText": "You can only activate this card while there is a face-up \"Sealmaster Meisei\" on your side of the field. While this card is face-up on the field, Spell Cards cannot be activated and the effects of face-up Spell Cards on the field are negated. When \"Sealmaster Meisei\" is removed from the field, destroy this card.",
+    "newText": "Activate this card only if you control a face-up \"Sealmaster Meisei\". Spell Cards cannot be activated. Negate all Spell effects on the field. If you do not control a \"Sealmaster Meisei\", destroy this card.",
+    "author": "gallantron",
+    "lastPrint": "2005-10-20",
+    "lastUpdated": "2021-08-21",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11743&request_locale=ja",
+        "title": "Q&A #11743",
+        "date": "2021-08-21",
+        "desc": "In the Official Card Game, Talisman of Spell Sealing will be destroyed as soon as the player no longer controls \"Sealmaster Meisei\", even if that \"Sealmaster Meisei\" did not leave the field."
+      }
+    ]
   }
 ]
