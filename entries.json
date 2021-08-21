@@ -5722,5 +5722,23 @@
         "desc": "In the Official Card Game, Talisman of Spell Sealing will be destroyed as soon as the player no longer controls \"Sealmaster Meisei\", even if that \"Sealmaster Meisei\" did not leave the field."
       }
     ]
+  },
+  {
+    "id": 12128,
+    "icon": "effect",
+    "name": "Dragon Buster Destruction Sword",
+    "oldText": "You can target 1 \"Buster Blader\" you control; equip this monster from your hand or field to that target. While this card is equipped to a monster, your opponent cannot Special Summon monsters from the Extra Deck. While this card is equipped to a monster: You can Special Summon this equipped card. You can only use this effect of \"Dragon Buster Destruction Sword\" once per turn.",
+    "newText": "You can target 1 \"Buster Blader\" you control; equip this monster from your hand or field to that monster. While this card is equipped to a monster, your opponent cannot Special Summon monsters from the Extra Deck. While this card is equipped to a monster: You can Special Summon this equipped card. You can only use this effect of \"Dragon Buster Destruction Sword\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2020-07-24",
+    "lastUpdated": "2021-08-21",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17553&request_locale=ja",
+        "title": "Q&A #17553",
+        "date": "2021-08-21",
+        "desc": "In the Official Card Game, even if the targeted monster's name is no longer \"Buster Blader\" by the time the effect of Dragon Buster Destruction Sword resolves, it will still be equipped to the targeted monster."
+      }
+    ]
   }
 ]
