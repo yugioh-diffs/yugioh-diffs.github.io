@@ -5740,5 +5740,23 @@
         "desc": "In the Official Card Game, even if the targeted monster's name is no longer \"Buster Blader\" by the time the effect of Dragon Buster Destruction Sword resolves, it will still be equipped to the targeted monster."
       }
     ]
+  },
+  {
+    "id": 12129,
+    "icon": "effect",
+    "name": "Wizard Buster Destruction Sword",
+    "oldText": "You can target 1 \"Buster Blader\" you control; equip this monster from your hand or your side of the field to that target. While this card is equipped to a monster, monsters in your opponent's Graveyard cannot activate their effects. You can send this Equip Card to the Graveyard, then target 1 \"Destruction Sword\" monster in your Graveyard, except \"Wizard Buster Destruction Sword\"; add it to your hand.",
+    "newText": "You can target 1 \"Buster Blader\" you control; equip this monster from your hand or your side of the field to that monster. While this card is equipped to a monster, monsters in your opponent's GY cannot activate their effects. You can send this Equip Card to the GY, then target 1 \"Destruction Sword\" monster in your GY, except \"Wizard Buster Destruction Sword\"; add it to your hand.",
+    "author": "gallantron",
+    "lastPrint": "2016-09-02",
+    "lastUpdated": "2021-08-21",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17553&request_locale=ja",
+        "title": "Q&A #17553",
+        "date": "2021-08-21",
+        "desc": "In the Official Card Game, even if the targeted monster's name is no longer \"Buster Blader\" by the time the effect of Wizard Buster Destruction Sword resolves, it will still be equipped to the targeted monster."
+      }
+    ]
   }
 ]
