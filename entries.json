@@ -5470,7 +5470,7 @@
     "icon": "trap",
     "name": "Gravedigger's Trap Hole",
     "oldText": "When your opponent activates a monster effect in their hand or GY, or when your opponent's banished monster effect is activated: Negate its effect, and if you do, inflict 2000 damage to your opponent.",
-    "newText": "(This card is not treated as a \"Trap Hole\" card, but is still treated as a \"Hole\" card.)\nWhen your opponent activates a monster effect in their hand or GY, or when your opponent's banished monster effect is activated: Negate its effect, and if you do, inflict 2000 damage to your opponent.",
+    "newText": "(This card is not treated as a \"Hole\" card, but is still treated as a \"Trap Hole\" card.)\nWhen your opponent activates a monster effect in their hand or GY, or when your opponent's banished monster effect is activated: Negate its effect, and if you do, inflict 2000 damage to your opponent.",
     "author": "gallantron",
     "lastPrint": "2020-05-01",
     "lastUpdated": "2021-08-10",
