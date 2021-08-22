@@ -5470,7 +5470,7 @@
     "icon": "trap",
     "name": "Gravedigger's Trap Hole",
     "oldText": "When your opponent activates a monster effect in their hand or GY, or when your opponent's banished monster effect is activated: Negate its effect, and if you do, inflict 2000 damage to your opponent.",
-    "newText": "(This card is not treated as a \"Hole\" card, but is still treated as a \"Trap Hole\" card.)\nWhen your opponent activates a monster effect in their hand or GY, or when your opponent's banished monster effect is activated: Negate its effect, and if you do, inflict 2000 damage to your opponent.",
+    "newText": "(This card is not treated as a \"Trap Hole\" card, but is still treated as a \"Hole\" card.)\nWhen your opponent activates a monster effect in their hand or GY, or when your opponent's banished monster effect is activated: Negate its effect, and if you do, inflict 2000 damage to your opponent.",
     "author": "gallantron",
     "lastPrint": "2020-05-01",
     "lastUpdated": "2021-08-10",
@@ -5479,7 +5479,7 @@
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15064&request_locale=ja",
         "title": "Gravedigger's Trap Hole",
         "date": "2021-08-10",
-        "desc": "In the Official Card Game, Gravedigger's Trap Hole is not part of the 「落とし穴」 (\"Hole\") archetype. It is a member of the 「ホール」 (\"Trap Hole\") archetype."
+        "desc": "In the Official Card Game, Gravedigger's Trap Hole is not part of the 「落とし穴」 (\"Trap Hole\") archetype. However, it is a member of the 「ホール」 (\"Hole\") archetype."
       },
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14203&request_locale=ja",
