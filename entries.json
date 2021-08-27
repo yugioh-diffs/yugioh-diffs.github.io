@@ -5776,5 +5776,23 @@
         "desc": "In the Official Card Game, even if the targeted monster's name is no longer \"Buster Blader\" by the time the effect of Robot Buster Destruction Sword resolves, it will still be equipped to the targeted monster."
       }
     ]
+  },
+  {
+    "id": 7888,
+    "icon": "effect",
+    "name": "Iron Chain Coil",
+    "oldText": "Once per turn, you can select 1 \"Iron Chain\" monster you control to have it gain 300 ATK and DEF as long as this card is face-up on the field.",
+    "newText": "Once per turn: You can target 1 \"Iron Chain\" monster you control; it gains 300 ATK/DEF.",
+    "author": "gallantron",
+    "lastPrint": "2008-11-18",
+    "lastUpdated": "2021-08-27",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7888&request_locale=ja",
+        "title": "Card FAQ – Iron Chain Coil",
+        "date": "2021-08-27",
+        "desc": "In the Official Card Game, the ATK/DEF increase from the effect of Iron Chain Coil remains applied even after Iron Chain Coil has its effects negated, or leaves the field."
+      }
+    ]
   }
 ]
