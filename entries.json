@@ -5872,5 +5872,35 @@
         "desc": "If a monster is Special Summoned from the Extra Deck in face-down Defense Position, that monster is still considered to have been Special Summoned from the Extra Deck.\n\nOnly if a monster is flipped face-down after having been Special Summoned from the Extra Deck, that monster is no longer considered to have been Special Summoned from the Extra Deck."
       }
     ]
+  },
+  {
+    "id": 12920,
+    "icon": "effect",
+    "name": "Speedroid Skull Marbles",
+    "oldText": "Once per turn, during the Standby Phase, if your opponent controls a face-up monster that was Special Summoned from the Extra Deck: You can Special Summon this card from your hand. Cannot be destroyed by battle with a Normal Summoned/Set monster. Your opponent takes any battle damage you would have taken from battles involving this card. You can only use this effect of \"Speedroid Skull Marbles\" once per turn. If you control a face-up monster that is not a \"Speedroid\" monster, destroy this card.",
+    "newText": "Once per turn, during the Standby Phase, if your opponent controls a monster that was Special Summoned from the Extra Deck: You can Special Summon this card from your hand. Cannot be destroyed by battle with a Normal Summoned/Set monster. Your opponent takes any battle damage you would have taken from battles involving this card. You can only use this effect of \"Speedroid Skull Marbles\" once per turn. If you control a face-up monster that is not a \"Speedroid\" monster, destroy this card.",
+    "author": "gallantron",
+    "lastPrint": "2018-08-31",
+    "lastUpdated": "2021-09-01",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12920&request_locale=ja",
+        "title": "Speedroid Skull Marbles",
+        "date": "2021-09-01",
+        "desc": "In the Official Card Game, Speedroid Skull Marbles' effect that Special Summons itself can be activated even if the opponent controls a monster that was Special Summoned from the Extra Deck in face-down Defense Position."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12642&request_locale=en",
+        "title": "Toadally Awesome",
+        "date": "2021-09-01",
+        "desc": "Toadally Awesome's effect responding to the activation of a Pendulum Monster Card's effect on the field is one example of how a card can be Special Summoned from the Extra Deck in face-down Defense Position."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23330&request_locale=ja",
+        "title": "Q&A #23330",
+        "date": "2021-09-01",
+        "desc": "If a monster is Special Summoned from the Extra Deck in face-down Defense Position, that monster is still considered to have been Special Summoned from the Extra Deck.\n\nOnly if a monster is flipped face-down after having been Special Summoned from the Extra Deck, that monster is no longer considered to have been Special Summoned from the Extra Deck."
+      }
+    ]
   }
 ]
