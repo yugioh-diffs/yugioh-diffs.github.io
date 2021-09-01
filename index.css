@@ -386,6 +386,92 @@ body.has-data #about, body:not(.has-data) #data { display: none; }
 #notes > a:hover { text-decoration: underline overline dotted; }
 #notes > span { color: #888; }
 
+/* === BOTTOM-LEFT CONTROLS === */
+
+#controls
+{
+	position: absolute;
+	overflow: hidden;
+	left: 0;
+	bottom: 0;
+	width: 10px;
+	height: 10px;
+	border-top-right-radius: 20px;
+	background: #ddd;
+	border-right: 4px solid #777;
+	border-top: 4px solid #777;
+	
+	font-family: Verdana, Geneva, sans-serif;
+    font-size: 12px;
+    cursor: default;
+	
+	transition: width .5s, height .5s;
+}
+
+#controls:hover
+{
+	width: 200px;
+	height: 30px;
+}
+
+#controls-container
+{
+	position: absolute;
+	left: 5px;
+	bottom: 5px;
+
+	width: 180px;
+	height: 18px;
+	opacity: 0;
+	
+	display: flex;
+	flex-direction: column;
+	
+	transition: opacity .5s;
+}
+#controls:hover #controls-container { opacity: 1; }
+
+.controls-row
+{
+	display: flex;
+	flex-direction: row;
+}
+.controls-label
+{
+}
+
+.controls-control
+{
+	margin-left: auto;
+}
+
+.control-buttons-container
+{
+	display: flex;
+	flex-direction: row;
+	
+	width: 120px;
+}
+
+.control-button
+{
+	min-width: 0;
+	flex-basis: 0;
+	flex-grow: 1;
+	
+	border: 1px solid #000;
+	background: #ddd;
+	
+	text-align: center;
+	
+	cursor: pointer;
+	transition: background .5s;
+}
+
+.control-button:not(.selected):hover { background: #bbb; }
+.control-button.selected { background: #999; }
+
+
 /* === MODAL STUFF === */
 
 body:not(.has-modal) #modal-background, body:not(.has-modal) #modal-container { display: none; }

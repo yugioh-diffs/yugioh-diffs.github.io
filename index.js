@@ -130,33 +130,76 @@ document.addEventListener('DOMContentLoaded', async () =>
             }
         ]
     */
+	
+	let sorters = {};
+	sorters.alpha = ((a,b) =>
+	{
+		const n1 = a.name;
+		const n2 = b.name;
+		if (n1 < n2)
+			return -1;
+		else if (n1 > n2)
+			return 1;
+		else
+			return 0;
+	});
+	sorters.recent = ((a,b) =>
+	{
+		const l1 = new Date(a.lastUpdated);
+		const l2 = new Date(b.lastUpdated);
+		if (l1 < l2)
+			return 1;
+		else if (l1 > l2)
+			return -1;
+		else
+			return sorters.alpha(a,b);
+	});
+	
+	let activeSorter = (window.localStorage.getItem('sortMode') || '');
+	if (!(activeSorter in sorters))
+		activeSorter = 'alpha';
     
-    entries.sort((a,b) =>
-    {
-        const n1 = a.name;
-        const n2 = b.name;
-        if (n1 < n2)
-            return -1;
-        else if (n1 > n2)
-            return 1;
-        else
-            return 0;
-    });
-    
-    const selector = document.getElementById('selector');
-    for (const entry of entries)
-    {
-        const selectorEntry = makeElement('a', selector, 'selector-entry');
-        const selectorIcon = makeElement('img', selectorEntry, 'selector-icon');
-        const selectorName = makeElement('span', selectorEntry, 'selector-name');
-        
-        selectorEntry.href = ('#'+entry.id);
-        selectorIcon.src = ('img/card_icon_'+entry.icon+'.png');
-        selectorName.innerText = entry.name;
-        
-        // preload
-        new Image().src = ('artwork/'+entry.id+'.png');
-    }
+	const redrawSelector = (() =>
+	{
+		entries.sort(sorters[activeSorter]);
+		
+		const selector = document.getElementById('selector');
+		removeAllChildren(selector);
+		
+		for (const entry of entries)
+		{
+			const selectorEntry = makeElement('a', selector, 'selector-entry');
+			const selectorIcon = makeElement('img', selectorEntry, 'selector-icon');
+			const selectorName = makeElement('span', selectorEntry, 'selector-name');
+			
+			selectorEntry.href = ('#'+entry.id);
+			selectorIcon.src = ('img/card_icon_'+entry.icon+'.png');
+			selectorName.innerText = entry.name;
+			
+			// preload
+			if (!entry.hadPreload)
+				(entry.hadPreload = new Image()).src = ('artwork/'+entry.id+'.png');
+		}
+	});
+	
+	redrawSelector();
+	
+	for (const btn of document.querySelectorAll('.control-button[data-sort-mode]'))
+	{
+		const thisMode = btn.dataset.sortMode;
+		if (thisMode === activeSorter)
+			btn.classList.add('selected');
+		btn.addEventListener('click', () =>
+		{
+			if (thisMode === activeSorter) return;
+			
+			document.querySelectorAll('.control-button[data-sort-mode].selected').forEach((b) => b.classList.remove('selected'));
+
+			window.localStorage.setItem('sortMode', (activeSorter = thisMode));
+			redrawSelector();
+			btn.classList.add('selected');
+		});
+	}
     
     const hashchange = (() =>
     {
