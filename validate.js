@@ -54,7 +54,7 @@ document.addEventListener('DOMContentLoaded', () =>
             document.getElementById('img').disabled = true;
             document.getElementById('json').disabled = true;
 
-            const data = await (await fetch('entries.json')).json();
+            const data = await (await fetch('entries.json', {cache: 'reload'})).json();
             LOG('Loaded '+data.length+' entries from existing entries.json');
             const hasChanges = (await Promise.all(data.map(async (entry) =>
             {
