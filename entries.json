@@ -5842,5 +5842,35 @@
         "desc": "If a monster is Special Summoned from the Extra Deck in face-down Defense Position, that monster is still considered to have been Special Summoned from the Extra Deck.\n\nOnly if a monster is flipped face-down after having been Special Summoned from the Extra Deck, that monster is no longer considered to have been Special Summoned from the Extra Deck."
       }
     ]
+  },
+  {
+    "id": 11488,
+    "icon": "ritual",
+    "name": "Nekroz of Catastor",
+    "oldText": "You can Ritual Summon this card with any \"Nekroz\" Ritual Spell Card. Must be Ritual Summoned without using \"Nekroz of Catastor\", and cannot be Special Summoned by other ways. You can discard this card, then target 1 \"Nekroz\" monster in your Graveyard; Special Summon it. You can only use this effect of \"Nekroz of Catastor\" once per turn. At the start of the Damage Step, if a \"Nekroz\" monster you control battles an opponent's face-up monster that was Special Summoned from the Extra Deck: Destroy that monster.",
+    "newText": "You can Ritual Summon this card with any \"Nekroz\" Ritual Spell Card. Must be Ritual Summoned, without using \"Nekroz of Catastor\". You can discard this card, then target 1 \"Nekroz\" monster in your GY; Special Summon it. You can only use this effect of \"Nekroz of Catastor\" once per turn. At the start of the Damage Step, if a \"Nekroz\" monster you control battles an opponent's monster that was Special Summoned from the Extra Deck: Destroy that monster.",
+    "author": "gallantron",
+    "lastPrint": "2015-02-13",
+    "lastUpdated": "2021-09-01",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11488&request_locale=ja",
+        "title": "Nekroz of Catastor",
+        "date": "2021-09-01",
+        "desc": "In the Official Card Game, the effect of Nekroz of Catastor must also be activated if your \"Nekroz\" monsters battles an opponent's monster that was Special Summoned from the Extra Deck in face-down Defense Position."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12642&request_locale=en",
+        "title": "Toadally Awesome",
+        "date": "2021-09-01",
+        "desc": "Toadally Awesome's effect responding to the activation of a Pendulum Monster Card's effect on the field is one example of how a card can be Special Summoned from the Extra Deck in face-down Defense Position."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23330&request_locale=ja",
+        "title": "Q&A #23330",
+        "date": "2021-09-01",
+        "desc": "If a monster is Special Summoned from the Extra Deck in face-down Defense Position, that monster is still considered to have been Special Summoned from the Extra Deck.\n\nOnly if a monster is flipped face-down after having been Special Summoned from the Extra Deck, that monster is no longer considered to have been Special Summoned from the Extra Deck."
+      }
+    ]
   }
 ]
