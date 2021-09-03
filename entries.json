@@ -5932,5 +5932,23 @@
         "desc": "If a monster is Special Summoned from the Extra Deck in face-down Defense Position, that monster is still considered to have been Special Summoned from the Extra Deck.\n\nOnly if a monster is flipped face-down after having been Special Summoned from the Extra Deck, that monster is no longer considered to have been Special Summoned from the Extra Deck."
       }
     ]
+  },
+  {
+    "id": 16237,
+    "icon": "link",
+    "name": "GranSolfachord Musecia",
+    "oldText": "2 Pendulum Monsters\nDuring your Main Phase: You can add 1 Pendulum Monster from your hand to the Extra Deck face-up, and 1 face-up Pendulum Monster from your Extra Deck to the hand, as long as one of them has an even Pendulum Scale, and the other has an odd Pendulum Scale. When you Pendulum Summon a \"Solfachord\" monster(s): You can target 1 of them; add 1 \"Solfachord\" Pendulum Monster from your Deck to your hand, whose Level equals the Pendulum Scale of that monster. You can only activate each effect of \"GranSolfachord Musecia\" once per turn.",
+    "newText": "2 Pendulum Monsters\nDuring your Main Phase: You can add 1 Pendulum Monster from your hand to the Extra Deck face-up, and 1 face-up Pendulum Monster from your Extra Deck to the hand, as long as one of them has an even Pendulum Scale, and the other has an odd Pendulum Scale. When you Pendulum Summon a \"Solfachord\" monster(s): You can target 1 of them; add 1 \"Solfachord\" Pendulum Monster from your Deck to your hand, whose Level equals the Pendulum Scale of that monster. You can only use each effect of \"GranSolfachord Musecia\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2021-08-13",
+    "lastUpdated": "2021-09-03",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16237&request_locale=ja",
+        "title": "GranSolfachord Musecia",
+        "date": "2021-09-03",
+        "desc": "In the Official Card Game, if the activation of GranSolfachord Musecia's effect is negated by Borreload Savage Dragon, that effect could not be activated again that turn."
+      }
+    ]
   }
 ]
