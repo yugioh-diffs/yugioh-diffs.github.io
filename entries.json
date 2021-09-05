@@ -5950,5 +5950,23 @@
         "desc": "In the Official Card Game, if the activation of GranSolfachord Musecia's effect is negated by Borreload Savage Dragon, that effect could not be activated again that turn."
       }
     ]
+  },
+  {
+    "id": 8112,
+    "icon": "effect",
+    "name": "Ally of Justice Unlimiter",
+    "oldText": "You can Tribute this card to select 1 face-up \"Ally of Justice\" monster you control and double its original ATK until the End Phase of this turn.",
+    "newText": "You can Tribute this card, then target 1 \"Ally of Justice\" monster you control; its ATK becomes double its original ATK, until the end of this turn.",
+    "author": "gallantron",
+    "lastPrint": "2010-07-20",
+    "lastUpdated": "2021-09-05",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8117&request_locale=ja",
+        "title": "Q&A #8117",
+        "date": "2021-09-05",
+        "desc": "In the Official Card Game, Ally of Justice Unlimiter causes the target's current ATK, not its original ATK, to become double its original ATK."
+      }
+    ]
   }
 ]
