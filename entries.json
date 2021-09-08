@@ -6004,5 +6004,41 @@
         "desc": "In the Official Card Game, only monsters that are banished in your possession can be targeted to activate Dimension Distortion."
       }
     ]
+  },
+  {
+    "id": 5597,
+    "icon": "effect",
+    "name": "Dimension Jar",
+    "oldText": "FLIP: Both players can remove from play up to 3 monsters from their opponent's Graveyard.",
+    "newText": "FLIP: Each player can banish up to 3 cards in their opponent's GY.",
+    "author": "gallantron",
+    "lastPrint": "2005-03-19",
+    "lastUpdated": "2021-09-08",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5597&request_locale=ja",
+        "title": "Card FAQ – Dimension Jar",
+        "date": "2021-09-08",
+        "desc": "In the Official Card Game, Dimension Jar's effect allows any cards to be banished, not only monsters."
+      }
+    ]
+  },
+  {
+    "id": 5428,
+    "icon": "effect",
+    "name": "Fushioh Richie",
+    "oldText": "This card cannot be Normal Summoned or Set. This card can only be Special Summoned from your hand or your Deck by Tributing 1 \"Great Dezard\" that has fulfilled the condition. You can flip this card into face-down Defense Position once per turn during your Main Phase. As long as this monster remains face-up on the field, negate the activation and effects of all Spell and Trap Cards that target this card and destroy them. When this card is flipped face-up, you can Special Summon 1 Zombie-Type monster from your Graveyard.",
+    "newText": "Cannot be Normal Summoned/Set. Must first be Special Summoned by \"Great Dezard\". Once per turn: You can change this card to face-down Defense Position. When this card is flipped face-up: You can target 1 Zombie monster in your GY; Special Summon it. When a Spell/Trap Card is activated that targets this card (Quick Effect): Negate the activation, and if you do, destroy it.",
+    "author": "gallantron",
+    "lastPrint": "2005-07-27",
+    "lastUpdated": "2021-09-08",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5428&request_locale=ja",
+        "title": "Card FAQ – Fushioh Richie",
+        "date": "2021-09-08",
+        "desc": "In the Official Card Game, Fushioh Richie must be Summoned using the effect of \"Great Dezard\".\n(It cannot be manually Special Summoned from the hand or Deck, without starting a chain, by Tributing \"Great Dezard\".)"
+      }
+    ]
   }
 ]
