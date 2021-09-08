@@ -6040,5 +6040,41 @@
         "desc": "In the Official Card Game, Fushioh Richie must be Summoned using the effect of \"Great Dezard\".\n(It cannot be manually Special Summoned from the hand or Deck, without starting a chain, by Tributing \"Great Dezard\".)"
       }
     ]
+  },
+  {
+    "id": 7766,
+    "icon": "trap",
+    "name": "Judgment of Thunder",
+    "oldText": "Activate only when you Summon a Thunder-Type monster(s). Destroy 1 card your opponent controls.",
+    "newText": "When a Thunder monster(s) is Summoned to your field: Target 1 card your opponent controls; destroy it.",
+    "author": "gallantron",
+    "lastPrint": "2008-09-02",
+    "lastUpdated": "2021-09-08",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7766&request_locale=ja",
+        "title": "Judgment of Thunder",
+        "date": "2021-09-08",
+        "desc": "In the Official Card Game, Judgment of Thunder can also be activated if the opponent Special Summons a monster to the player's field."
+      }
+    ]
+  },
+  {
+    "id": 5611,
+    "icon": "spell",
+    "name": "Metalsilver Armor",
+    "oldText": "As long as you control the monster equipped with this card, your opponent cannot use the effect of a Spell, Trap, or Effect Monster that targets 1 monster, except the equipped monster.",
+    "newText": "While you control the equipped monster, your opponent cannot target monsters on the field, in either GY, or that are banished, except the equipped monster.",
+    "author": "gallantron",
+    "lastPrint": "2005-03-19",
+    "lastUpdated": "2021-09-08",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5611&request_locale=ja",
+        "title": "Metalsilver Armor",
+        "date": "2021-09-08",
+        "desc": "In the Official Card Game, Metalsilver Armor also restricts effects that target more than one card."
+      }
+    ]
   }
 ]
