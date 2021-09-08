@@ -5968,5 +5968,41 @@
         "desc": "In the Official Card Game, Ally of Justice Unlimiter causes the target's current ATK, not its original ATK, to become double its original ATK."
       }
     ]
+  },
+  {
+    "id": 7268,
+    "icon": "effect",
+    "name": "Cloudian - Poison Cloud",
+    "oldText": "When this card is destroyed by battle and sent to the Graveyard, if it was face-up at the start of the Damage Step: Destroy the monster that destroyed it, and if you do, inflict 800 damage to your opponent.",
+    "newText": "If this card is destroyed by battle and sent to the GY: Destroy the monster that destroyed it, and if you do, inflict 800 damage to your opponent.",
+    "author": "gallantron",
+    "lastPrint": "2012-05-28",
+    "lastUpdated": "2021-09-08",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7268&request_locale=ja",
+        "title": "Card FAQ – Cloudian - Poison Cloud",
+        "date": "2021-09-08",
+        "desc": "In the Official Card Game, Cloudian - Poison Cloud's effect must be activated even if it was face-down at the start of the Damage Step."
+      }
+    ]
+  },
+  {
+    "id": 5848,
+    "icon": "spell",
+    "name": "Dimension Distortion",
+    "oldText": "You can only activate this card if there are no cards in your Graveyard. Select 1 removed from play monster and Special Summon it on your side of the field.",
+    "newText": "If you have no cards in your GY: Target 1 of your banished monsters; Special Summon it.",
+    "author": "gallantron",
+    "lastPrint": "2005-10-20",
+    "lastUpdated": "2021-09-08",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5848&request_locale=ja",
+        "title": "Card FAQ – Dimension Distortion",
+        "date": "2021-09-08",
+        "desc": "In the Official Card Game, only monsters that are banished in your possession can be targeted to activate Dimension Distortion."
+      }
+    ]
   }
 ]
