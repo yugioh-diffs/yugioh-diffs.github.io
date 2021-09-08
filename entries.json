@@ -6076,5 +6076,41 @@
         "desc": "In the Official Card Game, Metalsilver Armor also restricts effects that target more than one card."
       }
     ]
+  },
+  {
+    "id": 6426,
+    "icon": "effect",
+    "name": "Poison Draw Frog",
+    "oldText": "When this face-up card on the field is sent to the Graveyard (unless it was attacked while face-down and destroyed by battle), you can draw 1 card.",
+    "newText": "When this face-up card is sent from the field to the GY: You can draw 1 card.",
+    "author": "gallantron",
+    "lastPrint": "2007-11-14",
+    "lastUpdated": "2021-09-08",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6426&request_locale=ja",
+        "title": "Card FAQ – Poison Draw Frog",
+        "date": "2021-09-08",
+        "desc": "In the Official Card Game, the effect of Poison Draw Frog can be activated even if was attacked while face-down."
+      }
+    ]
+  },
+  {
+    "id": 5447,
+    "icon": "trap",
+    "name": "Pyro Clock of Destiny",
+    "oldText": "Move the turn count forward by 1 turn. The turn in which this card is activated continues as normal.",
+    "newText": "Advance the turn count of one effect that counts turns by one turn.",
+    "author": "gallantron",
+    "lastPrint": "2003-07-18",
+    "lastUpdated": "2021-09-08",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5447&request_locale=ja",
+        "title": "Card FAQ – Pyro Clock of Destiny",
+        "date": "2021-09-08",
+        "desc": "In the Official Card Game, Pyro Clock of Destiny only advances the turn count of one effect, rather than \"the turn count\" of the Duel."
+      }
+    ]
   }
 ]
