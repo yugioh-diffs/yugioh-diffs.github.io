@@ -280,10 +280,10 @@
     "icon": "fusion",
     "name": "Invoked Elysium",
     "oldText": "1 \"Invoked\" monster + 1 monster that was Special Summoned from the Extra Deck\nMust first be Fusion Summoned with the above Fusion Materials. While face-up on the field, this card is also DARK, EARTH, WATER, FIRE, and WIND-Attribute. Once per turn (Quick Effect): You can target 1 \"Invoked\" monster you control or in your GY; banish it and all monsters your opponent controls with the same Attribute as that monster.",
-    "newText": "1 \"Invoked\" monster + 1 monster that was Special Summoned from the Extra Deck\nMust first be Fusion Summoned with the above Fusion Materials. While face-up on the field, this card is also DARK, EARTH, WATER, FIRE, and WIND-Attribute. Once per turn (Quick Effect): You can target 1 \"Invoked\" monster you control or in your GY; banish it, also banish all monsters your opponent controls with the same Attribute as that monster.",
+    "newText": "1 \"Invoked\" monster + 1 monster that was Special Summoned from the Extra Deck\nMust first be Fusion Summoned with the above Fusion Materials. While face-up on the field, this card is also DARK, EARTH, WATER, FIRE, and WIND-Attribute. Once per turn (Quick Effect): You can target 1 \"Invoked\" monster you control or in your GY; banish it, also all monsters your opponent controls with the same Attribute as that monster (if any).",
     "author": "gallantron",
     "lastPrint": "2020-07-24",
-    "lastUpdated": "2021-07-04",
+    "lastUpdated": "2021-09-12",
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8157&request_locale=ja",
@@ -296,6 +296,12 @@
         "title": "Q&A #9671",
         "date": "2021-07-04",
         "desc": "In the Official Card Game, Invoked Elysium's activated effect will banish any appropriate monsters on the opponent's field, even if the targeted \"Invoked\" monster cannot be banished."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20235&request_locale=ja",
+        "title": "Q&A #20235",
+        "date": "2021-09-12",
+        "desc": "In the Official Card Game, Invoked Elysium's effect can be activated even if the opponent controls no face-up monsters."
       }
     ]
   },
