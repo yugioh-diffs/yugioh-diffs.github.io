@@ -6118,5 +6118,23 @@
         "desc": "In the Official Card Game, Pyro Clock of Destiny only advances the turn count of one effect, rather than \"the turn count\" of the Duel."
       }
     ]
+  },
+  {
+    "id": 10950,
+    "icon": "spell",
+    "name": "Ghostrick Museum",
+    "oldText": "Monsters you control, except \"Ghostrick\" monsters, cannot attack. Monsters cannot attack face-down Defense Position monsters, but can attack directly if all monsters their opponent controls are face-down Defense Position. At the end of the Damage Step, change any monster that inflicted battle damage to a player during this battle to face-down Defense Position.",
+    "newText": "Monsters you control, except \"Ghostrick\" monsters, cannot attack. Monsters cannot attack face-down Defense Position monsters, but can attack directly if all monsters their opponent controls are face-down Defense Position. At the end of the Damage Step, if a monster inflicted battle damage to a player during this battle: Change that monster(s) to face-down Defense Position.",
+    "author": "gallantron",
+    "lastPrint": "2014-08-29",
+    "lastUpdated": "2021-09-13",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10950&request_locale=ja",
+        "title": "Card FAQ – Ghostrick Museum",
+        "date": "2021-09-13",
+        "desc": "In the Official Card Game, the effect of Ghostrick Museum that changes monsters to face-down Defense Position is an activated effect."
+      }
+    ]
   }
 ]
