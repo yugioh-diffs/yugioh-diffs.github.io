@@ -6154,5 +6154,23 @@
         "desc": "In the Official Card Game, Armed Dragon Thunderbolt prevents the targeted monster from inflicting Battle Damage through any means, not only when it attacks.\nFor example, if an opponent's monster with lower ATK attacks the targeted monster, the opponent would take no Battle Damage in the Official Card Game."
       }
     ]
+  },
+  {
+    "id": 6598,
+    "icon": "effect",
+    "name": "Silent Insect",
+    "oldText": "This card is changed to Defense Position when it is Normal Summoned or Flip Summoned. Negate the effects of all Continuous Spell Cards and Continuous Trap Cards.",
+    "newText": "If this card is Normal or Flip Summoned: Change this card to Defense Position. Negate the effects on the field of Continuous Spells/Traps.",
+    "author": "gallantron",
+    "lastPrint": "2007-11-14",
+    "lastUpdated": "2021-09-14",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6598&request_locale=ja",
+        "title": "Card FAQ – Silent Insect",
+        "date": "2021-09-14",
+        "desc": "In the Official Card Game, Silent Insect's effect only negates the effects of Spell/Trap cards that are activated or applied on the field."
+      }
+    ]
   }
 ]
