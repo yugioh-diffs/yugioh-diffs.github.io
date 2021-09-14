@@ -216,6 +216,7 @@ body.has-data #about, body:not(.has-data) #data { display: none; }
     
     font-family: Monospace;
     font-size: 12px;
+    text-align: justify;
 }
     
 
@@ -411,7 +412,7 @@ body.has-data #about, body:not(.has-data) #data { display: none; }
 #controls:hover
 {
 	width: 200px;
-	height: 30px;
+	height: 50px;
 }
 
 #controls-container
@@ -421,7 +422,7 @@ body.has-data #about, body:not(.has-data) #data { display: none; }
 	bottom: 5px;
 
 	width: 180px;
-	height: 18px;
+	height: 38px;
 	opacity: 0;
 	
 	display: flex;
@@ -436,6 +437,8 @@ body.has-data #about, body:not(.has-data) #data { display: none; }
 	display: flex;
 	flex-direction: row;
 }
+.controls-row + .controls-row { margin-top: 3px; }
+
 .controls-label
 {
 }

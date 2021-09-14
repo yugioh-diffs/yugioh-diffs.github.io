@@ -42,10 +42,44 @@ let loadText = ((oldContainer, newContainer, oldText, newText) =>
     }
 });
 
-let currentEntry = undefined;
-let loadEntry = ((entry) =>
+let rewriteURL = ((url, linkMode) =>
 {
-    if (currentEntry === entry)
+    if (url.hostname !== 'www.db.yugioh-card.com')
+        return url;
+    const params = url.searchParams;
+    switch (url.pathname)
+    {
+        case '/yugiohdb/card_search.action':
+            switch (params.get('ope'))
+            {
+                case '2':
+                    const cid = parseInt(params.get('cid'));
+                    const locale = params.get('request_locale');
+                    if (cid && locale && (locale.length === 2))
+                        return new URL('https://db.ygorganization.com/card#'+cid+':'+locale);
+            }
+            break;
+        case '/yugiohdb/faq_search.action':
+            switch (params.get('ope'))
+            {
+                case '4':
+                    const cid = parseInt(params.get('cid'));
+                    if (cid)
+                        return new URL('https://db.ygorganization.com/card#'+cid);
+                case '5':
+                    const fid = parseInt(params.get('fid'));
+                    if (fid)
+                        return new URL('https://db.ygorganization.com/qa#'+fid);
+            }
+            break;
+    }
+    return url;
+});
+
+let currentEntry = undefined;
+let loadEntry = ((entry, force) =>
+{
+    if (!force && (currentEntry === entry))
         return;
 
     currentEntry = entry;
@@ -66,6 +100,8 @@ let loadEntry = ((entry) =>
     
     loadText(document.getElementById('current-text'), document.getElementById('proposed-text'), entry.oldText, entry.newText);
     
+    let linkMode = (window.localStorage.getItem('linkMode') || 'konami');
+    
     const extraInfoEntries = document.getElementById('data-extra-info-entries');
     removeAllChildren(extraInfoEntries);
     let i = -1;
@@ -77,6 +113,9 @@ let loadEntry = ((entry) =>
         let url = null;
         try { url = new URL(reference.url); }
         catch (e) {}
+        
+        if (url && (linkMode !== 'konami'))
+            url = rewriteURL(url, linkMode);
         
         const extraInfoEntry = makeElement('div', extraInfoEntries, 'data-extra-info-entry');
         makeElement('div', extraInfoEntry, 'data-extra-info-number').innerText = ('('+String.fromCharCode(0x2160+i)+')');
@@ -200,6 +239,25 @@ document.addEventListener('DOMContentLoaded', async () =>
 			btn.classList.add('selected');
 		});
 	}
+    
+    let currentLinkMode = (window.localStorage.getItem('linkMode') || 'konami');
+    for (const btn of document.querySelectorAll('.control-button[data-link-mode]'))
+    {
+        const thisMode = btn.dataset.linkMode;
+        if (thisMode === currentLinkMode)
+            btn.classList.add('selected');
+        btn.addEventListener('click', () =>
+        {
+            if (thisMode === (window.localStorage.getItem('linkMode') || 'konami'))
+                return;
+        
+            document.querySelectorAll('.control-button[data-link-mode].selected').forEach((b) => b.classList.remove('selected'));
+            
+            window.localStorage.setItem('linkMode', thisMode);
+            loadEntry(currentEntry, true);
+            btn.classList.add('selected');
+        });
+    }
     
     const hashchange = (() =>
     {
