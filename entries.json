@@ -6136,5 +6136,23 @@
         "desc": "In the Official Card Game, the effect of Ghostrick Museum that changes monsters to face-down Defense Position is an activated effect."
       }
     ]
+  },
+  {
+    "id": 15758,
+    "icon": "trap",
+    "name": "Armed Dragon Thunderbolt",
+    "oldText": "Target 1 \"Armed Dragon\" monster you control; it gains 1000 ATK for each \"Armed Dragon\" monster in your GY with an equal or lower Level than it and with different names from each other, also for the rest of this turn, your opponent takes no battle damage from its attacks. You can banish this card from your GY, then target 1 \"Armed Dragon\" Spell in your GY; add it to your hand. You can only use 1 \"Armed Dragon Thunderbolt\" effect per turn, and only once that turn.",
+    "newText": "Target 1 \"Armed Dragon\" monster you control; it gains 1000 ATK for each \"Armed Dragon\" monster in your GY with an equal or lower Level than it and with different names from each other, but for the rest of this turn, it cannot inflict Battle Damage to your opponent. You can banish this card from your GY, then target 1 \"Armed Dragon\" Spell in your GY; add it to your hand. You can only use 1 \"Armed Dragon Thunderbolt\" effect per turn, and only once that turn.",
+    "author": "gallantron",
+    "lastPrint": "2021-02-05",
+    "lastUpdated": "2021-09-14",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15758&request_locale=ja",
+        "title": "Armed Dragon Thunderbolt",
+        "date": "2021-09-14",
+        "desc": "In the Official Card Game, Armed Dragon Thunderbolt prevents the targeted monster from inflicting Battle Damage through any means, not only when it attacks.\nFor example, if an opponent's monster with lower ATK attacks the targeted monster, the opponent would take no Battle Damage in the Official Card Game."
+      }
+    ]
   }
 ]
