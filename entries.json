@@ -6310,5 +6310,53 @@
         "desc": "For example, in the Official Card Game, if the opponent activates the effect of your Harpies' Hunting Ground and destroys your The Grand Spellbook Tower, the effect of that The Grand Spellbook Tower can then be activated."
       }
 	]
+  },
+  {
+    "id": 10424,
+    "icon": "spell",
+    "name": "Quick Booster",
+    "oldText": "Target 1 Quick-Play Spell in your GY, except \"Quick Booster\"; shuffle that target into the Deck. If this card you control is destroyed by your opponent's card and sent to your GY: You can add 1 Quick-Play Spell from your Deck to your hand, except \"Quick Booster\".",
+    "newText": "Target 1 Quick-Play Spell in your GY, except \"Quick Booster\"; shuffle that target into the Deck. If this card you control is destroyed by your opponent and sent to your GY: You can add 1 Quick-Play Spell from your Deck to your hand, except \"Quick Booster\".",
+    "author": "gallantron",
+    "lastPrint": "2018-05-25",
+    "lastUpdated": "2021-09-28",
+    "references": [
+	  {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10424&request_locale=ja",
+        "title": "Quick Booster",
+        "date": "2021-09-28",
+        "desc": "In the Official Card Game, the effect of a destroyed Quick Booster can be activated if it was destroyed the opponent."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6207&request_locale=en",
+        "title": "Harpies' Hunting Ground",
+        "date": "2021-09-28",
+        "desc": "For example, in the Official Card Game, if the opponent activates the effect of your Harpies' Hunting Ground and destroys your Quick Booster, the effect of that Quick Booster can then be activated."
+      }
+	]
+  },
+  {
+    "id": 11103,
+    "icon": "trap",
+    "name": "Ghostrick Night",
+    "oldText": "While a \"Ghostrick\" monster is on the field, your opponent cannot Flip Summon. When this card in your possession is destroyed by your opponent's card and sent to your Graveyard: Your opponent cannot declare attacks for the rest of this turn.",
+    "newText": "While a \"Ghostrick\" monster is on the field, your opponent cannot Flip Summon. If this card in your possession is destroyed by your opponent and sent to your GY: Your opponent cannot declare attacks for the rest of this turn.",
+    "author": "gallantron",
+    "lastPrint": "2014-05-16",
+    "lastUpdated": "2021-09-28",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11103&request_locale=ja",
+        "title": "Ghostrick Night",
+        "date": "2021-09-28",
+        "desc": "In the Official Card Game, the effect of a destroyed Ghostrick Night can be activated if it was destroyed the opponent."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6207&request_locale=en",
+        "title": "Harpies' Hunting Ground",
+        "date": "2021-09-28",
+        "desc": "For example, in the Official Card Game, if the opponent activates the effect of your Harpies' Hunting Ground and destroys your Ghostrick Night, the effect of that Ghostrick Night can then be activated."
+      }
+	]
   }
 ]
