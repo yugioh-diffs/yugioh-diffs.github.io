@@ -6190,5 +6190,29 @@
         "desc": "In the Official Card Game, the Continuous Effect of Ido the Supreme Magical Force also prevents its controller from Normal Setting monsters, not just Summoning them.\nIn particular, note that the Japanese 通常召喚, which literally translates to \"Normal Summon\", is the OCG equivalent of the TCG's \"Normal Summon or Set\".\nThe OCG equivalent to \"Normal Summon (but not Set)\" would be just 召喚."
       }
     ]
+  },
+  {
+    "id": 6207,
+    "icon": "spell",
+    "name": "Harpies' Hunting Ground",
+    "oldText": "All Winged Beast monsters gain 200 ATK/DEF. If any \"Harpie Lady\" or \"Harpie Lady Sisters\" is Normal or Special Summoned: The player who conducted the Summon targets 1 Spell/Trap on the field; that player destroys that target.",
+    "newText": "All Winged Beast monsters gain 200 ATK/DEF. If any \"Harpie Lady\" or \"Harpie Lady Sisters\" is Normal or Special Summoned: The player who conducted the Summon activates this effect by targeting 1 Spell/Trap on the field; they destroy it.",
+    "author": "gallantron",
+    "lastPrint": "2021-01-22",
+    "lastUpdated": "2021-09-28",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6207&request_locale=ja",
+        "title": "Card FAQ – Harpies' Hunting Ground",
+        "date": "2021-09-28",
+        "desc": "In the Official Card Game, the effect of Harpies' Hunting Ground is activated by the player that conducted the Summon."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6207&request_locale=ja",
+        "title": "Harpies' Hunting Ground",
+        "date": "2021-09-28",
+        "desc": "In the Official Card Game, the targeted card is still destroyed if it is no longer a Spell/Trap at resolution."
+      }
+    ]
   }
 ]
