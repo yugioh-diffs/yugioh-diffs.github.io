@@ -6262,5 +6262,53 @@
         "desc": "For example, in the Official Card Game, if the opponent activates the effect of your Harpies' Hunting Ground and destroys your Artifacts Unleashed, the effect of that Artifacts Unleashed can then be activated."
       }
 	]
+  },
+  {
+    "id": 11101,
+    "icon": "trap",
+    "name": "Artifact Sanctum",
+    "oldText": "Special Summon 1 \"Artifact\" monster from your Deck. If this card in its owner's possession is destroyed by an opponent's card: You can target 1 card on the field; destroy that target. You can only activate 1 \"Artifact Sanctum\" per turn. You cannot conduct your Battle Phase the turn you activate this card.",
+    "newText": "Special Summon 1 \"Artifact\" monster from your Deck. If this card in your possession is destroyed by your opponent: You can target 1 card on the field; destroy that target. You can only activate 1 \"Artifact Sanctum\" per turn. You cannot conduct your Battle Phase the turn you activate this card.",
+    "author": "gallantron",
+    "lastPrint": "2020-07-24",
+    "lastUpdated": "2021-09-28",
+    "references": [
+	  {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11101&request_locale=ja",
+        "title": "Artifact Sanctum",
+        "date": "2021-09-28",
+        "desc": "In the Official Card Game, the effect of a destroyed Artifact Sanctum can be activated if it was destroyed the opponent."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6207&request_locale=en",
+        "title": "Harpies' Hunting Ground",
+        "date": "2021-09-28",
+        "desc": "For example, in the Official Card Game, if the opponent activates the effect of your Harpies' Hunting Ground and destroys your Artifact Sanctum, the effect of that Artifact Sanctum can then be activated."
+      }
+	]
+  },
+  {
+    "id": 10282,
+    "icon": "spell",
+    "name": "The Grand Spellbook Tower",
+    "oldText": "Once per turn, during your Standby Phase, if you have a Spellcaster-Type monster on your side of the field or in your Graveyard: You can place 1 \"Spellbook\" Spell Card from your Graveyard on the bottom of your Deck, except \"The Grand Spellbook Tower\", then draw 1 card. When this card in your possession is destroyed by your opponent's card and sent to your Graveyard: You can Special Summon 1 Spellcaster-Type monster from your hand or Deck whose Level is less than or equal to the number of \"Spellbook\" Spell Cards in your Graveyard.",
+    "newText": "Once per turn, during your Standby Phase, if you have a Spellcaster monster on your side of the field or in your GY: You can place 1 \"Spellbook\" Spell Card from your GY on the bottom of your Deck, except \"The Grand Spellbook Tower\", then draw 1 card. When this card in your possession is destroyed by your opponent and sent to your GY: You can Special Summon 1 Spellcaster monster from your hand or Deck whose Level is less than or equal to the number of \"Spellbook\" Spell Cards in your GY.",
+    "author": "gallantron",
+    "lastPrint": "2015-03-20",
+    "lastUpdated": "2021-09-28",
+    "references": [
+	  {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10282&request_locale=ja",
+        "title": "The Grand Spellbook Tower",
+        "date": "2021-09-28",
+        "desc": "In the Official Card Game, the effect of a destroyed The Grand Spellbook Tower can be activated if it was destroyed the opponent."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6207&request_locale=en",
+        "title": "Harpies' Hunting Ground",
+        "date": "2021-09-28",
+        "desc": "For example, in the Official Card Game, if the opponent activates the effect of your Harpies' Hunting Ground and destroys your The Grand Spellbook Tower, the effect of that The Grand Spellbook Tower can then be activated."
+      }
+	]
   }
 ]
