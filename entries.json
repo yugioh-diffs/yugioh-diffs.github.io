@@ -6214,5 +6214,53 @@
         "desc": "In the Official Card Game, the targeted card is still destroyed if it is no longer a Spell/Trap at resolution."
       }
     ]
+  },
+  {
+    "id": 11089,
+    "icon": "spell",
+    "name": "Artifact Ignition",
+    "oldText": "If you have an \"Artifact\" monster in your Deck: Target 1 Spell/Trap on the field; destroy that target, and if you do, Set 1 \"Artifact\" monster from your Deck to your Spell & Trap Zone as a Spell. If this card in its owner's possession is destroyed by an opponent's card: Your opponent skips their next Battle Phase.",
+    "newText": "Target 1 Spell/Trap on the field; destroy that target, and if you do, Set 1 \"Artifact\" monster from your Deck to your Spell & Trap Zone as a Spell. If this card in your possession is destroyed by your opponent: Your opponent skips their next Battle Phase.",
+    "author": "gallantron",
+    "lastPrint": "2020-07-24",
+    "lastUpdated": "2021-09-28",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11089&request_locale=ja",
+        "title": "Artifact Ignition",
+        "date": "2021-09-28",
+        "desc": "In the Official Card Game, the effect of a destroyed Artifact Ignition can be activated if it was destroyed the opponent."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6207&request_locale=en",
+        "title": "Harpies' Hunting Ground",
+        "date": "2021-09-28",
+        "desc": "For example, in the Official Card Game, if the opponent activates the effect of your Harpies' Hunting Ground and destroys your Artifact Ignition, the effect of that Artifact Ignition can then be activated."
+      }
+    ]
+  },
+  {
+    "id": 11090,
+    "icon": "spell",
+    "name": "Artifacts Unleashed",
+    "oldText": "Target 2 \"Artifact\" monsters you control; immediately after this effect resolves, Xyz Summon 1 Xyz Monster using those 2 monsters only, also for the rest of this turn after this card resolves, monsters you control cannot attack, except \"Artifact\" monsters. If this card in its owner's possession is destroyed by an opponent's card: You can reveal 1 Level 5 LIGHT monster from your hand; draw 1 card.",
+    "newText": "Target 2 \"Artifact\" monsters you control; immediately after this effect resolves, Xyz Summon 1 Xyz Monster using those 2 monsters only, also for the rest of this turn after this card resolves, monsters you control cannot attack, except \"Artifact\" monsters. If this card in your possession is destroyed by your opponent: You can reveal 1 Level 5 LIGHT monster from your hand; draw 1 card.",
+    "author": "gallantron",
+    "lastPrint": "2015-09-18",
+    "lastUpdated": "2021-09-28",
+    "references": [
+	  {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11090&request_locale=ja",
+        "title": "Artifacts Unleashed",
+        "date": "2021-09-28",
+        "desc": "In the Official Card Game, the effect of a destroyed Artifacts Unleashed can be activated if it was destroyed the opponent."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6207&request_locale=en",
+        "title": "Harpies' Hunting Ground",
+        "date": "2021-09-28",
+        "desc": "For example, in the Official Card Game, if the opponent activates the effect of your Harpies' Hunting Ground and destroys your Artifacts Unleashed, the effect of that Artifacts Unleashed can then be activated."
+      }
+	]
   }
 ]
