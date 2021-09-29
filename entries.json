@@ -6358,5 +6358,23 @@
         "desc": "For example, in the Official Card Game, if the opponent activates the effect of your Harpies' Hunting Ground and destroys your Ghostrick Night, the effect of that Ghostrick Night can then be activated."
       }
 	]
+  },
+  {
+    "id": 7721,
+    "icon": "effect",
+    "name": "Destructotron",
+    "oldText": "During the End Phase, if this card is the only Psychic-Type monster you control: Destroy it. You can pay 1000 LP, then target 1 Set Spell/Trap Card your opponent controls; destroy that target.",
+    "newText": "During the End Phase, if you control no other Psychic monsters: Destroy this card. You can pay 1000 LP, then target 1 Set Spell/Trap your opponent controls; destroy that target.",
+    "author": "gallantron",
+    "lastPrint": "2014-08-01",
+    "lastUpdated": "2021-09-29",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7721&request_locale=ja",
+        "title": "Destructotron",
+        "date": "2021-09-29",
+        "desc": "In the Official Card Game, the effect of Destructotron must be activated during the End Phase even if Destructotron itself is not a Psychic monster."
+      }
+    ]
   }
 ]
