@@ -6376,5 +6376,41 @@
         "desc": "In the Official Card Game, the effect of Destructotron must be activated during the End Phase even if Destructotron itself is not a Psychic monster."
       }
     ]
+  },
+  {
+    "id": 14353,
+    "icon": "effect",
+    "name": "Time Thief Winder",
+    "oldText": "You can detach 1 material from an Xyz Monster you control; Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 \"Time Thief\" card from your Deck to your hand, except \"Time Thief Winder\". You can only use each effect of \"Time Thief Winder\" once per turn.",
+    "newText": "You can detach 1 material from a monster you control; Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 \"Time Thief\" card from your Deck to your hand, except \"Time Thief Winder\". You can only use each effect of \"Time Thief Winder\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2021-04-16",
+    "lastUpdated": "2021-10-02",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14353&request_locale=ja",
+        "title": "Card FAQ – Time Thief Winder",
+        "date": "2021-10-02",
+        "desc": "In the Official Card Game, the effect of Time Thief Winder can be activated by detaching a material from a face-down monster you control."
+      }
+    ]
+  },
+  {
+    "id": 14354,
+    "icon": "effect",
+    "name": "Time Thief Bezel Ship",
+    "oldText": "(Quick Effect): You can Tribute this card, then target 1 \"Time Thief\" Xyz Monster you control; attach 1 card from your opponent's GY to that monster as material. If this card is in the GY: You can detach 1 material from an Xyz Monster you control; Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Time Thief Bezel Ship\" once per turn.",
+    "newText": "(Quick Effect): You can Tribute this card, then target 1 \"Time Thief\" Xyz Monster you control; attach 1 card from your opponent's GY to that monster as material. If this card is in the GY: You can detach 1 material from a monster you control; Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Time Thief Bezel Ship\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2021-04-16",
+    "lastUpdated": "2021-10-02",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14354&request_locale=ja",
+        "title": "Card FAQ – Time Thief Bezel Ship",
+        "date": "2021-10-02",
+        "desc": "In the Official Card Game, the effect of Time Thief Bezel Ship can be activated by detaching a material from a face-down monster you control."
+      }
+    ]
   }
 ]
