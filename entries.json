@@ -6412,5 +6412,23 @@
         "desc": "In the Official Card Game, the effect of Time Thief Bezel Ship can be activated by detaching a material from a face-down monster you control."
       }
     ]
+  },
+  {
+    "id": 6287,
+    "icon": "effect",
+    "name": "Vampire's Curse",
+    "oldText": "When this card is destroyed by battle and sent to the Graveyard: You can pay 500 Life Points; Special Summon it during the Standby Phase of the next turn. When you do: It gains 500 ATK.",
+    "newText": "Once per turn, during the Standby Phase of the next turn after this card was destroyed by battle and sent to the GY: You can pay 500 Life Points; Special Summon this card from the GY. If you do: It gains 500 ATK.",
+    "author": "gallantron",
+    "lastPrint": "2013-10-11",
+    "lastUpdated": "2021-10-02",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6287&request_locale=ja",
+        "title": "Card FAQ – Vampire's Curse",
+        "date": "2021-10-02",
+        "desc": "In the Official Card Game, the effect of Vampire's Curse that Special Summons it does not activate immediately upon its destruction by battle. Instead, it activates during the Standby Phase of the next turn."
+      }
+    ]
   }
 ]
