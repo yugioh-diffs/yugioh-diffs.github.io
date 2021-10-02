@@ -1,0 +1,73 @@
+html, body { margin: 0; height: 100%; width: 100%; }
+body { background: #ccc; font-family: Verdana, Geneva, sans-serif; }
+
+body
+{
+    display: flex;
+    flex-direction: column;
+}
+
+body:not(.has-id) > :not(#card-id) { display: none; }
+
+#card-id
+{
+    margin: 10px;
+    width: 50%;
+    align-self: flex-start;
+}
+
+#operations
+{
+    margin-top: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#diff-on { margin-left: 10px; }
+#diff-off { margin-left: 5px; }
+#diff-clear { margin-left: 20px; }
+
+#texts
+{
+    display: flex;
+    flex-direction: row;
+}
+
+#texts > div
+{
+    flex-basis: 0;
+    flex-grow: 1;
+    margin: 10px;
+    
+    background: #eee;
+    
+    border: 1px solid #777;
+    border-radius: 5px;
+    
+    padding: 5px;
+    
+    font-family: Monospace;
+    font-size: 12px;
+    white-space: pre-wrap;
+}
+
+.deletion-word
+{
+    background: #fcc;
+    text-decoration: line-through;
+}
+.deletion { background: #f66; }
+.addition-word
+{
+    background: #cfc;
+    text-decoration: underline;
+}
+.addition { background: #6f6; }
+
+#output-json
+{
+    margin: 15px 10px;
+    flex-grow: 1;
+}
+

@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="x-ua-compatible" content="ie=edge" />
+        <meta name="viewport" content="width=1000, initial-scale=1" />
+        
+        <title>Product Error Edit Tool</title>
+
+        <link rel="stylesheet" href="customdiff.css" />
+        <script defer src="dep/diff.js"></script>
+        <script defer src="customdiff.js"></script>
+    </head>
+    
+    <body>
+        <input type="text" id="card-id" placeholder="Card ID or link (e.g., 'https://db.ygorganization.com/card#10922')" />
+        <div id="operations">
+            <span>Set selection as diff:</span>
+            <button id="diff-on">On</button>
+            <button id="diff-off">Off</button>
+            <button id="diff-clear">Clear All</button>
+        </div>
+        <div id="texts">
+            <div id="old-text"></div>
+            <div id="new-text"></div>
+        </div>
+        <textarea readonly id="output-json"></textarea>
+    </body>
+</html>

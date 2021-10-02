@@ -5745,6 +5745,15 @@
         "date": "2021-08-21",
         "desc": "In the Official Card Game, even if the targeted monster's name is no longer \"Buster Blader\" by the time the effect of Dragon Buster Destruction Sword resolves, it will still be equipped to the targeted monster."
       }
+    ],
+    "customDiffData": [
+      92,
+      [
+        11,
+        12,
+        true
+      ],
+      275
     ]
   },
   {

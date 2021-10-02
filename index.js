@@ -23,21 +23,43 @@ let convertDate = ((d) =>
     return (str.substr(8,3) + str.substr(4,4) + str.substr(11));
 });
 
-let loadText = ((oldContainer, newContainer, oldText, newText) =>
+let loadText = ((oldContainer, newContainer, oldText, newText, customDiffData) =>
 {
     removeAllChildren(oldContainer);
     removeAllChildren(newContainer);
-    const diffResult = window.diff(oldText, newText);
-    for (const [whose, part] of diffResult)
+    
+    if (customDiffData)
     {
-        if (whose < 0)
-            makeElement('span', oldContainer, 'deletion-word').innerText = part;
-        else if (whose > 0)
-            makeElement('span', newContainer, 'addition-word').innerText = part;
-        else
+        let posOld = 0, posNew = 0;
+        for (let entry of customDiffData)
         {
-            makeElement('span', oldContainer, null).innerText = part;
-            makeElement('span', newContainer, null).innerText = part;
+            if (typeof(entry) === "number")
+                entry = [entry, entry, false];
+            const [numOld, numNew, isDiff] = entry;
+            
+            if (numOld)
+                makeElement('span', oldContainer, isDiff && 'deletion-word').innerText = oldText.substr(posOld, numOld);
+            if (numNew)
+                makeElement('span', newContainer, isDiff && 'addition-word').innerText = newText.substr(posNew, numNew);
+            
+            posOld += numOld;
+            posNew += numNew;
+        }
+    }
+    else
+    {
+        const diffResult = window.diff(oldText, newText);
+        for (const [whose, part] of diffResult)
+        {
+            if (whose < 0)
+                makeElement('span', oldContainer, 'deletion-word').innerText = part;
+            else if (whose > 0)
+                makeElement('span', newContainer, 'addition-word').innerText = part;
+            else
+            {
+                makeElement('span', oldContainer, null).innerText = part;
+                makeElement('span', newContainer, null).innerText = part;
+            }
         }
     }
 });
@@ -98,7 +120,13 @@ let loadEntry = ((entry, force) =>
     document.getElementById('data-name').innerText = entry.name;
     document.title = (entry.name + ' – Yu-Gi-Oh! TCG Product Errors');
     
-    loadText(document.getElementById('current-text'), document.getElementById('proposed-text'), entry.oldText, entry.newText);
+    loadText(
+        document.getElementById('current-text'),
+        document.getElementById('proposed-text'),
+        entry.oldText,
+        entry.newText,
+        entry.customDiffData,
+    );
     
     let linkMode = (window.localStorage.getItem('linkMode') || 'konami');
     
