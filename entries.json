@@ -92,7 +92,7 @@
     ],
     "name": "Capricious Darklord",
     "lastUpdated": "2020-11-13",
-    "lastPrint": "2020-08-07",
+    "lastPrint": "2021-10-01",
     "icon": "effect"
   },
   {
@@ -320,7 +320,7 @@
     ],
     "name": "Odd-Eyes Revolution Dragon",
     "lastUpdated": "2020-08-26",
-    "lastPrint": "2020-08-07",
+    "lastPrint": "2021-10-01",
     "icon": "pen_effect"
   },
   {
@@ -476,7 +476,7 @@
     ],
     "name": "Dogmatika Nation",
     "lastUpdated": "2020-07-27",
-    "lastPrint": "2020-08-07",
+    "lastPrint": "2021-10-01",
     "icon": "spell"
   },
   {
@@ -2178,7 +2178,7 @@
     "oldText": "You can pay 1500 LP; destroy all monsters on the field that were Special Summoned from the Extra Deck, also you can only attack with 1 monster this turn. You can only use each of the following effects of \"Gizmek Okami, the Dreaded Deluge Dragon\" once per turn. If 2 or more monsters Special Summoned from the Extra Deck are on the field: You can Special Summon this card from your hand. If this card in your possession is sent to your GY by an opponent's card: You can banish 1 monster from your opponent's GY, then gain LP equal to its ATK.",
     "newText": "You can pay 1500 LP; destroy all monsters on the field that were Special Summoned from the Extra Deck, also you can only attack with 1 monster this turn. You can only use each of the following effects of \"Gizmek Okami, the Dreaded Deluge Dragon\" once per turn. If 2 or more monsters Special Summoned from the Extra Deck are on the field: You can Special Summon this card from your hand. If this card in your possession is sent to your GY by your opponent: You can banish 1 monster from your opponent's GY, then gain LP equal to its ATK.",
     "author": "gallantron",
-    "lastPrint": "2020-08-07",
+    "lastPrint": "2021-10-01",
     "lastUpdated": "2020-12-30",
     "references": [
       {
@@ -2718,7 +2718,7 @@
     "oldText": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 3 monsters. You can only use each of the following effects of \"Raviel, Lord of Phantasms - Shimmering Scraper\" once per turn.\n●(Quick Effect): You can discard this card and target 1 \"Raviel, Lord of Phantasms\" you control; for the rest of this turn, its ATK becomes double its current ATK, also it can attack all monsters your opponent controls once each.\n●If this card is in your GY: You can Tribute 1 monster; add this card to your hand.",
     "newText": "(This card is not treated as a \"Scrap\" card.)\nCannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 3 monsters. You can only use each of the following effects of \"Raviel, Lord of Phantasms - Shimmering Scraper\" once per turn.\n●(Quick Effect): You can discard this card and target 1 \"Raviel, Lord of Phantasms\" you control; for the rest of this turn, its ATK becomes double its current ATK, also it can attack all monsters your opponent controls once each.\n●If this card is in your GY: You can Tribute 1 monster; add this card to your hand.",
     "author": "gallantron",
-    "lastPrint": "2020-07-10",
+    "lastPrint": "2021-10-01",
     "lastUpdated": "2021-01-11",
     "references": [
       {
@@ -5478,7 +5478,7 @@
     "oldText": "When your opponent activates a monster effect in their hand or GY, or when your opponent's banished monster effect is activated: Negate its effect, and if you do, inflict 2000 damage to your opponent.",
     "newText": "(This card is not treated as a \"Trap Hole\" card, but is still treated as a \"Hole\" card.)\nWhen your opponent activates a monster effect in their hand or GY, or when your opponent's banished monster effect is activated: Negate its effect, and if you do, inflict 2000 damage to your opponent.",
     "author": "gallantron",
-    "lastPrint": "2020-05-01",
+    "lastPrint": "2021-10-01",
     "lastUpdated": "2021-08-10",
     "references": [
       {
@@ -6249,7 +6249,7 @@
     "lastPrint": "2015-09-18",
     "lastUpdated": "2021-09-28",
     "references": [
-	  {
+      {
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11090&request_locale=ja",
         "title": "Artifacts Unleashed",
         "date": "2021-09-28",
@@ -6261,7 +6261,7 @@
         "date": "2021-09-28",
         "desc": "For example, in the Official Card Game, if the opponent activates the effect of your Harpies' Hunting Ground and destroys your Artifacts Unleashed, the effect of that Artifacts Unleashed can then be activated."
       }
-	]
+    ]
   },
   {
     "id": 11101,
@@ -6273,7 +6273,7 @@
     "lastPrint": "2020-07-24",
     "lastUpdated": "2021-09-28",
     "references": [
-	  {
+      {
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11101&request_locale=ja",
         "title": "Artifact Sanctum",
         "date": "2021-09-28",
@@ -6285,7 +6285,7 @@
         "date": "2021-09-28",
         "desc": "For example, in the Official Card Game, if the opponent activates the effect of your Harpies' Hunting Ground and destroys your Artifact Sanctum, the effect of that Artifact Sanctum can then be activated."
       }
-	]
+    ]
   },
   {
     "id": 10282,
@@ -6297,7 +6297,7 @@
     "lastPrint": "2015-03-20",
     "lastUpdated": "2021-09-28",
     "references": [
-	  {
+      {
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10282&request_locale=ja",
         "title": "The Grand Spellbook Tower",
         "date": "2021-09-28",
@@ -6309,7 +6309,7 @@
         "date": "2021-09-28",
         "desc": "For example, in the Official Card Game, if the opponent activates the effect of your Harpies' Hunting Ground and destroys your The Grand Spellbook Tower, the effect of that The Grand Spellbook Tower can then be activated."
       }
-	]
+    ]
   },
   {
     "id": 10424,
@@ -6321,7 +6321,7 @@
     "lastPrint": "2018-05-25",
     "lastUpdated": "2021-09-28",
     "references": [
-	  {
+      {
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10424&request_locale=ja",
         "title": "Quick Booster",
         "date": "2021-09-28",
@@ -6333,7 +6333,7 @@
         "date": "2021-09-28",
         "desc": "For example, in the Official Card Game, if the opponent activates the effect of your Harpies' Hunting Ground and destroys your Quick Booster, the effect of that Quick Booster can then be activated."
       }
-	]
+    ]
   },
   {
     "id": 11103,
@@ -6357,7 +6357,7 @@
         "date": "2021-09-28",
         "desc": "For example, in the Official Card Game, if the opponent activates the effect of your Harpies' Hunting Ground and destroys your Ghostrick Night, the effect of that Ghostrick Night can then be activated."
       }
-	]
+    ]
   },
   {
     "id": 7721,
