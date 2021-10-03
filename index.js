@@ -12,9 +12,9 @@ let removeAllChildren = ((e) => { while (e.lastChild) e.removeChild(e.lastChild)
 
 let diffToggled = (() =>
 {
-    document.getElementById('data-texts').classList.toggle('highlight-diff',
-        document.getElementById('data-show-diff').checked
-    );
+    const state = document.getElementById('data-show-diff').checked;
+    window.localStorage.setItem('showDiff', state ? 'true' : 'false');
+    document.getElementById('data-texts').classList.toggle('highlight-diff', state);
 });
 
 let convertDate = ((d) =>
@@ -169,6 +169,7 @@ let loadEntry = ((entry, force) =>
 
 document.addEventListener('DOMContentLoaded', async () =>
 {
+    document.getElementById('data-show-diff').checked = (window.localStorage.getItem('showDiff') === 'true');
     document.getElementById('data-show-diff').addEventListener('change', diffToggled);
     diffToggled();
     

@@ -303,6 +303,29 @@
         "date": "2021-09-12",
         "desc": "In the Official Card Game, Invoked Elysium's effect can be activated even if the opponent controls no face-up monsters."
       }
+    ],
+    "customDiffData": [
+      [
+        335,
+        334,
+        false
+      ],
+      [
+        3,
+        6,
+        true
+      ],
+      77,
+      [
+        0,
+        8,
+        true
+      ],
+      [
+        0,
+        1,
+        false
+      ]
     ]
   },
   {
@@ -6000,6 +6023,23 @@
         "date": "2021-09-08",
         "desc": "In the Official Card Game, Cloudian - Poison Cloud's effect must be activated even if it was face-down at the start of the Damage Step."
       }
+    ],
+    "customDiffData": [
+      [
+        63,
+        146,
+        false
+      ],
+      [
+        51,
+        0,
+        true
+      ],
+      [
+        92,
+        0,
+        false
+      ]
     ]
   },
   {
@@ -6018,6 +6058,23 @@
         "date": "2021-09-08",
         "desc": "In the Official Card Game, only monsters that are banished in your possession can be targeted to activate Dimension Distortion."
       }
+    ],
+    "customDiffData": [
+      [
+        80,
+        40,
+        false
+      ],
+      [
+        27,
+        27,
+        true
+      ],
+      [
+        49,
+        20,
+        false
+      ]
     ]
   },
   {
@@ -6054,6 +6111,23 @@
         "date": "2021-09-08",
         "desc": "In the Official Card Game, Fushioh Richie must be Summoned using the effect of \"Great Dezard\".\n(It cannot be manually Special Summoned from the hand or Deck, without starting a chain, by Tributing \"Great Dezard\".)"
       }
+    ],
+    "customDiffData": [
+      [
+        111,
+        62,
+        false
+      ],
+      [
+        62,
+        17,
+        true
+      ],
+      [
+        351,
+        295,
+        false
+      ]
     ]
   },
   {
@@ -6072,6 +6146,23 @@
         "date": "2021-09-08",
         "desc": "In the Official Card Game, Judgment of Thunder can also be activated if the opponent Special Summons a monster to the player's field."
       }
+    ],
+    "customDiffData": [
+      [
+        19,
+        26,
+        false
+      ],
+      [
+        10,
+        25,
+        true
+      ],
+      [
+        66,
+        51,
+        false
+      ]
     ]
   },
   {
@@ -6090,6 +6181,23 @@
         "date": "2021-09-08",
         "desc": "In the Official Card Game, Metalsilver Armor also restricts effects that target more than one card."
       }
+    ],
+    "customDiffData": [
+      [
+        132,
+        54,
+        false
+      ],
+      [
+        22,
+        22,
+        true
+      ],
+      [
+        30,
+        79,
+        false
+      ]
     ]
   },
   {
@@ -6198,6 +6306,18 @@
         "date": "2021-09-23",
         "desc": "In the Official Card Game, the Continuous Effect of Ido the Supreme Magical Force also prevents its controller from Normal Setting monsters, not just Summoning them.\nIn particular, note that the Japanese 通常召喚, which literally translates to \"Normal Summon\", is the OCG equivalent of the TCG's \"Normal Summon or Set\".\nThe OCG equivalent to \"Normal Summon (but not Set)\" would be just 召喚."
       }
+    ],
+    "customDiffData": [
+      [
+        27,
+        70,
+        true
+      ],
+      [
+        245,
+        273,
+        false
+      ]
     ]
   },
   {
@@ -6246,6 +6366,19 @@
         "date": "2021-09-28",
         "desc": "For example, in the Official Card Game, if the opponent activates the effect of your Harpies' Hunting Ground and destroys your Artifact Ignition, the effect of that Artifact Ignition can then be activated."
       }
+    ],
+    "customDiffData": [
+      [
+        248,
+        193,
+        false
+      ],
+      [
+        21,
+        16,
+        true
+      ],
+      46
     ]
   },
   {
@@ -6270,6 +6403,19 @@
         "date": "2021-09-28",
         "desc": "For example, in the Official Card Game, if the opponent activates the effect of your Harpies' Hunting Ground and destroys your Artifacts Unleashed, the effect of that Artifacts Unleashed can then be activated."
       }
+    ],
+    "customDiffData": [
+      [
+        309,
+        302,
+        false
+      ],
+      [
+        21,
+        16,
+        true
+      ],
+      69
     ]
   },
   {
@@ -6294,6 +6440,19 @@
         "date": "2021-09-28",
         "desc": "For example, in the Official Card Game, if the opponent activates the effect of your Harpies' Hunting Ground and destroys your Artifact Sanctum, the effect of that Artifact Sanctum can then be activated."
       }
+    ],
+    "customDiffData": [
+      [
+        104,
+        97,
+        false
+      ],
+      [
+        21,
+        16,
+        true
+      ],
+      181
     ]
   },
   {
@@ -6366,6 +6525,23 @@
         "date": "2021-09-28",
         "desc": "For example, in the Official Card Game, if the opponent activates the effect of your Harpies' Hunting Ground and destroys your Ghostrick Night, the effect of that Ghostrick Night can then be activated."
       }
+    ],
+    "customDiffData": [
+      [
+        126,
+        124,
+        false
+      ],
+      [
+        23,
+        16,
+        true
+      ],
+      [
+        92,
+        85,
+        false
+      ]
     ]
   },
   {
@@ -6384,6 +6560,19 @@
         "date": "2021-09-29",
         "desc": "In the Official Card Game, the effect of Destructotron must be activated during the End Phase even if Destructotron itself is not a Psychic monster."
       }
+    ],
+    "customDiffData": [
+      25,
+      [
+        54,
+        37,
+        true
+      ],
+      [
+        113,
+        115,
+        false
+      ]
     ]
   },
   {
