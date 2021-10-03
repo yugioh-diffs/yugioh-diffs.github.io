@@ -6628,5 +6628,32 @@
         "desc": "In the Official Card Game, the effect of Vampire's Curse that Special Summons it does not activate immediately upon its destruction by battle. Instead, it activates during the Standby Phase of the next turn."
       }
     ]
+  },
+  {
+    "id": 9329,
+    "icon": "synchro",
+    "name": "Thor, Lord of the Aesir",
+    "oldText": "1 \"Nordic Beast\" Tuner + 2+ non-Tuner monsters\nOnce per turn: You can negate the effects of all face-up monsters your opponent currently controls, until the end of this turn. Once per turn, during the End Phase, if this face-up card you controlled was destroyed by your opponent's card and sent to your GY this turn: You can banish 1 \"Nordic Beast\" Tuner from your GY; Special Summon this card. If Summoned this way: Inflict 800 damage to your opponent.",
+    "newText": "1 \"Nordic Beast\" Tuner + 2+ non-Tuner monsters\nOnce per turn: You can negate the effects of all face-up monsters your opponent currently controls, until the end of this turn. Once per turn, during the End Phase, if this face-up card you controlled was destroyed by your opponent's card and sent to your GY this turn: You can banish 1 \"Nordic Beast\" Tuner from your GY; Special Summon this card. When you do: You can inflict 800 damage to your opponent.",
+    "author": "gallantron",
+    "lastPrint": "2018-10-12",
+    "lastUpdated": "2021-10-03",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=9329&request_locale=ja",
+        "title": "Card FAQ – Thor, Lord of the Aesir",
+        "date": "2021-10-03",
+        "desc": "In the Official Card Game, the effect of Thor, Lord of the Aesir that inflicts damage is optional to activate."
+      }
+    ],
+    "customDiffData": [
+      395,
+      [
+        21,
+        20,
+        true
+      ],
+      37
+    ]
   }
 ]
