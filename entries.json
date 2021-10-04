@@ -6709,5 +6709,32 @@
       ],
       427
     ]
+  },
+  {
+    "id": 15948,
+    "icon": "effect",
+    "name": "War Rock Skyler",
+    "oldText": "Gains 100 ATK for each monster your opponent controls. During a Battle Phase in which your EARTH Warrior monster battles (Quick Effect): You can target 1 Level 5 or lower Warrior monster in your GY; Special Summon it, also all \"War Rock\" monsters you currently control gain 200 ATK until the end of your opponent's turn, also for the rest of this turn, you cannot attack directly with Level 5 or lower monsters. You can only use this effect of \"War Rock Skyler\" once per turn.",
+    "newText": "Gains 100 ATK for each monster your opponent controls. During a Battle Phase in which your EARTH Warrior monster battled (Quick Effect): You can target 1 Level 5 or lower Warrior monster in your GY; Special Summon it, also all \"War Rock\" monsters you currently control gain 200 ATK until the end of your opponent's turn, also for the rest of this turn, you cannot attack directly with Level 5 or lower monsters. You can only use this effect of \"War Rock Skyler\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2021-02-05",
+    "lastUpdated": "2021-10-04",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15948&request_locale=ja",
+        "title": "War Rock Skyler",
+        "date": "2021-10-04",
+        "desc": "In the Official Card Game, the effect of War Rock Skyler that Special Summons a monster from the GY can only be activated once a Warrior monster has battled, not if one is battling currently."
+      }
+    ],
+	"customDiffData": [
+      113,
+      [
+        7,
+        7,
+        true
+      ],
+      356
+    ]
   }
 ]
