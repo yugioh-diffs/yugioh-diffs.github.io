@@ -6682,5 +6682,32 @@
       ],
       215
     ]
+  },
+  {
+    "id": 15949,
+    "icon": "effect",
+    "name": "War Rock Bashileos",
+    "oldText": "During a Battle Phase in which your EARTH Warrior monster battles (Quick Effect): You can activate this effect; this card can attack directly this turn, also all \"War Rock\" monsters you currently control gain 200 ATK until the end of your opponent's turn. While this card is in your hand or GY, when your EARTH Warrior monster is destroyed by battle: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"War Rock Bashileos\" once per turn.",
+    "newText": "During a Battle Phase in which your EARTH Warrior monster battled (Quick Effect): You can activate this effect; this card can attack directly this turn, also all \"War Rock\" monsters you currently control gain 200 ATK until the end of your opponent's turn. While this card is in your hand or GY, when your EARTH Warrior monster is destroyed by battle: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"War Rock Bashileos\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2021-02-05",
+    "lastUpdated": "2021-10-04",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15949&request_locale=ja",
+        "title": "War Rock Bashileos",
+        "date": "2021-10-04",
+        "desc": "In the Official Card Game, the effect of War Rock Bashileos that allows it to attack directly can only be activated once a Warrior monster has battled, not if one is battling currently."
+      }
+    ],
+	"customDiffData": [
+      58,
+      [
+        7,
+        7,
+        true
+      ],
+      427
+    ]
   }
 ]
