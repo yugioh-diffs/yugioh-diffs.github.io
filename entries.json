@@ -115,7 +115,7 @@
   },
   {
     "id": 9894,
-    "oldText": "Once per turn: You can equip 1 \"Inzektor\" monster from your hand or Graveyard to this card. If an Equip Card(s) is sent to your Graveyard while equipped to this card (except during the Damage Step): You can Special Summon 1 \"Inzektor\" monster from your Deck, except \"Inzektor Dragonfly\". While this card is equipped to a monster, that monster's Level is increased by 3.",
+    "oldText": "Once per turn: You can equip 1 \"Inzektor\" monster from your hand or GY to this card. If an Equip Card(s) is sent to your GY while equipped to this card (except during the Damage Step): You can Special Summon 1 \"Inzektor\" monster from your Deck, except \"Inzektor Dragonfly\". While this card is equipped to a monster, that monster's Level is increased by 3.",
     "newText": "Once per turn: You can equip 1 \"Inzektor\" monster from your hand or GY to this card. Each time an Equip Card(s) is sent to your GY while equipped to this card (except during the Damage Step): You can Special Summon 1 \"Inzektor\" monster from your Deck, except \"Inzektor Dragonfly\". While this card is equipped to a monster, that monster's Level is increased by 3.",
     "author": "pazim",
     "references": [
@@ -128,7 +128,7 @@
     ],
     "name": "Inzektor Dragonfly",
     "lastUpdated": "2020-10-20",
-    "lastPrint": "2012-01-24",
+    "lastPrint": "2021-10-06",
     "icon": "effect"
   },
   {
@@ -6673,7 +6673,7 @@
         "desc": "In the Official Card Game, the effect of War Rock Meteoragon that allows it to attack twice can only be activated once a Warrior monster has battled, not if one is battling currently."
       }
     ],
-	"customDiffData": [
+    "customDiffData": [
       357,
       [
         7,
@@ -6700,7 +6700,7 @@
         "desc": "In the Official Card Game, the effect of War Rock Bashileos that allows it to attack directly can only be activated once a Warrior monster has battled, not if one is battling currently."
       }
     ],
-	"customDiffData": [
+    "customDiffData": [
       58,
       [
         7,
@@ -6727,7 +6727,7 @@
         "desc": "In the Official Card Game, the effect of War Rock Skyler that Special Summons a monster from the GY can only be activated once a Warrior monster has battled, not if one is battling currently."
       }
     ],
-	"customDiffData": [
+    "customDiffData": [
       113,
       [
         7,
