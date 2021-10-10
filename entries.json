@@ -6736,5 +6736,40 @@
       ],
       356
     ]
+  },
+  {
+    "id": 15954,
+    "icon": "fusion",
+    "name": "Coordius the Triphasic Dealmon",
+    "oldText": "1 Synchro Monster + 1 Xyz Monster + 1 Link Monster\nOnce while this Fusion Summoned card is face-up on the field: You can pay LP in multiples of 2000 and apply 1 of the following effects for every 2000 LP paid. (You can only apply each effect once.)\n●Add 1 Spell/Trap from your GY to your hand.\n●Destroy 3 cards your opponent controls.\n●This turn, this card gains ATK equal to half of the difference between your LP and your opponent's, also your other monsters cannot attack.\nYou can only use this effect of \"Coordius the Triphasic Dealmon\" once per turn.",
+    "newText": "1 Synchro Monster + 1 Xyz Monster + 1 Link Monster\nYou can only use the following effect of \"Coordius the Triphasic Dealmon\" once per turn. Once while this Fusion Summoned card is face-up on the field: You can activate any of these effects by paying 2000 LP per effect; resolve the effects in sequence.\n●Add 1 Spell/Trap from your GY to your hand.\n●Destroy 3 cards your opponent controls.\n●This turn, this card gains ATK equal to half of the difference between your LP and your opponent's, also your other monsters cannot attack.",
+    "author": "gallantron",
+    "lastPrint": "2021-02-05",
+    "lastUpdated": "2021-10-10",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=15954&request_locale=ja",
+        "title": "Card FAQ – Coordius the Triphasic Dealmon",
+        "date": "2021-10-10",
+        "desc": "In the Official Card Game, Life Points are paid as a cost to activate the effect of Coordius the Triphasic Dealmon, and the effects to activate are also chosen at that time."
+      }
+    ],
+    "customDiffData": [
+      [
+        113,
+        202,
+        false
+      ],
+      [
+        135,
+        100,
+        true
+      ],
+      [
+        307,
+        227,
+        false
+      ]
+    ]
   }
 ]
