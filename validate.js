@@ -56,6 +56,8 @@ document.addEventListener('DOMContentLoaded', () =>
 
             const data = await (await fetch('entries.json', {cache: 'reload'})).json();
             LOG('Loaded '+data.length+' entries from existing entries.json');
+            
+            const now = new Date();
             const hasChanges = (await Promise.all(data.map(async (entry) =>
             {
                 try
@@ -99,10 +101,11 @@ document.addEventListener('DOMContentLoaded', () =>
                         changed = true;
                     }
                     
-                    if (entry.lastPrint < dbEntry.cardData.en.thisSrc.date)
+                    const dbDate = dbEntry.cardData.en.thisSrc.date;
+                    if ((entry.lastPrint < dbDate) && ((new Date(dbDate)) <= now))
                     {
-                        LOG('Adjusted last-printed date for '+entry.name+': ' + entry.lastPrint + ' -> '+dbEntry.cardData.en.thisSrc.date);
-                        entry.lastPrint = dbEntry.cardData.en.thisSrc.date;
+                        LOG('Adjusted last-printed date for '+entry.name+': ' + entry.lastPrint + ' -> '+dbDate);
+                        entry.lastPrint = dbDate;
                         changed = true;
                     }
                     

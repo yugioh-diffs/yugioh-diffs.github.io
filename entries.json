@@ -913,7 +913,7 @@
     ],
     "name": "Cyberload Fusion",
     "lastUpdated": "2021-04-05",
-    "lastPrint": "2021-01-22",
+    "lastPrint": "2021-10-15",
     "icon": "spell"
   },
   {
@@ -2489,7 +2489,7 @@
     "oldText": "Target 1 monster you control; reveal 1 Fusion Monster in your Extra Deck, and if you do, the targeted monster's name can be treated as the revealed Fusion Monster's, if used for a Fusion Summon this turn.",
     "newText": "Target 1 monster you control; reveal 1 Fusion Monster in your Extra Deck, and if you do, the targeted monster's name can be treated as the revealed Fusion Monster's, if used as Fusion Material this turn.",
     "author": "gallantron",
-    "lastPrint": "2017-08-25",
+    "lastPrint": "2021-10-15",
     "lastUpdated": "2021-01-03",
     "references": [
       {
@@ -5039,7 +5039,7 @@
     "oldText": "Reveal 1 Fusion Monster in your Extra Deck and Special Summon, from your hand or Deck, 1 of the Fusion Materials whose name is specifically listed on that card, also you cannot Special Summon monsters from the Extra Deck, except Fusion Monsters, the turn you activate this card. You can only activate 1 \"Fusion Deployment\" per turn.",
     "newText": "Reveal 1 Fusion Monster in your Extra Deck and Special Summon, from your hand or Deck, 1 of the Fusion Materials whose name is specifically listed on that card. You cannot Special Summon monsters from the Extra Deck, except Fusion Monsters, the turn you activate this card. You can only activate 1 \"Fusion Deployment\" per turn.",
     "author": "gallantron",
-    "lastPrint": "2020-05-01",
+    "lastPrint": "2021-10-15",
     "lastUpdated": "2021-07-29",
     "references": [
       {
@@ -6358,7 +6358,7 @@
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11089&request_locale=ja",
         "title": "Artifact Ignition",
         "date": "2021-09-28",
-        "desc": "In the Official Card Game, the effect of a destroyed Artifact Ignition can be activated if it was destroyed the opponent."
+        "desc": "In the Official Card Game, the effect of a destroyed Artifact Ignition can be activated if it was destroyed by the opponent."
       },
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6207&request_locale=en",
@@ -6395,7 +6395,7 @@
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11090&request_locale=ja",
         "title": "Artifacts Unleashed",
         "date": "2021-09-28",
-        "desc": "In the Official Card Game, the effect of a destroyed Artifacts Unleashed can be activated if it was destroyed the opponent."
+        "desc": "In the Official Card Game, the effect of a destroyed Artifacts Unleashed can be activated if it was destroyed by the opponent."
       },
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6207&request_locale=en",
@@ -6432,7 +6432,7 @@
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11101&request_locale=ja",
         "title": "Artifact Sanctum",
         "date": "2021-09-28",
-        "desc": "In the Official Card Game, the effect of a destroyed Artifact Sanctum can be activated if it was destroyed the opponent."
+        "desc": "In the Official Card Game, the effect of a destroyed Artifact Sanctum can be activated if it was destroyed by the opponent."
       },
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6207&request_locale=en",
@@ -6469,13 +6469,13 @@
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10282&request_locale=ja",
         "title": "The Grand Spellbook Tower",
         "date": "2021-09-28",
-        "desc": "In the Official Card Game, the effect of a destroyed The Grand Spellbook Tower can be activated if it was destroyed the opponent."
+        "desc": "In the Official Card Game, the effect of a destroyed The Grand Spellbook Tower can only be activated if it was destroyed by the opponent."
       },
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6207&request_locale=en",
         "title": "Harpies' Hunting Ground",
         "date": "2021-09-28",
-        "desc": "For example, in the Official Card Game, if the opponent activates the effect of your Harpies' Hunting Ground and destroys your The Grand Spellbook Tower, the effect of that The Grand Spellbook Tower can then be activated."
+        "desc": "For example, in the Official Card Game, if you activate the effect of your opponent's Harpies' Hunting Ground, and destroy your The Grand Spellbook Tower, the effect of that The Grand Spellbook Tower cannot be activated."
       }
     ]
   },
@@ -6493,7 +6493,7 @@
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10424&request_locale=ja",
         "title": "Quick Booster",
         "date": "2021-09-28",
-        "desc": "In the Official Card Game, the effect of a destroyed Quick Booster can be activated if it was destroyed the opponent."
+        "desc": "In the Official Card Game, the effect of a destroyed Quick Booster can be activated if it was destroyed by the opponent."
       },
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6207&request_locale=en",
@@ -6517,7 +6517,7 @@
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11103&request_locale=ja",
         "title": "Ghostrick Night",
         "date": "2021-09-28",
-        "desc": "In the Official Card Game, the effect of a destroyed Ghostrick Night can be activated if it was destroyed the opponent."
+        "desc": "In the Official Card Game, the effect of a destroyed Ghostrick Night can be activated if it was destroyed by the opponent."
       },
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6207&request_locale=en",
