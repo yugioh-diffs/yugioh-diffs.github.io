@@ -6771,5 +6771,23 @@
         false
       ]
     ]
+  },
+  {
+    "id": 16493,
+    "icon": "effect",
+    "name": "Incredible Ecclesia, the Virtuous",
+    "oldText": "If your opponent controls more monsters than you do, you can Special Summon this card (from your hand). You can only Special Summon \"Incredible Ecclesia, the Virtuous\" once per turn this way. You can only use each of the following effects of \"Incredible Ecclesia, the Virtuous\" once per turn. During the Main Phase (Quick Effect): You can Tribute this card; Special Summon 1 \"Swordsoul\" monster or 1 \"Fallen of Albaz\" from your hand or Deck. During the End Phase, if a Fusion Monster(s) was sent to your GY this turn: Add this card from the GY to your hand.",
+    "newText": "If your opponent controls more monsters than you do, you can Special Summon this card (from your hand). You can only Special Summon \"Incredible Ecclesia, the Virtuous\" once per turn this way. You can only use each of the following effects of \"Incredible Ecclesia, the Virtuous\" once per turn. During the Main Phase (Quick Effect): You can Tribute this card; Special Summon 1 \"Swordsoul\" monster or 1 \"Fallen of Albaz\" from your hand or Deck. During the End Phase, if a Fusion Monster(s) was sent to your GY this turn: You can add this card from the GY to your hand.",
+    "author": "gallantron",
+    "lastPrint": "2021-10-19",
+    "lastUpdated": "2021-10-19",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16493&request_locale=ja",
+        "title": "Card FAQ – Incredible Ecclesia, the Virtuous",
+        "date": "2021-10-19",
+        "desc": "In the Official Card Game, the effect of Incredible Ecclesia, the Virtuous that adds it to the hand during the End Phase is optional to activate."
+      }
+    ]
   }
 ]
