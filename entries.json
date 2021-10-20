@@ -6789,5 +6789,29 @@
         "desc": "In the Official Card Game, the effect of Incredible Ecclesia, the Virtuous that adds it to the hand during the End Phase is optional to activate."
       }
     ]
+  },
+  {
+    "id": 16522,
+    "icon": "ritual",
+    "name": "Borreload Riot Dragon",
+    "oldText": "You can Ritual Summon this card with \"Heavy Interlock\". When your opponent Special Summons a monster(s) (Quick Effect): You can negate the Special Summon, and if you do, destroy that monster(s), then destroy this card or 1 \"Rokket\" monster you control. If this card is in your GY: You can target 1 \"Borrel\" or \"Rokket\" monster in your GY; destroy 1 card you control or in your hand, and if you do, add that target to your hand. You can only use each effect of \"Borreload Riot Dragon\" once per turn.",
+    "newText": "You can Ritual Summon this card with \"Heavy Interlock\". When your opponent would Special Summon a monster(s) (Quick Effect): You can negate the Special Summon, and if you do, destroy that monster(s), then destroy this card or 1 \"Rokket\" monster you control. If this card is in your GY: You can target 1 \"Borrel\" or \"Rokket\" monster in your GY; destroy 1 card you control or in your hand, and if you do, add that target to your hand. You can only use each effect of \"Borreload Riot Dragon\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2021-11-04",
+    "lastUpdated": "2021-10-20",
+    "references": [
+        {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6918&request_locale=en",
+        "title": "Black Horn of Heaven",
+        "date": "2020-12-24",
+        "desc": "Black Horn of Heaven is an example of a card that activates during an attempted Summon.\nIn order for its effect to make sense, this is the phrasing Borreload Riot Dragon would need to use."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5114&request_locale=en",
+        "title": "Torrential Tribute",
+        "date": "2020-12-24",
+        "desc": "Torrential Tribute is an example of a card which activates in response to a successful Summon.\nNote that Borreload Riot Dragon currently uses the same phrasing as Torrential Tribute."
+      }
+    ]
   }
 ]
