@@ -6813,5 +6813,29 @@
         "desc": "Torrential Tribute is an example of a card which activates in response to a successful Summon.\nNote that Borreload Riot Dragon currently uses the same phrasing as Torrential Tribute."
       }
     ]
+  },
+  {
+    "id": 16497,
+    "icon": "effect",
+    "name": "Ad Libitum of Despia",
+    "oldText": "During your Main Phase: You can make all monsters currently on the field gain ATK equal to their own Level x 100, until the end of the opponent's turn. If this card in your hand or field is used as Fusion Material, and sent to the GY or banished: You can target 1 of your \"Despia\" monsters or Level 8 or higher Fusion Monsters, that is banished or in your GY, except \"Ad Libitum of Despia\"; Special Summon it. You can only use each effect of \"Ad Libitum of Despia\" once per turn.",
+    "newText": "During your Main Phase: You can make all monsters currently on the field gain ATK equal to their own Level x 100, until the end of the opponent's turn. If this card in the hand or field is used as material for a Fusion Summon, and sent to the GY or banished: You can target 1 of your \"Despia\" monsters or Level 8 or higher Fusion Monsters, that is banished or in your GY, except \"Ad Libitum of Despia\"; Special Summon it. You can only use each effect of \"Ad Libitum of Despia\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2021-10-20",
+    "lastUpdated": "2021-10-20",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16497&request_locale=ja",
+        "title": "Card FAQ – Ad Libitum of Despia",
+        "date": "2021-10-20",
+        "desc": "In the Official Card Game, the effect of Ad Libitum of Despia can only be activated if it is used as material for a Fusion Summon.\nFurthermore, in the Official Card Game, the effect of Ad Libitum of Despia can also be activated if it is used as material while the opponent controls it."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13972&request_locale=en",
+        "title": "Trishula, the Dragon of Icy Imprisonment",
+        "date": "2021-10-20",
+        "desc": "For example, in the Official Card Game, the effect of Ad Libitum of Despia cannot be activated if it is used as Fusion Material for the Special Summon of Trishula, the Dragon of Icy Imprisonment."
+      }
+    ]
   }
 ]
