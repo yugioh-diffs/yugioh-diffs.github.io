@@ -6821,7 +6821,7 @@
     "oldText": "During your Main Phase: You can make all monsters currently on the field gain ATK equal to their own Level x 100, until the end of the opponent's turn. If this card in your hand or field is used as Fusion Material, and sent to the GY or banished: You can target 1 of your \"Despia\" monsters or Level 8 or higher Fusion Monsters, that is banished or in your GY, except \"Ad Libitum of Despia\"; Special Summon it. You can only use each effect of \"Ad Libitum of Despia\" once per turn.",
     "newText": "During your Main Phase: You can make all monsters currently on the field gain ATK equal to their own Level x 100, until the end of the opponent's turn. If this card in the hand or field is used as material for a Fusion Summon, and sent to the GY or banished: You can target 1 of your \"Despia\" monsters or Level 8 or higher Fusion Monsters, that is banished or in your GY, except \"Ad Libitum of Despia\"; Special Summon it. You can only use each effect of \"Ad Libitum of Despia\" once per turn.",
     "author": "gallantron",
-    "lastPrint": "2021-10-20",
+    "lastPrint": "2021-11-04",
     "lastUpdated": "2021-10-20",
     "references": [
       {
@@ -6835,6 +6835,24 @@
         "title": "Trishula, the Dragon of Icy Imprisonment",
         "date": "2021-10-20",
         "desc": "For example, in the Official Card Game, the effect of Ad Libitum of Despia cannot be activated if it is used as Fusion Material for the Special Summon of Trishula, the Dragon of Icy Imprisonment."
+      }
+    ]
+  },
+  {
+    "id": 16544,
+    "icon": "spell",
+    "name": "Floowandereeze and the Magnificent Map",
+    "oldText": "During your Main Phase: You can reveal 1 Level 1 \"Floowandereeze\" monster in your hand and banish 1 \"Floowandereeze\" card with a different name from your Deck, then, immediately after this effect resolves, Normal Summon the revealed monster. If your opponent Normal Summons a monster: Immediately after this effect resolves, you can Normal Summon 1 \"Floowandereeze\" monster. You can only use each effect of \"Floowandereeze and the Magnificent Map\" once per turn.",
+    "newText": "During your Main Phase: You can reveal 1 Level 1 \"Floowandereeze\" monster in your hand and banish 1 \"Floowandereeze\" card with a different name from your Deck, then, immediately after this effect resolves, Normal Summon the revealed monster. If your opponent Normal Summons a monster, you can: Immediately after this effect resolves, Normal Summon 1 \"Floowandereeze\" monster. You can only use each effect of \"Floowandereeze and the Magnificent Map\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2021-11-04",
+    "lastUpdated": "2021-10-22",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16544&request_locale=ja",
+        "title": "Card FAQ – Floowandereeze and the Magnificent Map",
+        "date": "2021-10-22",
+        "desc": "In the Official Card Game, the effect of Floowandereeze and the Magnificent Map that activates when your opponent Normal Summons a monster is optional to activate."
       }
     ]
   }
