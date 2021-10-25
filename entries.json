@@ -6855,5 +6855,42 @@
         "desc": "In the Official Card Game, the effect of Floowandereeze and the Magnificent Map that activates when your opponent Normal Summons a monster is optional to activate."
       }
     ]
+  },
+  {
+    "id": 16552,
+    "icon": "spell",
+    "name": "Ursarctic Drytron",
+    "oldText": "Special Summon 1 \"Ultimate Flagship Ursatron\" from your Extra Deck by banishing 1 \"Ursarctic Big Dipper\" and 1 \"Drytron Fafnir\" from your hand and/or field, although you can banish 1 of them from your Deck instead if \"Ursarctic Polari\" or \"Drytron Alpha Thuban\" is on the field. If you would Tribute a monster(s) to activate an \"Ursarctic\" or \"Drytron\" monster's effect, you can banish this card from your GY instead. You can only use this effect of \"Ursarctic Drytron\" once per turn.",
+    "newText": "Special Summon 1 \"Ultimate Flagship Ursatron\" from your Extra Deck by banishing 1 \"Ursarctic Big Dipper\" and 1 \"Drytron Fafnir\" from your hand and/or field (even if face-down). If \"Ursarctic Polari\" or \"Drytron Alpha Thuban\" is on the field, you can banish 1 of the cards from your Deck, instead. If you would Tribute a monster(s) to activate an \"Ursarctic\" or \"Drytron\" monster's effect, you can banish this card from your GY instead. You can only use this effect of \"Ursarctic Drytron\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2021-11-05",
+    "lastUpdated": "2021-10-25",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23307&request_locale=ja",
+        "title": "Q&A #23307",
+        "date": "2021-10-25",
+        "desc": "In the Official Card Game, the effect of Ursarctic Drytron can banish a face-down \"Ursarctic Big Dipper\" or \"Drytron Fafnir\" on the field."
+      }
+    ],
+    "customDiffData": [
+      [
+        155,
+        156,
+        false
+      ],
+      [
+        61,
+        23,
+        true
+      ],
+      61,
+      [
+        1,
+        56,
+        true
+      ],
+      206
+    ]
   }
 ]
