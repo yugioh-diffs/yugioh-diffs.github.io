@@ -2129,7 +2129,7 @@
     "oldText": "1 WIND Machine Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can activate 1 of these effects.\n●Destroy all other cards on the field.\n●Negate the effects of all face-up cards your opponent currently controls.\nIf this card in your possession is sent to your GY by an opponent's card: You can add 1 \"Speedroid\" monster from your Deck to your hand.\nYou can only use each effect of \"Hi-Speedroid Kitedrake\" once per turn.",
     "newText": "1 WIND Machine Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can activate 1 of these effects.\n●Destroy all other cards on the field.\n●Negate the effects of all face-up cards your opponent currently controls.\nIf this card in your possession is sent to your GY by your opponent: You can add 1 \"Speedroid\" monster from your Deck to your hand.\nYou can only use each effect of \"Hi-Speedroid Kitedrake\" once per turn.",
     "author": "gallantron",
-    "lastPrint": "2019-07-12",
+    "lastPrint": "2021-10-29",
     "lastUpdated": "2020-12-30",
     "references": [
       {
@@ -6779,7 +6779,7 @@
     "oldText": "If your opponent controls more monsters than you do, you can Special Summon this card (from your hand). You can only Special Summon \"Incredible Ecclesia, the Virtuous\" once per turn this way. You can only use each of the following effects of \"Incredible Ecclesia, the Virtuous\" once per turn. During the Main Phase (Quick Effect): You can Tribute this card; Special Summon 1 \"Swordsoul\" monster or 1 \"Fallen of Albaz\" from your hand or Deck. During the End Phase, if a Fusion Monster(s) was sent to your GY this turn: Add this card from the GY to your hand.",
     "newText": "If your opponent controls more monsters than you do, you can Special Summon this card (from your hand). You can only Special Summon \"Incredible Ecclesia, the Virtuous\" once per turn this way. You can only use each of the following effects of \"Incredible Ecclesia, the Virtuous\" once per turn. During the Main Phase (Quick Effect): You can Tribute this card; Special Summon 1 \"Swordsoul\" monster or 1 \"Fallen of Albaz\" from your hand or Deck. During the End Phase, if a Fusion Monster(s) was sent to your GY this turn: You can add this card from the GY to your hand.",
     "author": "gallantron",
-    "lastPrint": "2021-11-04",
+    "lastPrint": "2021-11-05",
     "lastUpdated": "2021-10-19",
     "references": [
       {
@@ -6797,10 +6797,10 @@
     "oldText": "You can Ritual Summon this card with \"Heavy Interlock\". When your opponent Special Summons a monster(s) (Quick Effect): You can negate the Special Summon, and if you do, destroy that monster(s), then destroy this card or 1 \"Rokket\" monster you control. If this card is in your GY: You can target 1 \"Borrel\" or \"Rokket\" monster in your GY; destroy 1 card you control or in your hand, and if you do, add that target to your hand. You can only use each effect of \"Borreload Riot Dragon\" once per turn.",
     "newText": "You can Ritual Summon this card with \"Heavy Interlock\". When your opponent would Special Summon a monster(s) (Quick Effect): You can negate the Special Summon, and if you do, destroy that monster(s), then destroy this card or 1 \"Rokket\" monster you control. If this card is in your GY: You can target 1 \"Borrel\" or \"Rokket\" monster in your GY; destroy 1 card you control or in your hand, and if you do, add that target to your hand. You can only use each effect of \"Borreload Riot Dragon\" once per turn.",
     "author": "gallantron",
-    "lastPrint": "2021-11-04",
+    "lastPrint": "2021-11-05",
     "lastUpdated": "2021-10-20",
     "references": [
-        {
+      {
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6918&request_locale=en",
         "title": "Black Horn of Heaven",
         "date": "2020-12-24",
@@ -6821,7 +6821,7 @@
     "oldText": "During your Main Phase: You can make all monsters currently on the field gain ATK equal to their own Level x 100, until the end of the opponent's turn. If this card in your hand or field is used as Fusion Material, and sent to the GY or banished: You can target 1 of your \"Despia\" monsters or Level 8 or higher Fusion Monsters, that is banished or in your GY, except \"Ad Libitum of Despia\"; Special Summon it. You can only use each effect of \"Ad Libitum of Despia\" once per turn.",
     "newText": "During your Main Phase: You can make all monsters currently on the field gain ATK equal to their own Level x 100, until the end of the opponent's turn. If this card in the hand or field is used as material for a Fusion Summon, and sent to the GY or banished: You can target 1 of your \"Despia\" monsters or Level 8 or higher Fusion Monsters, that is banished or in your GY, except \"Ad Libitum of Despia\"; Special Summon it. You can only use each effect of \"Ad Libitum of Despia\" once per turn.",
     "author": "gallantron",
-    "lastPrint": "2021-11-04",
+    "lastPrint": "2021-11-05",
     "lastUpdated": "2021-10-20",
     "references": [
       {
@@ -6845,7 +6845,7 @@
     "oldText": "During your Main Phase: You can reveal 1 Level 1 \"Floowandereeze\" monster in your hand and banish 1 \"Floowandereeze\" card with a different name from your Deck, then, immediately after this effect resolves, Normal Summon the revealed monster. If your opponent Normal Summons a monster: Immediately after this effect resolves, you can Normal Summon 1 \"Floowandereeze\" monster. You can only use each effect of \"Floowandereeze and the Magnificent Map\" once per turn.",
     "newText": "During your Main Phase: You can reveal 1 Level 1 \"Floowandereeze\" monster in your hand and banish 1 \"Floowandereeze\" card with a different name from your Deck, then, immediately after this effect resolves, Normal Summon the revealed monster. If your opponent Normal Summons a monster, you can: Immediately after this effect resolves, Normal Summon 1 \"Floowandereeze\" monster. You can only use each effect of \"Floowandereeze and the Magnificent Map\" once per turn.",
     "author": "gallantron",
-    "lastPrint": "2021-11-04",
+    "lastPrint": "2021-11-05",
     "lastUpdated": "2021-10-22",
     "references": [
       {
@@ -6891,6 +6891,24 @@
         true
       ],
       206
+    ]
+  },
+  {
+    "id": 14431,
+    "icon": "effect",
+    "name": "Flip Frozen",
+    "oldText": "If this card is sent to the GY: Change all Attack Position monsters your opponent controls to Defense Position.",
+    "newText": "If this card is sent to the GY: You can change all Attack Position monsters your opponent controls to Defense Position.",
+    "author": "gallantron",
+    "lastPrint": "2021-11-05",
+    "lastUpdated": "2021-11-05",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14431&request_locale=ja",
+        "title": "Card FAQ – Flip Frozen",
+        "date": "2021-11-05",
+        "desc": "In the Official Card Game, the effect of Flip Frozen is optional to activate."
+      }
     ]
   }
 ]
