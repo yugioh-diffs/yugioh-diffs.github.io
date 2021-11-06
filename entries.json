@@ -6933,5 +6933,38 @@
         "desc": "In the Official Card Game, the effect of Flip Frozen is optional to activate."
       }
     ]
+  },
+  {
+    "id": 16525,
+    "icon": "fusion",
+    "name": "Masquerade the Blazing Dragon",
+    "oldText": "1 \"Despia\" monster + 1 LIGHT or DARK monster\nWhile you control this Fusion Summoned card, your opponent must pay 600 LP to activate cards or effects. If your opponent controls a Ritual, Fusion, Synchro, Xyz, or Link Monster, while this card is in your GY (Quick Effect): You can Special Summon this card, but banish it when it leaves the field. You can only use this effect of \"Masquerade the Blazing Dragon\" once per turn.",
+    "newText": "1 \"Despia\" monster + 1 LIGHT or DARK monster\nWhile you control this Fusion Summoned card, your opponent cannot activate cards or effects unless they pay 600 LP. If your opponent controls a Ritual, Fusion, Synchro, Xyz, or Link Monster, while this card is in your GY (Quick Effect): You can Special Summon this card, but banish it when it leaves the field. You can only use this effect of \"Masquerade the Blazing Dragon\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2021-11-05",
+    "lastUpdated": "2021-11-06",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23418&request_locale=ja",
+        "title": "Q&A #23418",
+        "date": "2021-11-06",
+        "desc": ""
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23410&request_locale=ja",
+        "title": "Q&A #23410",
+        "date": "2021-11-06",
+        "desc": "In the Official Card Game, LP paid due to Masquerade the Blazing Dragon's effect is not a cost paid to activate a given card or effect."
+      }
+    ],
+    "customDiffData": [
+      104,
+      [
+        44,
+        55,
+        true
+      ],
+      275
+    ]
   }
 ]
