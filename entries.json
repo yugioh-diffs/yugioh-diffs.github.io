@@ -4538,7 +4538,7 @@
     "icon": "trap",
     "name": "Anti-Spell Fragrance",
     "oldText": "Both players must Set Spell Cards before activating them, and cannot activate them until their next turn after Setting them.",
-    "newText": "Both players must Set Spell Cards before activating them. If either player Sets a Spell Card, that Spell Card cannot be activated until the end of their next turn.",
+    "newText": "Both players must Set Spell Cards before activating them. If either player Sets a Spell Card, that Spell Card cannot be activated until their next turn.",
     "author": "gallantron",
     "lastPrint": "2019-10-11",
     "lastUpdated": "2021-07-07",
