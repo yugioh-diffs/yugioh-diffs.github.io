@@ -949,7 +949,7 @@
     ],
     "name": "Salamangreat Almiraj",
     "lastUpdated": "2020-04-09",
-    "lastPrint": "2020-03-20",
+    "lastPrint": "2021-11-19",
     "icon": "link"
   },
   {
@@ -1128,8 +1128,8 @@
   },
   {
     "id": 11735,
-    "oldText": "When this card is activated: Add 1 \"Zefra\" monster from your Deck to your hand. When you Ritual Summon using a \"Zefra\" monster, or Special Summon using a \"Zefra\" monster as Material, you can activate these effects depending on the monster Summoned, once per turn per effect:\n●Ritual: Shuffle 1 monster on the field into the Deck.\n●Fusion: Special Summon 1 monster from your hand.\n●Synchro: Choose 1 monster from your Deck and place it on top of your Deck.\n●Xyz: Draw 1 card, then discard 1 card.\nYou can only activate 1 \"Oracle of Zefra\" per turn.",
-    "newText": "When this card is activated: Add 1 \"Zefra\" monster from your Deck to your hand. When a player Ritual Summons using a \"Zefra\" monster, or Special Summons using a \"Zefra\" monster as Material, you can activate these effects depending on the monster Summoned, once per turn per effect:\n●Ritual: Shuffle 1 monster on the field into the Deck.\n●Fusion: Special Summon 1 monster from your hand.\n●Synchro: Choose 1 monster from your Deck and place it on top of your Deck.\n●Xyz: Draw 1 card, then discard 1 card.\nYou can only activate 1 \"Oracle of Zefra\" per turn.",
+    "oldText": "When this card is activated: Add 1 \"Zefra\" monster from your Deck to your hand. When you Ritual Summon using a \"Zefra\" monster, or Special Summon using a \"Zefra\" monster as material, you can activate these effects depending on the monster Summoned, once per turn per effect:\n●Ritual: Shuffle 1 monster on the field into the Deck.\n●Fusion: Special Summon 1 monster from your hand.\n●Synchro: Choose 1 monster from your Deck and place it on top of your Deck.\n●Xyz: Draw 1 card, then discard 1 card.\nYou can only activate 1 \"Oracle of Zefra\" per turn.",
+    "newText": "When this card is activated: Add 1 \"Zefra\" monster from your Deck to your hand. When a player Ritual Summons using a \"Zefra\" monster, or Special Summons using a \"Zefra\" monster as material, you can activate these effects depending on the monster Summoned, once per turn per effect:\n●Ritual: Shuffle 1 monster on the field into the Deck.\n●Fusion: Special Summon 1 monster from your hand.\n●Synchro: Choose 1 monster from your Deck and place it on top of your Deck.\n●Xyz: Draw 1 card, then discard 1 card.\nYou can only activate 1 \"Oracle of Zefra\" per turn.",
     "author": "gallantron",
     "references": [
       {
@@ -1141,7 +1141,7 @@
     ],
     "name": "Oracle of Zefra",
     "lastUpdated": "2020-02-29",
-    "lastPrint": "2017-06-23",
+    "lastPrint": "2021-11-19",
     "icon": "spell"
   },
   {
@@ -1856,10 +1856,10 @@
     "id": 12951,
     "icon": "effect",
     "name": "Familiar-Possessed - Lyna",
-    "oldText": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Lyna the Light Charmer\" you control and 1 face-up LIGHT monster you control to the GY. When Summoned this way: You can add 1 Spellcaster monster with 1500 DEF from your Deck to your hand, except \"Familiar-Possessed - Lyna\". If this card Special Summoned by its own effect attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+    "oldText": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Lyna the Light Charmer\" you control and 1 face-up LIGHT monster you control to the GY. When Summoned this way: You can add 1 Spellcaster monster with 1500 DEF from your Deck to your hand, except \"Familiar-Possessed - Lyna\". If this card Special Summoned by its own effect attacks a Defense Position monster, inflict piercing battle damage.",
     "newText": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Lyna the Light Charmer\" and 1 face-up LIGHT monster from your Monster Zone to the GY. When Summoned this way: You can add 1 Spellcaster monster with 1500 DEF from your Deck to your hand, except \"Familiar-Possessed - Lyna\". If this card Special Summoned by its own effect attacks a Defense Position monster, inflict piercing battle damage.",
     "author": "gallantron",
-    "lastPrint": "2018-08-31",
+    "lastPrint": "2021-11-19",
     "lastUpdated": "2020-12-29",
     "references": [
       {
@@ -2126,7 +2126,7 @@
     "id": 14430,
     "icon": "synchro",
     "name": "Hi-Speedroid Kitedrake",
-    "oldText": "1 WIND Machine Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can activate 1 of these effects.\n●Destroy all other cards on the field.\n●Negate the effects of all face-up cards your opponent currently controls.\nIf this card in your possession is sent to your GY by an opponent's card: You can add 1 \"Speedroid\" monster from your Deck to your hand.\nYou can only use each effect of \"Hi-Speedroid Kitedrake\" once per turn.",
+    "oldText": "1 WIND Machine Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can activate 1 of these effects;\n●Destroy all other cards on the field.\n●Negate the effects of all face-up cards your opponent currently controls.\nIf this card in your possession is sent to your GY by an opponent's card: You can add 1 \"Speedroid\" monster from your Deck to your hand.\nYou can only use each effect of \"Hi-Speedroid Kitedrake\" once per turn.",
     "newText": "1 WIND Machine Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can activate 1 of these effects.\n●Destroy all other cards on the field.\n●Negate the effects of all face-up cards your opponent currently controls.\nIf this card in your possession is sent to your GY by your opponent: You can add 1 \"Speedroid\" monster from your Deck to your hand.\nYou can only use each effect of \"Hi-Speedroid Kitedrake\" once per turn.",
     "author": "gallantron",
     "lastPrint": "2021-10-29",
@@ -2156,6 +2156,15 @@
         "date": "2020-12-29",
         "desc": "An opponent's Gozen Match is an example of a card where the TCG's addition of \"card\" may cause confusion."
       }
+    ],
+    "customDiffData": [
+      281,
+      [
+        21,
+        16,
+        true
+      ],
+      136
     ]
   },
   {
@@ -2786,11 +2795,11 @@
     "id": 11614,
     "icon": "synchro",
     "name": "Ultimaya Tzolkin",
-    "oldText": "(This card's original Level is always treated as 12.)\nCannot be Synchro Summoned. Must be Special Summoned (from your Extra Deck) by sending 2 Level 5 or higher monsters you control with the same Level to the GY (1 Tuner and 1 non-Tuner). Once per turn, when a Spell/Trap Card(s) is Set on your field (except during the Damage Step): You can Special Summon 1 \"Power Tool\" Synchro Monster or 1 Level 7 or 8 Dragon Synchro Monster from your Extra Deck. While you control another Synchro Monster, monsters cannot target this card for attacks, also your opponent cannot target it with card effects.",
-    "newText": "(This card's original Level is always treated as 12.)\nCannot be Synchro Summoned. Must be Special Summoned (from your Extra Deck) by sending 2 Level 5 or higher monsters you control with the same Level to the GY (1 Tuner and 1 non-Tuner). Once per turn, when a Spell/Trap Card(s) is Set on your field (except during the Damage Step): You can Special Summon 1 \"Power Tool\" Synchro Monster or 1 Level 7 or 8 Dragon Synchro Monster from your Extra Deck. While you control another Synchro Monster, monsters cannot target this card for attacks, also neither player can target it with card effects.",
+    "oldText": "(This card's original Level is always treated as 12.)\nCannot be Synchro Summoned. Must be Special Summoned (from your Extra Deck) by sending 2 Level 5 or higher monsters you control with the same Level to the GY (1 Tuner and 1 non-Tuner). Once per turn, when a Spell/Trap(s) is Set on your field (except during the Damage Step): You can Special Summon 1 \"Power Tool\" Synchro Monster or 1 Level 7 or 8 Dragon Synchro Monster from your Extra Deck. While you control another Synchro Monster, monsters cannot target this card for attacks, also your opponent cannot target it with card effects.",
+    "newText": "(This card's original Level is always treated as 12.)\nCannot be Synchro Summoned. Must be Special Summoned (from your Extra Deck) by sending 2 Level 5 or higher monsters you control with the same Level to the GY (1 Tuner and 1 non-Tuner). Once per turn, when a Spell/Trap(s) is Set on your field (except during the Damage Step): You can Special Summon 1 \"Power Tool\" Synchro Monster or 1 Level 7 or 8 Dragon Synchro Monster from your Extra Deck. While you control another Synchro Monster, monsters cannot target this card for attacks, also neither player can target it with card effects.",
     "author": "gallantron",
-    "lastPrint": "2020-06-15",
-    "lastUpdated": "2021-01-17",
+    "lastPrint": "2021-11-19",
+    "lastUpdated": "2021-11-19",
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11614&request_locale=ja",
@@ -2798,6 +2807,15 @@
         "date": "2021-01-17",
         "desc": "In the Official Card Game, neither player can target Ultimaya Tzolkin with card effects."
       }
+    ],
+    "customDiffData": [
+      540,
+      [
+        27,
+        25,
+        true
+      ],
+      22
     ]
   },
   {
@@ -4120,7 +4138,7 @@
     "oldText": "Neither player can Summon more than two times per turn. (Negated Summons count toward this limit. Negated cards/effects that would Summon do not count.)",
     "newText": "Neither player can Summon more than two times per turn.",
     "author": "gallantron",
-    "lastPrint": "2019-07-12",
+    "lastPrint": "2021-11-19",
     "lastUpdated": "2021-06-27",
     "references": [
       {
@@ -4231,30 +4249,27 @@
     "id": 10266,
     "icon": "xyz",
     "name": "Number 9: Dyson Sphere",
-    "oldText": "2 Level 9 monsters\nOnce per Battle Step, during your opponent's turn, if this card with Xyz Material is attacked: Negate the attack (this is a Quick Effect). When this card is targeted for an attack while it has no Xyz Materials: You can target 2 monsters in your Graveyard; attach those targets to this card as Xyz Materials. During your Main Phase 1: You can detach 1 Xyz Material from this card; this card can attack your opponent directly this turn. Your opponent must control a monster with higher ATK than this card for you to activate and to resolve this effect.",
-    "newText": "2 Level 9 monsters\nOnce per battle, during your opponent's Battle Step, if this card with material is being attacked (Quick Effect): You can negate the attack. If this card is targeted for an attack, while it has no material: You can target 2 monsters in your GY; attach those targets to this card as materials. During your Main Phase 1, if your opponent controls a monster with higher ATK than this card: You can detach 1 material from this card; this card can attack your opponent directly this turn.",
+    "oldText": "2 Level 9 monsters\nDuring your Main Phase 1, if your opponent controls a monster with higher ATK than this card: You can detach 1 material from this card; this card can attack directly this turn. Once per Battle Step, if this card with material is attacked (Quick Effect): You can negate that attack. When this card is targeted for an attack while it has no material: You can target 2 monsters in your GY; attach those monsters to this card as material.",
+    "newText": "2 Level 9 monsters\nDuring your Main Phase 1, if your opponent controls a monster with higher ATK than this card: You can detach 1 material from this card; this card can attack directly this turn. Once per battle, during the Battle Step, if this card with material is being attacked (Quick Effect): You can negate that attack. When this card is targeted for an attack while it has no material: You can target 2 monsters in your GY; attach those monsters to this card as material.",
     "author": "gallantron",
-    "lastPrint": "2012-11-09",
-    "lastUpdated": "2021-07-04",
+    "lastPrint": "2021-11-19",
+    "lastUpdated": "2021-11-19",
     "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10266&request_locale=ja",
-        "title": "Number 9: Dyson Sphere",
-        "date": "2021-06-27",
-        "desc": "In the Official Card Game, the effect of Number 9: Dyson Sphere that negates attacks is optional to activate."
-      },
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12452&request_locale=ja",
         "title": "Q&A #12452",
         "date": "2021-06-27",
         "desc": "In the Official Card Game, the effect of Number 9: Dyson Sphere can be activated each time an opponent's monster attacks Number 9: Dyson Sphere. This is true even if the preceding attack was negated, and the Battle Step thus never ended."
-      },
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10266&request_locale=ja",
-        "title": "Number 9: Dyson Sphere",
-        "date": "2021-06-27",
-        "desc": "In the Official Card Game, the opponent does not need to control a higher ATK monster in order for Number 9: Dyson Sphere's effect that allows it to attack directly to be applied."
       }
+    ],
+    "customDiffData": [
+      196,
+      [
+        60,
+        85,
+        true
+      ],
+      197
     ]
   },
   {
@@ -4360,7 +4375,7 @@
     "oldText": "During your Main Phase, send 1 \"Numeron\" Normal Spell Card that meets its activation conditions from your Deck to the GY; this effect becomes that Spell's effect when that card is activated. You can only use this effect of \"Numeron Network\" once per turn. \"Numeron\" Xyz Monsters you control can activate effects without detaching material(s).",
     "newText": "During your Main Phase, you can: send 1 \"Numeron\" Normal Spell Card that meets its activation conditions from your Deck to the GY; this effect becomes that Spell's effect when that card is activated. You can only use this effect of \"Numeron Network\" once per turn. \"Numeron\" Xyz Monsters you control can activate effects without detaching material(s).",
     "author": "gallantron",
-    "lastPrint": "2020-07-24",
+    "lastPrint": "2021-11-19",
     "lastUpdated": "2021-06-28",
     "references": [
       {
@@ -4654,7 +4669,7 @@
     "oldText": "If you control a Spellcaster monster: Target 1 monster you control; Tribute that target, then Special Summon 1 Spellcaster monster from your hand, then you can destroy 1 monster on the field.",
     "newText": "If you control a Spellcaster monster: Target 1 monster you control; Tribute that target, and if you do, Special Summon 1 Spellcaster monster from your hand, then you can destroy 1 monster on the field.",
     "author": "gallantron",
-    "lastPrint": "2019-04-19",
+    "lastPrint": "2021-11-19",
     "lastUpdated": "2021-07-10",
     "references": [
       {
@@ -4906,7 +4921,7 @@
     "oldText": "\"Prank-Kids Lampsies\" + \"Prank-Kids Dropsies\" + \"Prank-Kids Fansies\"\nMust be Fusion Summoned. (Quick Effect): You can Tribute this card; destroy all monsters your opponent controls. If this card in your possession is sent to your GY by your opponent's card: You can target 1 non-Fusion Monster in your GY; Special Summon it. You can only use this effect of \"Prank-Kids Battle Butler\" once per turn.",
     "newText": "\"Prank-Kids Lampsies\" + \"Prank-Kids Dropsies\" + \"Prank-Kids Fansies\"\nMust be Fusion Summoned. (Quick Effect): You can Tribute this card; destroy all monsters your opponent controls. If this card in your possession is sent to your GY by your opponent: You can target 1 non-Fusion Monster in your GY; Special Summon it. You can only use this effect of \"Prank-Kids Battle Butler\" once per turn.",
     "author": "gallantron",
-    "lastPrint": "2018-11-16",
+    "lastPrint": "2021-11-19",
     "lastUpdated": "2021-07-26",
     "references": [
       {
