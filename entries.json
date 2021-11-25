@@ -7016,5 +7016,46 @@
         false
       ]
     ]
+  },
+  {
+    "id": 5316,
+    "icon": "effect",
+    "name": "Freed the Matchless General",
+    "oldText": "Negate any Spell effect that targets this card on the field when it resolves, and if you do, destroy that card. During your Draw Phase, instead of conducting your normal draw: You can add 1 Level 4 or lower Warrior monster from your Deck to your hand. This card must be face-up on the field to activate and to resolve this effect.",
+    "newText": "Negate any Spell effect that targets this card on the field when it resolves, and if you do, destroy that card. During your Draw Phase, before you draw: You can give up your normal draw this turn, and if you do, add 1 Level 4 or lower Warrior monster from your Deck to your hand. This card must be face-up on the field to activate and to resolve this effect.",
+    "author": "gallantron",
+    "lastPrint": "2020-11-26",
+    "lastUpdated": "2021-11-25",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8169&request_locale=ja",
+        "title": "Q&A #8169",
+        "date": "2021-11-25",
+        "desc": "In the Official Card Game, if Freed the Matchless General's effect is negated, the player can still conduct their normal draw."
+      }
+    ],
+    "customDiffData": [
+      136,
+      [
+        39,
+        16,
+        true
+      ],
+      [
+        155,
+        9,
+        false
+      ],
+      [
+        0,
+        51,
+        true
+      ],
+      [
+        0,
+        146,
+        false
+      ]
+    ]
   }
 ]
