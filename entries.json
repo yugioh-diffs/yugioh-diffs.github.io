@@ -6981,5 +6981,40 @@
       ],
       275
     ]
+  },
+  {
+    "id": 6753,
+    "icon": "effect",
+    "name": "Destiny HERO - Dasher",
+    "oldText": "Once per turn: You can Tribute 1 other monster; this card gains 1000 ATK until the End Phase. If this card attacks, change it to Defense Position at the end of the Battle Phase. One time only, when you draw a Monster Card during your Draw Phase while this card is in your Graveyard: You can reveal it; Special Summon it. This card must be in the Graveyard to activate and to resolve this effect.",
+    "newText": "Once per turn: You can Tribute 1 other monster; this card gains 1000 ATK until the End Phase. If this card attacks, change it to Defense Position at the end of the Battle Phase. Once while in the GY, when you draw a monster during your Draw Phase: You can show it to your opponent; Special Summon it. This card must be in the GY to activate and to resolve this effect.",
+    "author": "gallantron",
+    "lastPrint": "2011-10-04",
+    "lastUpdated": "2021-11-25",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23439&request_locale=ja",
+        "title": "Q&A #23439",
+        "date": "2021-11-25",
+        "desc": "In the Official Card Game, the effect of Destiny HERO - Dasher can be activated even if the player's hand is already revealed."
+      }
+    ],
+    "customDiffData": [
+      [
+        291,
+        256,
+        false
+      ],
+      [
+        9,
+        24,
+        true
+      ],
+      [
+        95,
+        88,
+        false
+      ]
+    ]
   }
 ]
