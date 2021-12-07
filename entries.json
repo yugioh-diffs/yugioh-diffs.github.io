@@ -972,8 +972,8 @@
   },
   {
     "id": 11843,
-    "oldText": "Fusion Summon 1 Fusion Monster that lists a \"Red-Eyes\" monster as material from your Extra Deck, using monsters from your hand, Deck, or field as Fusion Materials, and if you do, its name becomes \"Red-Eyes Black Dragon\". You cannot Normal or Special Summon other monsters the turn you activate this card. You can only activate 1 \"Red-Eyes Fusion\" per turn.",
-    "newText": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand, Deck, or field as Fusion Materials, including a \"Red-Eyes\" monster that it lists as material, and if you do, its name becomes \"Red-Eyes Black Dragon\". You cannot Normal or Special Summon other monsters the turn you activate this card. You can only activate 1 \"Red-Eyes Fusion\" per turn.",
+    "oldText": "Fusion Summon 1 Fusion Monster that lists a \"Red-Eyes\" monster as material from your Extra Deck, using monsters from your hand, Deck, or field as Fusion Material, and if you do, its name becomes \"Red-Eyes Black Dragon\". You cannot Normal or Special Summon other monsters the turn you activate this card. You can only activate 1 \"Red-Eyes Fusion\" per turn.",
+    "newText": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand, Deck, or field as Fusion Material, including a \"Red-Eyes\" monster that it lists as material, and if you do, its name becomes \"Red-Eyes Black Dragon\". You cannot Normal or Special Summon other monsters the turn you activate this card. You can only activate 1 \"Red-Eyes Fusion\" per turn.",
     "author": "gallantron",
     "references": [
       {
@@ -991,7 +991,7 @@
     ],
     "name": "Red-Eyes Fusion",
     "lastUpdated": "2021-04-05",
-    "lastPrint": "2020-07-03",
+    "lastPrint": "2021-12-03",
     "icon": "spell"
   },
   {
@@ -7056,6 +7056,24 @@
         146,
         false
       ]
+    ]
+  },
+  {
+    "id": 13787,
+    "icon": "trap",
+    "name": "Cybernetic Overflow",
+    "oldText": "Banish \"Cyber Dragon(s)\" with different Levels from your hand, face-up field, and/or GY, then destroy an equal number of cards your opponent controls. If this card on the field is destroyed by card effect: Add 1 \"Cyber\" Spell/Trap from your Deck to your hand. You can only use each effect of \"Cybernetic Overflow\" once per turn.",
+    "newText": "Banish \"Cyber Dragon(s)\" with different Levels from your hand, face-up field, and/or GY, then destroy an equal number of cards your opponent controls. If this card on the field is destroyed by card effect: You can add 1 \"Cyber\" Spell/Trap from your Deck to your hand. You can only use each effect of \"Cybernetic Overflow\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2021-10-15",
+    "lastUpdated": "2021-12-07",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13787&request_locale=ja",
+        "title": "Card FAQ – Cybernetic Overflow",
+        "date": "2021-12-07",
+        "desc": "In the Official Card Game, the effect of Cybernetic Overflow that adds a \"Cyber\" Spell/Trap to the hand is optional to activate."
+      }
     ]
   }
 ]
