@@ -7075,5 +7075,41 @@
         "desc": "In the Official Card Game, the effect of Cybernetic Overflow that adds a \"Cyber\" Spell/Trap to the hand is optional to activate."
       }
     ]
+  },
+  {
+    "id": 16406,
+    "icon": "spell",
+    "name": "Doctor D",
+    "oldText": "Banish 1 \"Destiny HERO\" monster from your GY; add to your hand or Special Summon 1 \"Destiny HERO\" monster from your GY. You can banish this card from your GY, then target 2 \"Destiny HERO\" monsters you control; choose 1 of those monsters, its ATK becomes the other monster's ATK, until the end of this turn.",
+    "newText": "Banish 1 \"Destiny HERO\" monster from your GY; add to your hand or Special Summon 1 \"Destiny HERO\" monster from your GY. You can banish this card from your GY, then target 2 \"Destiny HERO\" monsters you control; choose 1 of those monsters, and its ATK becomes the other monster's ATK.",
+    "author": "gallantron",
+    "lastPrint": "2021-12-03",
+    "lastUpdated": "2021-12-10",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16406&request_locale=ja",
+        "title": "Card FAQ – Doctor D",
+        "date": "2021-12-10",
+        "desc": "In the Official Card Game, the ATK change caused by Doctor D's effect in the GY is permanent."
+      }
+    ]
+  },
+  {
+    "id": 16431,
+    "icon": "spell",
+    "name": "Toy Parade",
+    "oldText": "(This card is always treated as a \"Frightfur\" card.)\nTarget 1 DARK monster you control Special Summoned from the Extra Deck; for the rest of this turn, you cannot declare attacks except with that monster, also each time that monster destroys a monster by battle and sends it to the GY, it can attack again in a row. If you control a Fairy monster, except the turn this card was sent to the GY: You can banish this card from your GY; add 1 Level 4 or lower DARK monster from your GY to your hand. You can only use 1 \"Toy Parade\" effect per turn, and only once that turn.",
+    "newText": "(This card is always treated as a \"Frightfur\" card.)\nTarget 1 DARK monster you control Special Summoned from the Extra Deck; for the rest of this turn, you cannot declare attacks except with that monster, also each time that monster destroys a monster by battle and sends it to the GY, it can attack again in a row. If you control a Fairy monster: You can banish this card from your GY; add 1 Level 4 or lower DARK monster from your GY to your hand. You can only use 1 \"Toy Parade\" effect per turn, and only once that turn.",
+    "author": "gallantron",
+    "lastPrint": "2021-12-03",
+    "lastUpdated": "2021-12-10",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16431&request_locale=ja",
+        "title": "Card FAQ – Toy Parade",
+        "date": "2021-12-10",
+        "desc": "In the Official Card Game, the effect of Toy Parade in the GY can be activated during the same turn it was sent there."
+      }
+    ]
   }
 ]

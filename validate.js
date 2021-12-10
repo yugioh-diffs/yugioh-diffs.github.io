@@ -81,7 +81,7 @@ document.addEventListener('DOMContentLoaded', () =>
                         canvas.width = 200;
                         canvas.height = 150;
                         const ctx = canvas.getContext('2d');
-                        ctx.drawImage(img, 0, 30, 200, 150, 0, 0, 200, 150);
+                        ctx.drawImage(img, 0, (img.height/290)*30, img.width, (img.height/290)*150, 0, 0, 200, 150);
                         
                         imageQueue.push([entry.id, canvas]);
                         document.getElementById('img').disabled = false;
