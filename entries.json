@@ -7255,5 +7255,32 @@
         false
       ]
     ]
+  },
+  {
+    "id": 13367,
+    "icon": "effect",
+    "name": "F.A. Turbo Charger",
+    "oldText": "Gains ATK equal to its Level x 300. Your opponent's monsters whose original Level/Rank is lower than this card's Level cannot target monsters for attacks, except this one. Your opponent cannot target monsters, except this one, with the effects of monsters whose original Level/Rank is lower than this card's Level. Each time a \"F.A.\" Spell/Trap Card or effect is activated: You can increase this card's Level by 1. If your \"F.A.\" monster battles while you control this Level 7 or higher card, your opponent's monsters cannot activate their effects until the end of the Damage Step.",
+    "newText": "Gains ATK equal to its Level x 300. Your opponent's monsters whose original Level/Rank is lower than this card's Level cannot target monsters for attacks, except this one. Your opponent cannot target cards, except this one, with the effects of monsters whose original Level/Rank is lower than this card's Level. Each time a \"F.A.\" Spell/Trap Card or effect is activated: You can increase this card's Level by 1. If your \"F.A.\" monster battles while you control this Level 7 or higher card, your opponent's monsters cannot activate their effects until the end of the Damage Step.",
+    "author": "gallantron",
+    "lastPrint": "2018-08-31",
+    "lastUpdated": "2021-12-17",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22106&request_locale=ja",
+        "title": "Q&A #22106",
+        "date": "2021-12-17",
+        "desc": "In the Official Card Game, the effect of F.A. Turbo Charger also prevents Spells/Traps from being targeted by the effects of monsters with a lower original Level/Rank."
+      }
+    ],
+    "customDiffData": [
+      200,
+      [
+        8,
+        5,
+        true
+      ],
+      373
+    ]
   }
 ]
