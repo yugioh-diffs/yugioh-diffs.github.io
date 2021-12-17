@@ -7224,5 +7224,36 @@
       ],
       52
     ]
+  },
+  {
+    "id": 7315,
+    "icon": "spell",
+    "name": "\"A\" Cell Incubator",
+    "oldText": "Each time an A-Counter(s) is removed from play by a card effect, place 1 A-Counter on this card. When this card is destroyed, distribute the A-Counters on this card among face-up monsters.",
+    "newText": "Each time an A-Counter(s) is removed from a card on the field, place 1 A-Counter on this card. If this card is destroyed: Distribute A-Counters among face-up monsters on the field, equal to the number of A-Counters this card had on the field.",
+    "author": "gallantron",
+    "lastPrint": "2007-11-14",
+    "lastUpdated": "2021-12-17",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7315&request_locale=ja",
+        "title": "Card FAQ – \"A\" Cell Incubator",
+        "date": "2021-12-17",
+        "desc": "In the Official Card Game, an A-Counter will also be placed on \"A\" Cell Incubator if A-Counter(s) are removed as a cost."
+      }
+    ],
+    "customDiffData": [
+      37,
+      [
+        26,
+        24,
+        true
+      ],
+      [
+        125,
+        181,
+        false
+      ]
+    ]
   }
 ]
