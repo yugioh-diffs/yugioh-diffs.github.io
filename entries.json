@@ -7158,5 +7158,38 @@
         false
       ]
     ]
+  },
+  {
+    "id": 11022,
+    "icon": "spell",
+    "name": "Rank-Up-Magic Argent Chaos Force",
+    "oldText": "Target 1 Rank 5 or higher Xyz Monster you control; Special Summon from your Extra Deck, 1 \"Number C\" or \"CXyz\" monster that is 1 Rank higher than that monster you control, by using that target as material. (This is treated as an Xyz Summon. Transfer its materials to the Summoned monster.) When a Rank 5 or higher Xyz Monster(s) is Special Summoned to your field while this card is in your GY (except during the Damage Step): You can add this card to your hand. You can only use this effect of \"Rank-Up-Magic Argent Chaos Force\" once per Duel.",
+    "newText": "Target 1 Rank 5 or higher Xyz Monster you control; Special Summon from your Extra Deck, 1 \"Number C\" or \"CXyz\" monster that is 1 Rank higher, by using that monster you control as material. (This is treated as an Xyz Summon. Transfer its materials to the Summoned monster.) When a Rank 5 or higher Xyz Monster(s) is Special Summoned to your field while this card is in your GY (except during the Damage Step): You can add this card to your hand. You can only use this effect of \"Rank-Up-Magic Argent Chaos Force\" once per Duel.",
+    "author": "gallantron",
+    "lastPrint": "2021-12-03",
+    "lastUpdated": "2021-12-17",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11022&request_locale=ja",
+        "title": "Card FAQ – Rank-Up-Magic Argent Chaos Force",
+        "date": "2021-12-17",
+        "desc": "In the Official Card Game, even if the targeted Xyz Monster is no longer Rank 5 or higher, Rank-Up-Magic Argent Chaos Force's effect will still perform the Special Summon."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15551&request_locale=en",
+        "title": "Virtual World Gate - Chuche",
+        "date": "2021-12-17",
+        "desc": "Virtual World Gate - Chuche's effect is one way by which the Xyz Monster's Rank might change before resolution."
+      }
+    ],
+    "customDiffData": [
+      140,
+      [
+        52,
+        35,
+        true
+      ],
+      351
+    ]
   }
 ]
