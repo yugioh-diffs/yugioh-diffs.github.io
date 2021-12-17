@@ -7191,5 +7191,38 @@
       ],
       351
     ]
+  },
+  {
+    "id": 5424,
+    "icon": "effect",
+    "name": "Dice Jar",
+    "oldText": "FLIP: Both players roll a six-sided die. The player with the lower result takes damage equal to their opponent's roll x 500. However, if the winner rolled a 6, the loser takes 6000 damage. If the rolls are the same, both players roll again.",
+    "newText": "FLIP: Both players roll a six-sided die. If the player with the higher roll rolled a 2, 3, 4, or 5, inflict damage equal to the roll x 500 to their opponent. If the player with the higher roll rolled a 6, inflict 6000 damage to their opponent. If the rolls are the same, both players roll again.",
+    "author": "gallantron",
+    "lastPrint": "2013-10-11",
+    "lastUpdated": "2021-12-17",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5424&request_locale=ja",
+        "title": "Card FAQ – Dice Jar",
+        "date": "2021-12-17",
+        "desc": "In the Official Card Game, Dice Jar's effect will only inflict damage if the winner's roll is between 2 and 6, inclusive."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13824&request_locale=en",
+        "title": "Number 67: Pair-a-Dice Smasher",
+        "date": "2021-12-17",
+        "desc": "The effect of Number 67: Pair-a-Dice Smasher is one way that the winner's roll might not be in that range."
+      }
+    ],
+    "customDiffData": [
+      41,
+      [
+        147,
+        202,
+        true
+      ],
+      52
+    ]
   }
 ]
