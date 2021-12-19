@@ -7312,5 +7312,23 @@
         "desc": "If a monster is Special Summoned from the Extra Deck in face-down Defense Position, that monster is still considered to have been Special Summoned from the Extra Deck.\nOnly if a monster is flipped face-down after having been Special Summoned from the Extra Deck, that monster is no longer considered to have been Special Summoned from the Extra Deck."
       }
     ]
+  },
+  {
+    "id": 13448,
+    "icon": "trap",
+    "name": "Dai Dance",
+    "oldText": "Choose 1 opponent's unused Main Monster Zone; if your opponent would Normal or Special Summon a monster to their Main Monster Zone, and the chosen zone can be used, they must use that zone. (They cannot Summon multiple monsters to their Main Monster Zones while this effect is applied.) This effect applies until the zone is occupied or becomes unusable. You can only apply the effect of \"Dai Dance\" once per Duel.",
+    "newText": "Choose 1 opponent's unused Main Monster Zone; if your opponent would Normal or Special Summon a monster to a Main Monster Zone, and the chosen zone can be used, they must use that zone. (They cannot Summon multiple monsters to Main Monster Zones while this effect is applied.) This effect applies until the zone is occupied or becomes unusable. You can only apply the effect of \"Dai Dance\" once per Duel.",
+    "author": "gallantron",
+    "lastPrint": "2018-08-31",
+    "lastUpdated": "2021-12-19",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21477&request_locale=ja",
+        "title": "Q&A #21477",
+        "date": "2021-12-19",
+        "desc": "In the Official Card Game, the opponent cannot Summon monsters to either player's Main Monster Zone, except the Zone chosen by Dai Dance."
+      }
+    ]
   }
 ]
