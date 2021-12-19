@@ -7282,5 +7282,35 @@
       ],
       373
     ]
+  },
+  {
+    "id": 12626,
+    "icon": "ritual",
+    "name": "Cyber Angel Vrash",
+    "oldText": "You can Ritual Summon this card with \"Machine Angel Ritual\". If this card is Ritual Summoned: You can destroy as many face-up monsters your opponent controls as possible that were Special Summoned from the Extra Deck, and if you do, inflict 1000 damage to your opponent for each, and if you do that, this card can make a second attack during each Battle Phase this turn. Once per turn, during either player's turn, when a card or effect is activated that would destroy a card on the field: You can shuffle 1 Ritual Monster from your Graveyard into the Deck; negate the activation, and if you do, destroy that card.",
+    "newText": "You can Ritual Summon this card with \"Machine Angel Ritual\". If this card is Ritual Summoned: You can destroy as many monsters your opponent controls as possible that were Special Summoned from the Extra Deck, and if you do, inflict 1000 damage to your opponent for each, and if you do that, this card can make a second attack during each Battle Phase this turn. Once per turn, when a card or effect is activated that would destroy a card on the field (Quick Effect): You can shuffle 1 Ritual Monster from your GY into the Deck; negate the activation, and if you do, destroy that card.",
+    "author": "gallantron",
+    "lastPrint": "2017-05-26",
+    "lastUpdated": "2021-12-19",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12626&request_locale=ja",
+        "title": "Cyber Angel Vrash",
+        "date": "2021-09-01",
+        "desc": "In the Official Card Game, Cyber Angel Vrash's effect will still destroy a monster that was Special Summoned from the Extra Deck in face-down Defense Position."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12642&request_locale=en",
+        "title": "Toadally Awesome",
+        "date": "2021-09-01",
+        "desc": "Toadally Awesome's effect responding to the activation of a Pendulum Monster Card's effect on the field is one example of how a card can be Special Summoned from the Extra Deck in face-down Defense Position."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23330&request_locale=ja",
+        "title": "Q&A #23330",
+        "date": "2021-09-01",
+        "desc": "If a monster is Special Summoned from the Extra Deck in face-down Defense Position, that monster is still considered to have been Special Summoned from the Extra Deck.\nOnly if a monster is flipped face-down after having been Special Summoned from the Extra Deck, that monster is no longer considered to have been Special Summoned from the Extra Deck."
+      }
+    ]
   }
 ]
