@@ -7330,5 +7330,46 @@
         "desc": "In the Official Card Game, the opponent cannot Summon monsters to either player's Main Monster Zone, except the Zone chosen by Dai Dance."
       }
     ]
+  },
+  {
+    "id": 11549,
+    "icon": "effect",
+    "name": "Spiritual Beast Rampengu",
+    "oldText": "Once per turn: You can banish 1 \"Ritual Beast\" monster from your Extra Deck and send 1 \"Ritual Beast\" monster with the same Type as that monster from your Deck to the Graveyard. You can only Special Summon \"Spiritual Beast Rampengu(s)\" once per turn.",
+    "newText": "Once per turn: You can banish 1 \"Ritual Beast\" monster from your Extra Deck, and if you do, send 1 \"Ritual Beast\" monster with the same Type as that monster from your Deck to the GY. You can only Special Summon \"Spiritual Beast Rampengu(s)\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2015-10-23",
+    "lastUpdated": "2021-12-22",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14319&request_locale=ja",
+        "title": "Q&A #14319",
+        "date": "2021-12-22",
+        "desc": "In the Official Card Game, even if the \"Ritual Beast\" monster from the Deck will not reach the GY, a \"Ritual Beast\" monster from the Extra Deck is still banished."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15286&request_locale=en",
+        "title": "Nadir Servant",
+        "date": "2021-12-22",
+        "desc": "Nadir Servant is another card with a comparable effect."
+      }
+    ],
+    "customDiffData": [
+      [
+        76,
+        77,
+        false
+      ],
+      [
+        3,
+        14,
+        true
+      ],
+      [
+        171,
+        164,
+        false
+      ]
+    ]
   }
 ]
