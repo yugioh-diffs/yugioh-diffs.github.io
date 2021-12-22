@@ -7371,5 +7371,32 @@
         false
       ]
     ]
+  },
+  {
+    "id": 6007,
+    "icon": "spell",
+    "name": "Marshmallon Glasses",
+    "oldText": "While \"Marshmallon\" is in your Monster Zone, your opponent cannot target monsters other than \"Marshmallon\" for attacks.",
+    "newText": "While \"Marshmallon\" is in your Monster Zone, monsters your opponent controls can only target \"Marshmallon\" for attacks.",
+    "author": "gallantron",
+    "lastPrint": "2015-11-13",
+    "lastUpdated": "2021-12-22",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6007&request_locale=ja",
+        "title": "Card FAQ – Marshmallon Glasses",
+        "date": "2021-12-22",
+        "desc": "In the Official Card Game, Marshmallon Glasses also prevents monsters from selecting a player as an attack target."
+      }
+    ],
+    "customDiffData": [
+      45,
+      [
+        61,
+        61,
+        true
+      ],
+      13
+    ]
   }
 ]
