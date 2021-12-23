@@ -7470,5 +7470,50 @@
       ],
       65
     ]
+  },
+  {
+    "id": 8700,
+    "icon": "effect",
+    "name": "Transforming Sphere",
+    "oldText": "Once per turn: You can target 1 face-up Defense Position monster your opponent controls; discard 1 card and equip that target to this card. (You can only equip 1 monster at a time to this card with this effect.) This card gains the ATK of the equipped monster. If this card attacks, it is changed to Defense Position at the end of the Battle Phase. During the End Phase: The monster equipped to this card by this card's effect is Special Summoned to your opponent's side of the field in face-up Defense Position.",
+    "newText": "If this card attacks, it is changed to Defense Position at the end of the Battle Phase. Once per turn: You can target 1 face-up Defense Position monster your opponent controls; discard 1 card, and if you do, equip that monster to this card (max. 1). This card gains ATK equal to that equipped monster's. Once per turn, during the End Phase: Special Summon that equipped monster to your opponent's field in Defense Position.",
+    "author": "gallantron",
+    "lastPrint": "2011-08-04",
+    "lastUpdated": "2021-12-23",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9611&request_locale=ja",
+        "title": "Q&A #9611",
+        "date": "2021-12-23",
+        "desc": "In the Official Card Game, the targeted monster is equipped to Transforming Sphere even if it is no longer face-up at resolution."
+      }
+    ],
+    "customDiffData": [
+      [
+        114,
+        0,
+        false
+      ],
+      [
+        11,
+        87,
+        true
+      ],
+      [
+        136,
+        127,
+        false
+      ],
+      [
+        87,
+        12,
+        true
+      ],
+      [
+        164,
+        197,
+        false
+      ]
+    ]
   }
 ]
