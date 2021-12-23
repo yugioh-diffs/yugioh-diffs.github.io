@@ -4829,23 +4829,30 @@
     "icon": "xyz",
     "name": "D/D/D Duo-Dawn King Kali Yuga",
     "oldText": "2 Level 8 \"D/D\" monsters\nAfter this card is Xyz Summoned, for the rest of this turn, other cards and their effects cannot be activated on the field, and other cards' effects on the field are negated. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card; destroy all Spell and Trap Cards on the field. You can detach 1 Xyz Material from this card, then target 1 \"Dark Contract\" Spell/Trap Card in your Graveyard; Set that target.",
-    "newText": "2 Level 8 \"D/D\" monsters\nAfter this card is Xyz Summoned, for the rest of this turn, other cards already on the field, and their effects, cannot be activated, and all other cards' effects on the field are negated. Once per turn (Quick Effect): You can detach 1 material from this card; destroy all Spells and Traps on the field. You can detach 1 material from this card, then target 1 \"Dark Contract\" Spell/Trap in your GY; Set that target.",
+    "newText": "2 Level 8 \"D/D\" monsters\nAfter this card is Xyz Summoned, for the rest of this turn, all other cards' effects on the field are negated, and neither player can activate the effects of other cards that are on the field, or activate Set Spells/Traps. Once per turn (Quick Effect): You can detach 1 material from this card; destroy all Spells and Traps on the field. You can detach 1 material from this card, then target 1 \"Dark Contract\" Spell/Trap in your GY; Set that target.",
     "author": "gallantron",
     "lastPrint": "2017-03-10",
-    "lastUpdated": "2021-07-26",
+    "lastUpdated": "2021-12-23",
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11994&request_locale=ja",
         "title": "Card FAQ – D/D/D Duo-Dawn King Kali Yuga",
         "date": "2021-07-26",
         "desc": "In the Official Card Game, the effect of D/D/D Duo-Dawn King Kali Yuga does not prevent cards from being activated from the hand."
-      },
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11708&request_locale=en",
-        "title": "Ghost Ogre & Snow Rabbit",
-        "date": "2021-07-26",
-        "desc": "Ghost Ogre & Snow Rabbit is a comparable card that uses \"cards (...) already on the field\"."
       }
+    ],
+    "customDiffData": [
+      85,
+      [
+        114,
+        162,
+        true
+      ],
+      [
+        265,
+        227,
+        false
+      ]
     ]
   },
   {
