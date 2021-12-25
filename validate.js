@@ -75,7 +75,7 @@ document.addEventListener('DOMContentLoaded', () =>
                     {
                         LOG('Getting artwork for: #'+entry.id);
                         const img = new Image();
-                        img.src = ('https://db.ygorganization.com/artwork/'+entry.id+'/'+dbEntry.artworks[0]);
+                        img.src = ('https://db.ygorganization.com/artwork/card/'+entry.id+'/'+dbEntry.artworks[0]);
                         await img.decode();
                         const canvas = document.createElement('canvas');
                         canvas.width = 200;
