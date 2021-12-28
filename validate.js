@@ -78,10 +78,10 @@ document.addEventListener('DOMContentLoaded', () =>
                         img.src = ('https://db.ygorganization.com/artwork/card/'+entry.id+'/'+dbEntry.artworks[0]);
                         await img.decode();
                         const canvas = document.createElement('canvas');
-                        canvas.width = 200;
-                        canvas.height = 150;
+                        canvas.width = img.width;
+                        canvas.height = img.height*(150/290);
                         const ctx = canvas.getContext('2d');
-                        ctx.drawImage(img, 0, (img.height/290)*30, img.width, (img.height/290)*150, 0, 0, 200, 150);
+                        ctx.drawImage(img, 0, img.height*(30/290), canvas.width, canvas.height, 0, 0, canvas.width, canvas.height);
                         
                         imageQueue.push([entry.id, canvas]);
                         document.getElementById('img').disabled = false;

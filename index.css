@@ -167,6 +167,10 @@ body.has-data #about, body:not(.has-data) #data { display: none; }
 
 #data-artwork-container
 {
+    flex-basis: 200px;
+    flex-grow: 0;
+    flex-shrink: 1;
+    
     margin-left: auto;
     border-radius: 25px;
     
