@@ -7540,5 +7540,35 @@
         "desc": "In the Official Card Game, Millennium-Eyes Restrict's effect applies to monsters with the same original name as the equipped monster's, not the same current name."
       }
     ]
+  },
+  {
+    "id": 7522,
+    "icon": "effect",
+    "name": "Evil Dragon Ananta",
+    "oldText": "Cannot be Normal Summoned/Set. Must be Special Summoned by banishing all Reptile monsters you control and in your GY. This card's ATK/DEF become the number of monsters banished for its Special Summon x 600. Once per turn, during your End Phase: Target 1 card on the field; destroy that target.",
+    "newText": "Cannot be Normal Summoned/Set. Must be Special Summoned by banishing all Reptile monsters you control and in your GY. This card's ATK/DEF become the number of monsters banished for its Special Summon x 600. Once per turn, during your End Phase: Target 1 card on the field; destroy it. This monster must be face-up on your field to activate and to resolve this effect.",
+    "author": "gallantron",
+    "lastPrint": "2021-05-07",
+    "lastUpdated": "2022-01-01",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7522&request_locale=ja",
+        "title": "Card FAQ – Evil Dragon Ananta",
+        "date": "2022-01-01",
+        "desc": "In the Official Card Game, Evil Dragon Ananta must remain face-up on your field in order to destroy the targeted card."
+      }
+    ],
+    "customDiffData": [
+      [
+        293,
+        285,
+        false
+      ],
+      [
+        0,
+        82,
+        true
+      ]
+    ]
   }
 ]
