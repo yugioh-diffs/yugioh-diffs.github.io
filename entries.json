@@ -7576,5 +7576,29 @@
         true
       ]
     ]
+  },
+  {
+    "id": 13928,
+    "icon": "link",
+    "name": "Dinowrestler King T Wrextle",
+    "oldText": "2+ \"Dinowrestler\" monsters\nIf this card battles, your opponent cannot activate Spell/Trap Cards until the end of the Damage Step. Your opponent's monsters cannot target monsters for attacks, except this one. At the start of your opponent's Battle Phase: You can target 1 Attack Position monster your opponent controls; this Battle Phase, your opponent cannot attack with other monsters until that one has, and if it does not declare an attack, destroy it at the end of the Battle Phase.",
+    "newText": "2+ \"Dinowrestler\" monsters\nIf this card battles, your opponent cannot activate Spell/Trap Cards until the end of the Damage Step. Your opponent's monsters cannot target monsters for attacks, except this one. At the start of your opponent's Battle Phase: You can target 1 Attack Position monster your opponent controls; this Battle Phase, your opponent cannot declare attacks with other monsters until they have declared an attack with the targeted monster, also destroy it at the end of the Battle Phase if it did not declare an attack.",
+    "author": "gallantron",
+    "lastPrint": "2018-10-19",
+    "lastUpdated": "2022-01-04",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13928&request_locale=ja",
+        "title": "Card FAQ – Dinowrestler King T Wrextle",
+        "date": "2022-01-04",
+        "desc": "In the Official Card Game, the effect of Dinowrestler King T Wrextle refers to attack declarations, not attacks."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22018&request_locale=ja",
+        "title": "Q&A #22018",
+        "date": "2022-01-04",
+        "desc": "In the Official Card Game, even if the targeted monster's attack is negated by Magic Cylinder, attacks can still be declared with other monsters."
+      }
+    ]
   }
 ]
