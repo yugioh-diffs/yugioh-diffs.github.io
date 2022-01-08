@@ -7600,5 +7600,23 @@
         "desc": "In the Official Card Game, even if the targeted monster's attack is negated by Magic Cylinder, attacks can still be declared with other monsters."
       }
     ]
+  },
+  {
+    "id": 6167,
+    "icon": "effect",
+    "name": "Silent Magician LV4",
+    "oldText": "Each time your opponent draws a card(s), place 1 Spell Counter on this card (max. 5). This card gains 500 ATK for each Spell Counter on it. During the Standby Phase of your next turn after the 5th Spell Counter is placed on this card: You can send this face-up card with 5 Spell Counters on it to the Graveyard; Special Summon 1 \"Silent Magician LV8\" from your hand or Deck.",
+    "newText": "Each time your opponent draws a card(s), place 1 Spell Counter on this card (max. 5). This card gains 500 ATK for each Spell Counter on it. During the Standby Phase of your next turn after you place the 5th Spell Counter on this card: You can send this face-up card with 5 Spell Counters on it to the Graveyard; Special Summon 1 \"Silent Magician LV8\" from your hand or Deck.",
+    "author": "gallantron",
+    "lastPrint": "2016-10-07",
+    "lastUpdated": "2022-01-08",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13773&request_locale=ja",
+        "title": "Q&A #13773",
+        "date": "2022-01-08",
+        "desc": "In the Official Card Game, the effect of Silent Magician LV4 can only be activated by the player that placed the 5th Spell Counter on it."
+      }
+    ]
   }
 ]
