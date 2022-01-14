@@ -7618,5 +7618,23 @@
         "desc": "In the Official Card Game, the effect of Silent Magician LV4 can only be activated by the player that placed the 5th Spell Counter on it."
       }
     ]
+  },
+  {
+    "id": 9365,
+    "icon": "trap",
+    "name": "Musakani Magatama",
+    "oldText": "When your opponent activates a Spell/Trap Card, or monster effect, that destroys a card(s), while you control a \"Six Samurai\" monster: Negate the activation, and if you do, destroy it.",
+    "newText": "When your opponent activates a Spell/Trap Card or monster effect that would destroys a card(s), and you control a \"Six Samurai\" monster: Negate the activation, and if you do, destroy it.",
+    "author": "gallantron",
+    "lastPrint": "2017-11-17",
+    "lastUpdated": "2022-01-14",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10603&request_locale=ja",
+        "title": "Q&A #10603",
+        "date": "2022-01-14",
+        "desc": "In the Official Card Game, Musakani Magatama can be activated if a Spell/Trap Card or monster effect is activated that cannot currently resolve without attempting to destroy a card.\nThis is the behavior typically captured by the TCG qualifier \"would\". Contrast the qualifier \"includes\", which would allow Musakani Magatama to be activated in the scenario given."
+      }
+    ]
   }
 ]
