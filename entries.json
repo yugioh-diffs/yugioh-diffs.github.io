@@ -7636,5 +7636,23 @@
         "desc": "In the Official Card Game, Musakani Magatama can be activated if a Spell/Trap Card or monster effect is activated that cannot currently resolve without attempting to destroy a card.\nThis is the behavior typically captured by the TCG qualifier \"would\". Contrast the qualifier \"includes\", which would allow Musakani Magatama to be activated in the scenario given."
       }
     ]
+  },
+  {
+    "id": 6835,
+    "icon": "fusion",
+    "name": "Super Vehicroid - Stealth Union",
+    "oldText": "\"Truckroid\" + \"Expressroid\" + \"Drillroid\" + \"Stealthroid\"\nOnce per turn: You can target 1 face-up non-Machine monster on the field; equip that target to this card. While equipped with a monster by this effect, this card can attack all monsters your opponent controls, once each. If this card attacks, its original ATK is halved. If this card attacks a Defense Position monster, inflict piercing battle damage.",
+    "newText": "\"Truckroid\" + \"Expressroid\" + \"Drillroid\" + \"Stealthroid\"\nOnce per turn: You can target 1 face-up non-Machine monster on the field; equip that target to this card. While equipped with a monster by this effect, this card can attack all monsters your opponent controls, once each. If this card attacks, its original ATK is halved until the end of the Damage Step. If this card attacks a Defense Position monster, inflict piercing battle damage.",
+    "author": "gallantron",
+    "lastPrint": "2020-03-20",
+    "lastUpdated": "2022-01-15",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6835&request_locale=ja",
+        "title": "Card FAQ – Super Vehicroid - Stealth Union",
+        "date": "2022-01-15",
+        "desc": "In the Official Card Game, the effect of Super Vehicroid - Stealth Union that halves its ATK only applies for the duration of the Damage Step."
+      }
+    ]
   }
 ]
