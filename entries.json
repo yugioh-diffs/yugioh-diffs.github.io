@@ -7654,5 +7654,29 @@
         "desc": "In the Official Card Game, the effect of Super Vehicroid - Stealth Union that halves its ATK only applies for the duration of the Damage Step."
       }
     ]
+  },
+  {
+    "id": 16752,
+    "icon": "spell",
+    "name": "Fateful Adventure",
+    "oldText": "Once per turn, the first time a monster you control equipped with an Equip Spell would be destroyed by battle, it is not destroyed. You can only use each of the following effects of \"Fateful Adventure\" once per turn. During your Main Phase: You can add 1 monster that mentions \"Adventurer Token\" from your Deck to your hand, then send 1 card from your hand to the GY. If a monster(s) is Normal or Special Summoned: You can take 1 Equip Spell that mentions \"Adventurer Token\" from your Deck, and either add it to your hand or equip it to 1 \"Adventurer Token\" you control.",
+    "newText": "Once per turn, the first time a monster you control equipped with an Equip Card would be destroyed by battle, it is not destroyed. You can only use each of the following effects of \"Fateful Adventure\" once per turn. During your Main Phase: You can add 1 monster that mentions \"Adventurer Token\" from your Deck to your hand, then send 1 card from your hand to the GY. If a monster(s) is Normal or Special Summoned: You can take 1 Equip Spell that mentions \"Adventurer Token\" from your Deck, and either add it to your hand or equip it to 1 \"Adventurer Token\" you control.",
+    "author": "gallantron",
+    "lastPrint": "2022-01-28",
+    "lastUpdated": "2022-01-16",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16752&request_locale=ja",
+        "title": "Card FAQ – Fateful Adventure",
+        "date": "2022-01-16",
+        "desc": "In the Official Card Game, the effect of Fateful Adventure prevents a monster equipped with any Equip Card from being destroyed, even if that card is not an Equip Spell."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4657&request_locale=en",
+        "title": "Kunai with Chain",
+        "date": "2022-01-16",
+        "desc": "Kunai with Chain is one potential Equip Card that is not an Equip Spell."
+      }
+    ]
   }
 ]
