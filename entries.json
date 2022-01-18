@@ -7678,5 +7678,23 @@
         "desc": "Kunai with Chain is one potential Equip Card that is not an Equip Spell."
       }
     ]
+  },
+  {
+    "id": 16268,
+    "icon": "trap",
+    "name": "Stall Turn",
+    "oldText": "When a Spell/Trap Card, or monster effect, is activated that negates the Summon OR the activation of a Spell/Trap Card: Banish 3 cards from the top of your Deck, face-down; negate the activation, and if you do, shuffle that card into the Deck.",
+    "newText": "When a Spell/Trap Card, or monster effect, is activated that would negate a Summon, or the activation of a Spell/Trap Card: Banish 3 cards from the top of your Deck, face-down; negate the activation, and if you do, shuffle that card into the Deck.",
+    "author": "gallantron",
+    "lastPrint": "2021-08-13",
+    "lastUpdated": "2022-01-18",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16268&request_locale=ja",
+        "title": "Card FAQ – Stall Turn",
+        "date": "2022-01-18",
+        "desc": "In the Official Card Game, Stall Turn can be activated when a monster's Summon would be negated."
+      }
+    ]
   }
 ]
