@@ -7714,5 +7714,23 @@
         "desc": "In the Official Card Game, the effect of Exosister Kaspitell that prevents monsters from being Special Summoned from the GY is optional to activate."
       }
     ]
+  },
+  {
+    "id": 16743,
+    "icon": "xyz",
+    "name": "Exosister Asophiel",
+    "oldText": "2 Level 4 monsters\nCannot be destroyed by the activated effects of monsters Special Summoned from the GY. You can only use each of the following effects of \"Exosister Asophiel\" once per turn. If this card is Xyz Summoned using an \"Exosister\" monster as material: Neither player can activate card effects in the GY this turn. You can detach 1 material from this card, then target 1 monster your opponent controls; return it to the hand.",
+    "newText": "2 Level 4 monsters\nCannot be destroyed by the activated effects of monsters Special Summoned from the GY. You can only use each of the following effects of \"Exosister Asophiel\" once per turn. If this card is Xyz Summoned using an \"Exosister\" monster as material: You can activate this effect; neither player can activate card effects in the GY this turn. You can detach 1 material from this card, then target 1 monster your opponent controls; return it to the hand.",
+    "author": "gallantron",
+    "lastPrint": "2022-01-28",
+    "lastUpdated": "2022-01-30",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16743&request_locale=ja",
+        "title": "Card FAQ – Exosister Asophiel",
+        "date": "2022-01-30",
+        "desc": "In the Official Card Game, Exosister Asophiel's effect that prevents effects from being activated in the GY is optional to activate."
+      }
+    ]
   }
 ]
