@@ -7696,5 +7696,23 @@
         "desc": "In the Official Card Game, Stall Turn can be activated when a monster's Summon would be negated."
       }
     ]
+  },
+  {
+    "id": 16741,
+    "icon": "xyz",
+    "name": "Exosister Kaspitell",
+    "oldText": "2 Level 4 monsters\nCannot be destroyed by battle with a monster Special Summoned from the GY. You can only use each of the following effects of \"Exosister Kaspitell\" once per turn. If this card is Xyz Summoned using an \"Exosister\" monster as material: Neither player can Special Summon monsters from the GYs for the rest of this turn. You can detach 1 material from this card; add 1 \"Exosister\" monster from your Deck to your hand.",
+    "newText": "2 Level 4 monsters\nCannot be destroyed by battle with a monster Special Summoned from the GY. You can only use each of the following effects of \"Exosister Kaspitell\" once per turn. If this card is Xyz Summoned using an \"Exosister\" monster as material: You can activate this effect; neither player can Special Summon monsters from the GYs for the rest of this turn. You can detach 1 material from this card; add 1 \"Exosister\" monster from your Deck to your hand.",
+    "author": "gallantron",
+    "lastPrint": "2022-01-28",
+    "lastUpdated": "2022-01-30",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=16741&request_locale=ja",
+        "title": "Card FAQ – Exosister Kaspitell",
+        "date": "2022-01-30",
+        "desc": "In the Official Card Game, the effect of Exosister Kaspitell that prevents monsters from being Special Summoned from the GY is optional to activate."
+      }
+    ]
   }
 ]
