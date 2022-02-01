@@ -7756,5 +7756,41 @@
         "desc": "In the Official Card Game, the effect of Star Pendulumgraph will not activate if a face-up \"Magician\" Pendulum Monster Card leaves the Pendulum Zone, but does not leave the field."
       }
     ]
+  },
+  {
+    "id": 14000,
+    "icon": "spell",
+    "name": "Goddess Verdande's Guidance",
+    "oldText": "When this card is activated: If all monsters you control are \"Valkyrie\" monsters (min. 1), you can add 1 \"Goddess Urd's Verdict\" from your Deck to your hand. Once per turn: You can declare 1 type of card (Monster, Spell, or Trap); reveal the top card of your opponent's Deck and if it was the declared type, they Set it to their field. Otherwise, they add it to their hand. You can only activate 1 \"Goddess Verdande's Guidance\" per turn.",
+    "newText": "When this card is activated: If all monsters you control are \"Valkyrie\" monsters (min. 1), you can add 1 \"Goddess Urd's Verdict\" from your Deck to your hand. Once per turn: You can declare 1 type of card (Monster, Spell, or Trap); reveal the top card of your opponent's Deck and if it was the declared type, they Set it to their field. Otherwise, or if it cannot be Set, they add it to their hand. You can only activate 1 \"Goddess Verdande's Guidance\" per turn.",
+    "author": "gallantron",
+    "lastPrint": "2018-08-17",
+    "lastUpdated": "2022-02-01",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14000&request_locale=ja",
+        "title": "Card FAQ – Goddess Verdande's Guidance",
+        "date": "2022-02-01",
+        "desc": "In the Official Card Game, if the revealed card cannot be Set, it is still added to the opponent's hand."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22628&request_locale=ja",
+        "title": "Q&A #22628",
+        "date": "2022-02-01",
+        "desc": "In the Official Card Game, if Link Apple cannot be Special Summoned during the resolution of its effect, the \"Otherwise\" part is not applied."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8555&request_locale=ja",
+        "title": "Q&A #8555",
+        "date": "2022-02-01",
+        "desc": "In the Official Card Game, if Sunlight Unicorn's effect is unable to add the revealed card to the hand, the \"Otherwise\" part is not applied."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17846&request_locale=ja",
+        "title": "Q&A #17846",
+        "date": "2022-02-01",
+        "desc": "In the Official Card Game, if The True Name is unable to add the revealed card to the hand, the \"Otherwise\" part is not applied."
+      }
+    ]
   }
 ]
