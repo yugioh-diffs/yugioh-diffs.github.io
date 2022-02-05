@@ -7816,5 +7816,23 @@
         "desc": "In the Official Card Game, if the monster whose effect was activated is no longer face-up on the field by the time its effect resolves, the effect of Branded Disciple considers its original ATK/DEF."
       }
     ]
+  },
+  {
+    "id": 8272,
+    "icon": "effect",
+    "name": "Infernity Archfiend",
+    "oldText": "When you draw this card, if you have no other cards in your hand: You can reveal this card; Special Summon this card from your hand. When this card is Special Summoned: You can add 1 \"Infernity\" card from your Deck to your hand. You must have no cards in your hand to activate and to resolve this effect.",
+    "newText": "When you draw a card(s) while you have no cards in your hand, and you draw this card: You can reveal this card; Special Summon it from your hand. When this card is Special Summoned: You can add 1 \"Infernity\" card from your Deck to your hand. You must have no cards in your hand to activate and to resolve this effect.",
+    "author": "gallantron",
+    "lastPrint": "2016-07-15",
+    "lastUpdated": "2022-02-05",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8720&request_locale=ja",
+        "title": "Q&A #8720",
+        "date": "2022-02-05",
+        "desc": "In the Official Card Game, if multiple cards (including Infernity Archfiend) are drawn at the same time, the effect of Infernity Archfiend can be activated as long as there were no cards in your hand before you drew."
+      }
+    ]
   }
 ]
