@@ -7834,5 +7834,59 @@
         "desc": "In the Official Card Game, if multiple cards (including Infernity Archfiend) are drawn at the same time, the effect of Infernity Archfiend can be activated as long as there were no cards in your hand before you drew."
       }
     ]
+  },
+  {
+    "id": 17232,
+    "icon": "effect",
+    "name": "Libromancer Geek Boy",
+    "oldText": "You can reveal 1 Ritual Monster in your hand: Special Summon this card from your hand. If this card is Special Summoned: You can add 1 \"Libromancer\" Spell from your Deck to your hand. You can only use each effect of \"Libromancer Geek Boy\" once per turn.",
+    "newText": "You can reveal 1 Ritual Monster in your hand; Special Summon this card from your hand. If this card is Special Summoned: You can add 1 \"Libromancer\" Spell from your Deck to your hand. You can only use each effect of \"Libromancer Geek Boy\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2022-02-11",
+    "lastUpdated": "2022-01-31",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=17232&request_locale=en",
+        "title": "Libromancer Geek Boy",
+        "date": "2022-01-31",
+        "desc": "Libromancer Geek Boy's text has a misplaced colon where a semi-colon should be. Its text, as it stands, doesn't make a whole lot of sense."
+      }
+    ]
+  },
+  {
+    "id": 17233,
+    "icon": "effect",
+    "name": "Libromancer Magigirl",
+    "oldText": "You can reveal 1 Ritual Monster in your hand: Special Summon this card from your hand. During your opponent's turn (Quick Effect): You can Ritual Summon 1 \"Libromancer\" Ritual Monster from your hand, by Tributing monsters from your hand or field whose total Levels equal or exceed its Level. You can only use each effect of \"Libromancer Magigirl\" once per turn.",
+    "newText": "You can reveal 1 Ritual Monster in your hand; Special Summon this card from your hand. During your opponent's turn (Quick Effect): You can Ritual Summon 1 \"Libromancer\" Ritual Monster from your hand, by Tributing monsters from your hand or field whose total Levels equal or exceed its Level. You can only use each effect of \"Libromancer Magigirl\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2022-02-11",
+    "lastUpdated": "2022-01-31",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=17233&request_locale=en",
+        "title": "Libromancer Magigirl",
+        "date": "2022-01-31",
+        "desc": "Libromancer Magigirl's text has a misplaced colon where a semi-colon should be. Its text, as it stands, doesn't make a whole lot of sense."
+      }
+    ]
+  },
+  {
+    "id": 17234,
+    "icon": "effect",
+    "name": "Libromancer Agent",
+    "oldText": "You can reveal 1 Ritual Monster in your hand: Special Summon this card from your hand. You can target 1 \"Libromancer\" card in your GY, except \"Libromancer Agent\"; add it to your hand, then if you added a Spell/Trap by this effect, place 1 card from your hand on the bottom of the Deck. You can only use each effect of \"Libromancer Agent\" once per turn.",
+    "newText": "You can reveal 1 Ritual Monster in your hand; Special Summon this card from your hand. You can target 1 \"Libromancer\" card in your GY, except \"Libromancer Agent\"; add it to your hand, then if you added a Spell/Trap by this effect, place 1 card from your hand on the bottom of the Deck. You can only use each effect of \"Libromancer Agent\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2022-02-11",
+    "lastUpdated": "2022-01-31",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=17234&request_locale=en",
+        "title": "Libromancer Agent",
+        "date": "2022-01-31",
+        "desc": "Libromancer Agent's text has a misplaced colon where a semi-colon should be. Its text, as it stands, doesn't make a whole lot of sense."
+      }
+    ]
   }
 ]

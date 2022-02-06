@@ -53,6 +53,8 @@ document.addEventListener('DOMContentLoaded', () =>
             jsonFile = null;
             document.getElementById('img').disabled = true;
             document.getElementById('json').disabled = true;
+            
+            const artworkManifest = await (await fetch('https://yugioh-artworks.github.io/manifest.json', {cache: 'reload'})).json();
 
             const data = await (await fetch('entries.json', {cache: 'reload'})).json();
             LOG('Loaded '+data.length+' entries from existing entries.json');
@@ -75,7 +77,12 @@ document.addEventListener('DOMContentLoaded', () =>
                     {
                         LOG('Getting artwork for: #'+entry.id);
                         const img = new Image();
-                        img.src = ('https://db.ygorganization.com/artwork/card/'+entry.id+'/'+dbEntry.artworks[0]);
+                        for (const artworkId in artworkManifest.cards[entry.id])
+                        {
+                            const artworkData = artworkManifest.cards[entry.id][artworkId]
+                            img.src = ('https://yugioh-artworks.github.io' + (artworkData.bestTCG || artworkData.bestOCG));
+                            break;
+                        }
                         await img.decode();
                         const canvas = document.createElement('canvas');
                         canvas.width = img.width;
