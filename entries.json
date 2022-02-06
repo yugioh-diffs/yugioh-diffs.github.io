@@ -7136,10 +7136,10 @@
     "icon": "fusion",
     "name": "Cyberse Clock Dragon",
     "oldText": "\"Clock Wyvern\" + 1+ Link Monsters\nWhen this card is Fusion Summoned: You can send cards from the top of your Deck to the GY, equal to the total Link Rating of the materials used for this card's Fusion Summon, and if you do, until the end of the next turn, other monsters you control cannot attack, also this card gains 1000 ATK for each card sent to the GY by this effect. While you control a Link Monster(s), your opponent's monsters cannot target other monsters you control for attacks, also your opponent cannot target other monsters you control with card effects. If this Fusion Summoned card you control is sent to your GY by an opponent's card effect: You can add 1 Spell from your Deck to your hand.",
-    "newText": "\"Clock Wyvern\" + 1+ Link Monsters\nWhen this card is Fusion Summoned, you can: Send cards from the top of your Deck to the GY, equal to the total Link Rating of the materials used for this card's Fusion Summon, and if you do, this card gains 1000 ATK for each card sent to the GY by this effect, also, until the end of the next turn, other monsters you control cannot attack. While you control a Link Monster(s), your opponent's monsters cannot target other monsters you control for attacks, also your opponent cannot target other monsters you control with card effects. If this Fusion Summoned card you control is sent to your GY by an opponent's card effect: You can add 1 Spell from your Deck to your hand.",
+    "newText": "\"Clock Wyvern\" + 1+ Link Monsters\nWhen this card is Fusion Summoned, you can: Send cards from the top of your Deck to the GY, equal to the total Link Rating of the materials used for this card's Fusion Summon, also, until the end of the next turn, other monsters you control cannot attack, also this card gains 1000 ATK for each card sent to the GY by this effect. While you control a Link Monster(s), your opponent's monsters cannot target other monsters you control for attacks, also your opponent cannot target other monsters you control with card effects. If this Fusion Summoned card you control is sent to your GY by an opponent's card effect: You can add 1 Spell from your Deck to your hand.",
     "author": "gallantron",
     "lastPrint": "2018-10-19",
-    "lastUpdated": "2021-12-17",
+    "lastUpdated": "2022-02-06",
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22027&request_locale=ja",
@@ -7151,25 +7151,17 @@
     "customDiffData": [
       67,
       [
-        9,
-        10,
+        14,
+        15,
         true
       ],
+      128,
       [
-        220,
-        148,
-        false
-      ],
-      [
-        75,
-        76,
+        13,
+        4,
         true
       ],
-      [
-        335,
-        407,
-        false
-      ]
+      484
     ]
   },
   {
@@ -7489,10 +7481,10 @@
     "icon": "effect",
     "name": "Transforming Sphere",
     "oldText": "Once per turn: You can target 1 face-up Defense Position monster your opponent controls; discard 1 card and equip that target to this card. (You can only equip 1 monster at a time to this card with this effect.) This card gains the ATK of the equipped monster. If this card attacks, it is changed to Defense Position at the end of the Battle Phase. During the End Phase: The monster equipped to this card by this card's effect is Special Summoned to your opponent's side of the field in face-up Defense Position.",
-    "newText": "If this card attacks, it is changed to Defense Position at the end of the Battle Phase. Once per turn: You can target 1 face-up Defense Position monster your opponent controls; discard 1 card, and if you do, equip that monster to this card (max. 1). This card gains ATK equal to that equipped monster's. Once per turn, during the End Phase: Special Summon that equipped monster to your opponent's field in Defense Position.",
+    "newText": "If this card attacks, it is changed to Defense Position at the end of the Battle Phase. Once per turn: You can target 1 face-up Defense Position monster your opponent controls; discard 1 card, and if you do, equip that opponent's monster to this card (max. 1). This card gains ATK equal to that equipped monster's. Once per turn, during the End Phase: Special Summon that equipped monster to your opponent's field in Defense Position.",
     "author": "gallantron",
     "lastPrint": "2011-08-04",
-    "lastUpdated": "2021-12-23",
+    "lastUpdated": "2022-02-06",
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9611&request_locale=ja",
@@ -7519,7 +7511,7 @@
       ],
       [
         87,
-        12,
+        23,
         true
       ],
       [
