@@ -4184,23 +4184,44 @@
     "icon": "synchro",
     "name": "Tempest Magician",
     "oldText": "1 Tuner + 1 or more non-Tuner Spellcaster-Type monsters\nWhen this card is Synchro Summoned, place 1 Spell Counter on it. Once per turn, you can discard any number of cards to place 1 Spell Counter on a monster(s) you control for each card you discarded. You can remove all Spell Counters on the field to inflict 500 damage to your opponent for each removed Spell Counter.",
-    "newText": "1 Tuner + 1+ non-Tuner Spellcaster monsters\nIf this card is Synchro Summoned: place 1 Spell Counter on it. Once per turn: You can send any number of cards from your hand to the GY; place the same number of Spell Counters among card(s) you control that you can place a Spell Counter on. You can remove all Spell Counters on the field; inflict 500 damage to your opponent for each Spell Counter you removed.",
+    "newText": "1 Tuner + 1+ non-Tuner Spellcaster monsters\nIf this card is Synchro Summoned: place 1 Spell Counter on it. Once per turn: You can send any number of cards from your hand to the GY; place the same number of Spell Counters among monster(s) you control that you can place a Spell Counter on. You can remove all Spell Counters on the field; inflict 500 damage to your opponent for each Spell Counter you removed.",
     "author": "gallantron",
     "lastPrint": "2009-12-15",
-    "lastUpdated": "2021-06-27",
+    "lastUpdated": "2022-02-18",
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8085&request_locale=ja",
         "title": "Tempest Magician",
         "date": "2021-06-27",
         "desc": "In the Official Card Games, Tempest Magician's effect is activated by sending cards to the GY, rather than by discarding them."
-      },
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14443&request_locale=en",
-        "title": "Spell Power Mastery",
-        "date": "2021-06-27",
-        "desc": "Spell Power Mastery is an example of a card that uses the revised textual construct."
       }
+    ],
+    "customDiffData": [
+      [
+        144,
+        130,
+        false
+      ],
+      [
+        27,
+        49,
+        true
+      ],
+      [
+        200,
+        71,
+        false
+      ],
+      [
+        0,
+        37,
+        true
+      ],
+      [
+        0,
+        121,
+        false
+      ]
     ]
   },
   {
