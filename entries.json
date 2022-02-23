@@ -1368,7 +1368,7 @@
   },
   {
     "id": 14304,
-    "oldText": "Fusion Summon 1 Fusion Monster from your Extra Deck that lists a \"Destiny HERO\" monster as material, using monsters from your hand or Deck as Fusion Material, but destroy it during the End Phase of the next turn, also for the rest of this turn after this card resolves, you cannot Special Summon monsters, except DARK \"HERO\" monsters. You can only activate 1 \"Fusion Destiny\" per turn.",
+    "oldText": "Fusion Summon 1 Fusion Monster from your Extra Deck that mentions a \"Destiny HERO\" monster as material, using monsters from your hand or Deck as Fusion Material, but destroy it during the End Phase of the next turn, also for the rest of this turn after this card resolves, you cannot Special Summon monsters, except DARK \"HERO\" monsters. You can only activate 1 \"Fusion Destiny\" per turn.",
     "newText": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or Deck as Fusion Material, including a \"Destiny HERO\" monster that it lists as material, but destroy it during the End Phase of the next turn, also for the rest of this turn after this card resolves, you cannot Special Summon monsters, except DARK \"HERO\" monsters. You can only activate 1 \"Fusion Destiny\" per turn.",
     "author": "gallantron",
     "references": [
@@ -1387,7 +1387,7 @@
     ],
     "name": "Fusion Destiny",
     "lastUpdated": "2021-04-05",
-    "lastPrint": "2020-08-28",
+    "lastPrint": "2022-02-23",
     "icon": "spell"
   },
   {
@@ -7026,11 +7026,11 @@
     "id": 6753,
     "icon": "effect",
     "name": "Destiny HERO - Dasher",
-    "oldText": "Once per turn: You can Tribute 1 other monster; this card gains 1000 ATK until the End Phase. If this card attacks, change it to Defense Position at the end of the Battle Phase. One time only, when you draw a Monster Card during your Draw Phase while this card is in your Graveyard: You can reveal it; Special Summon it. This card must be in the Graveyard to activate and to resolve this effect.",
-    "newText": "Once per turn: You can Tribute 1 other monster; this card gains 1000 ATK until the End Phase. If this card attacks, change it to Defense Position at the end of the Battle Phase. Once while in the GY, when you draw a monster during your Draw Phase: You can show it to your opponent; Special Summon it. This card must be in the GY to activate and to resolve this effect.",
+    "oldText": "Once per turn: You can Tribute 1 other monster; this card gains 1000 ATK until the end of this turn. If this card attacks, change it to Defense Position at the end of the Battle Phase. Once, while this card is in your GY, when you draw a monster during your Draw Phase: You can reveal it; Special Summon it. This card must be in the GY to activate and to resolve this effect.",
+    "newText": "Once per turn: You can Tribute 1 other monster; this card gains 1000 ATK until the end of this turn. If this card attacks, change it to Defense Position at the end of the Battle Phase. Once while this card is in your GY, when you draw a monster during your Draw Phase: You can show it to your opponent; Special Summon it. This card must be in the GY to activate and to resolve this effect.",
     "author": "gallantron",
-    "lastPrint": "2011-10-04",
-    "lastUpdated": "2021-11-25",
+    "lastPrint": "2022-02-23",
+    "lastUpdated": "2022-02-23",
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23439&request_locale=ja",
@@ -7041,20 +7041,26 @@
     ],
     "customDiffData": [
       [
-        291,
-        256,
+        189,
+        277,
         false
       ],
       [
-        9,
+        1,
         24,
         true
       ],
       [
-        95,
         88,
+        0,
         false
-      ]
+      ],
+      [
+        9,
+        0,
+        true
+      ],
+      88
     ]
   },
   {
