@@ -7919,5 +7919,57 @@
         "desc": "In the Official Card Game, Ritual Beast Ulti-Gaiapelio's effect cannot be activated in response to itself."
       }
     ]
+  },
+  {
+    "id": 7229,
+    "icon": "trap",
+    "name": "Destructive Draw",
+    "oldText": "If either player has no cards in their hand at the start of their Draw Phase, they can draw 1 more card in addition to their normal draw. This card's controller loses 700 Life Points during their End Phase. (If less than 700, they become 0 instead.) When this face-up card is removed from the field, inflict 3000 damage to the player who controlled it.",
+    "newText": "If the turn player draws card(s) for their normal draw while they have no cards in their hand: they can activate this effect; they draw 1 card. During the End Phase, you must pay 700 LP (this is not optional), otherwise your LP become 0.\nIf this face-up card leaves the field, you take 3000 damage.",
+    "author": "gallantron",
+    "lastPrint": "2007-08-15",
+    "lastUpdated": "2022-02-23",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7229&request_locale=ja",
+        "title": "Card FAQ – Destructive Draw",
+        "date": "2022-02-23",
+        "desc": "In the Official Card Game, Destructive Draw requires you to pay 700 LP, rather than having you lose 700 LP."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13490&request_locale=en",
+        "title": "Masterking Archfiend",
+        "date": "2022-02-23",
+        "desc": "In the Official Card Game, paying LP in the End Phase allows Masterking Archfiend's effect to be activated."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7229&request_locale=ja",
+        "title": "Card FAQ – Destructive Draw",
+        "date": "2022-02-23",
+        "desc": "In the Official Card Game, Destructive Draw's effect is activated in response to the normal draw having already occurred."
+      }
+    ],
+    "customDiffData": [
+      [
+        76,
+        94,
+        true
+      ],
+      [
+        62,
+        72,
+        false
+      ],
+      [
+        44,
+        42,
+        true
+      ],
+      [
+        170,
+        90,
+        false
+      ]
+    ]
   }
 ]
