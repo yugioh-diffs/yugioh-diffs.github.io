@@ -7977,5 +7977,29 @@
         false
       ]
     ]
+  },
+  {
+    "id": 14097,
+    "icon": "effect",
+    "name": "Fantastical Dragon Phantazmay",
+    "oldText": "If your opponent Special Summons a Link Monster(s) (except during the Damage Step): You can Special Summon this card from your hand, draw cards equal to the number of Link Monsters your opponent controls +1, then shuffle cards from your hand into the Deck equal to the number of Link Monsters they control. When your opponent activates a card or effect that targets a monster(s) you control (Quick Effect): You can discard 1 card; negate the activation, and if you do, destroy it. You can only use each effect of \"Fantastical Dragon Phantazmay\" once per turn.",
+    "newText": "If your opponent Special Summons a Link Monster(s) (except during the Damage Step): You can Special Summon this card from your hand, then draw cards equal to the number of Link Monsters your opponent controls +1, then shuffle cards from your hand into the Deck equal to the number of Link Monsters they control. When your opponent activates a card or effect that targets a monster(s) you control (Quick Effect): You can discard 1 card; negate the activation, and if you do, destroy it. You can only use each effect of \"Fantastical Dragon Phantazmay\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2020-11-13",
+    "lastUpdated": "2022-02-24",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14097&request_locale=ja",
+        "title": "Card FAQ – Fantastical Dragon Phantazmay",
+        "date": "2022-02-24",
+        "desc": "In the Official Card Game, Special Summoning Fantastical Dragon Phantazmay, and drawing cards, are not treated as happening simultaneously."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5114&request_locale=en",
+        "title": "Torrential Tribute",
+        "date": "2022-02-24",
+        "desc": "In the Official Card Game, if the effect of Fantastical Dragon Phantazmay resolves while there are no Link Monsters on the field, Torrential Tribute still cannot be activated afterwards."
+      }
+    ]
   }
 ]
