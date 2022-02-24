@@ -7816,18 +7816,12 @@
     "id": 16858,
     "icon": "spell",
     "name": "Branded Disciple",
-    "oldText": "When a monster effect activated by your opponent resolves while you control a Level 8 or higher Fiend Fusion Monster with 0 ATK or DEF, you can negate that activated effect. At the end of the Damage Step, if monsters with 0 ATK battled each other: You can destroy your opponent's battling monster. You can only use each effect of \"Branded Disciple\" once per turn.",
-    "newText": "When a monster effect activated by your opponent resolves while that opponent's monster has 0 ATK and/or DEF (its original ATK/DEF, if no longer face-up on the field), and you control a Level 8 or higher Fiend Fusion Monster, you can negate that activated effect. At the end of the Damage Step, if monsters with 0 ATK battled each other: You can destroy your opponent's battling monster. You can only use each effect of \"Branded Disciple\" once per turn.",
+    "oldText": "When a monster effect activated by your opponent resolves, if that opponent's monster has 0 ATK or DEF, and you control a Level 8 or higher Fiend Fusion Monster, you can negate that activated effect. At the end of the Damage Step, if monsters with 0 ATK battled each other: You can destroy your opponent's battling monster. You can only use each effect of \"Branded Disciple\" once per turn.",
+    "newText": "When a monster effect activated by your opponent resolves, if that opponent's monster has 0 ATK or DEF (its original ATK/DEF, if no longer face-up on the field), and you control a Level 8 or higher Fiend Fusion Monster, you can negate that activated effect. At the end of the Damage Step, if monsters with 0 ATK battled each other: You can destroy your opponent's battling monster. You can only use each effect of \"Branded Disciple\" once per turn.",
     "author": "gallantron",
     "lastPrint": "2022-02-11",
-    "lastUpdated": "2022-02-05",
+    "lastUpdated": "2022-02-24",
     "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16858&request_locale=ja",
-        "title": "Branded Disciple",
-        "date": "2022-02-05",
-        "desc": "In the Official Card Game, Branded Disciple's effect can be applied if the monster whose effect was activated has 0 ATK and/or DEF at resolution."
-      },
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23464&request_locale=ja",
         "title": "Q&A #23464",
