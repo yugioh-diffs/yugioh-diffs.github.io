@@ -7995,5 +7995,23 @@
         "desc": "In the Official Card Game, if the effect of Fantastical Dragon Phantazmay resolves while there are no Link Monsters on the field, Torrential Tribute still cannot be activated afterwards."
       }
     ]
+  },
+  {
+    "id": 11835,
+    "icon": "pen_xyz",
+    "name": "Odd-Eyes Rebellion Dragon",
+    "oldText": "2 Level 7 Dragon-Type monsters\nIf you can Pendulum Summon Level 7, you can Pendulum Summon this face-up card in your Extra Deck. If this card is Xyz Summoned by using an Xyz Monster as a Material: Destroy as many Level 7 or lower monsters your opponent controls as possible, inflict 1000 damage to your opponent for each card destroyed, and if you do, this card can make 3 attacks during each Battle Phase this turn. If this card in the Monster Zone is destroyed by battle or card effect: You can destroy as many cards in your Pendulum Zones as possible (min. 1), and if you do, place this card in your Pendulum Zone.",
+    "newText": "2 Level 7 Dragon monsters\nIf you can Pendulum Summon Level 7, you can Pendulum Summon this face-up card in your Extra Deck. If this card is Xyz Summoned by using an Xyz Monster as a Material: Destroy as many Level 7 or lower monsters your opponent controls as possible, and if you do, inflict 1000 damage to your opponent for each card destroyed, also, this card can make up to 3 attacks during each Battle Phase this turn. If this card in the Monster Zone is destroyed by battle or card effect: You can destroy as many cards in your Pendulum Zones as possible (min. 1), and if you do, place this card in your Pendulum Zone.",
+    "author": "gallantron",
+    "lastPrint": "2017-03-10",
+    "lastUpdated": "2022-02-26",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=15416&request_locale=ja",
+        "title": "Q&A #15416",
+        "date": "2022-02-26",
+        "desc": "In the Official Card Game, even if Odd-Eyes Rebellion Dragon's effect fails to destroy monsters and/or inflict damage, it can still make up to 3 attacks during each Battle Phase."
+      }
+    ]
   }
 ]
