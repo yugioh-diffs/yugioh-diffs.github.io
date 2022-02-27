@@ -2736,10 +2736,10 @@
     "icon": "effect",
     "name": "Angel O7",
     "oldText": "If this card is Tribute Summoned, it gains this effect:\n●Neither player can activate monster effects.",
-    "newText": "This Tribute Summoned (but not Tribute Set) card gains this effect.\n●Neither player can activate monster effects.",
+    "newText": "If this card is Tribute Summoned face-up, it gains this effect.\n●Neither player can activate monster effects.",
     "author": "gallantron",
     "lastPrint": "2020-11-26",
-    "lastUpdated": "2021-01-09",
+    "lastUpdated": "2022-02-27",
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7035&request_locale=ja",
@@ -2751,7 +2751,13 @@
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10596&request_locale=ja",
         "title": "Q&A #10596",
         "date": "2021-01-09",
-        "desc": "If Angel O7 is Tribute Set, it does not gain the bulleted effect after being flipped face-up."
+        "desc": "In the Official Card Game, if Angel O7 is Tribute Set, it does not gain the bulleted effect after being flipped face-up."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12561&request_locale=ja",
+        "title": "Q&A #12561",
+        "date": "2022-02-27",
+        "desc": "In the Official Card Game, if a Tribute Summoned Angel O7 is flipped face-down, it loses the effect it gained."
       }
     ]
   },
