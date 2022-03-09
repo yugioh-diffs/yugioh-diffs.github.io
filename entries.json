@@ -8019,5 +8019,42 @@
         "desc": "In the Official Card Game, even if Odd-Eyes Rebellion Dragon's effect fails to destroy monsters and/or inflict damage, it can still make up to 3 attacks during each Battle Phase."
       }
     ]
+  },
+  {
+    "id": 11989,
+    "icon": "fusion",
+    "name": "Odd-Eyes Vortex Dragon",
+    "oldText": "1 \"Odd-Eyes\" monster + 1 Pendulum Monster\nWhen this card is Special Summoned: You can target 1 opponent's face-up Attack Position monster; return it to the hand. When a Spell/Trap Card or another monster's effect is activated (Quick Effect): You can shuffle 1 face-up Pendulum Monster from your Extra Deck into the Deck, negate the activation, and if you do, destroy that card. You can only use each effect of \"Odd-Eyes Vortex Dragon\" once per turn.",
+    "newText": "1 \"Odd-Eyes\" monster + 1 Pendulum Monster\nWhen this card is Special Summoned: You can target 1 face-up Attack Position monster your opponent controls; return it to the hand. When a Spell/Trap Card, or another monster's effect, is activated (Quick Effect): You can shuffle 1 face-up Pendulum Monster from your Extra Deck into the Deck, and if you do, negate the activation, and if you do that, destroy that card. You can only use each effect of \"Odd-Eyes Vortex Dragon\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2017-10-06",
+    "lastUpdated": "2022-03-09",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11989&request_locale=ja",
+        "title": "Card FAQ – Odd-Eyes Vortex Dragon",
+        "date": "2022-03-09",
+        "desc": "In the Official Card Game, shuffling a Pendulum Monster into the Deck and negating the activation are considered to have happened simultaneously."
+      }
+    ],
+    "customDiffData": [
+      [
+        320,
+        334,
+        false
+      ],
+      [
+        1,
+        16,
+        true
+      ],
+      22,
+      [
+        16,
+        21,
+        true
+      ],
+      90
+    ]
   }
 ]
