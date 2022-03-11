@@ -8054,5 +8054,43 @@
         "desc": "In the Official Card Game, discarding a card, Special Summoning Queen's Knight, and adding a card from the Deck to the hand, are all treated as having been done at the same time."
       }
     ]
+  },
+  {
+    "id": 7987,
+    "icon": "synchro",
+    "name": "Armory Arm",
+    "oldText": "1 Tuner + 1+ non-Tuner monsters\nOnce per turn, you can either: Target 1 monster on the field; equip this card to that target, OR: Unequip this card and Special Summon it in Attack Position. While equipped by this effect, that target gains 1000 ATK. If that target destroys a monster by battle and sends it to the GY: Inflict damage to your opponent equal to the destroyed monster's original ATK.",
+    "newText": "1 Tuner + 1+ non-Tuner monsters\nOnce per turn, you can either: Target 1 monster on the field; equip this card to that target, OR: Unequip this card and Special Summon it in Attack Position. While equipped by this effect, that target gains 1000 ATK. If that target destroys a monster by battle and sends it to the GY: Inflict damage to your opponent equal to the ATK of the destroyed monster in the GY.",
+    "author": "gallantron",
+    "lastPrint": "2022-03-11",
+    "lastUpdated": "2022-03-11",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6259&request_locale=ja",
+        "title": "Q&A #6259",
+        "date": "2022-03-11",
+        "desc": "In the Official Card Game, if the destroyed monster is no longer in the GY by the time Armory Arm's effect resolves, no damage is inflicted."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6344&request_locale=en",
+        "title": "Elemental HERO Flame Wingman",
+        "date": "2022-03-11",
+        "desc": "Elemental HERO Flame Wingman, which was printed alongside Armory Arm in HAC1, uses \"equal to the ATK of the destroyed monster in the GY.\""
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6467&request_locale=en",
+        "title": "Elemental HERO Shining Flare Wingman",
+        "date": "2022-03-11",
+        "desc": "Elemental HERO Shining Flare Wingman, which was printed alongside Armory Arm in HAC1, uses \"equal to that monster's original ATK in the GY.\""
+      }
+    ],
+    "customDiffData": [
+      349,
+      [
+        46,
+        52,
+        true
+      ]
+    ]
   }
 ]
