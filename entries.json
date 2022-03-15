@@ -7469,26 +7469,37 @@
     "icon": "pen_effect",
     "name": "Go! - D/D/D Divine Zero King Rage",
     "oldText": "When this card declares an attack, if your opponent's LP is 4000 or less: You can make this card gain ATK equal to your opponent's LP, until the end of this turn. Cannot be destroyed by battle, also you take no damage from battles involving this card.\nYou can Tribute 1 other monster; apply 1 of these effects until the end of this turn.\n●This card can attack directly.\n●Your opponent cannot activate cards or effects in the Spell & Trap Zones.\n●Your opponent cannot activate card effects in their hand or GY.",
-    "newText": "When this card declares an attack, if your opponent's LP is 4000 or less: You can make this card gain ATK equal to your opponent's LP, until the end of this turn. Cannot be destroyed by battle, also you take no damage from battles involving this card.\nYou can Tribute 1 other monster; apply 1 of these effects until the end of this turn.\n●This card can attack directly.\n●Your opponent cannot activate the effects of cards that are in a Spell & Trap Zone, or activate cards that are Set there.\n●Your opponent cannot activate card effects in their hand or GY.",
+    "newText": "When this card declares an attack, if your opponent's LP is 4000 or less: You can make this card gain ATK equal to your opponent's LP, until the end of this turn. Cannot be destroyed by battle, also you take no damage from battles involving this card.\nYou can Tribute 1 other monster; apply 1 of these effects until the end of this turn.\n●This card can attack directly.\n●Your opponent can neither activate cards that are in a Spell & Trap Zone, nor activate their effects.\n●Your opponent can neither activate cards that are in their hand or GY, nor activate their effects.",
     "author": "gallantron",
     "lastPrint": "2020-06-02",
-    "lastUpdated": "2021-12-19",
+    "lastUpdated": "2022-03-15",
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23478&request_locale=ja",
         "title": "Q&A #23478",
         "date": "2021-12-17",
         "desc": "In the Official Card Game, after the effect of Go! - D/D/D Divine Zero King Rage that prevents effect activations of cards in the Spell & Trap Zone has resolved, cards can still be activated in the Spell & Trap Zone from the hand."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21564&request_locale=ja",
+        "title": "Q&A #21564",
+        "date": "2022-03-15",
+        "desc": "In the Official Card Game, after the effect of Go! - D/D/D Divine Zero King Rage that prevents effect activations of cards in the hand or GY has resolved, cards in the hand cannot be activated, even if doing so would place them in the Spell & Trap Zone."
       }
     ],
     "customDiffData": [
-      370,
+      388,
       [
-        74,
-        122,
+        56,
+        84,
         true
       ],
-      65
+      19,
+      [
+        46,
+        81,
+        true
+      ]
     ]
   },
   {
