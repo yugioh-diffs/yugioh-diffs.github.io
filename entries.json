@@ -3748,24 +3748,6 @@
     ]
   },
   {
-    "id": 6486,
-    "icon": "fusion",
-    "name": "Elemental HERO Rampart Blaster",
-    "oldText": "\"Elemental HERO Clayman\" + \"Elemental HERO Burstinatrix\"\nMust be Fusion Summoned and cannot be Special Summoned by other ways. This card can attack while in face-up Defense Position, but only if your opponent controls no monsters, and if it does, this card's ATK is halved during damage calculation only.",
-    "newText": "\"Elemental HERO Clayman\" + \"Elemental HERO Burstinatrix\"\nMust be Fusion Summoned. While this card is in face-up Defense Position, it can attack directly, but when it does so using this effect, its ATK is halved during damage calculation only.",
-    "author": "gallantron",
-    "lastPrint": "2011-10-04",
-    "lastUpdated": "2021-06-23",
-    "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9224&request_locale=ja",
-        "title": "Q&A #9224",
-        "date": "2021-06-23",
-        "desc": "In the Official Card Game, Elemental HERO Rampart Blaster can attack directly while in Defense Position, even if the opponent controls monsters."
-      }
-    ]
-  },
-  {
     "id": 9996,
     "icon": "effect",
     "name": "Evilswarm Coppelia",
