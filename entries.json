@@ -8022,5 +8022,45 @@
         true
       ]
     ]
+  },
+  {
+    "id": 7986,
+    "icon": "effect",
+    "name": "Tuningware",
+    "oldText": "This card can be treated as a Level 2 monster when used for a Synchro Summon. If this card is sent to the Graveyard for a Synchro Summon: Draw 1 card.",
+    "newText": "If this card on the field is used as Synchro Material, you can treat it as a Level 2 monster. If this card is sent to the GY as Synchro Material: Draw 1 card.",
+    "author": "gallantron",
+    "lastPrint": "2015-08-28",
+    "lastUpdated": "2022-03-19",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9323&request_locale=ja",
+        "title": "Q&A #9323",
+        "date": "2022-03-19",
+        "desc": "In the Official Card Game, the effect of Tuningware that lets it be treated it as a Level 2 monster cannot be applied while Tuningware is in the hand."
+      }
+    ],
+    "customDiffData": [
+      [
+        9,
+        0,
+        true
+      ],
+      [
+        141,
+        3,
+        false
+      ],
+      [
+        0,
+        22,
+        true
+      ],
+      [
+        0,
+        133,
+        false
+      ]
+    ]
   }
 ]
