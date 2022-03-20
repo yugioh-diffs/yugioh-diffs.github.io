@@ -7388,10 +7388,10 @@
     "icon": "pen_effect",
     "name": "Go! - D/D/D Divine Zero King Rage",
     "oldText": "When this card declares an attack, if your opponent's LP is 4000 or less: You can make this card gain ATK equal to your opponent's LP, until the end of this turn. Cannot be destroyed by battle, also you take no damage from battles involving this card.\nYou can Tribute 1 other monster; apply 1 of these effects until the end of this turn.\n●This card can attack directly.\n●Your opponent cannot activate cards or effects in the Spell & Trap Zones.\n●Your opponent cannot activate card effects in their hand or GY.",
-    "newText": "When this card declares an attack, if your opponent's LP is 4000 or less: You can make this card gain ATK equal to your opponent's LP, until the end of this turn. Cannot be destroyed by battle, also you take no damage from battles involving this card.\nYou can Tribute 1 other monster; apply 1 of these effects until the end of this turn.\n●This card can attack directly.\n●Your opponent can neither activate cards that are in a Spell & Trap Zone, nor activate their effects.\n●Your opponent can neither activate cards that are in their hand or GY, nor activate their effects.",
+    "newText": "When this card declares an attack, if your opponent's LP is 4000 or less: You can make this card gain ATK equal to your opponent's LP, until the end of this turn. Cannot be destroyed by battle, also you take no damage from battles involving this card.\nYou can Tribute 1 other monster; apply 1 of these effects until the end of this turn.\n●This card can attack directly.\n●Your opponent cannot activate the effects of cards that are in a Spell & Trap Zone.\n●Your opponent cannot activate the effects of cards that are in their hand or GY.",
     "author": "gallantron",
     "lastPrint": "2020-06-02",
-    "lastUpdated": "2022-03-15",
+    "lastUpdated": "2022-03-20",
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23478&request_locale=ja",
@@ -7407,16 +7407,16 @@
       }
     ],
     "customDiffData": [
-      388,
+      401,
       [
-        56,
-        84,
+        43,
+        53,
         true
       ],
-      19,
+      32,
       [
-        46,
-        81,
+        33,
+        50,
         true
       ]
     ]
