@@ -8062,5 +8062,23 @@
         false
       ]
     ]
+  },
+  {
+    "id": 5815,
+    "icon": "effect",
+    "name": "Des Kangaroo",
+    "oldText": "If the ATK of a monster that attacks this monster is lower than the DEF of this card, destroy the attacking monster.",
+    "newText": "At the end of the Damage Step, if this Defense Position monster was attacked by an opponent's monster whose ATK is lower than this card's DEF: Destroy that attacking monster.",
+    "author": "gallantron",
+    "lastPrint": "2022-03-18",
+    "lastUpdated": "2022-03-25",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5815&request_locale=ja",
+        "title": "Card FAQ – Des Kangaroo",
+        "date": "2022-03-25",
+        "desc": "In the Official Card Game, Des Kangaroo's effect that destroys an attacking monster is an activated effect."
+      }
+    ]
   }
 ]
