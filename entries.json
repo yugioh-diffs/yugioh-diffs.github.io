@@ -8080,5 +8080,37 @@
         "desc": "In the Official Card Game, Des Kangaroo's effect that destroys an attacking monster is an activated effect."
       }
     ]
+  },
+  {
+    "id": 7164,
+    "icon": "spell",
+    "name": "Venom Swamp",
+    "oldText": "During each player's End Phase: Place 1 Venom Counter on each face-up monster, except \"Venom\" monsters. Monsters lose 500 ATK for each Venom Counter on them. Destroy a monster if its ATK becomes 0 by this effect.",
+    "newText": "During each player's End Phase: Place 1 Venom Counter on each face-up monster, except \"Venom\" monsters. Monsters lose 500 ATK for each Venom Counter on them. If a Venom Counter is placed on a monster(s), and its ATK becomes 0 as a result: Destroy the monster(s).",
+    "author": "gallantron",
+    "lastPrint": "2011-10-04",
+    "lastUpdated": "2022-03-26",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7164&request_locale=ja",
+        "title": "Card FAQ – Venom Swamp",
+        "date": "2022-03-26",
+        "desc": "In the Official Card Game, Venom Swamp's effect that destroys monsters is an activated effect."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6768&request_locale=ja",
+        "title": "Q&A #6768",
+        "date": "2022-03-26",
+        "desc": "In the Official Card Game, the effect of Venom Swamp that destroys monsters will only activate if the monster's ATK becomes 0 as a result of a Venom Counter being placed on it."
+      }
+    ],
+    "customDiffData": [
+      158,
+      [
+        54,
+        104,
+        true
+      ]
+    ]
   }
 ]
