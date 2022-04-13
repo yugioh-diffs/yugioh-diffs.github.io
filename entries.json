@@ -8148,5 +8148,61 @@
         "desc": "In the Official Card Game, Stardust Dragon/Assault Mode cannot be Special Summoned from the GY using its own effect, unless it was first Special Summoned using Assault Mode Activate."
       }
     ]
+  },
+  {
+    "id": 12870,
+    "icon": "fusion",
+    "name": "Predaplant Dragostapelia",
+    "oldText": "1 Fusion Monster + 1 DARK monster\nOnce per turn (Quick Effect): You can target 1 face-up monster your opponent controls; place 1 Predator Counter on it, and if it is Level 2 or higher, it becomes Level 1 as long as it has a Predator Counter. Negate the activated effects of your opponent's monsters that have Predator Counters.",
+    "newText": "1 Fusion Monster + 1 DARK monster\nOnce per turn (Quick Effect): You can target 1 face-up monster your opponent controls; place 1 Predator Counter on it, and if it is Level 2 or higher, it becomes Level 1 as long as it has a Predator Counter. When a monster effect activated by your opponent resolves, negate the effect if that monster has a Predator Counter.",
+    "author": "gallantron",
+    "lastPrint": "2019-09-27",
+    "lastUpdated": "2022-04-13",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20265&request_locale=ja",
+        "title": "Q&A #20265",
+        "date": "2022-04-13",
+        "desc": "In the Official Card Game, Predaplant Dragostapelia's effect also applies if the activating monster did not have a Predator Counter at the time of activation."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=20267&request_locale=ja",
+        "title": "Q&A #20267",
+        "date": "2022-04-13",
+        "desc": "In the Official Card Game, Predaplant Dragostapelia's effect will not apply unless the activating monster has a Predator Counter at the time its effect resolves."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9422&request_locale=ja",
+        "title": "Q&A #9422",
+        "date": "2022-04-13",
+        "desc": "In the Official Card Game, Predaplant Dragostapelia's effect also applies when the activating monster is no longer under your opponent's control."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9422&request_locale=ja",
+        "title": "Q&A #9422",
+        "date": "2022-04-13",
+        "desc": "In the Official Card Game, Predaplant Dragostapelia's effect also applies when the activating monster is no longer under your opponent's control."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16858&request_locale=en",
+        "title": "Branded Disciple",
+        "date": "2022-04-13",
+        "desc": "Branded Disciple is a card with a comparable effect, which also references properties the activating monster has at resolution."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12774&request_locale=en",
+        "title": "Brave-Eyes Pendulum Dragon",
+        "date": "2022-04-13",
+        "desc": "For contrast, Brave-Eyes Pendulum Dragon references properties the activating monster had at the time the activation procedure started."
+      }
+    ],
+    "customDiffData": [
+      242,
+      [
+        85,
+        116,
+        true
+      ]
+    ]
   }
 ]
