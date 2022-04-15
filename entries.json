@@ -8186,5 +8186,36 @@
         true
       ]
     ]
+  },
+  {
+    "id": 17069,
+    "icon": "fusion",
+    "name": "Mirrorjade the Iceblade Dragon",
+    "oldText": "\"Fallen of Albaz\" + 1 Fusion, Synchro, Xyz, or Link Monster\nYou can only control 1 \"Mirrorjade the Iceblade Dragon\". Once per turn (Quick Effect): You can send 1 Fusion Monster from your Extra Deck to the GY that mentions \"Fallen of Albaz\" as material; banish 1 monster on the field, also this card cannot use this effect next turn. If this Fusion Summoned card in its owner's control leaves the field because of an opponent's card: You can destroy all monsters your opponent controls during the End Phase of this turn.",
+    "newText": "\"Fallen of Albaz\" + 1 Fusion, Synchro, Xyz, or Link Monster\nYou can only control 1 \"Mirrorjade the Iceblade Dragon\". Once per turn (Quick Effect): You can send 1 Fusion Monster from your Extra Deck to the GY that mentions \"Fallen of Albaz\" as material; banish 1 monster on the field, also this card cannot use this effect next turn. If your opponent makes this Fusion Summoned card in your control leave the field, you can: Destroy all monsters your opponent controls during the End Phase of this turn.",
+    "author": "gallantron",
+    "lastPrint": "2022-04-15",
+    "lastUpdated": "2022-04-15",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12280&request_locale=ja",
+        "title": "Q&A #12280",
+        "date": "2021-01-02",
+        "desc": "In the Official Card Game, if Mirrorjade the Iceblade Dragon is sent to the GY by your opponent using the effect of your Summon Over, it is sent to the GY by your opponent, using your card.\nIn the Official Card Game, the effect of Mirrorjade the Iceblade Dragon can then be activated."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23560&request_locale=ja",
+        "title": "Q&A #23560",
+        "date": "2022-04-15",
+        "desc": "In the Official Card Game, if Mirrorjade the Iceblade Dragon is used as Link Material by your opponent, its effect can then be activated."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7934&request_locale=en",
+        "title": "Gozen Match",
+        "date": "2020-12-29",
+        "desc": "In the Official Card Game, if you send Mirrorjade the Iceblade Dragon to the GY due to your opponent's Gozen Match resolving, it is sent to the GY by you, due to your opponent's card.\nIn the Official Card Game, the effect of Mirrorjade the Iceblade Dragon cannot be activated."
+      }
+    ],
+    "customDiffData": [333,[107,90,true],79]
   }
 ]
