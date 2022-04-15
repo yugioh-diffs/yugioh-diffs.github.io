@@ -5888,24 +5888,6 @@
     ]
   },
   {
-    "id": 16029,
-    "icon": "trap",
-    "name": "Screams of the Branded",
-    "oldText": "If a Fusion Monster is sent to your GY this turn: Special Summon 1 of your Fusion Monsters that is banished or in your GY. During the End Phase, if this card is in the GY because it was sent there to activate the effect of \"Fallen of Albaz\" this turn: You can Set this card. You can only use this effect of \"Screams of the Branded\" once per turn.",
-    "newText": "If a Fusion Monster(s) was sent to your GY this turn: Special Summon 1 of your Fusion Monsters that is banished or in your GY. During the End Phase, if this card is in the GY because it was sent there to activate the effect of \"Fallen of Albaz\" this turn: You can Set this card. You can only use this effect of \"Screams of the Branded\" once per turn.",
-    "author": "gallantron",
-    "lastPrint": "2021-06-04",
-    "lastUpdated": "2021-09-01",
-    "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16029&request_locale=ja",
-        "title": "Screams of the Branded",
-        "date": "2021-09-01",
-        "desc": "In the Official Card Game, Screams of the Branded can be activated as long as a Fusion Monster was sent to the Graveyard at any point previously that turn."
-      }
-    ]
-  },
-  {
     "id": 12600,
     "icon": "effect",
     "name": "Cipher Twin Raptor",
