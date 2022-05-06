@@ -529,7 +529,7 @@
     ],
     "name": "Vampire Sucker",
     "lastUpdated": "2020-07-14",
-    "lastPrint": "2018-05-04",
+    "lastPrint": "2022-05-06",
     "icon": "link"
   },
   {
@@ -1050,7 +1050,7 @@
   },
   {
     "id": 10326,
-    "oldText": "(This card is also always treated as \"Legendary Dragon Timaeus\".)\nTarget 1 \"Dark Magician\" monster you control; Fusion Summon 1 Fusion Monster from your Extra Deck that lists that monster on the field as Fusion Material, using it as the Fusion Material. You can only activate 1 \"The Eye of Timaeus\" per turn.",
+    "oldText": "(This card is also always treated as \"Legendary Dragon Timaeus\".)\nTarget 1 \"Dark Magician\" monster you control; Fusion Summon 1 Fusion Monster from your Extra Deck that mentions that monster on the field as material, using it as the Fusion Material. You can only activate 1 \"The Eye of Timaeus\" per turn.",
     "newText": "(This card is also always treated as \"Legendary Dragon Timaeus\".)\nTarget 1 \"Dark Magician\" monster you control; Fusion Summon 1 Fusion Monster from your Extra Deck that lists that monster on the field as Fusion Material, using it as the entire Fusion Material. You can only activate 1 \"The Eye of Timaeus\" per turn.",
     "author": "gallantron",
     "references": [
@@ -1069,7 +1069,7 @@
     ],
     "name": "The Eye of Timaeus",
     "lastUpdated": "2020-04-06",
-    "lastPrint": "2020-09-11",
+    "lastPrint": "2022-05-06",
     "icon": "spell"
   },
   {
@@ -3517,10 +3517,10 @@
     "id": 9287,
     "icon": "effect",
     "name": "Master Hyperion",
-    "oldText": "You can Special Summon this card (from your hand) by banishing 1 \"The Agent\" monster from your hand, field, or Graveyard. Once per turn: You can banish 1 LIGHT Fairy-Type monster from your Graveyard, then target 1 card on the field; destroy that target. While \"The Sanctuary in the Sky\" is on the field, you can activate this effect up to twice per turn.",
+    "oldText": "You can Special Summon this card (from your hand) by banishing 1 \"The Agent\" monster from your hand, field, or GY. Once per turn: You can banish 1 LIGHT Fairy monster from your GY, then target 1 card on the field; destroy that target. While \"The Sanctuary in the Sky\" is on the field, you can activate this effect up to twice per turn.",
     "newText": "You can Special Summon this card (from your hand) by banishing 1 \"The Agent\" monster from your hand, field, or GY. Once per turn: You can banish 1 LIGHT Fairy monster from your GY, then target 1 card on the field; destroy it. While \"The Sanctuary in the Sky\" is on the field, this effect can be used up to twice per turn.",
     "author": "gallantron",
-    "lastPrint": "2015-03-20",
+    "lastPrint": "2022-05-06",
     "lastUpdated": "2021-07-04",
     "references": [
       {
@@ -4831,10 +4831,10 @@
     "id": 11994,
     "icon": "xyz",
     "name": "D/D/D Duo-Dawn King Kali Yuga",
-    "oldText": "2 Level 8 \"D/D\" monsters\nAfter this card is Xyz Summoned, for the rest of this turn, other cards and their effects cannot be activated on the field, and other cards' effects on the field are negated. Once per turn, during either player's turn: You can detach 1 Xyz Material from this card; destroy all Spell and Trap Cards on the field. You can detach 1 Xyz Material from this card, then target 1 \"Dark Contract\" Spell/Trap Card in your Graveyard; Set that target.",
+    "oldText": "2 Level 8 \"D/D\" monsters\nAfter this card is Xyz Summoned, for the rest of this turn, other cards and their effects cannot be activated on the field, and other cards' effects on the field are negated. Once per turn (Quick Effect): You can detach 1 material from this card; destroy all Spells and Traps on the field. You can detach 1 material from this card, then target 1 \"Dark Contract\" Spell/Trap in your GY; Set that target.",
     "newText": "2 Level 8 \"D/D\" monsters\nAfter this card is Xyz Summoned, for the rest of this turn, all other cards' effects on the field are negated, and neither player can activate the effects of other cards that are on the field, or activate Set Spells/Traps. Once per turn (Quick Effect): You can detach 1 material from this card; destroy all Spells and Traps on the field. You can detach 1 material from this card, then target 1 \"Dark Contract\" Spell/Trap in your GY; Set that target.",
     "author": "gallantron",
-    "lastPrint": "2017-03-10",
+    "lastPrint": "2022-05-06",
     "lastUpdated": "2021-12-23",
     "references": [
       {
@@ -4843,19 +4843,6 @@
         "date": "2021-07-26",
         "desc": "In the Official Card Game, the effect of D/D/D Duo-Dawn King Kali Yuga does not prevent cards from being activated from the hand."
       }
-    ],
-    "customDiffData": [
-      85,
-      [
-        114,
-        162,
-        true
-      ],
-      [
-        265,
-        227,
-        false
-      ]
     ]
   },
   {
@@ -4901,7 +4888,7 @@
     "oldText": "If this card in your possession is sent to your GY by your opponent's card: You can add 1 DARK \"Vampire\" monster or 1 \"Vampire\" Spell/Trap from your Deck to your hand. You can banish this card from your GY; 1 DARK \"Vampire\" monster you Normal Summon this turn can be Summoned without Tributing.",
     "newText": "If this card in your possession is sent to your GY by your opponent: You can add 1 DARK \"Vampire\" monster or 1 \"Vampire\" Spell/Trap from your Deck to your hand. You can banish this card from your GY; 1 DARK \"Vampire\" monster you Normal Summon this turn can be Summoned without Tributing.",
     "author": "gallantron",
-    "lastPrint": "2018-05-25",
+    "lastPrint": "2022-05-06",
     "lastUpdated": "2021-07-26",
     "references": [
       {
@@ -5009,7 +4996,7 @@
     "oldText": "If a Fusion, Synchro, Xyz, or Link Monster is Special Summoned (except during the Damage Step): You can target 1 Effect Monster on the field; negate its effects until the end of this turn. If this card in your hand or field is used as Fusion Material, and sent to the GY or banished: You can Special Summon this card. You can only use each effect of \"Dramaturge of Despia\" once per turn.",
     "newText": "If a Fusion, Synchro, Xyz, or Link Monster is Special Summoned (except during the Damage Step): You can target 1 Effect Monster on the field; negate its effects until the end of this turn. If this card in the hand or field is used as material for a Fusion Summon, and sent to the GY or banished: You can Special Summon this card. You can only use each effect of \"Dramaturge of Despia\" once per turn.",
     "author": "gallantron",
-    "lastPrint": "2021-08-13",
+    "lastPrint": "2022-05-06",
     "lastUpdated": "2021-07-27",
     "references": [
       {
@@ -5135,7 +5122,7 @@
     "oldText": "If this card is Special Summoned: Special Summon 2 \"Mecha Phantom Beast Tokens\" (Machine/WIND/Level 3/ATK 0/DEF 0). You must control another \"Mecha Phantom Beast\" monster to activate and to resolve this effect. This card's Level is increased by the total Levels of all \"Mecha Phantom Beast Tokens\" you control. While you control a Token, this card cannot be destroyed by battle or card effects. Once per turn: You can Tribute 2 Tokens, then target 1 card your opponent controls; destroy that target, and if you do, banish it.",
     "newText": "If this card is Special Summoned, and you control another \"Mecha Phantom Beast\" monster: Special Summon 2 \"Mecha Phantom Beast Tokens\" (Machine/WIND/Level 3/ATK 0/DEF 0). This card's Level is increased by the total Levels of all \"Mecha Phantom Beast Tokens\" you control. While you control a Token, this card cannot be destroyed by battle or card effects. Once per turn: You can Tribute 2 Tokens, then target 1 card your opponent controls; destroy that target, and if you do, banish it.",
     "author": "gallantron",
-    "lastPrint": "2020-11-13",
+    "lastPrint": "2022-05-06",
     "lastUpdated": "2021-07-29",
     "references": [
       {
@@ -5894,7 +5881,7 @@
     "oldText": "If your opponent controls a face-up monster that was Special Summoned from the Extra Deck and you control no monsters, you can Special Summon this card (from your hand). You can discard 1 card; Special Summon 1 \"Cipher\" monster from your hand or Deck, also you cannot Special Summon monsters for the rest of this turn, except \"Cipher\" monsters. You can only use this effect of \"Cipher Twin Raptor\" once per turn.",
     "newText": "If your opponent controls a monster that was Special Summoned from the Extra Deck and you control no monsters, you can Special Summon this card (from your hand). You can discard 1 card; Special Summon 1 \"Cipher\" monster from your hand or Deck, also you cannot Special Summon monsters for the rest of this turn, except \"Cipher\" monsters. You can only use this effect of \"Cipher Twin Raptor\" once per turn.",
     "author": "gallantron",
-    "lastPrint": "2017-08-25",
+    "lastPrint": "2022-05-06",
     "lastUpdated": "2021-09-01",
     "references": [
       {
@@ -7378,7 +7365,7 @@
     "oldText": "When this card declares an attack, if your opponent's LP is 4000 or less: You can make this card gain ATK equal to your opponent's LP, until the end of this turn. Cannot be destroyed by battle, also you take no damage from battles involving this card.\nYou can Tribute 1 other monster; apply 1 of these effects until the end of this turn.\n●This card can attack directly.\n●Your opponent cannot activate cards or effects in the Spell & Trap Zones.\n●Your opponent cannot activate card effects in their hand or GY.",
     "newText": "When this card declares an attack, if your opponent's LP is 4000 or less: You can make this card gain ATK equal to your opponent's LP, until the end of this turn. Cannot be destroyed by battle, also you take no damage from battles involving this card.\nYou can Tribute 1 other monster; apply 1 of these effects until the end of this turn.\n●This card can attack directly.\n●Your opponent cannot activate the effects of cards that are in a Spell & Trap Zone.\n●Your opponent cannot activate the effects of cards that are in their hand or GY.",
     "author": "gallantron",
-    "lastPrint": "2020-06-02",
+    "lastPrint": "2022-05-06",
     "lastUpdated": "2022-03-20",
     "references": [
       {
