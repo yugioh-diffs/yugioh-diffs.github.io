@@ -8211,5 +8211,29 @@
       }
     ],
     "customDiffData": [333,[107,90,true],79]
+  },
+  {
+    "id": 9640,
+    "icon": "effect",
+    "name": "Space-Time Police",
+    "oldText": "When this card is Special Summoned: Target 1 face-up card your opponent controls; banish that target. When this card leaves the field: Set the card that was banished by this effect to your opponent's side of the field.",
+    "newText": "If this card is Special Summoned: Target 1 face-up card your opponent controls; banish that target. If this face-up card leaves the field: Set the card that was banished by this effect to your opponent's side of the field.",
+    "author": "gallantron",
+    "lastPrint": "2011-08-16",
+    "lastUpdated": "2022-05-06",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=9640&request_locale=ja",
+        "title": "Card FAQ – Space-Time Police",
+        "date": "2022-05-06",
+        "desc": "In the Official Card Game, the effect of Space-Time Police can only be activated if it leaves the field while face-up."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17069&request_locale=ja",
+        "title": "Card FAQ – Mirrorjade the Iceblade Dragon",
+        "date": "2022-05-06",
+        "desc": "In the Official Card Game, the effect of Mirrorjade the Iceblade Dragon can be activated even if it leaves the field while face-down."
+      }
+    ]
   }
 ]
