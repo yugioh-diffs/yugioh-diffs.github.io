@@ -2538,10 +2538,10 @@
     "icon": "trap",
     "name": "Time Machine",
     "oldText": "When a monster is destroyed by battle and sent to the GY: Special Summon that monster to the same field it was on, in the same battle position it was in when destroyed.",
-    "newText": "When exactly 1 monster is destroyed by battle and sent to the GY: Special Summon that monster to the same field it was on, in the same battle position it was in when destroyed.",
+    "newText": "When exactly 1 monster is destroyed by battle, and that monster is sent to the GY: Special Summon that monster to the same field it was on, in the same battle position it was in when destroyed.",
     "author": "gallantron",
     "lastPrint": "2020-07-03",
-    "lastUpdated": "2021-01-04",
+    "lastUpdated": "2022-05-16",
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=4794&request_locale=ja",
@@ -2550,10 +2550,10 @@
         "desc": "In the Official Card Game, Time Machine can only be activated if exactly one monster is destroyed by battle.\nIt cannot be activated if both monsters are destroyed by the battle."
       },
       {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10568&request_locale=ja",
-        "title": "Card FAQ – Puzzle Reborn",
-        "date": "2021-01-04",
-        "desc": "Puzzle Reborn is an example of another card that uses the revised textual construct."
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6401&request_locale=ja",
+        "title": "Q&A #6401",
+        "date": "2022-05-16",
+        "desc": "In the Official Card Game, Time Machine cannot be activated if both monsters are destroyed by battle, even if one of them is not sent to the GY."
       }
     ]
   },
