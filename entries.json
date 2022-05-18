@@ -8245,5 +8245,23 @@
       [12,13,true],
       470
     ]
+  },
+  {
+    "id": 8596,
+    "icon": "effect",
+    "name": "Rinyan, Lightsworn Rogue",
+    "oldText": "FLIP: Target 1 \"Lightsworn\" monster in your Graveyard; shuffle that target into your Deck, then draw 1 card.",
+    "newText": "FLIP: Target 1 \"Lightsworn\" monster in your GY; shuffle that target into your Deck, and if you do, draw 1 card.",
+    "author": "gallantron",
+    "lastPrint": "2014-07-25",
+    "lastUpdated": "2022-05-18",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8596&request_locale=ja",
+        "title": "Card FAQ – Rinyan, Lightsworn Rogue",
+        "date": "2022-05-18",
+        "desc": "In the Official Card Game, shuffling the target into the Deck and drawing 1 card are treated as having happened simultaneously."
+      }
+    ]
   }
 ]
