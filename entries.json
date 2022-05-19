@@ -8299,5 +8299,23 @@
         "desc": "In the Official Card Game, the effect of Predaplant Bufolicula can only be activated if it was used as material specifically for a Fusion Summon."
       }
     ]
+  },
+  {
+    "id": 17131,
+    "icon": "pen_effect",
+    "name": "Predaplant Triantis",
+    "oldText": "If this card is sent to the GY or added to your Extra Deck face-up because it was used as Fusion Material: You can choose monsters on the field, up to the number of monsters you control, and place 1 Predator Counter on each one, and if you do, any of those monsters that are Level 2 or higher become Level 1 as long as they have a Predator Counter.",
+    "newText": "If this card is sent to the GY or added to your Extra Deck face-up because it was used as material for a Fusion Summon: You can choose monsters on the field, up to the number of monsters you control, and place 1 Predator Counter on each one, and if you do, any of those monsters that are Level 2 or higher become Level 1 as long as they have a Predator Counter.",
+    "author": "gallantron",
+    "lastPrint": "2022-05-20",
+    "lastUpdated": "2022-05-19",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=17131&request_locale=ja",
+        "title": "Predaplant Triantis",
+        "date": "2022-05-19",
+        "desc": "In the Official Card Game, the effect of Predaplant Triantis can only be activated if it is used as material specifically for a Fusion Summon."
+      }
+    ]
   }
 ]
