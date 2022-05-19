@@ -160,7 +160,28 @@ let loadEntry = ((entry, force) =>
         makeElement('span', extraInfoRef, 'data-extra-info-domain').innerText = (url ? url.hostname : '<invalid URL>');
         extraInfoRefContainer.appendChild(document.createTextNode(' '));
         makeElement('span', extraInfoRefContainer, 'data-extra-info-date').innerText = ('(accessed '+convertDate(reference.date)+')');
-        makeElement('div', extraInfoText, 'data-extra-info-blurb').innerText = reference.desc;
+        const blurbDiv = makeElement('div', extraInfoText, 'data-extra-info-blurb')
+        
+        const ocgWarningText = 'In the Official Card Game';
+        const idx = reference.desc.search(new RegExp(ocgWarningText, 'i'));
+        if (idx >= 0)
+        {
+            const endIdx = (idx + ocgWarningText.length);
+            
+            if (idx > 0) /* prefix */
+                blurbDiv.appendChild(document.createTextNode(reference.desc.substring(0, idx)));
+            
+            const ocgWarningSpan = makeElement('span', blurbDiv, 'ocg-warning');
+            ocgWarningSpan.innerText = reference.desc.substring(idx, endIdx);
+            ocgWarningSpan.title = 'Note that the authors make no claim that this does not also potentially apply to the card\'s current print in the Yu-Gi-Oh! Trading Card Game.\nInclusion in this list does not imply existance of a difference, only that we feel the current text could be potentially confusing even to a reasonably educated player.';
+            
+            if (endIdx < reference.desc.length) /* suffix */
+                blurbDiv.appendChild(document.createTextNode(reference.desc.substring(endIdx)));
+        }
+        else
+        {
+            blurbDiv.innerText = reference.desc;
+        }
     }
     
     document.getElementById('data-last-print-date').innerText = convertDate(entry.lastPrint);
