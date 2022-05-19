@@ -8281,5 +8281,23 @@
         "desc": "In the Official Card Game, the effect of Parasomnia Pillow in the GY is optional to activate."
       }
     ]
+  },
+  {
+    "id": 17130,
+    "icon": "pen_effect",
+    "name": "Predaplant Bufolicula",
+    "oldText": "If this card is sent to the GY or added to your Extra Deck face-up because it was used as Fusion Material: You can add 1 face-up DARK Pendulum Monster from your Extra Deck to your hand, except \"Predaplant Bufolicula\". You can only use this effect of \"Predaplant Bufolicula\" once per turn.",
+    "newText": "If this card is sent to the GY or added to your Extra Deck face-up because it was used as material for a Fusion Summon: You can add 1 face-up DARK Pendulum Monster from your Extra Deck to your hand, except \"Predaplant Bufolicula\". You can only use this effect of \"Predaplant Bufolicula\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2022-05-20",
+    "lastUpdated": "2022-05-19",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=17130&request_locale=ja",
+        "title": "Predaplant Bufolicula",
+        "date": "2022-05-19",
+        "desc": "In the Official Card Game, the effect of Predaplant Bufolicula can only be activated if it was used as material specifically for a Fusion Summon."
+      }
+    ]
   }
 ]
