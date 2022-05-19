@@ -8263,5 +8263,23 @@
         "desc": "In the Official Card Game, shuffling the target into the Deck and drawing 1 card are treated as having happened simultaneously."
       }
     ]
+  },
+  {
+    "id": 17178,
+    "icon": "spell",
+    "name": "Parasomnia Pillow",
+    "oldText": "During the End Phase: You can destroy the equipped monster. If this card is sent to the GY because the equipped monster was destroyed and sent to the GY: Special Summon 1 \"Parasomnia Token\" (Level 1/ATK ?/DEF 0) with the equipped monster's original Type, Attribute, and ATK, then equip this card to that Token. You can only use each effect of \"Parasomnia Pillow\" once per turn.",
+    "newText": "During the End Phase: You can destroy the equipped monster. If this card is sent to the GY because the equipped monster was destroyed and sent to the GY: You can Special Summon 1 \"Parasomnia Token\" (Level 1/ATK ?/DEF 0) with the equipped monster's original Type, Attribute, and ATK, then equip this card to that Token. You can only use each effect of \"Parasomnia Pillow\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2022-05-20",
+    "lastUpdated": "2022-05-19",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17178&request_locale=ja",
+        "title": "Card FAQ – Parasomnia Pillow",
+        "date": "2022-05-19",
+        "desc": "In the Official Card Game, the effect of Parasomnia Pillow in the GY is optional to activate."
+      }
+    ]
   }
 ]
