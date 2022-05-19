@@ -20,7 +20,7 @@ let diffToggled = (() =>
 let convertDate = ((d) =>
 {
     const str = new Date(d).toDateString();
-    return (str.substr(8,3) + str.substr(4,4) + str.substr(11));
+    return (str.substring(8,11) + str.substring(4,8) + str.substring(11));
 });
 
 let loadText = ((oldContainer, newContainer, oldText, newText, customDiffData) =>
@@ -38,9 +38,9 @@ let loadText = ((oldContainer, newContainer, oldText, newText, customDiffData) =
             const [numOld, numNew, isDiff] = entry;
             
             if (numOld)
-                makeElement('span', oldContainer, isDiff && 'deletion-word').innerText = oldText.substr(posOld, numOld);
+                makeElement('span', oldContainer, isDiff && 'deletion-word').innerText = oldText.substring(posOld, posOld+numOld);
             if (numNew)
-                makeElement('span', newContainer, isDiff && 'addition-word').innerText = newText.substr(posNew, numNew);
+                makeElement('span', newContainer, isDiff && 'addition-word').innerText = newText.substring(posNew, posNew+numNew);
             
             posOld += numOld;
             posNew += numNew;
@@ -293,7 +293,7 @@ document.addEventListener('DOMContentLoaded', async () =>
         let entry = undefined;
         if (window.location.hash)
         {
-            const n = parseInt(window.location.hash.substr(1));
+            const n = parseInt(window.location.hash.substring(1));
             if (!isNaN(n))
                 entry = entries.find((e) => (e.id === n));
         }
