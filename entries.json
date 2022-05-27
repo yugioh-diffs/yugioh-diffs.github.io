@@ -8335,5 +8335,23 @@
         "desc": "In the Official Card Game, the effect of Scareclaw Alternative is optional to activate."
       }
     ]
+  },
+  {
+    "id": 5234,
+    "icon": "trap",
+    "name": "Embodiment of Apophis",
+    "oldText": "During the Main Phase: Special Summon this card as a Normal Monster (Reptile/EARTH/Level 4/ATK 1600/DEF 1800). (This card is also still a Trap.)",
+    "newText": "You can activate this card during the Main Phase. When this card's activation resolves, Special Summon it as a Normal Monster (Reptile/EARTH/Level 4/ATK 1600/DEF 1800). (This card is also still a Trap.)",
+    "author": "gallantron",
+    "lastPrint": "2020-11-26",
+    "lastUpdated": "2022-05-27",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5234&request_locale=ja",
+        "title": "Card FAQ – Embodiment of Apophis",
+        "date": "2022-05-27",
+        "desc": "In the Official Card Game, Embodiment of Apophis' effect that Special Summons itself is the effect of its Trap Card activation. If Embodiment of Apophis remains face-up in the Spell & Trap Zone for some reason, in the Official Card Game, that effect cannot later be activated again."
+      }
+    ]
   }
 ]
