@@ -8353,5 +8353,23 @@
         "desc": "In the Official Card Game, Embodiment of Apophis' effect that Special Summons itself is the effect of its Trap Card activation. If Embodiment of Apophis remains face-up in the Spell & Trap Zone for some reason, in the Official Card Game, that effect cannot later be activated again."
       }
     ]
+  },
+  {
+    "id": 5951,
+    "icon": "effect",
+    "name": "The Agent of Judgment - Saturn",
+    "oldText": "While your LP are higher than your opponent's: You can Tribute this card; inflict damage to your opponent equal to the difference. You must control \"The Sanctuary in the Sky\" to activate and to resolve this effect. You cannot conduct your Battle Phase the turn you activate this effect.",
+    "newText": "You can Tribute this card; inflict damage to your opponent equal to the difference between your LP and your opponent's LP. You must control \"The Sanctuary in the Sky\", and your LP must be higher than your opponent's, to activate and to resolve this effect. You cannot conduct your Battle Phase the turn you activate this effect.",
+    "author": "gallantron",
+    "lastPrint": "2022-05-06",
+    "lastUpdated": "2022-05-27",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5951&request_locale=ja",
+        "title": "Card FAQ – The Agent of Judgment - Saturn",
+        "date": "2022-05-27",
+        "desc": "In the Official Card Game, the effect of The Agent of Judgment - Saturn will not be applied if the opponent's LP is not lower by the time that effect resolves."
+      }
+    ]
   }
 ]
