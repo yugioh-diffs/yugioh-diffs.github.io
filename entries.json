@@ -8371,5 +8371,23 @@
         "desc": "In the Official Card Game, the effect of The Agent of Judgment - Saturn will not be applied if the opponent's LP is not lower by the time that effect resolves."
       }
     ]
+  },
+  {
+    "id": 17181,
+    "icon": "trap",
+    "name": "Therion Cross",
+    "oldText": "When your opponent activates a monster effect, while you control a \"Therion\" monster: You can activate 1 of these effects;\n●Negate that effect.\n●Banish that monster.\nIf you have \"Endless Engine Argyro System\" in your GY at activation, you can activate both effects (at resolution, negate, then banish). You can only activate 1 \"Therion Cross\" per turn.",
+    "newText": "When your opponent activates a monster effect, while you control a \"Therion\" monster: You can activate 1 of these effects;\n●Negate that effect.\n●Banish that monster.\nIf you have \"Endless Engine Argyro System\" in your GY at activation, you can activate both effects (at resolution, negate, also, after that, banish). You can only activate 1 \"Therion Cross\" per turn.",
+    "author": "gallantron",
+    "lastPrint": "2022-05-20",
+    "lastUpdated": "2022-05-27",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17181&request_locale=ja",
+        "title": "Card FAQ – Therion Cross",
+        "date": "2022-05-27",
+        "desc": "In the Official Card Game, even if the effect Therion Cross is responding to cannot be negated, Therion Cross still banishes the monster."
+      }
+    ]
   }
 ]
