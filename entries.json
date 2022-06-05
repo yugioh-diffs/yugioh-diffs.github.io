@@ -740,7 +740,7 @@
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=4597&request_locale=ja",
         "title": "Card FAQ – Morphing Jar",
         "date": "2020-12-24",
-        "desc": "Even if players have no cards in their hand, cards are still drawn by both players."
+        "desc": "In the Official Card Game, even if players have no cards in their hand, cards are still drawn by both players."
       },
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12670&request_locale=en",
@@ -752,7 +752,7 @@
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19671&request_locale=ja",
         "title": "Q&A #19671",
         "date": "2020-12-24",
-        "desc": "If your opponent has no cards in their hand, Present Card's effect will not proceed through the \"then\" conjunction."
+        "desc": "In the Official Card Game, if your opponent has no cards in their hand, Present Card's effect will not proceed through the \"then\" conjunction."
       }
     ],
     "name": "Morphing Jar",
