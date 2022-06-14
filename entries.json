@@ -8409,5 +8409,27 @@
         "desc": "In the Official Card Game, sending all other cards in the Spell & Trap Zone to the GY is a cost to activate Counter Gem."
       }
     ]
+  },
+  {
+    "id": 7170,
+    "icon": "trap",
+    "name": "Mirror Gate",
+    "oldText": "When an opponent's monster declares an attack targeting a face-up \"Elemental HERO\" monster you control: Switch control of the opponent's attacking monster with the targeted monster you control, then calculate damage. Control of both monsters switches back during the End Phase.",
+    "newText": "When an opponent's monster declares an attack targeting a face-up \"Elemental HERO\" monster you control: Switch control of the opponent's attacking monster with the attack target you control, then perform damage calculation. The change of control lasts until the End Phase.",
+    "author": "gallantron",
+    "lastPrint": "2011-10-04",
+    "lastUpdated": "2022-06-14",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7170&request_locale=ja",
+        "title": "Card FAQ – Mirror Gate",
+        "date": "2022-06-14",
+        "desc": "In the Official Card Game, even if one of the monsters no longer exists on the field, control of the other monster still returns."
+      }
+    ],
+    "customDiffData": [
+      [217,224,false],
+      [60,48,true]
+    ]
   }
 ]
