@@ -30,12 +30,12 @@ let loadText = ((oldContainer, newContainer, oldText, newText, customDiffData) =
     
     if (customDiffData)
     {
-        let posOld = 0, posNew = 0;
+        let posOld = 0, posNew = 0, isDiff = false;
         for (let entry of customDiffData)
         {
             if (typeof(entry) === "number")
                 entry = [entry, entry, false];
-            const [numOld, numNew, isDiff] = entry;
+            const [numOld, numNew] = entry;
             
             if (numOld)
                 makeElement('span', oldContainer, isDiff && 'deletion-word').innerText = oldText.substring(posOld, posOld+numOld);
@@ -44,6 +44,7 @@ let loadText = ((oldContainer, newContainer, oldText, newText, customDiffData) =
             
             posOld += numOld;
             posNew += numNew;
+            isDiff = !isDiff;
         }
     }
     else

@@ -23,29 +23,28 @@ let regenerateJSON = (() =>
     const oldChildren = Array.from(document.getElementById('old-text').children);
     const newChildren = Array.from(document.getElementById('new-text').children);
     
-    let data = [];
+    let data = [[0,0]];
     for (const [id, cls, idx] of [['old-text','deletion-word',0],['new-text','addition-word',1]])
     {
-        let i = -1;
-        let state = null;
+        let i = 0;
+        let state = false;
         for (const elm of document.getElementById(id).children)
         {
             const has = elm.classList.contains(cls);
             if (has !== state)
             {
                 state = has;
-                do ++i;
-                while ((i < data.length) && (data[i][2] !== state));
+                ++i;
                 
                 if (i === data.length)
-                    data.push([0,0,state]);
+                    data.push([0,0]);
             }
             ++data[i][idx];
         }
     }
     for (let i=0; i<data.length; ++i)
     {
-        if ((data[i][0] === data[i][1]) && !data[i][2])
+        if (data[i][0] === data[i][1])
             data[i] = data[i][0];
     }
     document.getElementById('output-json').value = (
@@ -145,17 +144,18 @@ document.getElementById('card-id').addEventListener('change', async function()
     const newText = data.newText;
     if (data.customDiffData)
     {
-        let posOld = 0, posNew = 0;
+        let posOld = 0, posNew = 0, isDiff = false;
         for (let entry of data.customDiffData)
         {
             if (typeof(entry) === "number")
-                entry = [entry, entry, false];
-            const [numOld, numNew, isDiff] = entry;
+                entry = [entry, entry];
+            const [numOld, numNew] = entry;
             
             for (let i=0; i<numOld; ++i, ++posOld)
                 makeElement('span', oldContainer, isDiff && 'deletion-word').innerText = oldText.substr(posOld, 1);
             for (let i=0; i<numNew; ++i, ++posNew)
                 makeElement('span', newContainer, isDiff && 'addition-word').innerText = newText.substr(posNew, 1);
+            isDiff = !isDiff;
         }
     }
     else
