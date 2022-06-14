@@ -311,27 +311,11 @@
       }
     ],
     "customDiffData": [
-      [
-        335,
-        334,
-        false
-      ],
-      [
-        3,
-        6,
-        true
-      ],
+      [335,334,false],
+      [3,6,true],
       77,
-      [
-        0,
-        8,
-        true
-      ],
-      [
-        0,
-        1,
-        false
-      ]
+      [0,8,true],
+      [0,1,false]
     ]
   },
   {
@@ -2171,11 +2155,7 @@
     ],
     "customDiffData": [
       281,
-      [
-        21,
-        16,
-        true
-      ],
+      [21,16,true],
       136
     ]
   },
@@ -3013,26 +2993,10 @@
       }
     ],
     "customDiffData": [
-      [
-        177,
-        131,
-        false
-      ],
-      [
-        4,
-        12,
-        true
-      ],
-      [
-        173,
-        200,
-        false
-      ],
-      [
-        9,
-        17,
-        true
-      ],
+      [177,131,false],
+      [4,12,true],
+      [173,200,false],
+      [9,17,true],
       88
     ]
   },
@@ -4164,31 +4128,11 @@
       }
     ],
     "customDiffData": [
-      [
-        144,
-        130,
-        false
-      ],
-      [
-        27,
-        49,
-        true
-      ],
-      [
-        200,
-        71,
-        false
-      ],
-      [
-        0,
-        37,
-        true
-      ],
-      [
-        0,
-        121,
-        false
-      ]
+      [144,130,false],
+      [27,49,true],
+      [200,71,false],
+      [0,37,true],
+      [0,121,false]
     ]
   },
   {
@@ -4264,11 +4208,7 @@
     ],
     "customDiffData": [
       196,
-      [
-        60,
-        85,
-        true
-      ],
+      [60,85,true],
       197
     ]
   },
@@ -5785,11 +5725,7 @@
     ],
     "customDiffData": [
       92,
-      [
-        11,
-        12,
-        true
-      ],
+      [11,12,true],
       275
     ]
   },
@@ -6003,21 +5939,9 @@
       }
     ],
     "customDiffData": [
-      [
-        63,
-        146,
-        false
-      ],
-      [
-        51,
-        0,
-        true
-      ],
-      [
-        92,
-        0,
-        false
-      ]
+      [63,146,false],
+      [51,0,true],
+      [92,0,false]
     ]
   },
   {
@@ -6038,21 +5962,9 @@
       }
     ],
     "customDiffData": [
-      [
-        80,
-        40,
-        false
-      ],
-      [
-        27,
-        27,
-        true
-      ],
-      [
-        49,
-        20,
-        false
-      ]
+      [80,40,false],
+      [27,27,true],
+      [49,20,false]
     ]
   },
   {
@@ -6091,21 +6003,9 @@
       }
     ],
     "customDiffData": [
-      [
-        111,
-        62,
-        false
-      ],
-      [
-        62,
-        17,
-        true
-      ],
-      [
-        351,
-        295,
-        false
-      ]
+      [111,62,false],
+      [62,17,true],
+      [351,295,false]
     ]
   },
   {
@@ -6126,21 +6026,9 @@
       }
     ],
     "customDiffData": [
-      [
-        19,
-        26,
-        false
-      ],
-      [
-        10,
-        25,
-        true
-      ],
-      [
-        66,
-        51,
-        false
-      ]
+      [19,26,false],
+      [10,25,true],
+      [66,51,false]
     ]
   },
   {
@@ -6161,21 +6049,9 @@
       }
     ],
     "customDiffData": [
-      [
-        132,
-        54,
-        false
-      ],
-      [
-        22,
-        22,
-        true
-      ],
-      [
-        30,
-        79,
-        false
-      ]
+      [132,54,false],
+      [22,22,true],
+      [30,79,false]
     ]
   },
   {
@@ -6286,16 +6162,8 @@
       }
     ],
     "customDiffData": [
-      [
-        27,
-        70,
-        true
-      ],
-      [
-        245,
-        273,
-        false
-      ]
+      [27,70,true],
+      [245,273,false]
     ]
   },
   {
@@ -6346,16 +6214,8 @@
       }
     ],
     "customDiffData": [
-      [
-        248,
-        193,
-        false
-      ],
-      [
-        21,
-        16,
-        true
-      ],
+      [248,193,false],
+      [21,16,true],
       46
     ]
   },
@@ -6383,16 +6243,8 @@
       }
     ],
     "customDiffData": [
-      [
-        309,
-        302,
-        false
-      ],
-      [
-        21,
-        16,
-        true
-      ],
+      [309,302,false],
+      [21,16,true],
       69
     ]
   },
@@ -6420,16 +6272,8 @@
       }
     ],
     "customDiffData": [
-      [
-        104,
-        97,
-        false
-      ],
-      [
-        21,
-        16,
-        true
-      ],
+      [104,97,false],
+      [21,16,true],
       181
     ]
   },
@@ -6505,21 +6349,9 @@
       }
     ],
     "customDiffData": [
-      [
-        126,
-        124,
-        false
-      ],
-      [
-        23,
-        16,
-        true
-      ],
-      [
-        92,
-        85,
-        false
-      ]
+      [126,124,false],
+      [23,16,true],
+      [92,85,false]
     ]
   },
   {
@@ -6541,16 +6373,8 @@
     ],
     "customDiffData": [
       25,
-      [
-        54,
-        37,
-        true
-      ],
-      [
-        113,
-        115,
-        false
-      ]
+      [54,37,true],
+      [113,115,false]
     ]
   },
   {
@@ -6626,11 +6450,7 @@
     ],
     "customDiffData": [
       395,
-      [
-        21,
-        20,
-        true
-      ],
+      [21,20,true],
       37
     ]
   },
@@ -6653,11 +6473,7 @@
     ],
     "customDiffData": [
       357,
-      [
-        7,
-        7,
-        true
-      ],
+      [7,7,true],
       215
     ]
   },
@@ -6680,11 +6496,7 @@
     ],
     "customDiffData": [
       58,
-      [
-        7,
-        7,
-        true
-      ],
+      [7,7,true],
       427
     ]
   },
@@ -6707,11 +6519,7 @@
     ],
     "customDiffData": [
       113,
-      [
-        7,
-        7,
-        true
-      ],
+      [7,7,true],
       356
     ]
   },
@@ -6733,21 +6541,9 @@
       }
     ],
     "customDiffData": [
-      [
-        113,
-        202,
-        false
-      ],
-      [
-        135,
-        100,
-        true
-      ],
-      [
-        307,
-        227,
-        false
-      ]
+      [113,202,false],
+      [135,100,true],
+      [307,227,false]
     ]
   },
   {
@@ -6852,22 +6648,10 @@
       }
     ],
     "customDiffData": [
-      [
-        155,
-        156,
-        false
-      ],
-      [
-        61,
-        23,
-        true
-      ],
+      [155,156,false],
+      [61,23,true],
       61,
-      [
-        1,
-        56,
-        true
-      ],
+      [1,56,true],
       206
     ]
   },
@@ -6914,11 +6698,7 @@
     ],
     "customDiffData": [
       104,
-      [
-        44,
-        55,
-        true
-      ],
+      [44,55,true],
       275
     ]
   },
@@ -6940,26 +6720,10 @@
       }
     ],
     "customDiffData": [
-      [
-        189,
-        277,
-        false
-      ],
-      [
-        1,
-        24,
-        true
-      ],
-      [
-        88,
-        0,
-        false
-      ],
-      [
-        9,
-        0,
-        true
-      ],
+      [189,277,false],
+      [1,24,true],
+      [88,0,false],
+      [9,0,true],
       88
     ]
   },
@@ -6982,26 +6746,10 @@
     ],
     "customDiffData": [
       136,
-      [
-        39,
-        16,
-        true
-      ],
-      [
-        155,
-        9,
-        false
-      ],
-      [
-        0,
-        51,
-        true
-      ],
-      [
-        0,
-        146,
-        false
-      ]
+      [39,16,true],
+      [155,9,false],
+      [0,51,true],
+      [0,146,false]
     ]
   },
   {
@@ -7077,17 +6825,9 @@
     ],
     "customDiffData": [
       67,
-      [
-        14,
-        15,
-        true
-      ],
+      [14,15,true],
       128,
-      [
-        13,
-        4,
-        true
-      ],
+      [13,4,true],
       484
     ]
   },
@@ -7116,11 +6856,7 @@
     ],
     "customDiffData": [
       140,
-      [
-        52,
-        35,
-        true
-      ],
+      [52,35,true],
       351
     ]
   },
@@ -7149,11 +6885,7 @@
     ],
     "customDiffData": [
       41,
-      [
-        147,
-        202,
-        true
-      ],
+      [147,202,true],
       52
     ]
   },
@@ -7176,16 +6908,8 @@
     ],
     "customDiffData": [
       37,
-      [
-        26,
-        24,
-        true
-      ],
-      [
-        125,
-        181,
-        false
-      ]
+      [26,24,true],
+      [125,181,false]
     ]
   },
   {
@@ -7207,11 +6931,7 @@
     ],
     "customDiffData": [
       200,
-      [
-        8,
-        5,
-        true
-      ],
+      [8,5,true],
       373
     ]
   },
@@ -7287,21 +7007,9 @@
       }
     ],
     "customDiffData": [
-      [
-        76,
-        77,
-        false
-      ],
-      [
-        3,
-        14,
-        true
-      ],
-      [
-        171,
-        164,
-        false
-      ]
+      [76,77,false],
+      [3,14,true],
+      [171,164,false]
     ]
   },
   {
@@ -7323,11 +7031,7 @@
     ],
     "customDiffData": [
       45,
-      [
-        61,
-        61,
-        true
-      ],
+      [61,61,true],
       13
     ]
   },
@@ -7356,17 +7060,9 @@
     ],
     "customDiffData": [
       401,
-      [
-        43,
-        53,
-        true
-      ],
+      [43,53,true],
       32,
-      [
-        33,
-        50,
-        true
-      ]
+      [33,50,true]
     ]
   },
   {
@@ -7387,31 +7083,11 @@
       }
     ],
     "customDiffData": [
-      [
-        114,
-        0,
-        false
-      ],
-      [
-        11,
-        87,
-        true
-      ],
-      [
-        136,
-        127,
-        false
-      ],
-      [
-        87,
-        23,
-        true
-      ],
-      [
-        164,
-        197,
-        false
-      ]
+      [114,0,false],
+      [11,87,true],
+      [136,127,false],
+      [87,23,true],
+      [164,197,false]
     ]
   },
   {
@@ -7450,16 +7126,8 @@
       }
     ],
     "customDiffData": [
-      [
-        293,
-        285,
-        false
-      ],
-      [
-        0,
-        82,
-        true
-      ]
+      [293,285,false],
+      [0,82,true]
     ]
   },
   {
@@ -7816,26 +7484,10 @@
       }
     ],
     "customDiffData": [
-      [
-        76,
-        94,
-        true
-      ],
-      [
-        62,
-        72,
-        false
-      ],
-      [
-        44,
-        42,
-        true
-      ],
-      [
-        170,
-        90,
-        false
-      ]
+      [76,94,true],
+      [62,72,false],
+      [44,42,true],
+      [170,90,false]
     ]
   },
   {
@@ -7898,21 +7550,9 @@
       }
     ],
     "customDiffData": [
-      [
-        319,
-        333,
-        false
-      ],
-      [
-        1,
-        16,
-        true
-      ],
-      [
-        129,
-        134,
-        false
-      ]
+      [319,333,false],
+      [1,16,true],
+      [129,134,false]
     ]
   },
   {
@@ -7964,11 +7604,7 @@
     ],
     "customDiffData": [
       349,
-      [
-        46,
-        52,
-        true
-      ]
+      [46,52,true]
     ]
   },
   {
@@ -7989,26 +7625,10 @@
       }
     ],
     "customDiffData": [
-      [
-        9,
-        0,
-        true
-      ],
-      [
-        141,
-        3,
-        false
-      ],
-      [
-        0,
-        22,
-        true
-      ],
-      [
-        0,
-        133,
-        false
-      ]
+      [9,0,true],
+      [141,3,false],
+      [0,22,true],
+      [0,133,false]
     ]
   },
   {
@@ -8054,11 +7674,7 @@
     ],
     "customDiffData": [
       158,
-      [
-        54,
-        104,
-        true
-      ]
+      [54,104,true]
     ]
   },
   {
@@ -8134,11 +7750,7 @@
     ],
     "customDiffData": [
       242,
-      [
-        85,
-        116,
-        true
-      ]
+      [85,116,true]
     ]
   },
   {
@@ -8170,7 +7782,11 @@
         "desc": "In the Official Card Game, if you send Mirrorjade the Iceblade Dragon to the GY due to your opponent's Gozen Match resolving, it is sent to the GY by you, due to your opponent's card.\nIn the Official Card Game, the effect of Mirrorjade the Iceblade Dragon cannot be activated."
       }
     ],
-    "customDiffData": [333,[107,90,true],79]
+    "customDiffData": [
+      333,
+      [107,90,true],
+      79
+    ]
   },
   {
     "id": 9640,

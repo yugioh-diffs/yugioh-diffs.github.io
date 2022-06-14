@@ -48,7 +48,11 @@ let regenerateJSON = (() =>
         if ((data[i][0] === data[i][1]) && !data[i][2])
             data[i] = data[i][0];
     }
-    document.getElementById('output-json').value = JSON.stringify([{customDiffData: data}],null,2);
+    document.getElementById('output-json').value = (
+                         '    "customDiffData": [\n' +
+        data.map((e) => ('      '+JSON.stringify(e))).join(',\n') +
+                       '\n    ]'
+    );
 });
 
 document.getElementById('diff-on').addEventListener('click', () =>

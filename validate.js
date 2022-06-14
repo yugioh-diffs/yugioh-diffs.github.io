@@ -32,6 +32,18 @@ let LOG = ((m) =>
     e.innerText = (m + '\n' + e.innerText);
 });
 
+let postProcessJSON = ((file) =>
+{
+    file = file.replace(/"customDiffData": \[\n(.+?)\n    \]/gs, (_, m) =>
+    {
+        return '"customDiffData": [\n' + m.replace(/\[([^\]]+)\]/g, (_, m2) => ('['+m2.replace(/\s+/g, '')+']')) + '\n    ]';
+    });
+    
+    if (!file.endsWith('\n'))
+        file += '\n';
+    return file;
+});
+
 document.addEventListener('DOMContentLoaded', () =>
 {
     let locked = false;
@@ -161,8 +173,7 @@ document.addEventListener('DOMContentLoaded', () =>
             {
                 LOG('Done processing. Offering json file for download.');
                 jsonFile = JSON.stringify(data, null, 2);
-                if (!jsonFile.endsWith('\n'))
-                    jsonFile += '\n';
+                jsonFile = postProcessJSON(jsonFile);
                 document.getElementById('json').disabled = false;
             }
             else
