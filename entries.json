@@ -8431,5 +8431,27 @@
       [217,224,false],
       [60,48,true]
     ]
+  },
+  {
+    "id": 7612,
+    "icon": "effect",
+    "name": "Simorgh, Bird of Ancestry",
+    "oldText": "Both players Tribute Summon WIND monsters with 1 less Tribute than required. If you Tribute Summon this card by Tributing only WIND monsters, return up to 2 cards your opponent controls to their owner's hand. This card is treated as a Normal Monster while in your hand.",
+    "newText": "You can Normal Summon/Set WIND monsters with 1 less Tribute than required. (You can only apply this effect once per Summon/Set.) This card is treated as a Normal Monster while in your hand. If this card is Tribute Summoned by Tributing only WIND monsters: target up to 2 cards your opponent controls; return them to the hand.",
+    "author": "gallantron",
+    "lastPrint": "2008-05-13",
+    "lastUpdated": "2022-06-14",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7612&request_locale=ja",
+        "title": "Card FAQ – Simorgh, Bird of Ancestry",
+        "date": "2022-06-14",
+        "desc": "In the Official Card Game, the effect of Simorgh, Bird of Ancestry can only be applied once for any given Summon/Set."
+      }
+    ],
+    "customDiffData": [
+      [27,39,true],
+      [242,286,false]
+    ]
   }
 ]
