@@ -8418,5 +8418,23 @@
       [20,33,true],
       [109,199,false]
     ]
+  },
+  {
+    "id": 7387,
+    "icon": "trap",
+    "name": "Counter Gem",
+    "oldText": "Send all cards in your Spell & Trap Zone to the GY. Place as many \"Crystal Beast\" monsters as possible from your GY face-up in your Spell & Trap Zone as Continuous Spells. During the End Phase of this turn, destroy all \"Crystal Beast\" cards you control.",
+    "newText": "Send all other cards in your Spell & Trap Zone to the GY; place as many \"Crystal Beast\" monsters as possible from your GY face-up in your Spell & Trap Zone as Continuous Spells, also, during the End Phase of this turn, destroy all \"Crystal Beast\" cards you control.",
+    "author": "gallantron",
+    "lastPrint": "2020-07-03",
+    "lastUpdated": "2022-06-14",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7387&request_locale=ja",
+        "title": "Card FAQ – Counter Gem",
+        "date": "2022-06-14",
+        "desc": "In the Official Card Game, sending all other cards in the Spell & Trap Zone to the GY is a cost to activate Counter Gem."
+      }
+    ]
   }
 ]
