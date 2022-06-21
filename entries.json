@@ -8095,5 +8095,23 @@
       [12,13],
       44
     ]
+  },
+  {
+    "id": 7171,
+    "icon": "effect",
+    "name": "Rainbow Dragon",
+    "oldText": "(This card is always treated as an \"Ultimate Crystal\" card.)\nCannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having 7 \"Crystal Beast\" cards with different names on your field and/or GY. This card cannot activate the following effects the turn it is Special Summoned. (Quick Effect): You can send all \"Crystal Beast\" monsters you control to the GY; this card gains 1000 ATK for each monster sent to the GY. You can banish all \"Crystal Beast\" monsters from your GY; shuffle all cards on the field into the Deck.",
+    "newText": "(This card is always treated as an \"Ultimate Crystal\" card.)\nCannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 7 \"Crystal Beast\" cards with different names on your field and/or GY. This card cannot activate the following effects the turn it is Special Summoned. (Quick Effect): You can send all \"Crystal Beast\" monsters you control to the GY; this card gains 1000 ATK for each monster sent to the GY. You can banish all \"Crystal Beast\" monsters from your GY; shuffle all cards on the field into the Deck.",
+    "author": "gallantron",
+    "lastPrint": "2022-03-18",
+    "lastUpdated": "2022-06-21",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7171&request_locale=ja",
+        "title": "Card FAQ – Rainbow Dragon",
+        "date": "2022-06-21",
+        "desc": "In the Official Card Game, Rainbow Dragon's procedure does not allow it to be Special Summoned if there are 8 or more \"Crystal Beast\" cards."
+      }
+    ]
   }
 ]
