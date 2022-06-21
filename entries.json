@@ -8072,5 +8072,28 @@
       [25,35],
       [242,297]
     ]
+  },
+  {
+    "id": 13128,
+    "icon": "pen_effect",
+    "name": "Performapal Odd-Eyes Dissolver",
+    "oldText": "At the start of the Damage Step, if your Pendulum Monster battles an opponent's monster: You can Special Summon this card from your hand, and if you do, your monster cannot be destroyed by that battle. You can only use this effect of \"Performapal Odd-Eyes Dissolver\" once per turn. During your Main Phase: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand, field, and/or Pendulum Zones, including this card.",
+    "newText": "At the start of the Damage Step, if your Pendulum Monster battles an opponent's monster: You can Special Summon this card from your hand, and if you do, your monster cannot be destroyed by that battle. You can only use this effect of \"Performapal Odd-Eyes Dissolver\" once per turn. During your Main Phase: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your Monster Zones and/or Pendulum Zones, including this card.",
+    "author": "gallantron",
+    "lastPrint": "2022-06-10",
+    "lastUpdated": "2022-06-21",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13128&request_locale=ja",
+        "title": "Performapal Odd-Eyes Dissolver",
+        "date": "2022-06-21",
+        "desc": "In the Official Card Game, Performapal Odd-Eyes Dissolver's monster effect cannot use cards in the hand as material."
+      }
+    ],
+    "customDiffData": [
+      392,
+      [12,13],
+      44
+    ]
   }
 ]
