@@ -8113,5 +8113,28 @@
         "desc": "In the Official Card Game, Rainbow Dragon's procedure does not allow it to be Special Summoned if there are 8 or more \"Crystal Beast\" cards."
       }
     ]
+  },
+  {
+    "id": 12512,
+    "icon": "trap",
+    "name": "Final Geas",
+    "oldText": "If a monster(s) with an original Level of 7 or higher is sent from each player's field to the Graveyard this turn: Banish as many monsters from the Graveyards as possible, then you can Special Summon the 1 highest-Level Spellcaster-Type monster among those banished monsters to your field (your choice, if tied).",
+    "newText": "If a monster(s) with an original Level of 7 or higher has been sent from each player's field to the GY this turn: Banish as many monsters from the GYs as possible, then you can Special Summon the highest-Level Spellcaster monster among those banished monsters (your choice, if tied).",
+    "author": "gallantron",
+    "lastPrint": "2020-01-24",
+    "lastUpdated": "2022-06-29",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=19120&request_locale=ja",
+        "title": "Q&A #19120",
+        "date": "2022-06-29",
+        "desc": "In the Official Card Game, Final Geas does not need to be activated immediately when a Level 7 or higher monster is sent to the GY.\nIt can also be activated at any later point, except during the Damage Step, as long as the required monsters were sent to the GY this turn."
+      }
+    ],
+    "customDiffData": [
+      54,
+      [7,13],
+      [251,216]
+    ]
   }
 ]
