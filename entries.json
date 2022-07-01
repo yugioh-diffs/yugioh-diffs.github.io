@@ -8165,5 +8165,23 @@
       [55,371],
       [44,0]
     ]
+  },
+  {
+    "id": 8250,
+    "icon": "effect",
+    "name": "Shock Troops of the Ice Barrier",
+    "oldText": "You can Tribute this card, then target 1 WATER monster on the field; destroy it, and if you do, add 1 \"Ice Barrier\" monster from your Deck to your hand.",
+    "newText": "You can Tribute this card, then target 1 WATER monster on the field; destroy that target, and if you do, add 1 \"Ice Barrier\" monster from your Deck to your hand.",
+    "author": "gallantron",
+    "lastPrint": "2022-03-11",
+    "lastUpdated": "2022-07-01",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8725&request_locale=ja",
+        "title": "Q&A #8725",
+        "date": "2022-07-01",
+        "desc": "In the Official Card Game, if the targeted monster is no longer face-up at resolution, the effect of Shock Troops of the Ice Barrier is not applied."
+      }
+    ]
   }
 ]
