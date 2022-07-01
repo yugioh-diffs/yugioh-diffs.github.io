@@ -8189,7 +8189,7 @@
     "icon": "pen_effect",
     "name": "D/D Savant Thomas",
     "oldText": "You can target 1 \"D/D\" card in your Pendulum Zone; destroy that card, and if you do, Special Summon 1 Level 8 \"D/D/D\" monster from your Deck in Defense Position, but for the rest of this turn, its effects (if any) are negated, also any battle damage your opponent takes becomes halved. You can only use this effect of \"D/D Savant Thomas\" once per turn.",
-    "newText": "You can target 1 \"D/D\" card in your Pendulum Zone; destroy that card, and if you do, Special Summon 1 Level 8 \"D/D/D\" monster from your Deck in Defense Position, and if you do, apply this effect for the rest of this turn:\n● That monster's effects (if any) are negated, also any battle damage your opponent takes becomes halved.\nYou can only use this effect of \"D/D Savant Thomas\" once per turn.",
+    "newText": "You can target 1 \"D/D\" card in your Pendulum Zone; destroy that card, and if you do, Special Summon 1 Level 8 \"D/D/D\" monster from your Deck in Defense Position, and if you do that, apply this effect for the rest of this turn:\n● That monster's effects (if any) are negated, also any battle damage your opponent takes becomes halved.\nYou can only use this effect of \"D/D Savant Thomas\" once per turn.",
     "author": "gallantron",
     "lastPrint": "2022-05-06",
     "lastUpdated": "2022-07-01",
@@ -8203,7 +8203,7 @@
     ],
     "customDiffData": [
       162,
-      [123,165],
+      [123,170],
       67
     ]
   },
@@ -8236,6 +8236,37 @@
       [78,28],
       [0,15],
       [0,71]
+    ]
+  },
+  {
+    "id": 7371,
+    "icon": "synchro",
+    "name": "Dark End Dragon",
+    "oldText": "1 Tuner + 1 or more non-Tuner DARK monsters\nOnce per turn: You can target 1 monster your opponent controls; this card loses 500 ATK and DEF, and you send that target to the Graveyard.",
+    "newText": "1 Tuner + 1+ non-Tuner DARK monsters\nOnce per turn: You can target 1 monster your opponent controls; this card loses exactly 500 ATK/DEF, and if it does, send that target to the GY.",
+    "author": "gallantron",
+    "lastPrint": "2012-02-21",
+    "lastUpdated": "2022-07-01",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7672&request_locale=ja",
+        "title": "Q&A #7672",
+        "date": "2022-07-01",
+        "desc": "In the Official Card Game, if Dark End Dragon's ATK and/or DEF is less than 500 by the time its effect resolves, it will not lose any ATK/DEF."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7672&request_locale=ja",
+        "title": "Q&A #7672",
+        "date": "2022-07-01",
+        "desc": "In the Official Card Game, even if the opponent's monster no longer exists, Dark End Dragon still loses 500 ATK/DEF when its effect resolves."
+      }
+    ],
+    "customDiffData": [
+      [141,117],
+      [3,7],
+      [39,14],
+      [0,15],
+      [0,28]
     ]
   }
 ]
