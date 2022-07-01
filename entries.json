@@ -8206,5 +8206,36 @@
       [123,165],
       67
     ]
+  },
+  {
+    "id": 7372,
+    "icon": "synchro",
+    "name": "Light End Dragon",
+    "oldText": "1 Tuner + 1 or more non-Tuner LIGHT monsters\nAt attack declaration, if this card battles another monster: You can have this card lose 500 ATK and DEF (permanently), and the monster this card is battling loses 1500 ATK and DEF until the End Phase.",
+    "newText": "1 Tuner + 1+ non-Tuner LIGHT monsters\nIf an attack is declared involving this card and an opponent's monster: You can activate this effect; this card loses exactly 500 ATK/DEF (permanently), and if it does, that opponent's monster loses 1500 ATK/DEF until the end of this turn.",
+    "author": "gallantron",
+    "lastPrint": "2012-02-21",
+    "lastUpdated": "2022-07-01",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7672&request_locale=ja",
+        "title": "Q&A #7672",
+        "date": "2022-07-01",
+        "desc": "In the Official Card Game, if Light End Dragon's ATK and/or DEF is less than 500 by the time its effect resolves, it will not lose any ATK/DEF."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7672&request_locale=ja",
+        "title": "Q&A #7672",
+        "date": "2022-07-01",
+        "desc": "In the Official Card Game, even if the opponent's monster no longer exists, Light End Dragon still loses 500 ATK/DEF when its effect resolves."
+      }
+    ],
+    "customDiffData": [
+      [165,156],
+      [3,7],
+      [78,28],
+      [0,15],
+      [0,71]
+    ]
   }
 ]
