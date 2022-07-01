@@ -1306,6 +1306,12 @@
         "date": "2020-12-24",
         "desc": "Prohibition is an example of a card that refers to generic \"usage\" of monsters."
       }
+    ],
+    "customDiffData": [
+      [35,45],
+      [56,83],
+      [73,101],
+      [0,287]
     ]
   },
   {
@@ -8135,6 +8141,29 @@
       54,
       [7,13],
       [251,216]
+    ]
+  },
+  {
+    "id": 9283,
+    "icon": "effect",
+    "name": "Psi-Blocker",
+    "oldText": "Once per turn: You can declare 1 card name; cards with that name, and their effects, cannot be used until the end of your opponent's next turn.",
+    "newText": "Once per turn: You can declare 1 card name; until the end of your opponent's next turn, apply these effects to all cards whose original name is the card name you declared.\n●They cannot be placed on the field.\n●They cannot be activated, nor can their effects be activated or applied.\n●They cannot be Summoned or Set.\n●They cannot attack, nor can they change their battle positions.\n●They cannot be used as material for a Special Summon that requires materials.",
+    "author": "gallantron",
+    "lastPrint": "2012-05-28",
+    "lastUpdated": "2022-07-01",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9283&request_locale=ja",
+        "title": "Psi-Blocker",
+        "date": "2022-07-01",
+        "desc": "In the Official Card Game, Psi-Blocker's effect functions based on the cards' original name. Additionally, its text specifies which actions it prohibits."
+      }
+    ],
+    "customDiffData": [
+      [44,88],
+      [55,371],
+      [44,0]
     ]
   }
 ]

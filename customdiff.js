@@ -54,6 +54,13 @@ let regenerateJSON = (() =>
     );
 });
 
+const isIn = ((elmChild, range) =>
+{
+    const cmpRange = new Range();
+    cmpRange.selectNodeContents(elmChild);
+    return ((range.compareBoundaryPoints(Range.START_TO_START, cmpRange) <= 0) && (range.compareBoundaryPoints(Range.END_TO_END, cmpRange) >= 0));
+});
+
 document.getElementById('diff-on').addEventListener('click', () =>
 {
     const sel = window.getSelection();
@@ -62,10 +69,10 @@ document.getElementById('diff-on').addEventListener('click', () =>
     {
         const range = sel.getRangeAt(i);
         for (const elm of document.getElementById('old-text').children)
-            if (range.isPointInRange(elm.firstChild,0) && range.isPointInRange(elm.firstChild,1))
+            if (isIn(elm.firstChild, range))
                 elm.classList.add('deletion-word');
         for (const elm of document.getElementById('new-text').children)
-            if (range.isPointInRange(elm.firstChild,0) && range.isPointInRange(elm.firstChild,1))
+            if (isIn(elm.firstChild, range))
                 elm.classList.add('addition-word');
     }
     sel.removeAllRanges();
@@ -81,10 +88,10 @@ document.getElementById('diff-off').addEventListener('click', () =>
     {
         const range = sel.getRangeAt(i);
         for (const elm of document.getElementById('old-text').children)
-            if (range.isPointInRange(elm.firstChild,0) && range.isPointInRange(elm.firstChild,1))
+            if (isIn(elm.firstChild, range))
                 elm.classList.remove('deletion-word');
         for (const elm of document.getElementById('new-text').children)
-            if (range.isPointInRange(elm.firstChild,0) && range.isPointInRange(elm.firstChild,1))
+            if (isIn(elm.firstChild, range))
                 elm.classList.remove('addition-word');
     }
     sel.removeAllRanges();
