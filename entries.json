@@ -8183,5 +8183,28 @@
         "desc": "In the Official Card Game, if the targeted monster is no longer face-up at resolution, the effect of Shock Troops of the Ice Barrier is not applied."
       }
     ]
+  },
+  {
+    "id": 12409,
+    "icon": "pen_effect",
+    "name": "D/D Savant Thomas",
+    "oldText": "You can target 1 \"D/D\" card in your Pendulum Zone; destroy that card, and if you do, Special Summon 1 Level 8 \"D/D/D\" monster from your Deck in Defense Position, but for the rest of this turn, its effects (if any) are negated, also any battle damage your opponent takes becomes halved. You can only use this effect of \"D/D Savant Thomas\" once per turn.",
+    "newText": "You can target 1 \"D/D\" card in your Pendulum Zone; destroy that card, and if you do, Special Summon 1 Level 8 \"D/D/D\" monster from your Deck in Defense Position, and if you do, apply this effect for the rest of this turn:\n● That monster's effects (if any) are negated, also any battle damage your opponent takes becomes halved.\nYou can only use this effect of \"D/D Savant Thomas\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2022-05-06",
+    "lastUpdated": "2022-07-01",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18815&request_locale=ja",
+        "title": "Q&A #18815",
+        "date": "2022-07-01",
+        "desc": "In the Official Card Game, if the effect of D/D Savant Thomas fails to Special Summon a \"D/D/D\" monster, the damage taken by your opponent is not halved."
+      }
+    ],
+    "customDiffData": [
+      162,
+      [123,165],
+      67
+    ]
   }
 ]
