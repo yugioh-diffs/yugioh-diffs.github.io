@@ -8291,5 +8291,28 @@
       [13,11],
       190
     ]
+  },
+  {
+    "id": 5623,
+    "icon": "trap",
+    "name": "Formation Union",
+    "oldText": "Activate 1 of the following effects.\n●Target 1 face-up Union monster you control; equip it to 1 appropriate monster you control.\n●Unequip 1 Union monster you control that is an Equip Card and Special Summon it in Attack Position.",
+    "newText": "Activate 1 of the following effects.\n●Target 1 face-up Union monster you control; equip it to 1 appropriate monster you control.\n●Target 1 equipped Union Monster Card in your Spell & Trap Zone; Special Summon it in Attack Position.",
+    "author": "gallantron",
+    "lastPrint": "2020-11-26",
+    "lastUpdated": "2022-07-09",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5623&request_locale=ja",
+        "title": "Card FAQ – Formation Union",
+        "date": "2022-07-09",
+        "desc": "In the Official Card Game, the second bulleted effect of Formation Union targets the equipped Union Monster Card in your Spell & Trap Zone."
+      }
+    ],
+    "customDiffData": [
+      130,
+      [61,63],
+      38
+    ]
   }
 ]
