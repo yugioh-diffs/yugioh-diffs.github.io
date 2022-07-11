@@ -8314,5 +8314,28 @@
       [61,63],
       38
     ]
+  },
+  {
+    "id": 15050,
+    "icon": "spell",
+    "name": "Madolche Salon",
+    "oldText": "During your Main Phase, you can Normal Summon 1 \"Madolche\" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) If another \"Madolche\" card(s) you control or in your GY is added to your hand or shuffled into your Main Deck by a card effect: Set 1 \"Madolche\" Spell/Trap directly from your Deck, except \"Madolche Salon\". You can only use this effect of \"Madolche Salon\" once per turn.",
+    "newText": "During your Main Phase, you can Normal Summon 1 \"Madolche\" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) If another \"Madolche\" card(s) you control or in your GY is added to your hand or your Main Deck by a card effect: Set 1 \"Madolche\" Spell/Trap directly from your Deck, except \"Madolche Salon\". You can only use this effect of \"Madolche Salon\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2020-05-01",
+    "lastUpdated": "2022-07-11",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15050&request_locale=ja",
+        "title": "Madolche Salon",
+        "date": "2022-07-11",
+        "desc": "In the Official Card Game, the effect of Madolche Salon must also be activated if a \"Madolche\" card is placed at the top or bottom of the Deck."
+      }
+    ],
+    "customDiffData": [
+      212,
+      [50,36],
+      160
+    ]
   }
 ]
