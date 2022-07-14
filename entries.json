@@ -8337,5 +8337,27 @@
       [50,36],
       160
     ]
+  },
+  {
+    "id": 6720,
+    "icon": "effect",
+    "name": "Simorgh, Bird of Divinity",
+    "oldText": "This card cannot be Special Summoned. If you Tribute Summon this card, all Tributes must be WIND. Each player takes 1000 damage during each of their End Phases, while this card remains face-up on the field. This damage is decreased by 500 for each Spell/Trap Card the player controls.",
+    "newText": "Cannot be Special Summoned. To Tribute Summon this card, all Tributes must be WIND. Once per turn, during the End Phase: Each player takes 1000 damage, reduced by 500 for each Spell/Trap that player controls.",
+    "author": "gallantron",
+    "lastPrint": "2010-08-14",
+    "lastUpdated": "2022-07-14",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6720&request_locale=ja",
+        "title": "Card FAQ – Simorgh, Bird of Divinity",
+        "date": "2022-07-14",
+        "desc": "In the Official Card Game, both players take damage during each player's End Phase due to the effect of Simorgh, Bird of Divinity."
+      }
+    ],
+    "customDiffData": [
+      [98,84],
+      [186,124]
+    ]
   }
 ]
