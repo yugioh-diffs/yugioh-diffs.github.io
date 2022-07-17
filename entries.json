@@ -8368,5 +8368,30 @@
       [186,124],
       [0,82]
     ]
+  },
+  {
+    "id": 8292,
+    "icon": "effect",
+    "name": "Kuribon",
+    "oldText": "During damage calculation, if this card is attacked by your opponent's monster: You can activate this effect; you take no battle damage from that battle, your opponent gains LP equal to the attacking monster's ATK, also you return this card to your hand.",
+    "newText": "During damage calculation, if this card is attacked by your opponent's monster: You can activate this effect; this card cannot be destroyed by this battle, also you take no battle damage from it. After damage calculation, your opponent gains LP equal to the attacking monster's ATK, also return this card to your hand.",
+    "author": "gallantron",
+    "lastPrint": "2019-09-27",
+    "lastUpdated": "2022-07-17",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8292&request_locale=ja",
+        "title": "Card FAQ – Kuribon",
+        "date": "2022-07-17",
+        "desc": "In the Official Card Game, Kuribon's effect only returns it to the hand after Damage Calculation has been conducted.\n(The attacking monster is considered to have battled.)"
+      }
+    ],
+    "customDiffData": [
+      [254,110],
+      [0,44],
+      [0,42],
+      [0,25],
+      [0,97]
+    ]
   }
 ]
