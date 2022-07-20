@@ -8393,5 +8393,28 @@
       [0,25],
       [0,97]
     ]
+  },
+  {
+    "id": 17462,
+    "icon": "spell",
+    "name": "Primeval Planet Perlereino",
+    "oldText": "When this card is activated: You can add 1 \"Tearlaments\" monster or 1 \"Visas Starfrost\" from your Deck to your hand. Fusion Monsters and \"Tearlaments\" monsters you control gain 500 ATK. If a \"Tearlaments\" monster(s) you control or in your GY is shuffled into the Deck or Extra Deck (except during the Damage Step): You can target 1 card on the field; destroy it. You can only use this effect of \"Primeval Planet Perlereino\" once per turn. You can only activate 1 \"Primeval Planet Perlereino\" per turn.",
+    "newText": "When this card is activated: You can add 1 \"Tearlaments\" monster or 1 \"Visas Starfrost\" from your Deck to your hand. Fusion Monsters and \"Tearlaments\" monsters you control gain 500 ATK. If a \"Tearlaments\" monster(s) you control or in your GY is returned to the Deck or Extra Deck (except during the Damage Step): You can target 1 card on the field; destroy it. You can only use this effect of \"Primeval Planet Perlereino\" once per turn. You can only activate 1 \"Primeval Planet Perlereino\" per turn.",
+    "author": "gallantron",
+    "lastPrint": "2022-04-23",
+    "lastUpdated": "2022-07-20",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=17462&request_locale=ja",
+        "title": "Primeval Planet Perlereino",
+        "date": "2022-07-20",
+        "desc": "In the Official Card Game, the effect of \"Primeval Planet Perlereino\" can also be activated if a \"Tearlaments\" card is placed at the top or bottom of the Deck by a card effect."
+      }
+    ],
+    "customDiffData": [
+      245,
+      [13,11],
+      243
+    ]
   }
 ]
