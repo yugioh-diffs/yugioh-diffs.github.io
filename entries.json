@@ -278,7 +278,7 @@
     ],
     "name": "Elemental HERO Liquid Soldier",
     "lastUpdated": "2020-09-14",
-    "lastPrint": "2020-01-17",
+    "lastPrint": "2022-07-22",
     "icon": "effect"
   },
   {
@@ -1095,7 +1095,7 @@
     ],
     "name": "Predaplant Triphyoverutum",
     "lastUpdated": "2020-03-26",
-    "lastPrint": "2019-09-27",
+    "lastPrint": "2022-07-22",
     "icon": "fusion"
   },
   {
@@ -1503,7 +1503,7 @@
     ],
     "name": "Sentence of Doom",
     "lastUpdated": "2020-12-25",
-    "lastPrint": "2019-09-27",
+    "lastPrint": "2022-07-22",
     "icon": "trap"
   },
   {
@@ -2382,7 +2382,7 @@
     "oldText": "There can only be 1 \"Earthbound Immortal\" monster on the field. If there is no face-up Field Spell on the field, destroy this card. Your opponent's monsters cannot target this card for attacks. This card can attack directly. If this card is Normal Summoned: Target 1 to 3 cards you control, but not more than your opponent has in their hand; shuffle them into the Deck, then discard the same number of random cards from your opponent's hand (or as many as possible), and if you do, this card gains 1000 ATK for each card discarded by this effect.",
     "newText": "There can only be 1 \"Earthbound Immortal\" monster on the field. If there is no face-up Field Spell on the field, destroy this card. Your opponent's monsters cannot target this card for attacks. This card can attack directly. If this card is Normal Summoned: Target 1 to 3 other cards you control, but not more than your opponent has in their hand; shuffle them into the Deck, then discard the same number of random cards from your opponent's hand (or as many as possible), and if you do, this card gains 1000 ATK for each card discarded.",
     "author": "gallantron",
-    "lastPrint": "2019-09-27",
+    "lastPrint": "2022-07-22",
     "lastUpdated": "2021-01-02",
     "references": [
       {
@@ -7731,7 +7731,7 @@
     "oldText": "1 Fusion Monster + 1 DARK monster\nOnce per turn (Quick Effect): You can target 1 face-up monster your opponent controls; place 1 Predator Counter on it, and if it is Level 2 or higher, it becomes Level 1 as long as it has a Predator Counter. Negate the activated effects of your opponent's monsters that have Predator Counters.",
     "newText": "1 Fusion Monster + 1 DARK monster\nOnce per turn (Quick Effect): You can target 1 face-up monster your opponent controls; place 1 Predator Counter on it, and if it is Level 2 or higher, it becomes Level 1 as long as it has a Predator Counter. When a monster effect activated by your opponent resolves, negate the effect if that monster has a Predator Counter.",
     "author": "gallantron",
-    "lastPrint": "2019-09-27",
+    "lastPrint": "2022-07-22",
     "lastUpdated": "2022-04-13",
     "references": [
       {
