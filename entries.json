@@ -8416,5 +8416,28 @@
       [13,11],
       243
     ]
+  },
+  {
+    "id": 17454,
+    "icon": "spell",
+    "name": "Instant Contact",
+    "oldText": "Pay 1000 LP; Special Summon 1 Level 7 or lower \"Elemental HERO\" or \"Neo-Spacian\" monster from your Extra Deck, ignoring its Summoning conditions. While \"Elemental HERO Neos\" is neither on your field nor in your GY, the Summoned monster cannot attack, its effects are negated, also it returns to the Extra Deck during the End Phase. You can only activate 1 \"Instant Contact\" per turn.",
+    "newText": "Pay 1000 LP; Special Summon 1 Level 7 or lower \"Elemental HERO\" or \"Neo-Spacian\" monster from your Extra Deck, ignoring its Summoning conditions, but if \"Elemental HERO Neos\" is neither on your field nor in your GY, apply this effect to it:\n●It cannot attack, its effects are negated, also it returns to the Extra Deck during the End Phase.\nYou can only activate 1 \"Instant Contact\" per turn.",
+    "author": "gallantron",
+    "lastPrint": "2022-08-05",
+    "lastUpdated": "2022-08-01",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17454&request_locale=ja",
+        "title": "Card FAQ – Instant Contact",
+        "date": "2022-08-01",
+        "desc": "In the Official Card Game, whether \"Elemental HERO Neos\" exists in your field and/or GY is checked when Instant Contact resolves, and only then.\n(\"Elemental HERO Neos\" being added to/removed from these locations at a later point will have no impact.)"
+      }
+    ],
+    "customDiffData": [
+      146,
+      [185,194],
+      52
+    ]
   }
 ]
