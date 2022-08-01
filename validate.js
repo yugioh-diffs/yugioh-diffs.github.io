@@ -85,14 +85,14 @@ document.addEventListener('DOMContentLoaded', () =>
                         changed = true;
                     }
                     
-                    if (!(await fetch('artwork/'+entry.id+'.png', {method: 'HEAD'})).ok)
+                    if (!((await fetch('artwork/'+entry.id+'.png', {method: 'HEAD', cache: 'reload'})).ok))
                     {
                         LOG('Getting artwork for: #'+entry.id);
                         const img = new Image();
                         for (const artworkId in artworkManifest.cards[entry.id])
                         {
                             const artworkData = artworkManifest.cards[entry.id][artworkId]
-                            img.src = ('https://artworks.ygorganization.com' + (artworkData.bestTCG || artworkData.bestOCG));
+                            img.src = ('https://artworks.ygorganization.com' + artworkData.bestArt);
                             break;
                         }
                         await img.decode();
