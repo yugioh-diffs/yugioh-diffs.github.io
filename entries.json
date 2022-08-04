@@ -7608,6 +7608,12 @@
         "title": "Elemental HERO Shining Flare Wingman",
         "date": "2022-03-11",
         "desc": "Elemental HERO Shining Flare Wingman, which was printed alongside Armory Arm in HAC1, uses \"equal to that monster's original ATK in the GY.\""
+      },
+      {
+        "url": "https://yugiohblog.konami.com/articles/?p=3140",
+        "title": "Problem-Solving Card Text, Part 6: Finding Clues in TU6 & GENF",
+        "date": "2022-08-04",
+        "desc": "The \"in the GY\" qualifier was added to specify that the destroyed monster must still be in the GY when its ATK is referenced."
       }
     ],
     "customDiffData": [
