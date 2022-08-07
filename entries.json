@@ -8298,6 +8298,12 @@
         "title": "Madolche Puddingcess Chocolat-a-la-Mode",
         "date": "2022-07-09",
         "desc": "In the Official Card Game, the effect of Madolche Puddingcess Chocolat-a-la-Mode can be activated if a \"Madolche\" card is placed at the top or bottom of the Deck."
+      },
+      {
+        "url": "https://ygoprodeck.com/judicial-opinion-perlereino/",
+        "title": "Judicial Opinion: Perlereino",
+        "date": "2022-08-07",
+        "desc": "While the Trading Card Game commonly localizes unqualified 戻す (return) as \"shuffle\", this invites confusion for cards that ask for a card to have been returned to the Deck."
       }
     ],
     "customDiffData": [
@@ -8344,6 +8350,12 @@
         "title": "Madolche Salon",
         "date": "2022-07-11",
         "desc": "In the Official Card Game, the effect of Madolche Salon must also be activated if a \"Madolche\" card is placed at the top or bottom of the Deck."
+      },
+      {
+        "url": "https://ygoprodeck.com/judicial-opinion-perlereino/",
+        "title": "Judicial Opinion: Perlereino",
+        "date": "2022-08-07",
+        "desc": "While the Trading Card Game commonly localizes unqualified 戻す (return) as \"shuffle\", this invites confusion for cards that ask for a card to have been returned to the Deck."
       }
     ],
     "customDiffData": [
@@ -8407,7 +8419,7 @@
     "oldText": "When this card is activated: You can add 1 \"Tearlaments\" monster or 1 \"Visas Starfrost\" from your Deck to your hand. Fusion Monsters and \"Tearlaments\" monsters you control gain 500 ATK. If a \"Tearlaments\" monster(s) you control or in your GY is shuffled into the Deck or Extra Deck (except during the Damage Step): You can target 1 card on the field; destroy it. You can only use this effect of \"Primeval Planet Perlereino\" once per turn. You can only activate 1 \"Primeval Planet Perlereino\" per turn.",
     "newText": "When this card is activated: You can add 1 \"Tearlaments\" monster or 1 \"Visas Starfrost\" from your Deck to your hand. Fusion Monsters and \"Tearlaments\" monsters you control gain 500 ATK. If a \"Tearlaments\" monster(s) you control or in your GY is returned to the Deck or Extra Deck (except during the Damage Step): You can target 1 card on the field; destroy it. You can only use this effect of \"Primeval Planet Perlereino\" once per turn. You can only activate 1 \"Primeval Planet Perlereino\" per turn.",
     "author": "gallantron",
-    "lastPrint": "2022-04-23",
+    "lastPrint": "2022-08-05",
     "lastUpdated": "2022-07-20",
     "references": [
       {
@@ -8415,6 +8427,12 @@
         "title": "Primeval Planet Perlereino",
         "date": "2022-07-20",
         "desc": "In the Official Card Game, the effect of \"Primeval Planet Perlereino\" can also be activated if a \"Tearlaments\" card is placed at the top or bottom of the Deck by a card effect."
+      },
+      {
+        "url": "https://ygoprodeck.com/judicial-opinion-perlereino/",
+        "title": "Judicial Opinion: Perlereino",
+        "date": "2022-08-07",
+        "desc": "While the Trading Card Game commonly localizes unqualified 戻す (return) as \"shuffle\", this invites confusion for cards that ask for a card to have been returned to the Deck."
       }
     ],
     "customDiffData": [
