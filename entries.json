@@ -8445,5 +8445,23 @@
       [185,194],
       52
     ]
+  },
+  {
+    "id": 17425,
+    "icon": "effect",
+    "name": "Melffy Pinny",
+    "oldText": "If a face-up Beast monster you control was returned to the hand this turn, except \"Melffy Pinny\" (Quick Effect): You can Special Summon this card from your hand, then immediately after this effect resolves, Synchro Summon 1 Synchro Monster using only this card you control and \"Melffy\" monsters in your hand. During your End Phase, if this card is in your GY: You can target 1 Beast Xyz Monster you control; attach this card to it as material. You can only use each effect of \"Melffy Pinny\" once per turn.",
+    "newText": "If a face-up Beast monster you control was returned to the hand this turn, except \"Melffy Pinny\" (Quick Effect): You can Special Summon this card from your hand, then, immediately after this effect resolves, you can Synchro Summon 1 Synchro Monster using only this card you control and \"Melffy\" monsters in your hand. During your End Phase, if this card is in your GY: You can target 1 Beast Xyz Monster you control; attach this card to it as material. You can only use each effect of \"Melffy Pinny\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2022-08-05",
+    "lastUpdated": "2022-08-07",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17425&request_locale=ja",
+        "title": "Card FAQ – Melffy Pinny",
+        "date": "2022-08-07",
+        "desc": "In the Official Card Game, performing a Synchro Summon due to Melffy Pinny's effect is optional."
+      }
+    ]
   }
 ]
