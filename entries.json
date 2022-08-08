@@ -8541,5 +8541,23 @@
       [9,22],
       119
     ]
+  },
+  {
+    "id": 7449,
+    "icon": "spell",
+    "name": "Spell Chronicle",
+    "oldText": "Activate this card by sending your entire hand to the GY; banish 5 Spells/Traps from your Deck. Each time your opponent activates a Spell Card, place 1 Chronicle Counter on this card when that Spell Card resolves. You can remove 2 Chronicle Counters from this card; your opponent chooses 1 card banished by this card's effect for you to add to your hand. If this face-up card in the Spell & Trap Zone leaves the field: You take 500 damage for each card currently banished by this card's effect.",
+    "newText": "Activate this card by sending your entire hand to the GY; banish 5 Spells/Traps from your Deck. Each time your opponent activates a Spell Card, place 1 Chronicle Counter on this card when that Spell Card resolves. You can remove 2 Chronicle Counters from this card; your opponent chooses 1 card banished by this card's effect for you to add to your hand. If this face-up card in the Spell & Trap Zone leaves the field, you take 500 damage for each card currently banished by this card's effect.",
+    "author": "gallantron",
+    "lastPrint": "2020-07-10",
+    "lastUpdated": "2022-08-08",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7449&request_locale=ja",
+        "title": "Card FAQ – Spell Chronicle",
+        "date": "2022-08-08",
+        "desc": "In the Official Card Game, Spell Chronicle's effect that inflicts damage to its controller when it leaves the field does not activate."
+      }
+    ]
   }
 ]
