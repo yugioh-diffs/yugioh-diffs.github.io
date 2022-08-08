@@ -8481,5 +8481,36 @@
         "desc": "In the Official Card Game, performing a Synchro Summon due to Melffy Pinny's effect is optional."
       }
     ]
+  },
+  {
+    "id": 12604,
+    "icon": "effect",
+    "name": "Flower Cardian Peony with Butterfly",
+    "oldText": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 \"Flower Cardian\" monster, except \"Flower Cardian Peony with Butterfly\". If this card is Special Summoned: Draw 1 card, and if you do, show it, then, if it is a \"Flower Cardian\" monster, look at the top 3 cards of your opponent's Deck, then place them all on the top or bottom of the Deck in any order. Otherwise, send it to the Graveyard. When this card is used as Synchro Material, you can treat it and all other Synchro Materials (that have a Level) as Level 2 monsters.",
+    "newText": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 \"Flower Cardian\" monster, except \"Flower Cardian Peony with Butterfly\". If this card is Special Summoned: Draw 1 card, and if you do, show it, then, if it is a \"Flower Cardian\" monster, look at the top 3 cards of your opponent's Deck, then place them all on the top or bottom of the Deck in any order. Otherwise, send the drawn card to the GY. If this card on the field is used as Synchro Material, you can treat it and all other Synchro Materials (that have a Level) as Level 2 monsters.",
+    "author": "gallantron",
+    "lastPrint": "2016-11-04",
+    "lastUpdated": "2022-08-08",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12604&request_locale=ja",
+        "title": "Flower Cardian Peony with Butterfly",
+        "date": "2022-08-08",
+        "desc": "In the Official Card Game, the effect of Flower Cardian Peony with Butterfly that treats all Synchro Materials as Level 2 monsters can only be applied if it is being used from the field."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8580&request_locale=en",
+        "title": "Eccentric Boy",
+        "date": "2022-08-08",
+        "desc": "Eccentric Boy is an example of a card whose effect lets it use cards in the hand as Synchro Material."
+      }
+    ],
+    "customDiffData": [
+      412,
+      [2,14],
+      [24,15],
+      [9,22],
+      119
+    ]
   }
 ]
