@@ -8512,5 +8512,34 @@
       [9,22],
       119
     ]
+  },
+  {
+    "id": 12560,
+    "icon": "effect",
+    "name": "Flower Cardian Willow with Calligrapher",
+    "oldText": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 Level 11 \"Flower Cardian\" monster, except \"Flower Cardian Willow with Calligrapher\". If this card is Special Summoned: Draw 1 card, and if you do, show it, then you can Special Summon it if it is a \"Flower Cardian\" monster. Otherwise, send it to the GY. When this card is used as Synchro Material, you can treat it and all other Synchro Materials (that have a Level) as Level 2 monsters.",
+    "newText": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing 1 Level 11 \"Flower Cardian\" monster, except \"Flower Cardian Willow with Calligrapher\". If this card is Special Summoned: Draw 1 card, and if you do, show it, then you can Special Summon it if it is a \"Flower Cardian\" monster. Otherwise, send it to the GY. If this card on the field is used as Synchro Material, you can treat it and all other Synchro Materials (that have a Level) as Level 2 monsters.",
+    "author": "gallantron",
+    "lastPrint": "2020-09-11",
+    "lastUpdated": "2022-08-08",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12560&request_locale=ja",
+        "title": "Flower Cardian Willow with Calligrapher",
+        "date": "2022-08-08",
+        "desc": "In the Official Card Game, the effect of Flower Cardian Willow with Calligrapher that treats all Synchro Materials as Level 2 monsters can only be applied if it is being used from the field."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8580&request_locale=en",
+        "title": "Eccentric Boy",
+        "date": "2022-08-08",
+        "desc": "Eccentric Boy is an example of a card whose effect lets it use cards in the hand as Synchro Material."
+      }
+    ],
+    "customDiffData": [
+      [353,351],
+      [9,22],
+      119
+    ]
   }
 ]
