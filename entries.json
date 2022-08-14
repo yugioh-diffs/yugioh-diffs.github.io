@@ -8559,5 +8559,23 @@
         "desc": "In the Official Card Game, Spell Chronicle's effect that inflicts damage to its controller when it leaves the field does not activate."
       }
     ]
+  },
+  {
+    "id": 11480,
+    "icon": "effect",
+    "name": "Shurit, Strategist of the Nekroz",
+    "oldText": "If you Ritual Summon exactly 1 \"Nekroz\" Ritual Monster with a card effect that requires use of monsters, this card can be used as the entire requirement. If this card is Tributed by a card effect: You can add 1 Warrior \"Nekroz\" Ritual Monster from your Deck to your hand. You can only use this effect of \"Shurit, Strategist of the Nekroz\" once per turn.",
+    "newText": "If you Ritual Summon exactly 1 \"Nekroz\" Ritual Monster with a card effect that requires use of monsters, this card can be used as the entire Level requirement. If this card is Tributed by a card effect: You can add 1 Warrior \"Nekroz\" Ritual Monster from your Deck to your hand. You can only use this effect of \"Shurit, Strategist of the Nekroz\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2019-04-03",
+    "lastUpdated": "2022-08-14",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11480&request_locale=ja",
+        "title": "Shurit, Strategist of the Nekroz",
+        "date": "2022-08-14",
+        "desc": "In the Official Card Game, the effect of Shurit, Strategist of the Nekroz can only be applied when performing a Ritual Summon that uses Levels."
+      }
+    ]
   }
 ]
