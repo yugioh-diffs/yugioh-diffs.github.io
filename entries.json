@@ -8705,5 +8705,51 @@
       [50,48],
       [243,122]
     ]
+  },
+  {
+    "id": 10524,
+    "icon": "effect",
+    "name": "Green Duston",
+    "oldText": "Cannot be used as a Fusion, Synchro, or Xyz Material for a Summon. While this card is face-up on the field, it cannot be Tributed. When this card on the field is destroyed: The controller targets 1 Spell/Trap Card they control; return that target to the hand. You can only control 1 face-up \"Green Duston\".",
+    "newText": "You can only control 1 \"Green Duston\". Cannot be Tributed, nor used as material for a Fusion, Synchro, or Xyz Summon. If this card on the field is destroyed: Its controller targets 1 Spell/Trap they control; return that target to the hand.",
+    "author": "gallantron",
+    "lastPrint": "2013-05-17",
+    "lastUpdated": "2022-08-23",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10643&request_locale=ja",
+        "title": "Green Duston",
+        "date": "2022-08-23",
+        "desc": "In the Official Card Game, the effect of Green Duston only prevents it from being used as material for Fusion, Synchro, or Xyz Summons.\nIt does not prevent its use for other Summons that happen to use Fusion, Synchro, or Xyz Materials, such as the Summon of Chimeratech Megafleet Dragon using its listed procedure."
+      }
+    ],
+    "customDiffData": [
+      [15,68],
+      [50,48],
+      [241,123]
+    ]
+  },
+  {
+    "id": 10403,
+    "icon": "effect",
+    "name": "Red Duston",
+    "oldText": "Cannot be used as a Fusion, Synchro, or Xyz Material for a Summon. While this card is face-up on the field, it cannot be Tributed. When this card on the field is destroyed: The controller takes 500 damage. You can only control 1 face-up \"Red Duston\".",
+    "newText": "You can only control 1 \"Red Duston\". Cannot be Tributed, nor used as material for a Fusion, Synchro, or Xyz Summon. If this card on the field is destroyed: Its controller takes 500 damage.",
+    "author": "gallantron",
+    "lastPrint": "2013-01-25",
+    "lastUpdated": "2022-08-23",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10403&request_locale=ja",
+        "title": "Card FAQ – Red Duston",
+        "date": "2022-08-23",
+        "desc": "In the Official Card Game, the effect of Red Duston only prevents it from being used as material for Fusion, Synchro, or Xyz Summons.\nIt does not prevent its use for other Summons that happen to use Fusion, Synchro, or Xyz Materials, such as the Summon of Chimeratech Megafleet Dragon using its listed procedure."
+      }
+    ],
+    "customDiffData": [
+      [15,66],
+      [50,48],
+      [185,74]
+    ]
   }
 ]
