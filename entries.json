@@ -8636,5 +8636,28 @@
       [50,48],
       [158,151]
     ]
+  },
+  {
+    "id": 10966,
+    "icon": "trap",
+    "name": "Duston Roller",
+    "oldText": "Target 1 monster on the field; this turn, it cannot be Tributed, or be used as a Fusion, Synchro, or Xyz Material for a Summon. If this Set card you control is destroyed by your opponent's card effect and sent to your Graveyard: You can add 1 \"Duston\" monster from your Deck to your hand.",
+    "newText": "Target 1 monster on the field; this turn, it cannot be Tributed, nor be used as material for a Fusion, Synchro, or Xyz Summon. If this Set card you control is destroyed by your opponent's card effect and sent to your GY: You can add 1 \"Duston\" monster from your Deck to your hand.",
+    "author": "gallantron",
+    "lastPrint": "2014-01-24",
+    "lastUpdated": "2022-08-23",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10966&request_locale=ja",
+        "title": "Duston Roller",
+        "date": "2022-08-23",
+        "desc": "In the Official Card Game, the effect of Duston Roller only prevents the targeted monster from being used as material for Fusion, Synchro, or Xyz Summons.\nIt does not prevent its use for other Summons that happen to use Fusion, Synchro, or Xyz Materials, such as the Summon of Chimeratech Megafleet Dragon using its listed procedure."
+      }
+    ],
+    "customDiffData": [
+      [76,77],
+      [50,48],
+      [162,155]
+    ]
   }
 ]
