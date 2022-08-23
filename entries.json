@@ -8659,5 +8659,51 @@
       [50,48],
       [162,155]
     ]
+  },
+  {
+    "id": 10776,
+    "icon": "effect",
+    "name": "Blue Duston",
+    "oldText": "Cannot be used as a Fusion, Synchro, or Xyz Material for a Summon. While this card is face-up on the field, it cannot be Tributed. When this card on the field is destroyed: Banish 1 random card from its controller's hand, face-down, until the Standby Phase of the next turn. You can only control 1 face-up \"Blue Duston\".",
+    "newText": "You can only control 1 \"Blue Duston\". Cannot be Tributed, nor used as material for a Fusion, Synchro, or Xyz Summon. If this card on the field is destroyed: Banish 1 random card from its controller's hand, face-down, until the Standby Phase of the next turn.",
+    "author": "gallantron",
+    "lastPrint": "2013-11-08",
+    "lastUpdated": "2022-08-23",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10776&request_locale=ja",
+        "title": "Blue Duston",
+        "date": "2022-08-23",
+        "desc": "In the Official Card Game, the effect of Blue Duston only prevents it from being used as material for Fusion, Synchro, or Xyz Summons.\nIt does not prevent its use for other Summons that happen to use Fusion, Synchro, or Xyz Materials, such as the Summon of Chimeratech Megafleet Dragon using its listed procedure."
+      }
+    ],
+    "customDiffData": [
+      [15,67],
+      [50,48],
+      [255,143]
+    ]
+  },
+  {
+    "id": 10643,
+    "icon": "effect",
+    "name": "Yellow Duston",
+    "oldText": "Cannot be used as a Fusion, Synchro, or Xyz Material for a Summon. While this card is face-up on the field, it cannot be Tributed. When this card on the field is destroyed: The controller targets 1 monster in their Graveyard; shuffle that target into the Deck. You can only control 1 face-up \"Yellow Duston\".",
+    "newText": "You can only control 1 \"Yellow Duston\". Cannot be Tributed, nor used as material for a Fusion, Synchro, or Xyz Summon. If this card on the field is destroyed: Its controller targets 1 monster in their GY; shuffle that target into the Deck.",
+    "author": "gallantron",
+    "lastPrint": "2013-08-09",
+    "lastUpdated": "2022-08-23",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10643&request_locale=ja",
+        "title": "Yellow Duston",
+        "date": "2022-08-23",
+        "desc": "In the Official Card Game, the effect of Yellow Duston only prevents it from being used as material for Fusion, Synchro, or Xyz Summons.\nIt does not prevent its use for other Summons that happen to use Fusion, Synchro, or Xyz Materials, such as the Summon of Chimeratech Megafleet Dragon using its listed procedure."
+      }
+    ],
+    "customDiffData": [
+      [15,69],
+      [50,48],
+      [243,122]
+    ]
   }
 ]
