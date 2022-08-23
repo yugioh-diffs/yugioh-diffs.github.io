@@ -8595,5 +8595,23 @@
         "desc": "In the Official Card Game, the ATK gained by Neo Galaxy-Eyes Photon Dragon due to its effect only remains until the end of the current turn."
       }
     ]
+  },
+  {
+    "id": 13246,
+    "icon": "effect",
+    "name": "Mecha Phantom Beast Raiten",
+    "oldText": "You can discard 1 card; Special Summon 1 \"Mecha Phantom Beast Token\" (Machine/WIND/Level 3/ATK 0/DEF 0), also you can only use \"Mecha Phantom Beast\" monsters as Fusion, Synchro, Xyz, or Link Material for a Summon, for the rest of this turn. This card's Level is increased by the total Levels of all \"Mecha Phantom Beast Tokens\" you control. While you control a Token, this card cannot be destroyed by battle or card effects.",
+    "newText": "You can discard 1 card; Special Summon 1 \"Mecha Phantom Beast Token\" (Machine/WIND/Level 3/ATK 0/DEF 0), also for the rest of this turn, you can only use \"Mecha Phantom Beast\" monsters as material for a Fusion, Synchro, Xyz, or Link Summon. This card's Level is increased by the total Levels of all \"Mecha Phantom Beast Tokens\" you control. While you control a Token, this card cannot be destroyed by battle or card effects.",
+    "author": "gallantron",
+    "lastPrint": "2018-08-31",
+    "lastUpdated": "2022-08-23",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22839&request_locale=ja",
+        "title": "Q&A #22839",
+        "date": "2022-08-23",
+        "desc": "In the Official Card Game, the effect of Mecha Phantom Beast Raiten only prevents non-\"Mecha Phantom Beast\" monsters from being used as material for Fusion, Synchro, Xyz, or Link Summons.\nIt does not prevent their use for other Summons that happen to use Fusion, Synchro, Xyz, or Link Materials, such as the Summon of Chimeratech Megafleet Dragon."
+      }
+    ]
   }
 ]
