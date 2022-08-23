@@ -8610,8 +8610,31 @@
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22839&request_locale=ja",
         "title": "Q&A #22839",
         "date": "2022-08-23",
-        "desc": "In the Official Card Game, the effect of Mecha Phantom Beast Raiten only prevents non-\"Mecha Phantom Beast\" monsters from being used as material for Fusion, Synchro, Xyz, or Link Summons.\nIt does not prevent their use for other Summons that happen to use Fusion, Synchro, Xyz, or Link Materials, such as the Summon of Chimeratech Megafleet Dragon."
+        "desc": "In the Official Card Game, the effect of Mecha Phantom Beast Raiten only prevents non-\"Mecha Phantom Beast\" monsters from being used as material for Fusion, Synchro, Xyz, or Link Summons.\nIt does not prevent their use for other Summons that happen to use Fusion, Synchro, Xyz, or Link Materials, such as the Summon of Chimeratech Megafleet Dragon using its listed procedure."
       }
+    ]
+  },
+  {
+    "id": 10800,
+    "icon": "spell",
+    "name": "Magicalized Duston Mop",
+    "oldText": "You can only control 1 \"Magicalized Duston Mop\". The equipped monster cannot be Tributed, or be used as a Fusion, Synchro, or Xyz Material for a Summon. When this card you control is destroyed by an opponent's card effect and sent to your Graveyard: You can add 1 \"Duston\" monster from your Deck to your hand.",
+    "newText": "You can only control 1 \"Magicalized Duston Mop\". The equipped monster cannot be Tributed, nor be used as material for a Fusion, Synchro, or Xyz Summon. When this card you control is destroyed by an opponent's card effect and sent to your GY: You can add 1 \"Duston\" monster from your Deck to your hand.",
+    "author": "gallantron",
+    "lastPrint": "2013-11-08",
+    "lastUpdated": "2022-08-23",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10800&request_locale=ja",
+        "title": "Magicalized Duston Mop",
+        "date": "2022-08-23",
+        "desc": "In the Official Card Game, the effect of Magicalized Duston Mop only prevents the equipped monster from being used as material for Fusion, Synchro, or Xyz Summons.\nIt does not prevent its use for other Summons that happen to use Fusion, Synchro, or Xyz Materials, such as the Summon of Chimeratech Megafleet Dragon using its listed procedure."
+      }
+    ],
+    "customDiffData": [
+      [101,102],
+      [50,48],
+      [158,151]
     ]
   }
 ]
