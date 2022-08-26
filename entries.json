@@ -921,7 +921,7 @@
     ],
     "name": "Thunder Dragon Fusion",
     "lastUpdated": "2020-04-13",
-    "lastPrint": "2018-10-19",
+    "lastPrint": "2019-08-30",
     "icon": "spell"
   },
   {
@@ -2964,7 +2964,7 @@
     "oldText": "If you control a \"Noble Arms\" Equip Spell, you can Special Summon this card (from your hand). You can only Special Summon \"Noble Knight Custennin\" once per turn this way. A \"Noble Knight\" monster that was Synchro, Xyz or Link Summoned using this card on the field as material gains this effect.\n●If this card is Special Summoned: You can Normal Summon 1 \"Noble Knight\" monster during your Main Phase this turn, in addition to your Normal Summon/Set (you can only gain this effect once per turn), also, you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except \"Noble Knight\" monsters.",
     "newText": "If you control a \"Noble Arms\" Equip Spell, you can Special Summon this card (from your hand). You can only Special Summon \"Noble Knight Custennin\" once per turn this way. A \"Noble Knight\" monster that was Synchro, Xyz or Link Summoned using this card on the field as material gains this effect.\n●If this card is Special Summoned, you can: During your Main Phase this turn, you can Normal Summon 1 monster in addition to your Normal Summon/Set (you can only gain this effect once per turn), also, you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except \"Noble Knight\" monsters.",
     "author": "gallantron",
-    "lastPrint": "2018-07-27",
+    "lastPrint": "2019-08-30",
     "lastUpdated": "2021-01-26",
     "references": [
       {
@@ -3037,7 +3037,7 @@
     "oldText": "If only this card is banished by the effect of a \"Nordic\" Link Monster: You can send to the GY, 1 \"Nordic\" monster you control and 2 \"Nordic\" monsters from your Deck, whose total Levels equal 10, then Special Summon 1 \"Aesir\" monster from your Extra Deck. If an \"Aesir\" monster(s) in your possession is sent to your GY by your opponent's card: You can banish this card from your GY; Special Summon 1 \"Aesir\" monster from your Extra Deck, with a different name from the cards in your GY. You can only use this effect of \"Alviss of the Nordic Alfar\" once per Duel.",
     "newText": "If only this card is banished by the effect of a \"Nordic\" Link Monster: You can send to the GY, 1 \"Nordic\" monster you control and 2 \"Nordic\" monsters from your Deck, whose total Levels equal 10, then Special Summon 1 \"Aesir\" monster from your Extra Deck. If an \"Aesir\" monster(s) in your possession is sent to your GY by your opponent, except by battle: You can banish this card from your GY; Special Summon 1 \"Aesir\" monster from your Extra Deck, with a different name from the cards in your GY. You can only use this effect of \"Alviss of the Nordic Alfar\" once per Duel.",
     "author": "gallantron",
-    "lastPrint": "2018-10-19",
+    "lastPrint": "2019-08-30",
     "lastUpdated": "2021-02-17",
     "references": [
       {
@@ -3733,7 +3733,7 @@
     "oldText": "If you control a \"F.A.\" monster, this card cannot be destroyed by your opponent's card effects. When your \"F.A.\" monster whose Level is at least 5 higher than its original Level battles an opponent's monster and inflicts battle damage to them: You can banish 1 card from your hand, field, or GY. You can only activate this effect of \"F.A. Winners\" once per turn. If 3 of your \"F.A.\" Field Spells with different names are currently banished, and were all banished by the effect of \"F.A. Winners\", you win the Duel.",
     "newText": "If you control a \"F.A.\" monster, this card cannot be destroyed by your opponent's card effects. When your \"F.A.\" monster whose Level is at least 5 higher than its original Level battles an opponent's monster and inflicts battle damage to them: You can banish 1 card from your hand, field, or GY. You can only use this effect of \"F.A. Winners\" once per turn. If 3 of your \"F.A.\" Field Spells with different names are currently banished, and were all banished by the effect of \"F.A. Winners\", you win the Duel.",
     "author": "gallantron",
-    "lastPrint": "2018-05-04",
+    "lastPrint": "2019-08-30",
     "lastUpdated": "2021-06-23",
     "references": [
       {
@@ -3907,7 +3907,7 @@
     "oldText": "When you take battle damage: You can Special Summon this card from your hand, and if you do, it gains ATK equal to the damage you took. Once per turn, during damage calculation, when another Defense Position monster you control is attacked by an opponent's monster (Quick Effect): You can activate this effect; during this damage calculation, your attacked monster's DEF becomes equal to this card's DEF, also it cannot be destroyed by that battle.",
     "newText": "When you take battle damage: You can Special Summon this card from your hand, and if you do, it gains ATK equal to the damage you took. Once per turn, during damage calculation, when another Defense Position monster you control is attacked by an opponent's monster: You can activate this effect; during this damage calculation, your attacked monster's DEF becomes equal to this card's DEF, also it cannot be destroyed by that battle.",
     "author": "gallantron",
-    "lastPrint": "2018-07-27",
+    "lastPrint": "2019-08-30",
     "lastUpdated": "2021-06-27",
     "references": [
       {
@@ -4015,7 +4015,7 @@
     "oldText": "If a Spell/Trap you control leaves the field because of an opponent's effect, and is now in the GY or banished (except during the Damage Step): You can Special Summon this card from your GY (if it was there when that Spell/Trap left) or hand (even if not), then you can Set 1 Spell/Trap that is banished or in your GY to your Spell & Trap Zone. You can only use this effect of \"Mana Dragon Zirnitron\" once per turn. If Summoned this way, banish this card when it leaves the field.",
     "newText": "If a Spell/Trap you control leaves the field because of an opponent's effect, and is now in the GY or banished (except during the Damage Step): You can Special Summon this card from your GY (if it was there when that Spell/Trap left) or hand (even if not), then you can Set 1 of your Spells/Traps, that is banished or in the GY, to your Spell & Trap Zone. You can only use this effect of \"Mana Dragon Zirnitron\" once per turn. If Summoned this way, banish this card when it leaves the field.",
     "author": "gallantron",
-    "lastPrint": "2018-07-27",
+    "lastPrint": "2019-08-30",
     "lastUpdated": "2021-06-27",
     "references": [
       {
@@ -4483,7 +4483,7 @@
     "oldText": "Both players must Set Spell Cards before activating them, and cannot activate them until their next turn after Setting them.",
     "newText": "Both players must Set Spell Cards before activating them. If either player Sets a Spell Card, that Spell Card cannot be activated until their next turn.",
     "author": "gallantron",
-    "lastPrint": "2019-10-11",
+    "lastPrint": "2022-08-26",
     "lastUpdated": "2021-07-07",
     "references": [
       {
@@ -6315,7 +6315,7 @@
     "oldText": "Target 1 Quick-Play Spell in your GY, except \"Quick Booster\"; shuffle that target into the Deck. If this card you control is destroyed by your opponent's card and sent to your GY: You can add 1 Quick-Play Spell from your Deck to your hand, except \"Quick Booster\".",
     "newText": "Target 1 Quick-Play Spell in your GY, except \"Quick Booster\"; shuffle that target into the Deck. If this card you control is destroyed by your opponent and sent to your GY: You can add 1 Quick-Play Spell from your Deck to your hand, except \"Quick Booster\".",
     "author": "gallantron",
-    "lastPrint": "2018-05-25",
+    "lastPrint": "2022-08-26",
     "lastUpdated": "2021-09-28",
     "references": [
       {
@@ -6820,7 +6820,7 @@
     "oldText": "\"Clock Wyvern\" + 1+ Link Monsters\nWhen this card is Fusion Summoned: You can send cards from the top of your Deck to the GY, equal to the total Link Rating of the materials used for this card's Fusion Summon, and if you do, until the end of the next turn, other monsters you control cannot attack, also this card gains 1000 ATK for each card sent to the GY by this effect. While you control a Link Monster(s), your opponent's monsters cannot target other monsters you control for attacks, also your opponent cannot target other monsters you control with card effects. If this Fusion Summoned card you control is sent to your GY by an opponent's card effect: You can add 1 Spell from your Deck to your hand.",
     "newText": "\"Clock Wyvern\" + 1+ Link Monsters\nWhen this card is Fusion Summoned, you can: Send cards from the top of your Deck to the GY, equal to the total Link Rating of the materials used for this card's Fusion Summon, also, until the end of the next turn, other monsters you control cannot attack, also this card gains 1000 ATK for each card sent to the GY by this effect. While you control a Link Monster(s), your opponent's monsters cannot target other monsters you control for attacks, also your opponent cannot target other monsters you control with card effects. If this Fusion Summoned card you control is sent to your GY by an opponent's card effect: You can add 1 Spell from your Deck to your hand.",
     "author": "gallantron",
-    "lastPrint": "2018-10-19",
+    "lastPrint": "2019-08-30",
     "lastUpdated": "2022-02-06",
     "references": [
       {
@@ -7144,7 +7144,7 @@
     "oldText": "2+ \"Dinowrestler\" monsters\nIf this card battles, your opponent cannot activate Spell/Trap Cards until the end of the Damage Step. Your opponent's monsters cannot target monsters for attacks, except this one. At the start of your opponent's Battle Phase: You can target 1 Attack Position monster your opponent controls; this Battle Phase, your opponent cannot attack with other monsters until that one has, and if it does not declare an attack, destroy it at the end of the Battle Phase.",
     "newText": "2+ \"Dinowrestler\" monsters\nIf this card battles, your opponent cannot activate Spell/Trap Cards until the end of the Damage Step. Your opponent's monsters cannot target monsters for attacks, except this one. At the start of your opponent's Battle Phase: You can target 1 Attack Position monster your opponent controls; this Battle Phase, your opponent cannot declare attacks with other monsters until they have declared an attack with the targeted monster, also destroy it at the end of the Battle Phase if it did not declare an attack.",
     "author": "gallantron",
-    "lastPrint": "2018-10-19",
+    "lastPrint": "2019-08-30",
     "lastUpdated": "2022-01-04",
     "references": [
       {
