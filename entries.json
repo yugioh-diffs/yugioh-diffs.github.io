@@ -8751,5 +8751,149 @@
       [50,48],
       [185,74]
     ]
+  },
+  {
+    "id": 17373,
+    "icon": "spell",
+    "name": "Runick Tip",
+    "oldText": "Activate 1 of these effects, but skip your next Battle Phase after activation;\n●Add 1 \"Runick\" card from your Deck to your hand, except \"Runick Tip\", then banish the top card of your opponent's Deck.\n●Special Summon 1 \"Runick\" monster from your Extra Deck to the Extra Monster Zone.\nYou can only activate 1 \"Runick Tip\" per turn.",
+    "newText": "Choose 1 of these effects; apply that effect, but skip your next Battle Phase.\n●Add 1 \"Runick\" card from your Deck to your hand, except \"Runick Tip\", then banish the top card of your opponent's Deck.\n●Special Summon 1 \"Runick\" monster from your Extra Deck to the Extra Monster Zone.\nYou can only activate 1 \"Runick Tip\" per turn.",
+    "author": "gallantron",
+    "lastPrint": "2022-08-26",
+    "lastUpdated": "2022-08-26",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=17373&request_locale=ja",
+        "title": "Runick Tip",
+        "date": "2022-08-26",
+        "desc": "In the Official Card Game, your next Battle Phase being skipped is an effect of Runick Tip.\n(The next Battle Phase will not be skipped if its activation, or its effect, is negated.)"
+      }
+    ]
+  },
+  {
+    "id": 17375,
+    "icon": "spell",
+    "name": "Runick Destruction",
+    "oldText": "Activate 1 of these effects, but skip your next Battle Phase after activation;\n●Target 1 Spell/Trap your opponent controls; destroy it, then banish the top 4 cards of your opponent's Deck.\n●Special Summon 1 \"Runick\" monster from your Extra Deck to the Extra Monster Zone.\nYou can only activate 1 \"Runick Destruction\" per turn.",
+    "newText": "Choose 1 of these effects; apply that effect, but skip your next Battle Phase.\n●Target 1 Spell/Trap your opponent controls; destroy it, then banish the top 4 cards of your opponent's Deck.\n●Special Summon 1 \"Runick\" monster from your Extra Deck to the Extra Monster Zone.\nYou can only activate 1 \"Runick Destruction\" per turn.",
+    "author": "gallantron",
+    "lastPrint": "2022-08-26",
+    "lastUpdated": "2022-08-26",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=17375&request_locale=ja",
+        "title": "Runick Destruction",
+        "date": "2022-08-26",
+        "desc": "In the Official Card Game, your next Battle Phase being skipped is an effect of Runick Destruction.\n(The next Battle Phase will not be skipped if its activation, or its effect, is negated.)"
+      }
+    ]
+  },
+  {
+    "id": 17377,
+    "icon": "spell",
+    "name": "Runick Slumber",
+    "oldText": "Activate 1 of these effects, but skip your next Battle Phase after activation;\n●Target 1 face-up monster on the field; the next time that monster would be destroyed by battle or card effect this turn, it is not destroyed, also it cannot attack this turn, then (after applying this effect) banish the top 3 cards of your opponent's Deck.\n●Special Summon 1 \"Runick\" monster from your Extra Deck to the Extra Monster Zone.\nYou can only activate 1 \"Runick Slumber\" per turn.",
+    "newText": "Choose 1 of these effects; apply that effect, but skip your next Battle Phase.\n●Target 1 face-up monster on the field; the next time that monster would be destroyed by battle or card effect this turn, it is not destroyed, also it cannot attack this turn, then (after applying this effect) banish the top 3 cards of your opponent's Deck.\n●Special Summon 1 \"Runick\" monster from your Extra Deck to the Extra Monster Zone.\nYou can only activate 1 \"Runick Slumber\" per turn.",
+    "author": "gallantron",
+    "lastPrint": "2022-08-26",
+    "lastUpdated": "2022-08-26",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=17377&request_locale=ja",
+        "title": "Runick Slumber",
+        "date": "2022-08-26",
+        "desc": "In the Official Card Game, your next Battle Phase being skipped is an effect of Runick Slumber.\n(The next Battle Phase will not be skipped if its activation, or its effect, is negated.)"
+      }
+    ]
+  },
+  {
+    "id": 17380,
+    "icon": "spell",
+    "name": "Runick Dispelling",
+    "oldText": "Activate 1 of these effects, but skip your next Battle Phase after activation;\n●If your opponent adds a card(s) from their Deck to their hand, except during the Draw Phase, discard 1 random card from their hand, then banish the top 2 cards of their Deck.\n●Special Summon 1 \"Runick\" monster from your Extra Deck to the Extra Monster Zone.\nYou can only activate 1 \"Runick Dispelling\" per turn.",
+    "newText": "Choose 1 of these effects; apply that effect, but skip your next Battle Phase.\n●If your opponent adds a card(s) from their Deck to their hand, except during the Draw Phase: discard 1 random card from their hand, then banish the top 2 cards of their Deck.\n●Special Summon 1 \"Runick\" monster from your Extra Deck to the Extra Monster Zone.\nYou can only activate 1 \"Runick Dispelling\" per turn.",
+    "author": "gallantron",
+    "lastPrint": "2022-08-26",
+    "lastUpdated": "2022-08-26",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=17380&request_locale=ja",
+        "title": "Runick Dispelling",
+        "date": "2022-08-26",
+        "desc": "In the Official Card Game, your next Battle Phase being skipped is an effect of Runick Dispelling.\n(The next Battle Phase will not be skipped if its activation, or its effect, is negated.)"
+      }
+    ]
+  },
+  {
+    "id": 17374,
+    "icon": "spell",
+    "name": "Runick Flashing Fire",
+    "oldText": "Activate 1 of these effects, but skip your next Battle Phase after activation;\n●Target 1 Special Summoned monster your opponent controls; destroy it, then banish the top 2 cards of your opponent's Deck.\n●Special Summon 1 \"Runick\" monster from your Extra Deck to the Extra Monster Zone.\nYou can only activate 1 \"Runick Flashing Fire\" per turn.",
+    "newText": "Choose 1 of these effects; apply that effect, but skip your next Battle Phase.\n●Target 1 Special Summoned monster your opponent controls; destroy it, then banish the top 2 cards of your opponent's Deck.\n●Special Summon 1 \"Runick\" monster from your Extra Deck to the Extra Monster Zone.\nYou can only activate 1 \"Runick Flashing Fire\" per turn.",
+    "author": "gallantron",
+    "lastPrint": "2022-08-26",
+    "lastUpdated": "2022-08-26",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=17374&request_locale=ja",
+        "title": "Runick Flashing Fire",
+        "date": "2022-08-26",
+        "desc": "In the Official Card Game, your next Battle Phase being skipped is an effect of Runick Flashing Fire.\n(The next Battle Phase will not be skipped if its activation, or its effect, is negated.)"
+      }
+    ]
+  },
+  {
+    "id": 17376,
+    "icon": "spell",
+    "name": "Runick Freezing Curses",
+    "oldText": "Activate 1 of these effects, but skip your next Battle Phase after activation;\n●Target 1 Effect Monster your opponent controls; negate its effects (until the end of this turn), then banish the top 3 cards of your opponent's Deck.\n●Special Summon 1 \"Runick\" monster from your Extra Deck to the Extra Monster Zone.\nYou can only activate 1 \"Runick Freezing Curses\" per turn.",
+    "newText": "Choose 1 of these effects; apply that effect, but skip your next Battle Phase.\n●Target 1 Effect Monster your opponent controls; negate its effects (until the end of this turn), then banish the top 3 cards of your opponent's Deck.\n●Special Summon 1 \"Runick\" monster from your Extra Deck to the Extra Monster Zone.\nYou can only activate 1 \"Runick Freezing Curses\" per turn.",
+    "author": "gallantron",
+    "lastPrint": "2022-08-26",
+    "lastUpdated": "2022-08-26",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=17376&request_locale=ja",
+        "title": "Runick Freezing Curses",
+        "date": "2022-08-26",
+        "desc": "In the Official Card Game, your next Battle Phase being skipped is an effect of Runick Freezing Curses.\n(The next Battle Phase will not be skipped if its activation, or its effect, is negated.)"
+      }
+    ]
+  },
+  {
+    "id": 17378,
+    "icon": "spell",
+    "name": "Runick Smiting Storm",
+    "oldText": "Activate 1 of these effects, but skip your next Battle Phase after activation;\n●Banish cards from the top of your opponent's Deck, up to the number of cards they control.\n●Special Summon 1 \"Runick\" monster from your Extra Deck to the Extra Monster Zone.\nYou can only activate 1 \"Runick Smiting Storm\" per turn.",
+    "newText": "Choose 1 of these effects; apply that effect, but skip your next Battle Phase.\n●Banish cards from the top of your opponent's Deck, up to the number of cards they control.\n●Special Summon 1 \"Runick\" monster from your Extra Deck to the Extra Monster Zone.\nYou can only activate 1 \"Runick Smiting Storm\" per turn.",
+    "author": "gallantron",
+    "lastPrint": "2022-08-26",
+    "lastUpdated": "2022-08-26",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=17378&request_locale=ja",
+        "title": "Runick Smiting Storm",
+        "date": "2022-08-26",
+        "desc": "In the Official Card Game, your next Battle Phase being skipped is an effect of Runick Smiting Storm.\n(The next Battle Phase will not be skipped if its activation, or its effect, is negated.)"
+      }
+    ]
+  },
+  {
+    "id": 17379,
+    "icon": "spell",
+    "name": "Runick Golden Droplet",
+    "oldText": "Activate 1 of these effects, but skip your next Battle Phase after activation;\n●Your opponent draws 1 card, then you banish the top 4 cards of their Deck.\n●Special Summon 1 \"Runick\" monster from your Extra Deck to the Extra Monster Zone.\nYou can only activate 1 \"Runick Golden Droplet\" per turn.",
+    "newText": "Choose 1 of these effects; apply that effect, but skip your next Battle Phase.\n●Your opponent draws 1 card, then you banish the top 4 cards of their Deck.\n●Special Summon 1 \"Runick\" monster from your Extra Deck to the Extra Monster Zone.\nYou can only activate 1 \"Runick Golden Droplet\" per turn.",
+    "author": "gallantron",
+    "lastPrint": "2022-08-26",
+    "lastUpdated": "2022-08-26",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=17379&request_locale=ja",
+        "title": "Runick Golden Droplet",
+        "date": "2022-08-26",
+        "desc": "In the Official Card Game, your next Battle Phase being skipped is an effect of Runick Golden Droplet.\n(The next Battle Phase will not be skipped if its activation, or its effect, is negated.)"
+      }
+    ]
   }
 ]
