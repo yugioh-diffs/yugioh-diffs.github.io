@@ -8895,5 +8895,23 @@
         "desc": "In the Official Card Game, your next Battle Phase being skipped is an effect of Runick Golden Droplet.\n(The next Battle Phase will not be skipped if its activation, or its effect, is negated.)"
       }
     ]
+  },
+  {
+    "id": 12834,
+    "icon": "effect",
+    "name": "Predaplant Chlamydosundew",
+    "oldText": "Monsters with a Predator Counter that you use as Fusion Materials are treated as DARK. During your Main Phase: You can Fusion Summon 1 DARK Fusion Monster from your Extra Deck, using this card on the field and monsters from your hand, field, and/or monsters with a Predator Counter your opponent controls as Fusion Material. You can only use this effect of \"Predaplant Chlamydosundew\" once per turn.",
+    "newText": "Monsters with a Predator Counter that you use as Fusion Materials are treated as DARK. During your Main Phase: You can Fusion Summon 1 DARK Fusion Monster from your Extra Deck, using monsters from your hand, field, and/or monsters with a Predator Counter your opponent controls as Fusion Material, including this card. You can only use this effect of \"Predaplant Chlamydosundew\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2022-07-22",
+    "lastUpdated": "2022-08-29",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=10424&request_locale=ja",
+        "title": "Q&A #10424",
+        "date": "2022-08-29",
+        "desc": "In the Official Card Game, if control of Predaplant Chlamydosundew has changed by the time its effect resolves, it cannot be used as Fusion Material, unless it has a Predator Counter."
+      }
+    ]
   }
 ]
