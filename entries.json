@@ -8913,5 +8913,28 @@
         "desc": "In the Official Card Game, if control of Predaplant Chlamydosundew has changed by the time its effect resolves, it cannot be used as Fusion Material, unless it has a Predator Counter."
       }
     ]
+  },
+  {
+    "id": 17235,
+    "icon": "ritual",
+    "name": "Libromancer Firestarter",
+    "oldText": "You can Ritual Summon this card with a \"Libromancer\" card. If this card is Ritual Summoned by using a monster(s) on the field, it cannot be destroyed, or banished, by card effects. Gains 200 ATK/DEF each time your opponent activates a card or effect, while you control this card with ATK less than 3000 in the Monster Zone.",
+    "newText": "You can Ritual Summon this card with a \"Libromancer\" card. If this card is Ritual Summoned by using a monster(s) on the field, it cannot be destroyed, or banished, by card effects. Each time a card or effect your opponent activated resolves while this card's ATK is less than 3000, this card gains 200 ATK/DEF.",
+    "author": "gallantron",
+    "lastPrint": "2022-02-11",
+    "lastUpdated": "2022-09-12",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17235&request_locale=ja",
+        "title": "Card FAQ – Libromancer Firestarter",
+        "date": "2022-09-12",
+        "desc": "In the Official Card Game, the effect of Libromancer Firestarter that has it gain ATK is applied after the activated question in effect resolves, rather than immediately upon its activation."
+      }
+    ],
+    "customDiffData": [
+      [198,181],
+      [125,111],
+      [0,18]
+    ]
   }
 ]
