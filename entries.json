@@ -986,8 +986,8 @@
   },
   {
     "id": 5118,
-    "oldText": "Target 1 Fusion Monster on the field; return that target to the Extra Deck, then, if all the Fusion Materials that were used for its Fusion Summon are in your GY, you can Special Summon all of them.",
-    "newText": "Target 1 Fusion Monster on the field; return that target to the Extra Deck, then, if all its listed Fusion Materials that were used for its Fusion Summon are in your GY, you can Special Summon all of them.",
+    "oldText": "Target 1 Fusion Monster on the field; return that target to the Extra Deck, then, if all the materials that were used for its Fusion Summon are in your GY, you can Special Summon all of them.",
+    "newText": "Target 1 Fusion Monster on the field; return that target to the Extra Deck, then, if all its listed materials that were used for its Fusion Summon are in your GY, you can Special Summon all of them.",
     "author": "gallantron",
     "references": [
       {
@@ -1029,7 +1029,7 @@
     ],
     "name": "De-Fusion",
     "lastUpdated": "2020-04-06",
-    "lastPrint": "2020-11-26",
+    "lastPrint": "2022-09-16",
     "icon": "spell"
   },
   {
@@ -2820,7 +2820,7 @@
     "oldText": "4+ Effect Monsters\nYou can also use 1 monster your opponent controls as material to Link Summon this card. If this card is Link Summoned: You can negate the effects of all face-up monsters your opponent currently controls. This Link Summoned card is unaffected by your opponent's activated effects, unless they target this card. Once per turn, when your opponent activates a card or effect that Special Summons a monster(s) from the GY (Quick Effect): You can negate the activation.",
     "newText": "4+ Effect Monsters / You can also use 1 monster your opponent controls as material to Link Summon this card. If this card is Link Summoned: You can negate the effects of all face-up monsters your opponent currently controls. This Link Summoned card is unaffected by your opponent's activated effects, unless they target this card. Once per turn, when your opponent activates a card or effect that includes Special Summoning a monster(s) from the GY (Quick Effect): You can negate the activation.",
     "author": "gallantron",
-    "lastPrint": "2021-02-05",
+    "lastPrint": "2022-09-16",
     "lastUpdated": "2021-01-18",
     "references": [
       {
@@ -3259,7 +3259,7 @@
     "oldText": "Tribute 1 Machine monster, then target 1 card on the field for every 1000 original ATK of the Tributed monster; destroy those cards.",
     "newText": "Tribute 1 Machine monster, then target cards on the field, up to 1 card for every 1000 original ATK of the Tributed monster; destroy those cards.",
     "author": "gallantron",
-    "lastPrint": "2021-02-05",
+    "lastPrint": "2022-09-16",
     "lastUpdated": "2021-05-17",
     "references": [
       {
@@ -4567,7 +4567,7 @@
     "oldText": "1 Tuner + 1+ non-Tuner monsters\nYou can only Special Summon \"Star Mine(s)\" once per turn. If this card in its owner's possession is destroyed by an opponent's attack or card effect: Take 2000 damage, then inflict 2000 damage to your opponent. If a monster in this card's adjacent zone is destroyed by your opponent's attack or card effect: Destroy this card, and if you do, take 2000 damage, then inflict 2000 damage to your opponent.",
     "newText": "1 Tuner + 1+ non-Tuner monsters\nYou can only Special Summon \"Star Mine(s)\" once per turn. If this card in its owner's possession is destroyed by an opponent's attack or card effect: Take 2000 damage, then inflict 2000 damage to your opponent. If a monster in this card's horizontally adjacent zone is destroyed by your opponent's attack or card effect: Destroy this card, and if you do, take 2000 damage, then inflict 2000 damage to your opponent.",
     "author": "gallantron",
-    "lastPrint": "2021-06-04",
+    "lastPrint": "2022-09-16",
     "lastUpdated": "2021-07-07",
     "references": [
       {
@@ -4915,7 +4915,7 @@
     "oldText": "If a Fusion, Synchro, Xyz, or Link Monster is Special Summoned (except during the Damage Step): You can target 1 Effect Monster on the field; negate its effects until the end of this turn. If this card in your hand or field is used as Fusion Material, and sent to the GY or banished: You can Special Summon this card. You can only use each effect of \"Dramaturge of Despia\" once per turn.",
     "newText": "If a Fusion, Synchro, Xyz, or Link Monster is Special Summoned (except during the Damage Step): You can target 1 Effect Monster on the field; negate its effects until the end of this turn. If this card in the hand or field is used as material for a Fusion Summon, and sent to the GY or banished: You can Special Summon this card. You can only use each effect of \"Dramaturge of Despia\" once per turn.",
     "author": "gallantron",
-    "lastPrint": "2022-05-06",
+    "lastPrint": "2022-09-16",
     "lastUpdated": "2021-07-27",
     "references": [
       {
@@ -4957,7 +4957,7 @@
     "oldText": "1 Tuner + 1+ non-Tuner monsters\nYou can only control 1 \"Stellar Wind Wolfrayet\". Gains 300 ATK each time another monster's effect is activated, while the ATK of this card is less than 4000. Once per turn, if this card's ATK is 4000 or higher (Quick Effect): You can shuffle both this card and all monsters your opponent controls into the Deck.",
     "newText": "1 Tuner + 1+ non-Tuner monsters\nYou can only control 1 \"Stellar Wind Wolfrayet\". Immediately after another monster's activated effect resolves while the ATK of this card is less than 4000, this card gains 300 ATK. Once per turn, if this card's ATK is 4000 or higher (Quick Effect): You can shuffle both this card and all monsters your opponent controls into the Deck.",
     "author": "gallantron",
-    "lastPrint": "2021-08-13",
+    "lastPrint": "2022-09-16",
     "lastUpdated": "2021-07-29",
     "references": [
       {
@@ -4972,10 +4972,10 @@
     "id": 16256,
     "icon": "spell",
     "name": "Synchro Overtake",
-    "oldText": "Reveal 1 Synchro Monster in your Extra Deck, choose 1 of the Synchro Materials whose name is listed on that card, and add to your hand or Special Summon that monster, from your Deck or GY, also you cannot Special Summon monsters from the Extra Deck the turn you activate this card, except Synchro Monsters. You can only activate 1 \"Synchro Overtake\" per turn.",
+    "oldText": "Reveal 1 Synchro Monster in your Extra Deck, choose 1 of the Synchro Materials mentioned on it, and add to your hand or Special Summon that monster, from your Deck or GY, also you cannot Special Summon monsters from the Extra Deck the turn you activate this card, except Synchro Monsters. You can only activate 1 \"Synchro Overtake\" per turn.",
     "newText": "Reveal 1 Synchro Monster in your Extra Deck, choose 1 of the Synchro Materials whose name is listed on that card, and add to your hand or Special Summon that monster, from your Deck or GY. You cannot Special Summon monsters from the Extra Deck the turn you activate this card, except Synchro Monsters. You can only activate 1 \"Synchro Overtake\" per turn.",
     "author": "gallantron",
-    "lastPrint": "2021-08-13",
+    "lastPrint": "2022-09-16",
     "lastUpdated": "2021-07-29",
     "references": [
       {
@@ -6121,7 +6121,7 @@
     "oldText": "Target 1 \"Armed Dragon\" monster you control; it gains 1000 ATK for each \"Armed Dragon\" monster in your GY with an equal or lower Level than it and with different names from each other, also for the rest of this turn, your opponent takes no battle damage from its attacks. You can banish this card from your GY, then target 1 \"Armed Dragon\" Spell in your GY; add it to your hand. You can only use 1 \"Armed Dragon Thunderbolt\" effect per turn, and only once that turn.",
     "newText": "Target 1 \"Armed Dragon\" monster you control; it gains 1000 ATK for each \"Armed Dragon\" monster in your GY with an equal or lower Level than it and with different names from each other, but for the rest of this turn, it cannot inflict Battle Damage to your opponent. You can banish this card from your GY, then target 1 \"Armed Dragon\" Spell in your GY; add it to your hand. You can only use 1 \"Armed Dragon Thunderbolt\" effect per turn, and only once that turn.",
     "author": "gallantron",
-    "lastPrint": "2021-02-05",
+    "lastPrint": "2022-09-16",
     "lastUpdated": "2021-09-14",
     "references": [
       {
@@ -6514,7 +6514,7 @@
     "oldText": "Gains 100 ATK for each monster your opponent controls. During a Battle Phase in which your EARTH Warrior monster battles (Quick Effect): You can target 1 Level 5 or lower Warrior monster in your GY; Special Summon it, also all \"War Rock\" monsters you currently control gain 200 ATK until the end of your opponent's turn, also for the rest of this turn, you cannot attack directly with Level 5 or lower monsters. You can only use this effect of \"War Rock Skyler\" once per turn.",
     "newText": "Gains 100 ATK for each monster your opponent controls. During a Battle Phase in which your EARTH Warrior monster battled (Quick Effect): You can target 1 Level 5 or lower Warrior monster in your GY; Special Summon it, also all \"War Rock\" monsters you currently control gain 200 ATK until the end of your opponent's turn, also for the rest of this turn, you cannot attack directly with Level 5 or lower monsters. You can only use this effect of \"War Rock Skyler\" once per turn.",
     "author": "gallantron",
-    "lastPrint": "2021-02-05",
+    "lastPrint": "2022-09-16",
     "lastUpdated": "2021-10-04",
     "references": [
       {
@@ -6560,7 +6560,7 @@
     "oldText": "If your opponent controls more monsters than you do, you can Special Summon this card (from your hand). You can only Special Summon \"Incredible Ecclesia, the Virtuous\" once per turn this way. You can only use each of the following effects of \"Incredible Ecclesia, the Virtuous\" once per turn. During the Main Phase (Quick Effect): You can Tribute this card; Special Summon 1 \"Swordsoul\" monster or 1 \"Fallen of Albaz\" from your hand or Deck. During the End Phase, if a Fusion Monster(s) was sent to your GY this turn: Add this card from the GY to your hand.",
     "newText": "If your opponent controls more monsters than you do, you can Special Summon this card (from your hand). You can only Special Summon \"Incredible Ecclesia, the Virtuous\" once per turn this way. You can only use each of the following effects of \"Incredible Ecclesia, the Virtuous\" once per turn. During the Main Phase (Quick Effect): You can Tribute this card; Special Summon 1 \"Swordsoul\" monster or 1 \"Fallen of Albaz\" from your hand or Deck. During the End Phase, if a Fusion Monster(s) was sent to your GY this turn: You can add this card from the GY to your hand.",
     "author": "gallantron",
-    "lastPrint": "2021-11-05",
+    "lastPrint": "2022-09-16",
     "lastUpdated": "2021-10-19",
     "references": [
       {
@@ -6602,7 +6602,7 @@
     "oldText": "During your Main Phase: You can make all monsters currently on the field gain ATK equal to their own Level x 100, until the end of the opponent's turn. If this card in your hand or field is used as Fusion Material, and sent to the GY or banished: You can target 1 of your \"Despia\" monsters or Level 8 or higher Fusion Monsters, that is banished or in your GY, except \"Ad Libitum of Despia\"; Special Summon it. You can only use each effect of \"Ad Libitum of Despia\" once per turn.",
     "newText": "During your Main Phase: You can make all monsters currently on the field gain ATK equal to their own Level x 100, until the end of the opponent's turn. If this card in the hand or field is used as material for a Fusion Summon, and sent to the GY or banished: You can target 1 of your \"Despia\" monsters or Level 8 or higher Fusion Monsters, that is banished or in your GY, except \"Ad Libitum of Despia\"; Special Summon it. You can only use each effect of \"Ad Libitum of Despia\" once per turn.",
     "author": "gallantron",
-    "lastPrint": "2021-11-05",
+    "lastPrint": "2022-09-16",
     "lastUpdated": "2021-10-20",
     "references": [
       {
@@ -6626,7 +6626,7 @@
     "oldText": "During your Main Phase: You can reveal 1 Level 1 \"Floowandereeze\" monster in your hand and banish 1 \"Floowandereeze\" card with a different name from your Deck, then, immediately after this effect resolves, Normal Summon the revealed monster. If your opponent Normal Summons a monster: Immediately after this effect resolves, you can Normal Summon 1 \"Floowandereeze\" monster. You can only use each effect of \"Floowandereeze and the Magnificent Map\" once per turn.",
     "newText": "During your Main Phase: You can reveal 1 Level 1 \"Floowandereeze\" monster in your hand and banish 1 \"Floowandereeze\" card with a different name from your Deck, then, immediately after this effect resolves, Normal Summon the revealed monster. If your opponent Normal Summons a monster, you can: Immediately after this effect resolves, Normal Summon 1 \"Floowandereeze\" monster. You can only use each effect of \"Floowandereeze and the Magnificent Map\" once per turn.",
     "author": "gallantron",
-    "lastPrint": "2021-11-05",
+    "lastPrint": "2022-09-16",
     "lastUpdated": "2021-10-22",
     "references": [
       {
@@ -6669,7 +6669,7 @@
     "oldText": "If this card is sent to the GY: Change all Attack Position monsters your opponent controls to Defense Position.",
     "newText": "If this card is sent to the GY: You can change all Attack Position monsters your opponent controls to Defense Position.",
     "author": "gallantron",
-    "lastPrint": "2021-11-05",
+    "lastPrint": "2022-09-16",
     "lastUpdated": "2021-11-05",
     "references": [
       {
@@ -6687,7 +6687,7 @@
     "oldText": "1 \"Despia\" monster + 1 LIGHT or DARK monster\nWhile you control this Fusion Summoned card, your opponent must pay 600 LP to activate cards or effects. If your opponent controls a Ritual, Fusion, Synchro, Xyz, or Link Monster, while this card is in your GY (Quick Effect): You can Special Summon this card, but banish it when it leaves the field. You can only use this effect of \"Masquerade the Blazing Dragon\" once per turn.",
     "newText": "1 \"Despia\" monster + 1 LIGHT or DARK monster\nWhile you control this Fusion Summoned card, your opponent cannot activate cards or effects unless they pay 600 LP. If your opponent controls a Ritual, Fusion, Synchro, Xyz, or Link Monster, while this card is in your GY (Quick Effect): You can Special Summon this card, but banish it when it leaves the field. You can only use this effect of \"Masquerade the Blazing Dragon\" once per turn.",
     "author": "gallantron",
-    "lastPrint": "2021-11-05",
+    "lastPrint": "2022-09-16",
     "lastUpdated": "2021-11-06",
     "references": [
       {
