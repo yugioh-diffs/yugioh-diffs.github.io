@@ -9028,5 +9028,28 @@
       [50,28],
       [36,38]
     ]
+  },
+  {
+    "id": 6600,
+    "icon": "effect",
+    "name": "Anteatereatingant",
+    "oldText": "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by sending 2 Spell or Trap Cards you control to the Graveyard. You can destroy 1 Spell or Trap Card your opponent controls. If you activate this effect, this card cannot attack during this turn.",
+    "newText": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 2 Spells/Traps you control to the GY. Once per turn: You can target 1 Spell/Trap your opponent controls; destroy it. This card cannot attack the turn this effect is activated.",
+    "author": "gallantron",
+    "lastPrint": "2007-11-14",
+    "lastUpdated": "2022-10-03",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6600&request_locale=ja",
+        "title": "Card FAQ – Anteatereatingant",
+        "date": "2022-10-03",
+        "desc": "In the Official Card Game, Anteatereatingant's effect can only be activated once per turn."
+      }
+    ],
+    "customDiffData": [
+      [282,122],
+      [0,14],
+      [0,123]
+    ]
   }
 ]
