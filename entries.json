@@ -8015,7 +8015,7 @@
     "oldText": "Send all cards in your Spell & Trap Zone to the GY. Place as many \"Crystal Beast\" monsters as possible from your GY face-up in your Spell & Trap Zone as Continuous Spells. During the End Phase of this turn, destroy all \"Crystal Beast\" cards you control.",
     "newText": "Send all other cards in your Spell & Trap Zone to the GY; place as many \"Crystal Beast\" monsters as possible from your GY face-up in your Spell & Trap Zone as Continuous Spells, also, during the End Phase of this turn, destroy all \"Crystal Beast\" cards you control.",
     "author": "gallantron",
-    "lastPrint": "2020-07-03",
+    "lastPrint": "2022-09-30",
     "lastUpdated": "2022-06-14",
     "references": [
       {
@@ -8100,7 +8100,7 @@
     "oldText": "(This card is always treated as an \"Ultimate Crystal\" card.)\nCannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having 7 \"Crystal Beast\" cards with different names on your field and/or GY. This card cannot activate the following effects the turn it is Special Summoned. (Quick Effect): You can send all \"Crystal Beast\" monsters you control to the GY; this card gains 1000 ATK for each monster sent to the GY. You can banish all \"Crystal Beast\" monsters from your GY; shuffle all cards on the field into the Deck.",
     "newText": "(This card is always treated as an \"Ultimate Crystal\" card.)\nCannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 7 \"Crystal Beast\" cards with different names on your field and/or GY. This card cannot activate the following effects the turn it is Special Summoned. (Quick Effect): You can send all \"Crystal Beast\" monsters you control to the GY; this card gains 1000 ATK for each monster sent to the GY. You can banish all \"Crystal Beast\" monsters from your GY; shuffle all cards on the field into the Deck.",
     "author": "gallantron",
-    "lastPrint": "2022-03-18",
+    "lastPrint": "2022-09-30",
     "lastUpdated": "2022-06-21",
     "references": [
       {
