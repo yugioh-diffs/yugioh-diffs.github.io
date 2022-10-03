@@ -8936,5 +8936,28 @@
       [21,9],
       [443,428]
     ]
+  },
+  {
+    "id": 9022,
+    "icon": "effect",
+    "name": "Sergeant Electro",
+    "oldText": "Once per turn: You can target 1 Set card in your opponent's Spell & Trap Zone; while this card is face-up on the field, its target(s) cannot be activated.",
+    "newText": "Once per turn: You can target 1 Set card in your opponent's Spell & Trap Zone; this card gains this effect.\n● The targeted card cannot be activated.",
+    "author": "gallantron",
+    "lastPrint": "2017-09-08",
+    "lastUpdated": "2022-10-03",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9830&request_locale=ja",
+        "title": "Q&A #9830",
+        "date": "2022-10-03",
+        "desc": "In the Official Card Game, Sergeant Electro gains an effect that prevents the targeted card from being activated.\nWhile the effects of Sergeant Electro are later negated, the targeted card can once again be activated."
+      }
+    ],
+    "customDiffData": [
+      79,
+      [40,28],
+      [35,41]
+    ]
   }
 ]
