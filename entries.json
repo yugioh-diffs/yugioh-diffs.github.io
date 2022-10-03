@@ -8959,5 +8959,28 @@
       [40,28],
       [35,41]
     ]
+  },
+  {
+    "id": 10657,
+    "icon": "xyz",
+    "name": "Number 66: Master Key Beetle",
+    "oldText": "2 Level 4 DARK monsters\nOnce per turn: You can detach 1 Xyz Material from this card, then target 1 card you control, except this card; while this card is face-up on the field, that card(s) cannot be destroyed by card effects. If this face-up card on the field would be destroyed, you can send one of its targets to the Graveyard instead.",
+    "newText": "2 Level 4 DARK monsters\nOnce per turn: You can detach 1 material from this card, then target 1 other card you control; this card gains the following effects.\n● The targeted card cannot be destroyed by card effects.\n● If this card would be destroyed by battle or card effect, you can send the targeted card to the GY instead.",
+    "author": "gallantron",
+    "lastPrint": "2016-02-12",
+    "lastUpdated": "2022-10-03",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12789&request_locale=ja",
+        "title": "Q&A #12789",
+        "date": "2022-10-03",
+        "desc": "In the Official Card Game, Number 66: Master Key Beetle's effect causes it to gain additional effects.\nIf the effects of Number 66: Master Key Beetle are later negated, the targeted card(s) can once again be destroyed by card effects."
+      }
+    ],
+    "customDiffData": [
+      [135,119],
+      [40,38],
+      [162,167]
+    ]
   }
 ]
