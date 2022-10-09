@@ -4693,24 +4693,6 @@
     ]
   },
   {
-    "id": 10023,
-    "icon": "trap",
-    "name": "Ninjitsu Art of Duplication",
-    "oldText": "Tribute 1 \"Ninja\" monster; Special Summon any number of \"Ninja\" monsters from your Deck, in face-up Attack Position or face-down Defense Position, with combined Levels less than or equal to the Level of the Tributed monster. When this card leaves the field: Destroy those monsters.",
-    "newText": "Tribute 1 \"Ninja\" monster; Special Summon any number of \"Ninja\" monsters from your Deck, each in face-up Attack Position or face-down Defense Position, with combined Levels less than or equal to the Level of the Tributed monster. When this card leaves the field, destroy those monsters.",
-    "author": "gallantron",
-    "lastPrint": "2012-01-24",
-    "lastUpdated": "2021-07-20",
-    "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10023&request_locale=ja",
-        "title": "Card FAQ – Ninjitsu Art of Duplication",
-        "date": "2021-07-20",
-        "desc": "In the Official Card Game, the effect of Ninjitsu Art of Duplication that destroys the Summoned monsters does not activate."
-      }
-    ]
-  },
-  {
     "id": 9663,
     "icon": "spell",
     "name": "Double or Nothing!",
