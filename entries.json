@@ -7163,7 +7163,7 @@
     "oldText": "\"Truckroid\" + \"Expressroid\" + \"Drillroid\" + \"Stealthroid\"\nOnce per turn: You can target 1 face-up non-Machine monster on the field; equip that target to this card. While equipped with a monster by this effect, this card can attack all monsters your opponent controls, once each. If this card attacks, its original ATK is halved. If this card attacks a Defense Position monster, inflict piercing battle damage.",
     "newText": "\"Truckroid\" + \"Expressroid\" + \"Drillroid\" + \"Stealthroid\"\nOnce per turn: You can target 1 face-up non-Machine monster on the field; equip that target to this card. While equipped with a monster by this effect, this card can attack all monsters your opponent controls, once each. If this card attacks, its original ATK is halved until the end of the Damage Step. If this card attacks a Defense Position monster, inflict piercing battle damage.",
     "author": "gallantron",
-    "lastPrint": "2020-03-20",
+    "lastPrint": "2022-10-07",
     "lastUpdated": "2022-01-15",
     "references": [
       {
