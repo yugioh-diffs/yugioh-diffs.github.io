@@ -9033,5 +9033,28 @@
       [0,14],
       [0,123]
     ]
+  },
+  {
+    "id": 7161,
+    "icon": "spell",
+    "name": "Fifth Hope",
+    "oldText": "Target 5 \"Elemental HERO\" cards in your Graveyard; shuffle them into the Deck, then draw 2 cards (draw 3 cards instead, if you had no other cards on your side of the field and in your hand when you activated this card).",
+    "newText": "Target 5 \"Elemental HERO\" cards in your GY; shuffle all 5 into the Deck, then draw 2 cards. If you had no other cards on your side of the field and in your hand when you activated this card, draw 3 cards, instead.",
+    "author": "gallantron",
+    "lastPrint": "2022-10-07",
+    "lastUpdated": "2022-10-10",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7161&request_locale=ja",
+        "title": "Card FAQ – Fifth Hope",
+        "date": "2022-10-10",
+        "desc": "In the Official Card Game, the effect of Fifth Hope needs to return all targeted cards to the Deck. If it cannot attempt to do so, the effect is not applied."
+      }
+    ],
+    "customDiffData": [
+      [59,52],
+      [4,5],
+      156
+    ]
   }
 ]
