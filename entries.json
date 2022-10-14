@@ -8773,13 +8773,19 @@
     "newText": "Choose 1 of these effects; apply that effect, but skip your next Battle Phase.\n●If your opponent adds a card(s) from their Deck to their hand, except during the Draw Phase: discard 1 random card from their hand, then banish the top 2 cards of their Deck.\n●Special Summon 1 \"Runick\" monster from your Extra Deck to the Extra Monster Zone.\nYou can only activate 1 \"Runick Dispelling\" per turn.",
     "author": "gallantron",
     "lastPrint": "2022-08-26",
-    "lastUpdated": "2022-08-26",
+    "lastUpdated": "2022-10-14",
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=17380&request_locale=ja",
         "title": "Runick Dispelling",
         "date": "2022-08-26",
         "desc": "In the Official Card Game, your next Battle Phase being skipped is an effect of Runick Dispelling.\n(The next Battle Phase will not be skipped if its activation, or its effect, is negated.)"
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=17380&request_locale=ja",
+        "title": "Runick Dispelling",
+        "date": "2022-10-14",
+        "desc": "In the Official Card Game, the opponent adding a card from their Deck to the hand is an activation condition for activating Runick Dispelling by choosing the first ● bulleted effect."
       }
     ]
   },
