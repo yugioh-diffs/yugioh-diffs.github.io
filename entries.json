@@ -9062,5 +9062,23 @@
       [4,5],
       156
     ]
+  },
+  {
+    "id": 11926,
+    "icon": "effect",
+    "name": "Galaxy Worm",
+    "oldText": "When this card is Normal Summoned while you control no other monsters: You can Special Summon 1 Level 3 or lower \"Galaxy\" Effect Monster from your Deck, but negate its effects.",
+    "newText": "When this card is Normal Summoned, and you control no other monsters: You can Special Summon 1 Level 3 or lower \"Galaxy\" Effect Monster from your Deck, but negate its effects.",
+    "author": "gallantron",
+    "lastPrint": "2020-07-24",
+    "lastUpdated": "2022-10-21",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12266&request_locale=ja",
+        "title": "Q&A #12266",
+        "date": "2022-10-21",
+        "desc": "In the Official Card Game, even if Galaxy Worm is Normal Summoned while you control other monsters, its effect can be activated as long as you control no other monsters by the time you next check for Trigger effects."
+      }
+    ]
   }
 ]
