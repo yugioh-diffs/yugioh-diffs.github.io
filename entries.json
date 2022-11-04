@@ -859,24 +859,6 @@
     "icon": "effect"
   },
   {
-    "id": 8870,
-    "oldText": "2 Zombie monsters\nMust first be Fusion Summoned. Monsters cannot be destroyed by battle with this card. At the end of the Damage Step, if this card battled a monster that has an original Level: That monster's ATK becomes 0, also, if that monster is still face-up on the field, Special Summon 1 \"Dark Soul Token\" (Zombie/DARK/Level ?/ATK ?/DEF 0). (When Summoned, its Level and ATK become equal to the original Level and ATK of that monster.) You can only control 1 \"Dragonecro Nethersoul Dragon\".",
-    "newText": "2 Zombie monsters\nMust first be Fusion Summoned. Monsters cannot be destroyed by battle with this card. At the end of the Damage Step, if this card battled a monster: That monster's ATK becomes 0, also, if that monster is still face-up on the field and has an original Level, Special Summon 1 \"Dark Soul Token\" (Zombie/DARK/Level ?/ATK ?/DEF 0). (When Summoned, its Level and ATK become equal to the original Level and ATK of that monster.) You can only control 1 \"Dragonecro Nethersoul Dragon\".",
-    "author": "platedpope",
-    "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7683&request_locale=ja",
-        "title": "Q&A #7683",
-        "date": "2020-12-24",
-        "desc": "In the Official Card Game, Dragonecro Nethersoul Dragon's effect that reduces the opponent's monster's ATK to zero will also be activated if that monster does not have an original Level."
-      }
-    ],
-    "name": "Dragonecro Nethersoul Dragon",
-    "lastUpdated": "2020-04-14",
-    "lastPrint": "2019-07-12",
-    "icon": "fusion"
-  },
-  {
     "id": 13849,
     "oldText": "Fusion Summon 1 Fusion Monster from your Extra Deck that lists a \"Cyber Dragon\" monster as material, by shuffling the Fusion Materials listed on it into the Deck, from among your cards on the field and/or your face-up banished cards, but monsters you control cannot attack for the rest of this turn, except that Fusion Summoned monster. You can only activate 1 \"Cyberload Fusion\" per turn.",
     "newText": "Fusion Summon 1 Fusion Monster from your Extra Deck, by shuffling the Fusion Materials listed on it into the Deck, including a \"Cyber Dragon\" monster that it lists as material, from among the monsters on your field and/or your face-up banished cards, but monsters you control cannot attack for the rest of this turn, except that Fusion Summoned monster. You can only activate 1 \"Cyberload Fusion\" per turn.",
