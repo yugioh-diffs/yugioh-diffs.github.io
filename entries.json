@@ -9044,5 +9044,28 @@
         "desc": "In the Official Card Game, even if Galaxy Worm is Normal Summoned while you control other monsters, its effect can be activated as long as you control no other monsters by the time you next check for Trigger effects."
       }
     ]
+  },
+  {
+    "id": 4559,
+    "icon": "effect",
+    "name": "Mushroom Man #2",
+    "oldText": "A player controlling this monster loses 300 Life Points during each of his/her Standby Phases when this card is face-up on the field. Control of this card is shifted to your opponent by paying 500 Life Points at your own End Phase.",
+    "newText": "Once per turn, during your Standby Phase: Take 300 damage. Once per turn, during your End Phase: You can pay 500 LP; give control of this card to your opponent.",
+    "author": "gallantron",
+    "lastPrint": "2002-06-26",
+    "lastUpdated": "2022-11-06",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4559&request_locale=ja",
+        "title": "Mushroom Man #2",
+        "date": "2022-11-06",
+        "desc": "In the Official Card Game, the first effect of Mushroom Man #2 inflicts damage."
+      }
+    ],
+    "customDiffData": [
+      [34,42],
+      [21,15],
+      [176,103]
+    ]
   }
 ]

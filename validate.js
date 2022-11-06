@@ -92,7 +92,7 @@ document.addEventListener('DOMContentLoaded', () =>
                         for (const artworkId in artworkManifest.cards[entry.id])
                         {
                             const artworkData = artworkManifest.cards[entry.id][artworkId]
-                            img.src = ('https://artworks.ygorganization.com' + artworkData.bestArt);
+                            img.src = new URL(artworkData.bestArt, 'https://artworks.ygorganization.com/').href;
                             break;
                         }
                         await img.decode();
