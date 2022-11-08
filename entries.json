@@ -9069,6 +9069,24 @@
     ]
   },
   {
+    "id": 17606,
+    "icon": "effect",
+    "name": "Agido the Ancient Sentinel",
+    "oldText": "If a card(s) is sent from the hand or Deck to your opponent's GY (except during the Damage Step): You can Special Summon this card from your hand, then you can Special Summon 1 Level 4 EARTH Fairy monster from your GY, except \"Agido the Ancient Sentinel\". If this card is sent from the hand or Deck to the GY: You can activate this effect; each player sends the top 5 cards of their Deck to the GY (or their entire Deck, if less than 5), then, if \"Exchange of the Spirit\" is in your GY, you can send 5 more cards from the top of either player's Deck to the GY. You can only use each effect of \"Agido the Ancient Sentinel\" once per turn.",
+    "newText": "If a card(s) is sent from the hand or Deck to your opponent's GY (except during the Damage Step): You can Special Summon this card from your hand, then you can Special Summon 1 Level 4 EARTH Fairy monster from your GY, except \"Agido the Ancient Sentinel\". If this card is sent from the hand or Deck to the GY: You can activate this effect; each player sends the top 5 cards of their Deck to the GY, then, if \"Exchange of the Spirit\" is in your GY, you can send 5 more cards from the top of either player's Deck to the GY. You can only use each effect of \"Agido the Ancient Sentinel\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2022-11-04",
+    "lastUpdated": "2022-11-08",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17606&request_locale=ja",
+        "title": "Card FAQ – Agido the Ancient Sentinel",
+        "date": "2022-11-08",
+        "desc": "In the Official Card Game, the effect of Agido the Ancient Sentinel cannot be activated unless both players have at least 5 cards in their respective Decks."
+      }
+    ]
+  },
+  {
     "id": 17605,
     "icon": "effect",
     "name": "Kelbek the Ancient Vanguard",
