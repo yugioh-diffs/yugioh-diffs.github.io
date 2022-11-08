@@ -9067,5 +9067,23 @@
       [21,15],
       [176,103]
     ]
+  },
+  {
+    "id": 17605,
+    "icon": "effect",
+    "name": "Kelbek the Ancient Vanguard",
+    "oldText": "If a card(s) is sent from the hand or Deck to your opponent's GY (except during the Damage Step): You can target 1 Special Summoned monster your opponent controls; Special Summon this card from your hand, then return that monster to the hand. If this card is sent from the hand or Deck to the GY: You can activate this effect; each player sends the top 5 cards of their Deck to the GY (or their entire Deck, if less than 5), then, if \"Exchange of the Spirit\" is in your GY, you can Set 1 Trap from your GY. You can only use each effect of \"Kelbek the Ancient Vanguard\" once per turn.",
+    "newText": "If a card(s) is sent from the hand or Deck to your opponent's GY (except during the Damage Step): You can target 1 Special Summoned monster your opponent controls; Special Summon this card from your hand, then return that monster to the hand. If this card is sent from the hand or Deck to the GY: You can activate this effect; each player sends the top 5 cards of their Deck to the GY, then, if \"Exchange of the Spirit\" is in your GY, you can Set 1 Trap from your GY. You can only use each effect of \"Kelbek the Ancient Vanguard\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2022-11-04",
+    "lastUpdated": "2022-11-08",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17605&request_locale=ja",
+        "title": "Card FAQ – Kelbek the Ancient Vanguard",
+        "date": "2022-11-08",
+        "desc": "In the Official Card Game, the effect of Kelbek the Ancient Vanguard cannot be activated unless both players have at least 5 cards in their respective Decks."
+      }
+    ]
   }
 ]
