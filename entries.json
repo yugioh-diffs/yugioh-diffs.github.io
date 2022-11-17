@@ -9121,5 +9121,23 @@
         "desc": "In the Official Card Game, the effect of Dark Catapulter is not applied if it is no longer in Defense Position at resolution."
       }
     ]
+  },
+  {
+    "id": 17803,
+    "icon": "link",
+    "name": "Spright Sprind",
+    "oldText": "2 monsters, including a Level/Rank/Link 2 monster\nCannot be used as Link Material the turn it is Link Summoned. You can only use 1 of the following effects of \"Spright Sprind\" per turn, and only once that turn. If this card is Link Summoned: You can send 1 Level 2 monster from your Deck to the GY. If another monster is Special Summoned while this card is on the field (except during the Damage Step): You can detach 1 material from an Xyz Monster you control, then target 1 monster on the field; return it to the hand.",
+    "newText": "2 monsters, including a Level/Rank/Link 2 monster\nCannot be used as Link Material the turn it is Link Summoned. You can only use 1 of the following effects of \"Spright Sprind\" per turn, and only once that turn. If this card is Link Summoned: You can send 1 Level 2 monster from your Deck to the GY. If another monster is Special Summoned while this card is on the field (except during the Damage Step): You can detach 1 material from a monster you control, then target 1 monster on the field; return it to the hand.",
+    "author": "gallantron",
+    "lastPrint": "2022-10-21",
+    "lastUpdated": "2022-11-17",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=17803&request_locale=ja",
+        "title": "Spright Sprind",
+        "date": "2022-11-17",
+        "desc": "In the Official Card Game, the effect of Spright Sprind can be activated by detaching a material from a face-down monster you control."
+      }
+    ]
   }
 ]
