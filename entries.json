@@ -9103,5 +9103,23 @@
         "desc": "In the Official Card Game, the effect of Kelbek the Ancient Vanguard cannot be activated unless both players have at least 5 cards in their respective Decks."
       }
     ]
+  },
+  {
+    "id": 6392,
+    "icon": "effect",
+    "name": "Dark Catapulter",
+    "oldText": "Once per turn, during your Standby Phase, if this card is in Defense Position: Place 1 counter on this card. You can banish cards in your GY equal to the number of counters on this card, then target that many Spells/Traps on the field; destroy them, then remove all counters from this card.",
+    "newText": "Once per turn, during your Standby Phase: Place 1 counter on this card. This card must be in face-up Defense Position to activate and to resolve this effect. You can banish cards in your GY equal to the number of counters on this card, then target that many Spells/Traps on the field; destroy them, then remove all counters from this card.",
+    "author": "gallantron",
+    "lastPrint": "2022-10-07",
+    "lastUpdated": "2022-11-17",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6392&request_locale=ja",
+        "title": "Card FAQ – Dark Catapulter",
+        "date": "2022-11-17",
+        "desc": "In the Official Card Game, the effect of Dark Catapulter is not applied if it is no longer in Defense Position at resolution."
+      }
+    ]
   }
 ]
