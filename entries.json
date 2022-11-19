@@ -1359,7 +1359,7 @@
     ],
     "name": "Fusion Destiny",
     "lastUpdated": "2021-04-05",
-    "lastPrint": "2022-02-23",
+    "lastPrint": "2022-11-18",
     "icon": "spell"
   },
   {
@@ -3217,7 +3217,7 @@
     "oldText": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing Toon monsters from your hand or field, whose total Levels equal 8 or more. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack directly. Once per turn, if you control \"Toon World\": You can target 1 card on the field; banish it, also this card cannot attack the turn this effect is activated.",
     "newText": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing Toon monsters from your hand or field, whose total Levels equal 8 or more. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack directly. Once per turn, if you control \"Toon World\": You can target 1 card on the field; banish it. This card cannot attack the turn this effect is activated.",
     "author": "gallantron",
-    "lastPrint": "2020-06-19",
+    "lastPrint": "2022-11-18",
     "lastUpdated": "2021-05-17",
     "references": [
       {
@@ -5629,7 +5629,7 @@
     "oldText": "2 \"Number\" Xyz Monsters with the same name and Rank\nOnce per turn: You can detach 1 material from this card; this card gains ATK equal to the combined Ranks of all Xyz Monsters currently on the field x 1000, until the end of your opponent's turn. When this card is destroyed by card effect: You can destroy as many monsters on the field as possible (min. 1), then each player Sets 1 Spell/Trap from their GY to their field. When an opponent's monster declares an attack while this card is in your GY and you have no cards in your hand or field: You can Special Summon this card.",
     "newText": "2 \"Number\" Xyz Monsters with the same name and Rank\nOnce per turn: You can detach 1 material from this card; this card gains ATK equal to the combined Ranks of all Xyz Monsters currently on the field x 1000, until the end of your opponent's turn. When this card is destroyed by card effect: You can destroy as many monsters on the field as possible (min. 1), then, if any player(s) has a Spell/Trap in their GY, they Set 1 of them to their field. When an opponent's monster declares an attack while this card is in your GY and you have no cards in your hand or field: You can Special Summon this card.",
     "author": "gallantron",
-    "lastPrint": "2020-09-11",
+    "lastPrint": "2022-11-18",
     "lastUpdated": "2021-08-19",
     "references": [
       {
