@@ -439,24 +439,6 @@
     "icon": "effect"
   },
   {
-    "id": 15477,
-    "oldText": "Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect. You can banish 1 LIGHT or DARK monster from your GY: Special Summon this card from your hand. If this card is banished: You can send 1 LIGHT or DARK monster from your Deck to the GY, but for the rest of this turn, you cannot activate cards, or the effects of cards, with the same name as that card. You can only use each effect of \"Chaos Valkyria\" once per turn.",
-    "newText": "Cannot be Normal Summoned/Set. Must be Special Summoned by a card effect. You can banish 1 LIGHT or DARK monster from your GY; Special Summon this card from your hand. If this card is banished: You can send 1 LIGHT or DARK monster from your Deck to the GY, but for the rest of this turn, you cannot activate cards, or the effects of cards, with the same name as that card. You can only use each effect of \"Chaos Valkyria\" once per turn.",
-    "author": "Catmaster0",
-    "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15477&request_locale=en",
-        "title": "Chaos Valkyria",
-        "date": "2020-12-24",
-        "desc": "Chaos Valkyria's TCG text has a misplaced colon where a semi-colon should be. Its text, as it stands, doesn't make a whole lot of sense."
-      }
-    ],
-    "name": "Chaos Valkyria",
-    "lastUpdated": "2020-07-28",
-    "lastPrint": "2020-06-19",
-    "icon": "effect"
-  },
-  {
     "id": 15133,
     "oldText": "You can Tribute this card: Special Summon 1 Cyberse monster from your Deck, except \"Armored Bitron\", but negate its effects, also you cannot Special Summon for the rest of this turn, except Cyberse monsters. If a Link-3 or higher Link Monster you control is destroyed by battle or an opponent's card effect, while this card is in your GY: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Armored Bitron\" once per turn.",
     "newText": "You can Tribute this card; Special Summon 1 Cyberse monster from your Deck, except \"Armored Bitron\", but negate its effects, also you cannot Special Summon for the rest of this turn, except Cyberse monsters. If a Link-3 or higher Link Monster you control is destroyed by battle or an opponent's card effect, while this card is in your GY: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Armored Bitron\" once per turn.",
