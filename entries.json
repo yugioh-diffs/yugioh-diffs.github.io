@@ -9103,5 +9103,34 @@
         "desc": "In the Official Card Game, the effect of Spright Sprind can be activated by detaching a material from a face-down monster you control."
       }
     ]
+  },
+  {
+    "id": 12950,
+    "icon": "effect",
+    "name": "Ash Blossom & Joyous Spring",
+    "oldText": "When a card or effect is activated that includes any of these effects (Quick Effect): You can discard this card; negate that effect.\n●Add a card from the Deck to the hand.\n●Special Summon from the Deck.\n●Send a card from the Deck to the GY.\nYou can only use this effect of \"Ash Blossom & Joyous Spring\" once per turn.",
+    "newText": "When a card or effect is activated that includes any of these effects (Quick Effect): You can discard this card; negate that effect.\n●Add a card(s) from the Deck to the hand.\n●Special Summon a Monster Card(s) from the Deck.\n●Send a card(s) from the Deck to the GY.\nYou can only use this effect of \"Ash Blossom & Joyous Spring\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2022-09-30",
+    "lastUpdated": "2022-11-26",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950&request_locale=ja",
+        "title": "Ash Blossom & Joyous Spring",
+        "date": "2022-11-26",
+        "desc": "In the Official Card Game, the effect of Ash Blossom & Joyous Spring can only be activated if the effect includes Special Summon a card, which is currently a monster, from the Main Deck."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22086&request_locale=ja",
+        "title": "Q&A #22086",
+        "date": "2022-11-26",
+        "desc": "In the Official Card Game, the effect of Ash Blossom & Joyous Spring cannot be activated if the effect only includes the Special Summon of non-Monster Cards from the Main Deck."
+      }
+    ],
+    "customDiffData": [
+      [317,191],
+      [0,17],
+      [0,133]
+    ]
   }
 ]
