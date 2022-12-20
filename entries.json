@@ -9150,5 +9150,23 @@
         "desc": "In the Official Card Game, the effect of Black Feather Whirlwind can also be applied if multiple DARK monsters would be destroyed simultaneously."
       }
     ]
+  },
+  {
+    "id": 11927,
+    "icon": "effect",
+    "name": "The Winged Dragon of Ra - Sphere Mode",
+    "oldText": "Cannot be Special Summoned. Requires 3 Tributes from either side of the field to Normal Summon to that side of the field (cannot be Normal Set), then shift control to this card's owner during the End Phase of the next turn. Cannot attack. Your opponent cannot target this card for attacks or by card effects. You can Tribute this card; Special Summon 1 \"The Winged Dragon of Ra\" from your hand or Deck, ignoring its Summoning conditions, and if you do, its ATK/DEF become 4000.",
+    "newText": "Cannot be Special Summoned. Requires 3 Tributes from either side of the field to Normal Summon to that side of the field (cannot be Normal Set), then shift control to this card's owner during the End Phase of the next turn. Cannot attack. Your opponent cannot target this card with card effects, also monsters your opponent controls cannot target this card for attacks. You can Tribute this card; Special Summon 1 \"The Winged Dragon of Ra\" from your hand or Deck, ignoring its Summoning conditions, and if you do, its ATK/DEF become 4000.",
+    "author": "gallantron",
+    "lastPrint": "2022-05-06",
+    "lastUpdated": "2022-12-20",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11927&request_locale=ja",
+        "title": "Card FAQ – The Winged Dragon of Ra - Sphere Mode",
+        "date": "2022-12-20",
+        "desc": "In the Official Card Game, monsters that are unaffected by monster effects can target The Winged Dragon of Ra - Sphere Mode for attacks.\n(Even if a monster is unaffected by monster effects, your opponent still cannot target The Winged Dragon of Ra - Sphere Mode with that monster's effects.)"
+      }
+    ]
   }
 ]
