@@ -9203,6 +9203,10 @@
         "date": "2023-01-24",
         "desc": "In the Official Card Game, the last effect of Scareclaw Kashtira continuously applies to the monster(s) in question.\nTherefore, in the Official Card Game, if Scareclaw Kashtira's effects are later negated, or it stops being face-up on the field, the effects of the opponent's monster cease to be negated.\nFurthermore, in the Official Card Game, if the opponent's monster ceases to exist face-up on the field, its effects also cease to be negated."
       }
+    ],
+    "customDiffData": [
+      338,
+      [146,177]
     ]
   }
 ]
