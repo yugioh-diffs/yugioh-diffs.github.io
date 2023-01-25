@@ -9176,7 +9176,7 @@
     "oldText": "3 Level 7 monsters\nOnce per turn, you can also Xyz Summon \"Kashtira Arise-Heart\" by using 1 \"Kashtira\" monster you control, if an effect of \"Kashtira Shangri-Ira\" was successfully activated this turn. (Transfer its materials to this card.) Any card sent to the GY is banished instead. Once per Chain, each time a card(s) is banished: Attach 1 banished card to this card as material. Once per turn (Quick Effect): You can detach 3 materials from this card, then target 1 card on the field; banish it face-down.",
     "newText": "3 Level 7 monsters\nOnce per turn, if a \"Kashtira Shangri-Ira\" has activated its effect this turn, you can also Xyz Summon \"Kashtira Arise-Heart\" by using 1 \"Kashtira\" monster you control. (Transfer its materials to this card.) Any card sent to the GY is banished instead. Once per Chain, each time a card(s) is banished: Attach 1 banished card to this card as material. Once per turn (Quick Effect): You can detach 3 materials from this card, then target 1 card on the field; banish it face-down.",
     "author": "gallantron",
-    "lastPrint": "2023-02-23",
+    "lastPrint": "2023-02-10",
     "lastUpdated": "2023-01-24",
     "references": [
       {
@@ -9194,7 +9194,7 @@
     "oldText": "During the Main Phase (Quick Effect): You can Special Summon this card from your hand, and if you do, banish 1 \"Kashtira\" or \"Scareclaw\" card from your hand or GY. You can only use this effect of \"Scareclaw Kashtira\" once per turn. This card can attack while in face-up Defense Position. If it does, apply its DEF for damage calculation. If your \"Kashtira\" or \"Scareclaw\" monster battles an opponent's monster, that opponent's monster's effects are negated until the end of this turn.",
     "newText": "During the Main Phase (Quick Effect): You can Special Summon this card from your hand, and if you do, banish 1 \"Kashtira\" or \"Scareclaw\" card from your hand or GY. You can only use this effect of \"Scareclaw Kashtira\" once per turn. This card can attack while in face-up Defense Position. If it does, apply its DEF for damage calculation. The effects of any opponent's monster that was involved in a battle with your \"Kashtira\" or \"Scareclaw\" monster this turn, while this card was face-up on the field, are negated.",
     "author": "gallantron",
-    "lastPrint": "2023-02-23",
+    "lastPrint": "2023-02-10",
     "lastUpdated": "2023-01-24",
     "references": [
       {
@@ -9207,6 +9207,29 @@
     "customDiffData": [
       338,
       [146,177]
+    ]
+  },
+  {
+    "id": 18190,
+    "icon": "xyz",
+    "name": "Gigantic \"Champion\" Sargas",
+    "oldText": "2+ Level 8 monsters\nOnce per turn, you can also Xyz Summon \"Gigantic \"Champion\" Sargas\" by using 1 \"Springans\" Xyz Monster you control. (Transfer its materials to this card.) While this card has material: You can add 1 \"Springans\" or \"Therion\" card from your Deck to your hand. If material is detached from a monster(s) on the field (except during the Damage Step): You can target 1 card on the field; either destroy it or return it to the hand. You can only use each effect of \"Gigantic \"Champion\" Sargas\" once per turn.",
+    "newText": "2+ Level 8 monsters\nOnce per turn, you can also Xyz Summon \"Gigantic \"Champion\" Sargas\" by using 1 \"Springans\" Xyz Monster you control. (Transfer its materials to this card.) While this card has material: You can add 1 \"Springans\" or \"Therion\" card from your Deck to your hand. If material(s) are removed from a monster(s) on the field (except during the Damage Step): You can target 1 card on the field; either destroy it or return it to the hand. You can only use each effect of \"Gigantic \"Champion\" Sargas\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2023-02-10",
+    "lastUpdated": "2023-01-25",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23904&request_locale=ja",
+        "title": "Q&A #23904",
+        "date": "2023-01-25",
+        "desc": "In the Official Card Game, the effect of Gigantic \"Champion\" Sargas can be activated if a material is removed by any means. (It does not need to specifically be removed by an effect that instructs you to detach materials.)\nNote that the Japanese term 取り除く, lit. \"remove\", is typically localized as \"detach\". However, it is not intuitive that any form of removing materials would be \"detaching\" them."
+      }
+    ],
+    "customDiffData": [
+      289,
+      [12,15],
+      220
     ]
   }
 ]
