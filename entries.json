@@ -9231,5 +9231,28 @@
       [12,15],
       220
     ]
+  },
+  {
+    "id": 10531,
+    "icon": "xyz",
+    "name": "Battlin' Boxer Lead Yoke",
+    "oldText": "2 Level 4 \"Battlin' Boxer\" monsters\nIf a \"Battlin' Boxer\" monster(s) you control would be destroyed by battle or by a card effect, you can detach 1 Xyz Material from this card instead of destroying 1 of those monsters. When an Xyz Material(s) is detached from this card: This card gains 800 ATK.",
+    "newText": "2 Level 4 \"Battlin' Boxer\" monsters\nIf a \"Battlin' Boxer\" monster(s) you control would be destroyed by battle or by a card effect, you can detach 1 material from this card instead of destroying 1 of those monsters. When material(s) are removed from this card: This card gains 800 ATK.",
+    "author": "gallantron",
+    "lastPrint": "2014-08-29",
+    "lastUpdated": "2023-01-25",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12720&request_locale=ja",
+        "title": "Q&A #12720",
+        "date": "2023-01-25",
+        "desc": "In the Official Card Game, the effect of Battlin' Boxer Lead Yoke can be activated if a material is removed by any means. (It does not need to specifically be removed by an effect that instructs you to detach materials.)\nNote that the Japanese term 取り除く, lit. \"remove\", is typically localized as \"detach\". However, it is not intuitive that any form of removing materials would be \"detaching\" them."
+      }
+    ],
+    "customDiffData": [
+      [243,232],
+      11,
+      41
+    ]
   }
 ]
