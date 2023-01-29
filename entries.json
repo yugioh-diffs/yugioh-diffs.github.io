@@ -9254,5 +9254,28 @@
       11,
       41
     ]
+  },
+  {
+    "id": 18161,
+    "icon": "pen_effect",
+    "name": "Abyss Actor - Liberty Dramatist",
+    "oldText": "If this card is Special Summoned from the Pendulum Zone: The owner of this card reveals 3 \"Abyss Script\" Spells from their Deck, their opponent randomly picks 1 for this card's owner to Set on their field (but the owner destroys it during the End Phase), also shuffle the rest into the Deck. If this card is destroyed: You can shuffle 1 \"Abyss Script\" Spell from your GY into the Deck. You can only use each effect of \"Abyss Actor - Liberty Dramatist\" once per turn.",
+    "newText": "If this card is Special Summoned from the Pendulum Zone: The owner of this card reveals 3 \"Abyss Script\" Spells from their Deck, their opponent randomly picks 1 for this card's owner to Set on their field (but this effect destroys it during the End Phase), also shuffle the rest into the Deck. If this card is destroyed: You can shuffle 1 \"Abyss Script\" Spell from your GY into the Deck. You can only use each effect of \"Abyss Actor - Liberty Dramatist\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2023-02-10",
+    "lastUpdated": "2023-01-29",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=18161&request_locale=ja",
+        "title": "Card FAQ – Abyss Actor - Liberty Dramatist",
+        "date": "2023-01-29",
+        "desc": "In the Official Card Game, the \"Abyss Script\" Set by Abyss Actor - Liberty Dramatist's effect is destroyed by the player that activated Abyss Actor - Liberty Dramatist's effect.\n(This will typically be its owner's opponent.)"
+      }
+    ],
+    "customDiffData": [
+      210,
+      [9,11],
+      247
+    ]
   }
 ]
