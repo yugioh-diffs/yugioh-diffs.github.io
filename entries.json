@@ -6900,16 +6900,22 @@
     "icon": "trap",
     "name": "Dai Dance",
     "oldText": "Choose 1 opponent's unused Main Monster Zone; if your opponent would Normal or Special Summon a monster to their Main Monster Zone, and the chosen zone can be used, they must use that zone. (They cannot Summon multiple monsters to their Main Monster Zones while this effect is applied.) This effect applies until the zone is occupied or becomes unusable. You can only apply the effect of \"Dai Dance\" once per Duel.",
-    "newText": "Choose 1 opponent's unused Main Monster Zone; if your opponent would Normal or Special Summon a monster to a Main Monster Zone, and the chosen zone can be used, they must use that zone. (They cannot Summon multiple monsters to Main Monster Zones while this effect is applied.) This effect applies until the zone is occupied or becomes unusable. You can only apply the effect of \"Dai Dance\" once per Duel.",
+    "newText": "Choose 1 opponent's unused Main Monster Zone; if your opponent would Normal Summon/Set, or Special Summon, a monster to a Main Monster Zone, and the chosen zone can be used, they must use that zone. (They cannot Summon multiple monsters to Main Monster Zones while this effect is applied.) This effect applies until the zone is occupied or becomes unusable. You can only apply the effect of \"Dai Dance\" once per Duel.",
     "author": "gallantron",
     "lastPrint": "2018-08-31",
-    "lastUpdated": "2021-12-19",
+    "lastUpdated": "2023-02-02",
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21477&request_locale=ja",
         "title": "Q&A #21477",
         "date": "2021-12-19",
         "desc": "In the Official Card Game, the opponent cannot Summon monsters to either player's Main Monster Zone, except the Zone chosen by Dai Dance."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13448&request_locale=ja",
+        "title": "Dai Dance",
+        "date": "2023-02-02",
+        "desc": "In the Official Card Game, the effect of Dai Dance also prevents Normal Setting monsters into other zones.\nIn particular, note that the Japanese 通常召喚, which literally translates to \"Normal Summon\", is the OCG equivalent of the TCG's \"Normal Summon or Set\".\nThe OCG equivalent to \"Normal Summon (but not Set)\" would be just 召喚."
       }
     ]
   },
