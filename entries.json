@@ -9289,5 +9289,40 @@
       [9,11],
       247
     ]
+  },
+  {
+    "id": 13932,
+    "icon": "link",
+    "name": "Orcustrion",
+    "oldText": "2+ Effect Monsters, including an \"Orcust\" monster\nThis linked card cannot be destroyed by battle or card effects. You can target 3 of your banished Machine monsters; shuffle them into the Deck, and if you do, the ATK/DEF of any linked monster(s) your opponent currently controls become 0, also their effects are negated. You can only use this effect of \"Orcustrion\" once per turn.",
+    "newText": "2+ Effect Monsters, including an \"Orcust\" monster\nThis linked card cannot be destroyed by battle or card effects. You can target 3 of your banished Machine monsters; shuffle them into the Deck, and if you do, if your opponent currently controls any linked monster(s), those monster(s)' ATK/DEF become 0, also their effects are negated. You can only use this effect of \"Orcustrion\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2018-10-19",
+    "lastUpdated": "2023-02-23",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13932&request_locale=ja",
+        "title": "Orcustrion",
+        "date": "2023-02-23",
+        "desc": "In the Official Card Game, the effect of Orcustrion that sets ATK and negates effects must only be applied if the opponent controls linked monsters."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13932&request_locale=ja",
+        "title": "Card FAQ – Orcustrion",
+        "date": "2023-02-23",
+        "desc": "In the Official Card Game, the effect of Orcustrion can be activated even if the opponent does not control any linked monsters."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17986&request_locale=ja",
+        "title": "Card FAQ – Dark World Archives",
+        "date": "2023-02-23",
+        "desc": "Dark World Archives' ①st effect is a comparable effect whose ATK modification must always be applied. In the Official Card Game, this effect cannot be activated if you control no \"Dark World\" monsters."
+      }
+    ],
+    "customDiffData": [
+      209,
+      [69,84],
+      102
+    ]
   }
 ]
