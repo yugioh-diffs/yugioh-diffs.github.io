@@ -7676,7 +7676,7 @@
     "oldText": "\"Fallen of Albaz\" + 1 Fusion, Synchro, Xyz, or Link Monster\nYou can only control 1 \"Mirrorjade the Iceblade Dragon\". Once per turn (Quick Effect): You can send 1 Fusion Monster from your Extra Deck to the GY that mentions \"Fallen of Albaz\" as material; banish 1 monster on the field, also this card cannot use this effect next turn. If this Fusion Summoned card in its owner's control leaves the field because of an opponent's card: You can destroy all monsters your opponent controls during the End Phase of this turn.",
     "newText": "\"Fallen of Albaz\" + 1 Fusion, Synchro, Xyz, or Link Monster\nYou can only control 1 \"Mirrorjade the Iceblade Dragon\". Once per turn (Quick Effect): You can send 1 Fusion Monster from your Extra Deck to the GY that mentions \"Fallen of Albaz\" as material; banish 1 monster on the field, also this card cannot use this effect next turn. If your opponent makes this Fusion Summoned card in your control leave the field, you can: Destroy all monsters your opponent controls during the End Phase of this turn.",
     "author": "gallantron",
-    "lastPrint": "2022-04-15",
+    "lastPrint": "2023-02-10",
     "lastUpdated": "2022-04-15",
     "references": [
       {
@@ -7695,7 +7695,13 @@
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7934&request_locale=en",
         "title": "Gozen Match",
         "date": "2020-12-29",
-        "desc": "In the Official Card Game, if you send Mirrorjade the Iceblade Dragon to the GY due to your opponent's Gozen Match resolving, it is sent to the GY by you, due to your opponent's card.\nIn the Official Card Game, the effect of Mirrorjade the Iceblade Dragon cannot be activated."
+        "desc": "In the Official Card Game, if you send Mirrorjade the Iceblade Dragon to the GY due to your opponent's Gozen Match resolving, it is sent to the GY by you, due to your opponent's card.\nIn the Official Card Game, the effect of Mirrorjade the Iceblade Dragon then cannot be activated."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12517&request_locale=ja",
+        "title": "Q&A #12517",
+        "date": "2023-02-23",
+        "desc": "In the Official Card Game, if you Tribute your Mirrorjade the Iceblade Dragon due to your opponent's Share the Pain, it is sent to the GY by you, due to your opponent's card.\nIn the Official Card Game, the effect of Mirrorjade the Iceblade Dragon then cannot be activated."
       }
     ],
     "customDiffData": [
