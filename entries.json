@@ -5407,7 +5407,7 @@
     "oldText": "When your opponent activates a monster effect in their hand or GY, or when your opponent's banished monster effect is activated: Negate its effect, and if you do, inflict 2000 damage to your opponent.",
     "newText": "(This card is not treated as a \"Trap Hole\" card, but is still treated as a \"Hole\" card.)\nWhen your opponent activates a monster effect in their hand or GY, or when your opponent's banished monster effect is activated: Negate its effect, and if you do, inflict 2000 damage to your opponent.",
     "author": "gallantron",
-    "lastPrint": "2021-10-01",
+    "lastPrint": "2023-02-24",
     "lastUpdated": "2021-08-10",
     "references": [
       {
@@ -6208,7 +6208,7 @@
     "oldText": "Special Summon 1 \"Artifact\" monster from your Deck. If this card in its owner's possession is destroyed by an opponent's card: You can target 1 card on the field; destroy that target. You can only activate 1 \"Artifact Sanctum\" per turn. You cannot conduct your Battle Phase the turn you activate this card.",
     "newText": "Special Summon 1 \"Artifact\" monster from your Deck. If this card in your possession is destroyed by your opponent: You can target 1 card on the field; destroy that target. You can only activate 1 \"Artifact Sanctum\" per turn. You cannot conduct your Battle Phase the turn you activate this card.",
     "author": "gallantron",
-    "lastPrint": "2020-07-24",
+    "lastPrint": "2023-02-24",
     "lastUpdated": "2021-09-28",
     "references": [
       {
@@ -9123,7 +9123,7 @@
     "oldText": "When a card or effect is activated that includes any of these effects (Quick Effect): You can discard this card; negate that effect.\n●Add a card from the Deck to the hand.\n●Special Summon from the Deck.\n●Send a card from the Deck to the GY.\nYou can only use this effect of \"Ash Blossom & Joyous Spring\" once per turn.",
     "newText": "When a card or effect is activated that includes any of these effects (Quick Effect): You can discard this card; negate that effect.\n●Add a card(s) from the Deck to the hand.\n●Special Summon a Monster Card(s) from the Deck.\n●Send a card(s) from the Deck to the GY.\nYou can only use this effect of \"Ash Blossom & Joyous Spring\" once per turn.",
     "author": "gallantron",
-    "lastPrint": "2022-09-30",
+    "lastPrint": "2023-02-24",
     "lastUpdated": "2022-11-26",
     "references": [
       {
