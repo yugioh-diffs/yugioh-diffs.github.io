@@ -9312,5 +9312,23 @@
       [113,110],
       [495,476]
     ]
+  },
+  {
+    "id": 15030,
+    "icon": "xyz",
+    "name": "Valiant Shark Lancer",
+    "oldText": "2 Level 5 monsters\nYou can target 1 monster your opponent controls; detach 1 material from an Xyz Monster you control, and if you do, destroy that monster. This is a Quick Effect if you control another WATER Xyz Monster. If another WATER Xyz Monster(s) you control is destroyed by battle or card effect while you control this monster: You can take 1 Spell from your Deck and place it on top of your Deck. You can only use each effect of \"Valiant Shark Lancer\" once per turn.",
+    "newText": "2 Level 5 monsters\nYou can target 1 monster your opponent controls; detach 1 material from a monster you control, and if you do, destroy that monster. This is a Quick Effect if you control another WATER Xyz Monster. If another WATER Xyz Monster(s) you control is destroyed by battle or card effect while you control this monster: You can take 1 Spell from your Deck and place it on top of your Deck. You can only use each effect of \"Valiant Shark Lancer\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2020-05-01",
+    "lastUpdated": "2023-02-26",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15030&request_locale=ja",
+        "title": "Valiant Shark Lancer",
+        "date": "2023-02-26",
+        "desc": "In the Official Card Game, the effect of Valiant Shark Lancer detaches a material from any monster on your field.\nThus, in the Official Card Game, the effect of Valiant Shark Lancer can detach materials from face-down monsters on your field."
+      }
+    ]
   }
 ]
