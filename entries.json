@@ -9348,5 +9348,23 @@
         "desc": "In the Official Card Game, Springans Captain Sargas' effect is activated by detaching a material from any monster on your field.\nThus, in the Official Card Game, the effect of Springans Captain Sargas can be activated by detaching a material from a face-down monster on your field."
       }
     ]
+  },
+  {
+    "id": 14838,
+    "icon": "effect",
+    "name": "Daruma Dropper",
+    "oldText": "(Quick Effect): You can detach 1 material from an Xyz Monster you control, then target 1 face-up monster your opponent controls; change its ATK to 0 until the end of this turn. If an Xyz Monster you control would activate an effect by detaching material(s), except the turn this card was sent to the GY, you can banish this card from your GY instead of 1 of those materials. You can only use each effect of \"Daruma Dropper\" once per turn.",
+    "newText": "(Quick Effect): You can detach 1 material from a monster you control, then target 1 face-up monster your opponent controls; change its ATK to 0 until the end of this turn. If an Xyz Monster you control would activate an effect by detaching material(s), except the turn this card was sent to the GY, you can banish this card from your GY instead of 1 of those materials. You can only use each effect of \"Daruma Dropper\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2021-10-01",
+    "lastUpdated": "2023-02-26",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14838&request_locale=ja",
+        "title": "Daruma Dropper",
+        "date": "2023-02-26",
+        "desc": "In the Official Card Game, Daruma Dropper's effect is activated by detaching a material from any monster on your field.\nThus, in the Official Card Game, the effect of Daruma Dropper can be activated by detaching a material from a face-down monster on your field."
+      }
+    ]
   }
 ]
