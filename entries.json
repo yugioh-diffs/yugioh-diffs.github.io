@@ -9330,5 +9330,23 @@
         "desc": "In the Official Card Game, the effect of Valiant Shark Lancer detaches a material from any monster on your field.\nThus, in the Official Card Game, the effect of Valiant Shark Lancer can detach materials from face-down monsters on your field."
       }
     ]
+  },
+  {
+    "id": 15700,
+    "icon": "effect",
+    "name": "Springans Captain Sargas",
+    "oldText": "If this card is in your hand, field, or GY: You can target 1 \"Springans\" Xyz Monster you control; attach this card to it as material. During your opponent's turn (Quick Effect): You can detach 1 material from an Xyz Monster you control, then target 1 face-up card on the field; destroy it. You can only use each of the previous effects of \"Springans Captain Sargas\" once per turn. A \"Springans\" Xyz Monster that has this card as material gains this effect.\n●This card gains 500 ATK.",
+    "newText": "If this card is in your hand, field, or GY: You can target 1 \"Springans\" Xyz Monster you control; attach this card to it as material. During your opponent's turn (Quick Effect): You can detach 1 material from a monster you control, then target 1 face-up card on the field; destroy it. You can only use each of the previous effects of \"Springans Captain Sargas\" once per turn. A \"Springans\" Xyz Monster that has this card as material gains this effect.\n●This card gains 500 ATK.",
+    "author": "gallantron",
+    "lastPrint": "2021-02-05",
+    "lastUpdated": "2023-02-26",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15700&request_locale=ja",
+        "title": "Springans Captain Sargas",
+        "date": "2023-02-26",
+        "desc": "In the Official Card Game, Springans Captain Sargas' effect is activated by detaching a material from any monster on your field.\nThus, in the Official Card Game, the effect of Springans Captain Sargas can be activated by detaching a material from a face-down monster on your field."
+      }
+    ]
   }
 ]
