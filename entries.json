@@ -9348,5 +9348,28 @@
         "desc": "In the Official Card Game, Daruma Dropper's effect is activated by detaching a material from any monster on your field.\nThus, in the Official Card Game, the effect of Daruma Dropper can be activated by detaching a material from a face-down monster on your field."
       }
     ]
+  },
+  {
+    "id": 12684,
+    "icon": "effect",
+    "name": "Subterror Nemesis Warrior",
+    "oldText": "During either player's turn: You can send 1 \"Subterror\" monster from your Deck to the Graveyard; Tribute this card and at least 1 other monster so the total original Levels Tributed equal or exceed the Level of that \"Subterror\" monster in the Graveyard, and if you do, Special Summon that monster in face-up or face-down Defense Position. If a \"Subterror Behemoth\" monster is flipped face-up while this card is in your Graveyard: You can Special Summon this card. You can only use each effect of \"Subterror Nemesis Warrior\" once per turn.",
+    "newText": "(Quick Effect): You can send 1 \"Subterror\" monster from your Deck to the GY; Tribute this card and at least 1 other monster so the total original Levels Tributed equal or exceed the Level of that \"Subterror\" monster in the GY, and if you do, Special Summon that monster in face-up or face-down Defense Position. If a \"Subterror Behemoth\" monster you control is flipped face-up while this card is in your GY: You can Special Summon this card. You can only use each effect of \"Subterror Nemesis Warrior\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2016-09-15",
+    "lastUpdated": "2023-03-10",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12684&request_locale=ja",
+        "title": "Subterror Nemesis Warrior",
+        "date": "2023-03-10",
+        "desc": "In the Official Card Game, the effect of Subterror Nemesis Warrior that Special Summons it can only be activated if a \"Subterror Behemoth\" you control is flipped face-up."
+      }
+    ],
+    "customDiffData": [
+      [538,346],
+      [0,11],
+      [0,159]
+    ]
   }
 ]
