@@ -146,7 +146,7 @@
     ],
     "name": "Enchanting Fitting Room",
     "lastUpdated": "2020-10-02",
-    "lastPrint": "2019-10-11",
+    "lastPrint": "2021-12-10",
     "icon": "spell"
   },
   {
@@ -2023,7 +2023,7 @@
     "oldText": "2+ monsters Special Summoned from the Extra Deck\nWhile this Link Summoned card is on the field, your opponent cannot target this card with card effects, also their monsters cannot target monsters for attacks, except this one. Once per battle, during damage calculation, if this card battles a Special Summoned monster (Quick Effect): You can make this card gain ATK equal to that opponent's monster's ATK during that damage calculation only. If this Link Summoned card you control is sent to your GY by an opponent's card: You can shuffle 1 card on the field into the Deck.",
     "newText": "2+ monsters Special Summoned from the Extra Deck\nWhile this Link Summoned card is on the field, your opponent cannot target this card with card effects, also their monsters cannot target monsters for attacks, except this one. Once per battle, during damage calculation, if this card battles a Special Summoned monster (Quick Effect): You can make this card gain ATK equal to that opponent's monster's ATK during that damage calculation only. If this Link Summoned card you control is sent to your GY by your opponent: You can shuffle 1 card on the field into the Deck.",
     "author": "gallantron",
-    "lastPrint": "2020-08-28",
+    "lastPrint": "2023-03-10",
     "lastUpdated": "2020-12-30",
     "references": [
       {
@@ -3907,7 +3907,7 @@
     "oldText": "Banish 1 random card from your opponent's hand, face-down. During your opponent's 4th Standby Phase after this card's activation, return that card to their hand.",
     "newText": "Banish 1 random card from your opponent's hand, face-down. During the Standby Phase of your opponent's 4th turn after this card's activation, return that card to their hand.",
     "author": "gallantron",
-    "lastPrint": "2019-01-25",
+    "lastPrint": "2023-03-08",
     "lastUpdated": "2021-06-27",
     "references": [
       {
