@@ -9395,5 +9395,29 @@
         "desc": "Terrorking Archfiend is a card with a comparable effect that specifically negates cards' effects in the GY."
       }
     ]
+  },
+  {
+    "id": 4275,
+    "icon": "effect",
+    "name": "Versago the Destroyer",
+    "oldText": "This card can be used as a substitute for any 1 Fusion Material mentioned by name on the Fusion Monster Card, but the other material(s) must be correct.",
+    "newText": "This card in your hand, field, or GY can be used as a substitute for any 1 Fusion Material whose name is mentioned on the Fusion Monster Card, but the other materials must be correct.",
+    "author": "gallantron",
+    "lastPrint": "2023-03-30",
+    "lastUpdated": "2023-03-21",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13184&request_locale=ja",
+        "title": "Q&A #13184",
+        "date": "2023-03-21",
+        "desc": "In the Official Card Game, the effect of Versago the Destroyer can only be applied while it is in the hand, on the field, or in the GY. It cannot be applied while it is in the Deck, or is banished."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6044&request_locale=en",
+        "title": "King of the Swamp",
+        "date": "2023-03-21",
+        "desc": "King of the Swamp is a card with a comparable effect, whose text specifically mentions this restriction."
+      }
+    ]
   }
 ]
