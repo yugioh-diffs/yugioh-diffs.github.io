@@ -9371,5 +9371,29 @@
       [0,11],
       [0,159]
     ]
+  },
+  {
+    "id": 5301,
+    "icon": "effect",
+    "name": "Dark Ruler Ha Des",
+    "oldText": "Cannot be Special Summoned from the GY. Negate the effects of monsters destroyed by battle with Fiend monsters you control.",
+    "newText": "Cannot be Special Summoned from the GY. Negate the effects (including in the GY) of monsters destroyed by battle with Fiend monsters you control.",
+    "author": "gallantron",
+    "lastPrint": "2023-03-30",
+    "lastUpdated": "2023-03-21",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11587&request_locale=ja",
+        "title": "Q&A #11587",
+        "date": "2023-03-21",
+        "desc": "In the Official Card Game, the effect of Dark Ruler Ha Des also negates monsters' effects in the GY."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5777&request_locale=en",
+        "title": "Terrorking Archfiend",
+        "date": "2023-03-21",
+        "desc": "Terrorking Archfiend is a card with a comparable effect that specifically negates cards' effects in the GY."
+      }
+    ]
   }
 ]
