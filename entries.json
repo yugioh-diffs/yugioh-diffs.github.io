@@ -9437,5 +9437,30 @@
         "desc": "In the Official Card Game, banishing Spells from your GY is not a cost to activate Chaosrider Gustaph's effect."
       }
     ]
+  },
+  {
+    "id": 7259,
+    "icon": "effect",
+    "name": "Evil HERO Infernal Gainer",
+    "oldText": "During your Main Phase 1: You can banish this card from the field, then target 1 Fiend monster you control; that target can make a second attack during each Battle Phase while you control it face-up. Once per turn, during your second Standby Phase after this card was banished to activate this effect: Special Summon this card in Attack Position.",
+    "newText": "During your Main Phase 1: You can banish this card from the field, then target 1 Fiend monster you control; that Fiend monster can make a second attack during each Battle Phase while it remains face-up. Once per turn, during your second Standby Phase after this card was banished to activate this effect: Special Summon this card in Attack Position.",
+    "author": "gallantron",
+    "lastPrint": "2023-03-30",
+    "lastUpdated": "2023-03-21",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7259&request_locale=ja",
+        "title": "Evil HERO Infernal Gainer",
+        "date": "2023-03-21",
+        "desc": "In the Official Card Game, the target of Evil HERO Infernal Gainer's effect can still make a second attack even if your opponent takes control of it."
+      }
+    ],
+    "customDiffData": [
+      113,
+      [6,13],
+      51,
+      [28,24],
+      148
+    ]
   }
 ]
