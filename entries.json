@@ -9462,5 +9462,28 @@
       [28,24],
       148
     ]
+  },
+  {
+    "id": 5299,
+    "icon": "trap",
+    "name": "Dramatic Rescue",
+    "oldText": "When a card is activated that targets an \"Amazoness\" monster on the field: Return that targeted monster to the hand, and if you do, Special Summon 1 other monster from your hand.",
+    "newText": "When a Spell/Trap Card, or monster effect, is activated that targets an \"Amazoness\" monster on the field: Return that targeted monster to the hand, and if you do, Special Summon 1 other monster from your hand.",
+    "author": "gallantron",
+    "lastPrint": "2023-03-30",
+    "lastUpdated": "2023-03-21",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5299&request_locale=ja",
+        "title": "Card FAQ – Dramatic Rescue",
+        "date": "2023-03-21",
+        "desc": "In the Official Card Game, Dramatic Rescue can also be activated in response to a monster effect targeting an \"Amazoness\" monster on the field."
+      }
+    ],
+    "customDiffData": [
+      7,
+      [4,35],
+      167
+    ]
   }
 ]
