@@ -9485,5 +9485,23 @@
       [4,35],
       167
     ]
+  },
+  {
+    "id": 6670,
+    "icon": "spell",
+    "name": "Grand Convergence",
+    "oldText": "If you control \"Macro Cosmos\": Inflict 300 damage to your opponent, and if you do, destroy all monsters on the field.",
+    "newText": "If you control \"Macro Cosmos\": Inflict 300 damage to your opponent, and if you do, destroy all monsters on the field (if any).",
+    "author": "gallantron",
+    "lastPrint": "2023-03-30",
+    "lastUpdated": "2023-03-21",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6670&request_locale=ja",
+        "title": "Card FAQ – Grand Convergence",
+        "date": "2023-03-21",
+        "desc": "In the Official Card Game, Grand Convergence can be activated even if there are no monsters on the field."
+      }
+    ]
   }
 ]
