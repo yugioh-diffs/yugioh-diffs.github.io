@@ -9419,5 +9419,23 @@
         "desc": "King of the Swamp is a card with a comparable effect, whose text specifically mentions this restriction."
       }
     ]
+  },
+  {
+    "id": 5828,
+    "icon": "effect",
+    "name": "Chaosrider Gustaph",
+    "oldText": "Once per turn: You can banish up to 2 Spells from your GY; this card gains 300 ATK for each card banished by this effect, until the end of your opponent's turn.",
+    "newText": "Once per turn: You can banish up to 2 Spells from your GY, and if you do, this card gains 300 ATK for each card banished by this effect, until the end of your opponent's turn.",
+    "author": "gallantron",
+    "lastPrint": "2023-03-30",
+    "lastUpdated": "2023-03-21",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5828&request_locale=ja",
+        "title": "Card FAQ – Chaosrider Gustaph",
+        "date": "2023-03-21",
+        "desc": "In the Official Card Game, banishing Spells from your GY is not a cost to activate Chaosrider Gustaph's effect."
+      }
+    ]
   }
 ]
