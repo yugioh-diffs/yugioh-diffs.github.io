@@ -161,6 +161,23 @@ document.addEventListener('DOMContentLoaded', () =>
                     if (entry.newText.toLowerCase().includes('-type'))
                         LOG(entry.name+' ('+entry.id+') uses "-type" in its revised text. Is this intended?');
                     
+                    if (entry.customDiffData)
+                    {
+                        let sumOld=0, sumNew=0;
+                        for (const e of entry.customDiffData)
+                        {
+                            if (typeof(e) === 'number')
+                                { sumOld += e; sumNew += e; }
+                            else
+                                { sumOld += e[0]; sumNew += e[1]; }
+                        }
+                        
+                        if (sumOld !== entry.oldText.length)
+                            LOG(entry.name+' ('+entry.id+') has customdiff data for '+sumOld+' oldtext characters, but oldtext is '+entry.oldText.length+' characters long.');
+                        if (sumNew !== entry.newText.length)
+                            LOG(entry.name+' ('+entry.id+') has customdiff data for '+sumNew+' newtext characters, but newtext is '+entry.newText.length+' characters long.');
+                    }
+                    
                     return changed;
                 } catch (e) {
                     console.warn(e,entry);

@@ -1272,10 +1272,8 @@
       }
     ],
     "customDiffData": [
-      [35,45],
-      [56,83],
-      [73,101],
-      [0,287]
+      [175,155],
+      [39,57]
     ]
   },
   {
@@ -7965,13 +7963,16 @@
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7612&request_locale=ja",
         "title": "Card FAQ – Simorgh, Bird of Ancestry",
-        "date": "2022-06-14",
-        "desc": "In the Official Card Game, the effect of Simorgh, Bird of Ancestry can only be applied once for any given Summon/Set."
+        "date": "2023-03-24",
+        "desc": "In the Official Card Game, the effect of Simorgh, Bird of Ancestry can only be applied once for any given Summon/Set.\nAdditionally, in the Official Card Game, the effect of Simorgh, Bird of Ancestry, only applies to its controller."
       }
     ],
     "customDiffData": [
-      [25,35],
-      [242,297]
+      0,
+      [12,3],
+      [257,79],
+      [0,53],
+      [0,197]
     ]
   },
   {
@@ -8559,9 +8560,9 @@
       }
     ],
     "customDiffData": [
-      18,
-      [47,45],
-      [255,195]
+      15,
+      [50,48],
+      [255,245]
     ]
   },
   {
@@ -8582,9 +8583,9 @@
       }
     ],
     "customDiffData": [
-      18,
-      [47,45],
-      [243,176]
+      15,
+      [50,48],
+      [243,226]
     ]
   },
   {
@@ -8605,9 +8606,9 @@
       }
     ],
     "customDiffData": [
-      18,
-      [47,45],
-      [241,176]
+      15,
+      [50,48],
+      [241,226]
     ]
   },
   {
@@ -8628,9 +8629,9 @@
       }
     ],
     "customDiffData": [
-      18,
-      [47,45],
-      [185,125]
+      15,
+      [50,48],
+      [185,175]
     ]
   },
   {

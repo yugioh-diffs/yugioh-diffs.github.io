@@ -159,11 +159,21 @@ document.getElementById('card-id').addEventListener('change', async function()
             const [numOld, numNew] = entry;
             
             for (let i=0; i<numOld; ++i, ++posOld)
-                makeElement('span', oldContainer, isDiff && 'deletion-word').innerText = oldText.substr(posOld, 1);
+                if (posOld < oldText.length)
+                    makeElement('span', oldContainer, isDiff && 'deletion-word').innerText = oldText.substr(posOld, 1);
+                
             for (let i=0; i<numNew; ++i, ++posNew)
-                makeElement('span', newContainer, isDiff && 'addition-word').innerText = newText.substr(posNew, 1);
+                if (posNew < newText.length)
+                    makeElement('span', newContainer, isDiff && 'addition-word').innerText = newText.substr(posNew, 1);
+
             isDiff = !isDiff;
         }
+        
+        // force rendering the entire text even for broken entries
+        for (; posOld < oldText.length; ++posOld)
+            makeElement('span', oldContainer).innerText = oldText.substr(posOld, 1);
+        for (; posNew < newText.length; ++posNew)
+            makeElement('span', newContainer).innerText = newText.substr(posNew, 1);
     }
     else
     {

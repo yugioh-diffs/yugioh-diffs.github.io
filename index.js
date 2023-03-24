@@ -46,6 +46,12 @@ let loadText = ((oldContainer, newContainer, oldText, newText, customDiffData) =
             posNew += numNew;
             isDiff = !isDiff;
         }
+        
+        if ((posOld !== oldText.length) || (posNew !== newText.length))
+        {
+            console.log('Invalid customDiffData, falling back to autodiff...');
+            return loadText(oldContainer, newContainer, oldText, newText, null);
+        }
     }
     else
     {
