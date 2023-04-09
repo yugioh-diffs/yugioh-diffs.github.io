@@ -9571,5 +9571,29 @@
         "desc": "In the Official Card Game, the effect of Dragon Revival Rhapsody that causes the opponent to take no damage only applies after Dragon Revival Rhapsody's Card activation has resolved.\n(It does not apply before then. It does not apply if the effect is applied without activating the card.)"
       }
     ]
+  },
+  {
+    "id": 17624,
+    "icon": "spell",
+    "name": "Dimension Dice",
+    "oldText": "If you control a card with an effect that requires a die roll: You can Tribute 1 monster; Special Summon 1 monster with an effect that requires a die roll from your hand or Deck.",
+    "newText": "If you control a card with an effect that requires a die roll: You can Tribute 1 monster; Special Summon 1 monster with a monster effect that requires a die roll from your hand or Deck.",
+    "author": "gallantron",
+    "lastPrint": "2022-11-18",
+    "lastUpdated": "2023-04-09",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=17624&request_locale=ja",
+        "title": "Dimension Dice",
+        "date": "2023-04-09",
+        "desc": "In the Official Card Game, the effect of Dimension Dice can only Special Summon monsters with a monster effect that requires a die roll."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12393&request_locale=en",
+        "title": "Mild Turkey",
+        "date": "2023-04-09",
+        "desc": "Mild Turkey is an example of a monster that has a die rolling effect that is not a monster effect."
+      }
+    ]
   }
 ]
