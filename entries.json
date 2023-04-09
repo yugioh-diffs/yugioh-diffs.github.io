@@ -9278,22 +9278,30 @@
     "icon": "spell",
     "name": "Ancient City - Rainbow Ruins",
     "oldText": "You must have this many \"Crystal Beast\" cards in your Spell & Trap Zone to activate and to resolve these effects.\n●1+: This card cannot be destroyed by card effects.\n●2+: Once per turn (including the opponent's) you can halve the battle damage you take.\n●3+: When a Spell/Trap Card is activated: You can send 1 \"Crystal Beast\" monster you control to the GY; negate the activation, and if you do, destroy it.\n●4+: Once per turn, during your Main Phase: You can draw 1 card.\n●5: Once per turn, during your Main Phase: You can target 1 \"Crystal Beast\" card in your Spell & Trap Zone; Special Summon that target.",
-    "newText": "This card gains the following effects, based on the number of \"Crystal Beast\" cards in your Spell & Trap Zone.\n●1+: This card cannot be destroyed by card effects.\n●2+: Once per turn, you can halve the battle damage you take.\n●3+: When a Spell/Trap Card is activated: You can send 1 \"Crystal Beast\" monster you control to the GY; negate the activation, and if you do, destroy that card.\n●4+: Once per turn, during your Main Phase: You can draw 1 card.\n●5: Once per turn, during your Main Phase: You can target 1 \"Crystal Beast\" card in your Spell & Trap Zone; Special Summon that target.",
+    "newText": "This card gains the following effects, based on the number of \"Crystal Beast\" cards in your Spell & Trap Zone.\n●1+: This card cannot be destroyed by card effects.\n●2+: Once per turn, you can halve the battle damage you take.\n●3+: When a Spell/Trap Card is activated (except during the Damage Step): You can send 1 \"Crystal Beast\" monster you control to the GY; negate the activation, and if you do, destroy that card.\n●4+: Once per turn, during your Main Phase: You can draw 1 card.\n●5: Once per turn, during your Main Phase: You can target 1 \"Crystal Beast\" card in your Spell & Trap Zone; Special Summon that target.",
     "author": "gallantron",
     "lastPrint": "2022-09-30",
-    "lastUpdated": "2023-02-25",
+    "lastUpdated": "2023-04-09",
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6642&request_locale=ja",
         "title": "Q&A #6642",
         "date": "2023-02-25",
         "desc": "In the Official Card Game, even if the number of \"Crystal Beast\" card(s) in the Spell & Trap Zone has been reduced by the time the effect of Ancient City - Rainbow Ruins resolves, that activated effect is still applied normally."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7079&request_locale=ja",
+        "title": "Card FAQ – Ancient City - Rainbow Ruins",
+        "date": "2023-04-09",
+        "desc": "In the Official Card Game, the ●3+: effect of Ancient City - Rainbow Ruins cannot be activated during the Damage Step.\n(Fast Effects that negate activations can typically be activated during the Damage Step.)"
       }
     ],
     "customDiffData": [
       0,
       [113,110],
-      [495,476]
+      [495,156],
+      [0,31],
+      [0,321]
     ]
   },
   {
