@@ -9690,5 +9690,28 @@
         "desc": "In the Official Card Game, the monster Special Summoned by the effect of Sea Stealth II is only destroyed during the End Step of the current Battle Phase.\n(If it is not destroyed at that point for some reason, it will not be destroyed during the End Step of the next Battle Phase.)"
       }
     ]
+  },
+  {
+    "id": 14928,
+    "icon": "spell",
+    "name": "Smile Action",
+    "oldText": "When this card is activated: Each player can banish up to 5 Spells from their own GY, face-down. If a monster declares an attack: The attacked player activates this effect;\n●You (the attacked player) can randomly add 1 of your cards banished by this card's effect to your hand, then you can discard it and negate that attack, but if you do not discard that added card, any battle damage you take this turn is doubled (even if this card leaves the field).",
+    "newText": "When this card is activated: Each player can banish up to 5 Spells from their own GY, face-down. If an attack is declared: activate this effect; the attacked player chooses whether to apply this effect.\n●You (the attacked player) can randomly add 1 of your cards banished by this card's effect to your hand, then you can discard it and negate that attack, but if you do not discard that added card, any battle damage you take this turn is doubled (even if this card leaves the field).",
+    "author": "gallantron",
+    "lastPrint": "2022-07-22",
+    "lastUpdated": "2023-04-09",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22905&request_locale=ja",
+        "title": "Q&A #22905",
+        "date": "2023-04-09",
+        "desc": "In the Official Card Game, the effect of Smile Action is always activated by the player that controls it."
+      }
+    ],
+    "customDiffData": [
+      [130,123],
+      [42,79],
+      282
+    ]
   }
 ]
