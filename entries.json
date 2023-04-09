@@ -9636,5 +9636,23 @@
         "desc": "In the Official Card Game, Judge of the Ice Barrier's effect causes the opponent to lose LP immediately after their activation has resolved."
       }
     ]
+  },
+  {
+    "id": 14926,
+    "icon": "effect",
+    "name": "Odd-Eyes Wizard Dragon",
+    "oldText": "If this card is in your hand: You can Tribute 1 DARK monster; send 1 \"Odd-Eyes Dragon\" from your hand, Deck, or face-up field to the GY, and if you do, Special Summon this card. If this card in your possession is destroyed by an opponent's card and sent to your GY: You can Special Summon 1 \"Odd-Eyes\" monster from your Deck or GY, except \"Odd-Eyes Wizard Dragon\", then you can add 1 \"Spiral Flame Strike\" from your Deck to your hand.",
+    "newText": "If this card is in your hand: You can Tribute 1 DARK monster; send 1 \"Odd-Eyes Dragon\" from your hand, Deck, or face-up Monster Zone to the GY, and if you do, Special Summon this card. If this card in your possession is destroyed by an opponent's card and sent to your GY: You can Special Summon 1 \"Odd-Eyes\" monster from your Deck or GY, except \"Odd-Eyes Wizard Dragon\", then you can add 1 \"Spiral Flame Strike\" from your Deck to your hand.",
+    "author": "gallantron",
+    "lastPrint": "2022-07-22",
+    "lastUpdated": "2023-04-09",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14926&request_locale=ja",
+        "title": "Odd-Eyes Wizard Dragon",
+        "date": "2023-04-09",
+        "desc": "In the Official Card Game, Odd-Eyes Wizard Dragon's effect cannot send \"Odd-Eyes Dragon\" from your Spell & Trap Zone to the GY."
+      }
+    ]
   }
 ]
