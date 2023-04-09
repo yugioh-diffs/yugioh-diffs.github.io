@@ -591,7 +591,7 @@
     ],
     "name": "Awakening of the Sacred Beasts",
     "lastUpdated": "2020-07-12",
-    "lastPrint": "2020-07-10",
+    "lastPrint": "2023-03-31",
     "icon": "trap"
   },
   {
@@ -4733,7 +4733,7 @@
     "oldText": "If this card in your possession is sent to your GY by your opponent's card: You can add 1 DARK \"Vampire\" monster or 1 \"Vampire\" Spell/Trap from your Deck to your hand. You can banish this card from your GY; 1 DARK \"Vampire\" monster you Normal Summon this turn can be Summoned without Tributing.",
     "newText": "If this card in your possession is sent to your GY by your opponent: You can add 1 DARK \"Vampire\" monster or 1 \"Vampire\" Spell/Trap from your Deck to your hand. You can banish this card from your GY; 1 DARK \"Vampire\" monster you Normal Summon this turn can be Summoned without Tributing.",
     "author": "gallantron",
-    "lastPrint": "2022-05-06",
+    "lastPrint": "2023-03-31",
     "lastUpdated": "2021-07-26",
     "references": [
       {
@@ -6353,7 +6353,7 @@
     "oldText": "When this card is destroyed by battle and sent to the GY: You can pay 500 LP; Special Summon it during the Standby Phase of the next turn. If you do: It gains 500 ATK.",
     "newText": "Once per turn, during the Standby Phase of the next turn after this card was destroyed by battle and sent to the GY: You can pay 500 Life Points; Special Summon this card from the GY. If you do: It gains 500 ATK.",
     "author": "gallantron",
-    "lastPrint": "2022-11-04",
+    "lastPrint": "2023-03-31",
     "lastUpdated": "2021-10-02",
     "references": [
       {
@@ -7357,7 +7357,7 @@
     "icon": "trap",
     "name": "Destructive Draw",
     "oldText": "If either player has no cards in their hand at the start of their Draw Phase, they can draw 1 more card in addition to their normal draw. This card's controller loses 700 Life Points during their End Phase. (If less than 700, they become 0 instead.) When this face-up card is removed from the field, inflict 3000 damage to the player who controlled it.",
-    "newText": "If the turn player draws card(s) for their normal draw while they have no cards in their hand: they can activate this effect; they draw 1 card. During the End Phase, you must pay 700 LP (this is not optional), otherwise your LP become 0.\nIf this face-up card leaves the field, you take 3000 damage.",
+    "newText": "If the turn player draws card(s) for their normal draw while they have no cards in their hand: they can activate this effect; they draw 1 card. During the End Phase, you must pay 700 LP (this is not optional), otherwise your LP become 0. If this face-up card leaves the field, you take 3000 damage.",
     "author": "gallantron",
     "lastPrint": "2007-08-15",
     "lastUpdated": "2022-02-23",
@@ -9380,7 +9380,7 @@
     "oldText": "Cannot be Special Summoned from the GY. Negate the effects of monsters destroyed by battle with Fiend monsters you control.",
     "newText": "Cannot be Special Summoned from the GY. Negate the effects (including in the GY) of monsters destroyed by battle with Fiend monsters you control.",
     "author": "gallantron",
-    "lastPrint": "2023-03-30",
+    "lastPrint": "2023-03-31",
     "lastUpdated": "2023-03-21",
     "references": [
       {
@@ -9404,7 +9404,7 @@
     "oldText": "This card can be used as a substitute for any 1 Fusion Material mentioned by name on the Fusion Monster Card, but the other material(s) must be correct.",
     "newText": "This card in your hand, field, or GY can be used as a substitute for any 1 Fusion Material whose name is mentioned on the Fusion Monster Card, but the other materials must be correct.",
     "author": "gallantron",
-    "lastPrint": "2023-03-30",
+    "lastPrint": "2023-03-31",
     "lastUpdated": "2023-03-21",
     "references": [
       {
@@ -9428,7 +9428,7 @@
     "oldText": "Once per turn: You can banish up to 2 Spells from your GY; this card gains 300 ATK for each card banished by this effect, until the end of your opponent's turn.",
     "newText": "Once per turn: You can banish up to 2 Spells from your GY, and if you do, this card gains 300 ATK for each card banished by this effect, until the end of your opponent's turn.",
     "author": "gallantron",
-    "lastPrint": "2023-03-30",
+    "lastPrint": "2023-03-31",
     "lastUpdated": "2023-03-21",
     "references": [
       {
@@ -9446,7 +9446,7 @@
     "oldText": "During your Main Phase 1: You can banish this card from the field, then target 1 Fiend monster you control; that target can make a second attack during each Battle Phase while you control it face-up. Once per turn, during your second Standby Phase after this card was banished to activate this effect: Special Summon this card in Attack Position.",
     "newText": "During your Main Phase 1: You can banish this card from the field, then target 1 Fiend monster you control; that Fiend monster can make a second attack during each Battle Phase while it remains face-up. Once per turn, during your second Standby Phase after this card was banished to activate this effect: Special Summon this card in Attack Position.",
     "author": "gallantron",
-    "lastPrint": "2023-03-30",
+    "lastPrint": "2023-03-31",
     "lastUpdated": "2023-03-21",
     "references": [
       {
@@ -9471,7 +9471,7 @@
     "oldText": "When a card is activated that targets an \"Amazoness\" monster on the field: Return that targeted monster to the hand, and if you do, Special Summon 1 other monster from your hand.",
     "newText": "When a Spell/Trap Card, or monster effect, is activated that targets an \"Amazoness\" monster on the field: Return that targeted monster to the hand, and if you do, Special Summon 1 other monster from your hand.",
     "author": "gallantron",
-    "lastPrint": "2023-03-30",
+    "lastPrint": "2023-03-31",
     "lastUpdated": "2023-03-21",
     "references": [
       {
@@ -9494,7 +9494,7 @@
     "oldText": "If you control \"Macro Cosmos\": Inflict 300 damage to your opponent, and if you do, destroy all monsters on the field.",
     "newText": "If you control \"Macro Cosmos\": Inflict 300 damage to your opponent, and if you do, destroy all monsters on the field (if any).",
     "author": "gallantron",
-    "lastPrint": "2023-03-30",
+    "lastPrint": "2023-03-31",
     "lastUpdated": "2023-03-21",
     "references": [
       {
@@ -9512,7 +9512,7 @@
     "oldText": "Once per turn, during your opponent's End Phase: Place 1 \"The Second Sarcophagus\" or (after you've done that) \"The Third Sarcophagus\" from your hand or Deck in your Spell & Trap Zone face-up. Then, if you control \"The First Sarcophagus\", \"The Second Sarcophagus\", and \"The Third Sarcophagus\", send all of them to the GY, and if you do, Special Summon 1 \"Spirit of the Pharaoh\" from your hand or Deck. If any of these cards, including this card, leaves your field, send all of them you control to the GY, including this card.",
     "newText": "Once per turn, during your opponent's End Phase: Place 1 \"The Second Sarcophagus\" or (after you've done that) \"The Third Sarcophagus\" from your hand or Deck in your Spell & Trap Zone face-up. If any of these cards, including this card, leave your field, send any of them you control to the GY, including this card. If you control \"The First Sarcophagus\", \"The Second Sarcophagus\", and \"The Third Sarcophagus\": Send all of them to the GY; Special Summon 1 \"Spirit of the Pharaoh\" from your hand or Deck.",
     "author": "gallantron",
-    "lastPrint": "2023-03-30",
+    "lastPrint": "2023-03-31",
     "lastUpdated": "2023-03-21",
     "references": [
       {
