@@ -9672,5 +9672,23 @@
         "desc": "In the Official Card Game, face-down monsters cannot be targeted with Primal Dragon, the Primordial's last effect."
       }
     ]
+  },
+  {
+    "id": 17051,
+    "icon": "spell",
+    "name": "Sea Stealth II",
+    "oldText": "This card's name becomes \"Umi\" while on the field or in the GY. Your opponent cannot target WATER monsters you control with non-WATER monster effects. At the start of the Battle Phase: You can Special Summon from your hand or GY, 1 monster that mentions \"Umi\", or 1 WATER Normal Monster, in Defense Position, but destroy it at the end of the Battle Phase. You can only use this effect of \"Sea Stealth II\" once per turn.",
+    "newText": "This card's name becomes \"Umi\" while on the field or in the GY. Your opponent cannot target WATER monsters you control with non-WATER monster effects. At the start of the Battle Phase: You can Special Summon from your hand or GY, 1 monster that mentions \"Umi\", or 1 WATER Normal Monster, in Defense Position, but destroy it at the end of this Battle Phase. You can only use this effect of \"Sea Stealth II\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2022-06-17",
+    "lastUpdated": "2023-04-09",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17051&request_locale=ja",
+        "title": "Card FAQ – Sea Stealth II",
+        "date": "2023-04-09",
+        "desc": "In the Official Card Game, the monster Special Summoned by the effect of Sea Stealth II is only destroyed during the End Step of the current Battle Phase.\n(If it is not destroyed at that point for some reason, it will not be destroyed during the End Step of the next Battle Phase.)"
+      }
+    ]
   }
 ]
