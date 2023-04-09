@@ -9595,5 +9595,28 @@
         "desc": "Mild Turkey is an example of a monster that has a die rolling effect that is not a monster effect."
       }
     ]
+  },
+  {
+    "id": 10118,
+    "icon": "effect",
+    "name": "Evoltile Elginero",
+    "oldText": "When this card on the field is Tributed and sent to the Graveyard: Draw 1 card, then, you can shuffle 1 Dinosaur-Type monster from your hand into the Deck, then add 1 \"Evoltile\" monster from your Deck to your hand.",
+    "newText": "If this card on the field is Tributed and sent to the GY: Draw 1 card, then you can shuffle 1 Dinosaur monster from your hand into the Deck, and if you do, add 1 \"Evoltile\" monster from your Deck to your hand.",
+    "author": "gallantron",
+    "lastPrint": "2012-05-08",
+    "lastUpdated": "2023-04-09",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10118&request_locale=ja",
+        "title": "Card FAQ – Evoltile Elginero",
+        "date": "2023-04-09",
+        "desc": "In the Official Card Game, returning a Dinosaur monster to the Deck and adding an \"Evoltile\" monster to your hand are treated as having happened simultaneously."
+      }
+    ],
+    "customDiffData": [
+      [156,141],
+      [4,14],
+      54
+    ]
   }
 ]
