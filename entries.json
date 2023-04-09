@@ -9713,5 +9713,23 @@
       [42,79],
       282
     ]
+  },
+  {
+    "id": 13380,
+    "icon": "effect",
+    "name": "Tindangle Base Gardna",
+    "oldText": "If you control a face-down Defense Position monster, you can Special Summon this card (from your hand) in Defense Position. You can only Special Summon \"Tindangle Base Gardna\" once per turn this way. If a monster is Normal or Special Summoned, and is now pointed to by an opponent's Link Monster (except during the Damage Step): You can Tribute this card; Special Summon 1 \"Tindangle\" monster from your hand or Deck in Attack Position or face-down Defense Position.",
+    "newText": "If you control a face-down Defense Position monster, you can Special Summon this card (from your hand) in Defense Position. You can only Special Summon \"Tindangle Base Gardna\" once per turn this way. If a monster is Normal or Special Summoned while this monster is on the field, and that monster is now pointed to by an opponent's Link Monster (except during the Damage Step): You can Tribute this card; Special Summon 1 \"Tindangle\" monster from your hand or Deck in Attack Position or face-down Defense Position.",
+    "author": "gallantron",
+    "lastPrint": "2018-02-02",
+    "lastUpdated": "2023-04-09",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13380&request_locale=ja",
+        "title": "Tindangle Base Gardna",
+        "date": "2023-04-09",
+        "desc": "In the Official Card Game, the effect of Tindangle Base Gardna cannot be activated if it (or multiple monsters, including it) are Special Summoned at the same time, and an opponent's Link Monster now points to any of those monsters."
+      }
+    ]
   }
 ]
