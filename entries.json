@@ -9654,5 +9654,23 @@
         "desc": "In the Official Card Game, Odd-Eyes Wizard Dragon's effect cannot send \"Odd-Eyes Dragon\" from your Spell & Trap Zone to the GY."
       }
     ]
+  },
+  {
+    "id": 14950,
+    "icon": "effect",
+    "name": "Primal Dragon, the Primordial",
+    "oldText": "Your opponent takes no battle damage from attacks involving this card. You can only use each of the following effects of \"Primal Dragon, the Primordial\" once per turn. You can banish 1 Dragon monster from your GY; this card gains ATK/DEF equal to that banished monster's ATK until the end of the next turn. If this card is Tributed: You can target 1 monster you control; it can make a second attack during each Battle Phase this turn.",
+    "newText": "Your opponent takes no battle damage from attacks involving this card. You can only use each of the following effects of \"Primal Dragon, the Primordial\" once per turn. You can banish 1 Dragon monster from your GY; this card gains ATK/DEF equal to that banished monster's ATK until the end of the next turn. If this card is Tributed: You can target 1 face-up monster you control; it can make a second attack during each Battle Phase this turn.",
+    "author": "gallantron",
+    "lastPrint": "2022-05-06",
+    "lastUpdated": "2023-04-09",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14950&request_locale=ja",
+        "title": "Primal Dragon, the Primordial",
+        "date": "2023-04-09",
+        "desc": "In the Official Card Game, face-down monsters cannot be targeted with Primal Dragon, the Primordial's last effect."
+      }
+    ]
   }
 ]
