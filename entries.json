@@ -9731,5 +9731,23 @@
         "desc": "In the Official Card Game, the effect of Tindangle Base Gardna cannot be activated if it (or multiple monsters, including it) are Special Summoned at the same time, and an opponent's Link Monster now points to any of those monsters."
       }
     ]
+  },
+  {
+    "id": 14467,
+    "icon": "effect",
+    "name": "Yosenju Sabu",
+    "oldText": "Once per turn, during the End Phase, if this card was Normal Summoned this turn: Return it to the hand. You can only use each of the following effects of \"Yosenju Sabu\" once per turn.\n●If this card is Normal Summoned: If you control another \"Yosenju\" card, you can add 1 \"Yosenju\" Pendulum Monster from your Deck to your hand.\n●You can target 1 \"Yosenju\" card you control; place 1 \"Dizzying Winds of Yosen Village\" or \"Yosen Whirlwind\" from your Deck face-up in your Spell & Trap Zone, and if you do, shuffle the targeted card into the Deck.",
+    "newText": "Once per turn, during the End Phase, if this card was Normal Summoned this turn: Return it to the hand. You can only use each of the following effects of \"Yosenju Sabu\" once per turn.\n●If this card is Normal Summoned, and you control another \"Yosenju\" card: You can add 1 \"Yosenju\" Pendulum Monster from your Deck to your hand.\n●You can target 1 \"Yosenju\" card you control; place 1 \"Dizzying Winds of Yosen Village\" or \"Yosen Whirlwind\" from your Deck face-up in your Spell & Trap Zone, and if you do, shuffle the targeted card into the Deck.",
+    "author": "gallantron",
+    "lastPrint": "2019-07-27",
+    "lastUpdated": "2023-04-09",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14467&request_locale=ja",
+        "title": "Yosenju Sabu",
+        "date": "2023-04-09",
+        "desc": "In the Official Card Game, the first ● bulleted effect of Yosenju Sabu only requires you to control a \"Yosenju\" card at activation. Additionally, it is optional to activate."
+      }
+    ]
   }
 ]
