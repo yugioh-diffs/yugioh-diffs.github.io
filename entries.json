@@ -9553,5 +9553,23 @@
         "desc": "In the Official Card Game, Aeropixthree has a separate Continuous Effect that makes monsters lose ATK/DEF if they hold Burnup Counters."
       }
     ]
+  },
+  {
+    "id": 13642,
+    "icon": "spell",
+    "name": "Dragon Revival Rhapsody",
+    "oldText": "If you control a Spellcaster monster: You can target up to 2 Dragon monsters in your GY, including at least 1 Normal Monster; Special Summon them. Your opponent takes no damage this turn. You can only activate 1 \"Dragon Revival Rhapsody\" per turn.",
+    "newText": "If you control a Spellcaster monster: You can target up to 2 Dragon monsters in your GY, including at least 1 Normal Monster; Special Summon them, also, for the rest of this turn after this card resolves, your opponent takes no damage. You can only activate 1 \"Dragon Revival Rhapsody\" per turn.",
+    "author": "gallantron",
+    "lastPrint": "2018-03-09",
+    "lastUpdated": "2023-04-09",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13642&request_locale=ja",
+        "title": "Card FAQ – Dragon Revival Rhapsody",
+        "date": "2023-04-09",
+        "desc": "In the Official Card Game, the effect of Dragon Revival Rhapsody that causes the opponent to take no damage only applies after Dragon Revival Rhapsody's Card activation has resolved.\n(It does not apply before then. It does not apply if the effect is applied without activating the card.)"
+      }
+    ]
   }
 ]
