@@ -9618,5 +9618,23 @@
       [4,14],
       54
     ]
+  },
+  {
+    "id": 15981,
+    "icon": "effect",
+    "name": "Judge of the Ice Barrier",
+    "oldText": "While you control another \"Ice Barrier\" monster, each time your opponent activates a card or effect by paying LP, they lose 500 LP. You can only use each of the following effects of \"Judge of the Ice Barrier\" once per turn. You can target 1 or 2 \"Ice Barrier\" monsters in your GY and 1 or 2 cards in your opponent's GY; shuffle them into the Deck. If you control an \"Ice Barrier\" monster: You can banish this card from your GY, then target 1 Attack Position monster on the field; change it to Defense Position.",
+    "newText": "While you control another \"Ice Barrier\" monster, each time your opponent activates a card or effect by paying LP, they lose 500 LP immediately after it resolves. You can only use each of the following effects of \"Judge of the Ice Barrier\" once per turn. You can target 1 or 2 \"Ice Barrier\" monsters in your GY and 1 or 2 cards in your opponent's GY; shuffle them into the Deck. If you control an \"Ice Barrier\" monster: You can banish this card from your GY, then target 1 Attack Position monster on the field; change it to Defense Position.",
+    "author": "gallantron",
+    "lastPrint": "2022-09-16",
+    "lastUpdated": "2023-04-09",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=15981&request_locale=ja",
+        "title": "Card FAQ – Judge of the Ice Barrier",
+        "date": "2023-04-09",
+        "desc": "In the Official Card Game, Judge of the Ice Barrier's effect causes the opponent to lose LP immediately after their activation has resolved."
+      }
+    ]
   }
 ]
