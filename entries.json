@@ -4616,6 +4616,13 @@
         "date": "2021-07-15",
         "desc": "In the Official Card Game, the effect of Brain Research Lab cannot be applied if the amount of LP paid would exceed the player's current LP."
       }
+    ],
+    "customDiffData": [
+      [15,0],
+      [7,186],
+      [133,26],
+      [143,19],
+      [120,299]
     ]
   },
   {
@@ -9747,6 +9754,24 @@
         "title": "Yosenju Sabu",
         "date": "2023-04-09",
         "desc": "In the Official Card Game, the first ● bulleted effect of Yosenju Sabu only requires you to control a \"Yosenju\" card at activation. Additionally, it is optional to activate."
+      }
+    ]
+  },
+  {
+    "id": 17439,
+    "icon": "effect",
+    "name": "Emperor Tanuki's Critter Count",
+    "oldText": "Cannot be Tributed while face-up in the Monster Zone. While this card is in the Monster Zone, when you Ritual Summon, you can also send 1 monster from your Extra Deck to the GY as 1 of the monsters used for the Ritual Summon. You can only use this effect of \"Emperor Tanuki's Critter Count\" once per turn.",
+    "newText": "Cannot be Tributed while face-up in the Monster Zone. While this card is in the Monster Zone, when you would Tribute monsters for a Ritual Summon, you can also send 1 monster from your Extra Deck to the GY as 1 of the monsters used for the Ritual Summon. You can only use this effect of \"Emperor Tanuki's Critter Count\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2022-08-05",
+    "lastUpdated": "2023-04-15",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23960&request_locale=ja",
+        "title": "Q&A #23960",
+        "date": "2023-04-15",
+        "desc": "In the Official Card Game, the effect of Emperor Tanuki's Critter Count can only be applied when monsters would be Tributed for the Ritual Summon.\nIt cannot be applied when performing a Ritual Summon that does not use Tributes, such as using Advanced Ritual Art or Super Soldier Synthesis."
       }
     ]
   }
