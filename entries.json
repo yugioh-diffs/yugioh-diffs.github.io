@@ -5268,24 +5268,6 @@
     ]
   },
   {
-    "id": 4952,
-    "icon": "trap",
-    "name": "The Regulation of Tribe",
-    "oldText": "Select 1 Type of monster. Any monster of the selected Type cannot attack. To keep this card in effect, you must offer 1 monster from the field as a Tribute at each of your Standby Phases. If you cannot, this card is destroyed.",
-    "newText": "Activate this card by declaring 1 Monster Type. Monsters with the declared Type cannot declare an attack. Once per turn, during your Standby Phase, Tribute 1 monster or destroy this card.",
-    "author": "gallantron",
-    "lastPrint": "2002-10-20",
-    "lastUpdated": "2021-07-30",
-    "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=4952&request_locale=ja",
-        "title": "Card FAQ – The Regulation of Tribe",
-        "date": "2021-07-30",
-        "desc": "In the Official Card Game, Regulation of Tribe prevents monsters with the declared type from declaring attacks. (It does not prevent an already-declared attack from proceeding.)"
-      }
-    ]
-  },
-  {
     "id": 8494,
     "icon": "spell",
     "name": "Spiritual Forest",
