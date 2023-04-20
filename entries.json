@@ -9756,5 +9756,23 @@
         "desc": "In the Official Card Game, the effect of Emperor Tanuki's Critter Count can only be applied when monsters would be Tributed for the Ritual Summon.\nIt cannot be applied when performing a Ritual Summon that does not use Tributes, such as using Advanced Ritual Art or Super Soldier Synthesis."
       }
     ]
+  },
+  {
+    "id": 17790,
+    "icon": "effect",
+    "name": "Psychic Rover",
+    "oldText": "If this card is Special Summoned: You can roll a six-sided die, and if you roll a 1 or 6, destroy up to 2 cards on the field. If this card is sent to the GY: You can roll a six-sided die, and if you roll a 2, 3, 4, or 5, Special Summon this card. The player who Summoned it cannot Special Summon from the Extra Deck, while it is face-up in the Monster Zone.",
+    "newText": "If this card is Special Summoned: You can roll a six-sided die, and if you roll a 1 or 6, destroy up to 2 cards on the field. If this card is sent to the GY: You can roll a six-sided die, and if you roll a 2, 3, 4, or 5, Special Summon this card, also you cannot Special Summon from the Extra Deck while this card remains face-up in the Monster Zone.",
+    "author": "gallantron",
+    "lastPrint": "2022-10-21",
+    "lastUpdated": "2023-04-20",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=17790&request_locale=ja",
+        "title": "Psychic Rover",
+        "date": "2023-04-20",
+        "desc": "In the Official Card Game, the effect of Psychic Rover that prevents Special Summoning only applies if it Special Summoned using its own effect."
+      }
+    ]
   }
 ]
