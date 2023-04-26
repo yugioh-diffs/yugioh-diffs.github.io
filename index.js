@@ -135,6 +135,8 @@ let loadEntry = ((entry, force) =>
         entry.customDiffData,
     );
     
+    document.getElementById('data').classList.toggle('is-nitpick', !!entry.nitpick);
+    
     let linkMode = (window.localStorage.getItem('linkMode') || 'konami');
     
     const extraInfoEntries = document.getElementById('data-extra-info-entries');

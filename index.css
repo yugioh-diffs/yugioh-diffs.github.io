@@ -271,6 +271,31 @@ body.has-data #about, body:not(.has-data) #data { display: none; }
 }
 #data-texts.highlight-diff .addition { background: #6f6; }
 
+#data:not(.is-nitpick) #data-nitpick-note { display: none; }
+
+#data-nitpick-note 
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 5px;
+    border-radius: 8px;
+    border: 2px solid #440;
+    background: #ff9;
+}
+#data-nitpick-icon
+{
+    font-size: 250%;
+    font-weight: bold;
+    margin-right: .1em;
+}
+#data-nitpick-text
+{
+    margin-left: 1em;
+    text-indent: -1em;
+    line-height: 120%;
+}
+
 #data-extra-info
 {
     display: flex;
