@@ -9826,5 +9826,37 @@
       [0,18],
       [0,193]
     ]
+  },
+  {
+    "id": 18009,
+    "icon": "spell",
+    "name": "Stray Purrely Street",
+    "oldText": "Your opponent cannot target \"Purrely\" monsters you control with card effects, the turn they are Special Summoned. Once per turn, if a face-up \"Purrely\" Xyz Monster(s) you control leaves the field because of an opponent's card: Special Summon 1 Level 1 \"Purrely\" monster from your Deck or GY. Once per turn, during the End Phase: You can target 1 \"Purrely\" Xyz Monster on the field; attach 1 \"Purrely\" Quick-Play Spell from your Deck or GY to that monster as material.",
+    "newText": "Your opponent cannot target \"Purrely\" monsters you control with card effects, the turn they are Special Summoned. Once per turn, if your opponent causes a face-up \"Purrely\" Xyz Monster(s) you control to leave the field: Special Summon 1 Level 1 \"Purrely\" monster from your Deck or GY. Once per turn, during the End Phase: You can target 1 \"Purrely\" Xyz Monster on the field; attach 1 \"Purrely\" Quick-Play Spell from your Deck or GY to that monster as material.",
+    "author": "gallantron",
+    "lastPrint": "2023-01-20",
+    "lastUpdated": "2023-04-26",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13950&request_locale=en",
+        "title": "Herald of the Abyss",
+        "date": "2023-04-26",
+        "desc": "If your opponent's Herald of the Abyss resolves, you are forced to send a monster you control to the GY.\nIn the Official Card Game, if you send your \"Purrely\" Xyz Monster to the GY this way, the effect of your Stray Purrely Street then cannot be activated."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7934&request_locale=en",
+        "title": "Gozen Match",
+        "date": "2023-04-26",
+        "desc": "In the Official Card Game, if you send your \"Purrely\" Xyz Monster to the GY due to the effect of your opponent's Gozen Match, the effect of your Stray Purrely Street then cannot be activated."
+      }
+    ],
+    "nitpick": true,
+    "customDiffData": [
+      [179,132],
+      [46,20],
+      [242,48],
+      [0,18],
+      [0,242]
+    ]
   }
 ]
