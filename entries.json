@@ -218,7 +218,7 @@
     ],
     "name": "Precious Cards from Beyond",
     "lastUpdated": "2020-09-20",
-    "lastPrint": "2012-06-01",
+    "lastPrint": "2023-04-21",
     "icon": "spell"
   },
   {
@@ -2836,7 +2836,7 @@
     "oldText": "While this card is on the field, Monster Cards cannot be Set or flipped face-down. If a Monster Card would be Set, it must be Normal Summoned in face-up Defense Position.",
     "newText": "Monster Cards cannot be changed to face-down Defense Position. If a monster would be Normal Set or Special Summoned face-down, it must be Summoned in face-up Defense Position instead.",
     "author": "gallantron",
-    "lastPrint": "2010-05-25",
+    "lastPrint": "2023-04-21",
     "lastUpdated": "2021-01-22",
     "references": [
       {
@@ -3587,7 +3587,7 @@
     "oldText": "Activate by declaring 1 card name. Cards with that name, and their effects, cannot be used. Cards already on the field are not affected (including face-down cards).",
     "newText": "Activate this card by declaring 1 card name. Apply these effects to all cards whose original name is the card name you declared. (This does not apply to card(s) that are already on the field before this effect started applying.)\n●They cannot be placed on the field.\n●They cannot be activated, nor can their effects be activated or applied.\n●They cannot be Summoned or Set.\n●They cannot attack, nor can they change their battle positions.\n●They cannot be used as material for a Special Summon that requires materials.",
     "author": "Catmaster0",
-    "lastPrint": "2012-10-02",
+    "lastPrint": "2023-04-21",
     "lastUpdated": "2021-6-21",
     "references": [
       {
@@ -3905,7 +3905,7 @@
     "oldText": "Banish 1 random card from your opponent's hand, face-down. During your opponent's 4th Standby Phase after this card's activation, return that card to their hand.",
     "newText": "Banish 1 random card from your opponent's hand, face-down. During the Standby Phase of your opponent's 4th turn after this card's activation, return that card to their hand.",
     "author": "gallantron",
-    "lastPrint": "2023-03-08",
+    "lastPrint": "2023-04-21",
     "lastUpdated": "2021-06-27",
     "references": [
       {
@@ -4872,7 +4872,7 @@
     "oldText": "FLIP: Destroys all opponent's face-up \"Swords of Revealing Light\" on the field. If \"Swords of Revealing Light\" is destroyed, you can perform your Battle Phase twice this turn (or your next turn, if activated during opponent's turn).",
     "newText": "FLIP: Destroy as many \"Swords of Revealing Light\" your opponent controls as possible, and if you do, you can perform your next Battle Phase twice.",
     "author": "gallantron",
-    "lastPrint": "2002-09-16",
+    "lastPrint": "2023-04-21",
     "lastUpdated": "2021-07-28",
     "references": [
       {
@@ -5872,7 +5872,7 @@
     "oldText": "You can only activate this card if there are no cards in your Graveyard. Select 1 removed from play monster and Special Summon it on your side of the field.",
     "newText": "If you have no cards in your GY: Target 1 of your banished monsters; Special Summon it.",
     "author": "gallantron",
-    "lastPrint": "2005-10-20",
+    "lastPrint": "2023-04-21",
     "lastUpdated": "2021-09-08",
     "references": [
       {
@@ -7523,7 +7523,7 @@
     "oldText": "If the ATK of a monster that attacks this monster is lower than the DEF of this card, destroy the attacking monster.",
     "newText": "At the end of the Damage Step, if this Defense Position monster was attacked by an opponent's monster whose ATK is lower than this card's DEF: Destroy that attacking monster.",
     "author": "gallantron",
-    "lastPrint": "2022-03-18",
+    "lastPrint": "2023-04-21",
     "lastUpdated": "2022-03-25",
     "references": [
       {
@@ -8913,7 +8913,7 @@
     "oldText": "When this monster is summoned (excluding Special Summon), select 1 of your opponent's monsters. As long as this card remains face-up on the field, the selected monster cannot attack.",
     "newText": "If this card is Normal or Flip Summoned: target 1 monster your opponent controls; this card gains this effect.\n● The targeted monster cannot attack.",
     "author": "gallantron",
-    "lastPrint": "2002-10-20",
+    "lastPrint": "2023-04-21",
     "lastUpdated": "2022-10-03",
     "references": [
       {
@@ -9000,7 +9000,7 @@
     "oldText": "A player controlling this monster loses 300 Life Points during each of his/her Standby Phases when this card is face-up on the field. Control of this card is shifted to your opponent by paying 500 Life Points at your own End Phase.",
     "newText": "Once per turn, during your Standby Phase: Take 300 damage. Once per turn, during your End Phase: You can pay 500 LP; give control of this card to your opponent.",
     "author": "gallantron",
-    "lastPrint": "2002-06-26",
+    "lastPrint": "2023-04-21",
     "lastUpdated": "2022-11-06",
     "references": [
       {
@@ -9425,7 +9425,7 @@
     "oldText": "Once per turn: You can banish up to 2 Spells from your GY; this card gains 300 ATK for each card banished by this effect, until the end of your opponent's turn.",
     "newText": "Once per turn: You can banish up to 2 Spells from your GY, and if you do, this card gains 300 ATK for each card banished by this effect, until the end of your opponent's turn.",
     "author": "gallantron",
-    "lastPrint": "2023-03-31",
+    "lastPrint": "2023-04-21",
     "lastUpdated": "2023-03-21",
     "references": [
       {
