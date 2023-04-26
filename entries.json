@@ -9794,5 +9794,37 @@
         "desc": "In the Official Card Game, the effect of Psychic Rover that prevents Special Summoning only applies if it Special Summoned using its own effect."
       }
     ]
+  },
+  {
+    "id": 18010,
+    "icon": "spell",
+    "name": "My Friend Purrely",
+    "oldText": "You can pay 500 LP; reveal 3 \"Purrely\" cards from your Deck, except \"My Friend Purrely\", and your opponent randomly picks 1 for you to add to your hand, also shuffle the rest into your Deck. If a face-up \"Purrely\" Xyz Monster(s) you control leaves the field because of an opponent's card, even during the Damage Step: You can add up to 3 \"Purrely\" Quick-Play Spells with different names from your GY to your hand. You can only use each effect of \"My Friend Purrely\" once per turn.",
+    "newText": "You can pay 500 LP; reveal 3 \"Purrely\" cards from your Deck, except \"My Friend Purrely\", and your opponent randomly picks 1 for you to add to your hand, also shuffle the rest into your Deck. If your opponent causes a face-up \"Purrely\" Xyz Monster(s) you control to leave the field, even during the Damage Step: You can add up to 3 \"Purrely\" Quick-Play Spells with different names from your GY to your hand. You can only use each effect of \"My Friend Purrely\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2023-01-20",
+    "lastUpdated": "2023-04-26",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13950&request_locale=en",
+        "title": "Herald of the Abyss",
+        "date": "2023-04-26",
+        "desc": "If your opponent's Herald of the Abyss resolves, you are forced to send a monster you control to the GY.\nIn the Official Card Game, if you send your \"Purrely\" Xyz Monster to the GY this way, the effect of your Purrely My Friend then cannot be activated."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7934&request_locale=en",
+        "title": "Gozen Match",
+        "date": "2023-04-26",
+        "desc": "In the Official Card Game, if you send your \"Purrely\" Xyz Monster to the GY due to the effect of your opponent's Gozen Match, the effect of your Purrely My Friend then cannot be activated."
+      }
+    ],
+    "nitpick": true,
+    "customDiffData": [
+      [241,194],
+      [46,20],
+      [193,48],
+      [0,18],
+      [0,193]
+    ]
   }
 ]
