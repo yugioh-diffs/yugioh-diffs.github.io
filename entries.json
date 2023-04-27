@@ -9858,5 +9858,30 @@
       [0,18],
       [0,242]
     ]
+  },
+  {
+    "id": 18004,
+    "icon": "xyz",
+    "name": "Epurrely Happiness",
+    "oldText": "2 Level 2 monsters\nAt the end of the Damage Step, if this card battled: You can add 1 \"Purrely\" card from your Deck to your hand, also, if this card has \"Purrely Happy Memory\" as material, you can halve the ATK of 1 face-up monster on the field. Up to thrice per turn, when you activate a \"Purrely\" Quick-Play Spell Card (Quick Effect): You can attach that card on the field to this card as material, then you can return 1 Spell/Trap your opponent controls to the hand.",
+    "newText": "2 Level 2 monsters\nAt the end of the Damage Step, if this card battled: You can add 1 \"Purrely\" card from your Deck to your hand, also, after that, if this card has \"Purrely Happy Memory\" as material, you can halve the ATK of 1 face-up monster on the field. Up to thrice per turn, when you activate a \"Purrely\" Quick-Play Spell Card (Quick Effect): You can attach that card on the field to this card as material, and if you do, you can return 1 Spell/Trap your opponent controls to the hand.",
+    "author": "gallantron",
+    "lastPrint": "2023-02-08",
+    "lastUpdated": "2023-04-27",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=18004&request_locale=ja",
+        "title": "Card FAQ – Epurrely Happiness",
+        "date": "2023-04-27",
+        "desc": "In the Official Card Game, adding a \"Purrely\" card to the hand and halving a monster's ATK are not treated as having happened simultaneously.\nAdditionally, in the Official Card Game, attaching the activated \"Purrely\" Quick-Play Spell as material and returning a Spell/Trap to the hand are treated as having happened simultaneously."
+      }
+    ],
+    "customDiffData": [
+      130,
+      [5,17],
+      266,
+      [4,14],
+      64
+    ]
   }
 ]
