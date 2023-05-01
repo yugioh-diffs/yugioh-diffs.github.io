@@ -9883,5 +9883,28 @@
       [4,14],
       64
     ]
+  },
+  {
+    "id": 12780,
+    "icon": "synchro",
+    "name": "Flower Cardian Lightflare",
+    "oldText": "1 Tuner + 4 non-Tuner monsters\nOnce per turn, during either player's turn, when your opponent activates a Spell/Trap Card: You can negate the activation, and if you do, destroy that card. If a \"Flower Cardian\" monster you control battles an opponent's monster, that opponent's monster has its effects negated during the Battle Phase only. If this face-up Synchro Summoned card is destroyed by battle, or leaves the field because of an opponent's card effect while its owner controls it: You can Special Summon 1 \"Flower Cardian\" Synchro Monster from your Extra Deck, except \"Flower Cardian Lightflare\".",
+    "newText": "1 Tuner + 4 non-Tuner monsters\nOnce per turn, when your opponent activates a Spell/Trap Card (Quick Effect): You can negate the activation, and if you do, destroy that card. If a \"Flower Cardian\" monster you control battles an opponent's monster, that opponent's monster has its effects negated during the Battle Phase only. If this Synchro Summoned card is destroyed by battle, or leaves the field because of an opponent's card effect while its owner controls it: You can Special Summon 1 \"Flower Cardian\" Synchro Monster from your Extra Deck, except \"Flower Cardian Lightflare\".",
+    "author": "gallantron",
+    "lastPrint": "2017-02-10",
+    "lastUpdated": "2023-05-01",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12780&request_locale=ja",
+        "title": "Card FAQ – Flower Cardian Lightflare",
+        "date": "2023-05-01",
+        "desc": "In the Official Card Game, the effect of Flower Cardian Lightflare can be activated even if it leaves the field while in face-down Defense Position."
+      }
+    ],
+    "customDiffData": [
+      [347,580],
+      [7,0],
+      [248,0]
+    ]
   }
 ]
