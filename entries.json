@@ -9906,5 +9906,28 @@
       [7,0],
       [248,0]
     ]
+  },
+  {
+    "id": 15278,
+    "icon": "xyz",
+    "name": "Melffy of the Forest",
+    "oldText": "2 Level 2 monsters\nYou can detach 1 material from this card; add 1 \"Melffy\" card from your Deck to your hand. If another face-up \"Melffy\" monster you control returns to your hand (except during the Damage Step): You can target 1 face-up monster your opponent controls; it cannot attack, also its effects are negated while it is face-up on the field. You can only use each effect of \"Melffy of the Forest\" once per turn.",
+    "newText": "2 Level 2 monsters\nYou can detach 1 material from this card; add 1 \"Melffy\" card from your Deck to your hand. If another face-up \"Melffy\" monster you control returns to your hand (except during the Damage Step): You can target 1 face-up monster your opponent controls; it cannot attack, also negate its effects. You can only use each effect of \"Melffy of the Forest\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2021-10-01",
+    "lastUpdated": "2023-05-04",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23629&request_locale=ja",
+        "title": "Q&A #23629",
+        "date": "2023-05-04",
+        "desc": "In the Official Card Game, the effect of Melffy of the Forest also continues to apply after the targeted monster ceases to exist face-up on the field."
+      }
+    ],
+    "customDiffData": [
+      [316,381],
+      [32,0],
+      [71,0]
+    ]
   }
 ]
