@@ -9929,5 +9929,44 @@
       [32,0],
       [71,0]
     ]
+  },
+  {
+    "id": 10536,
+    "icon": "xyz",
+    "name": "Harpie's Pet Phantasmal Dragon",
+    "oldText": "3 Level 4 WIND monsters\nThis card's effects can only be applied/resolved while it has material. This card can attack your opponent directly. Your opponent cannot target any \"Harpie\" monsters with effects or for attacks. During each of your End Phases: Detach 1 material from this card.",
+    "newText": "3 Level 4 WIND monsters\nThis card's effects can only be activated, applied and/or resolved while it has material. This card can attack your opponent directly. Your opponent cannot target \"Harpie\" monsters you control with card effects, and their monsters cannot target \"Harpie\" monsters you control for attacks. Once per turn, during your End Phase: Detach 1 material from this card.",
+    "author": "gallantron",
+    "lastPrint": "2020-11-13",
+    "lastUpdated": "2023-05-14",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10536&request_locale=ja",
+        "title": "Card FAQ – Harpie's Pet Phantasmal Dragon",
+        "date": "2023-05-14",
+        "desc": "In the Official Card Game, the effect of Harpie's Pet Phantasmal Dragon that prevents monsters from being targeted for attacks affects your opponent's monsters."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10536&request_locale=ja",
+        "title": "Card FAQ – Harpie's Pet Phantasmal Dragon",
+        "date": "2023-05-14",
+        "desc": "In the Official Card Game, only prevents \"Harpie\" monsters on the field from being targeted by card effects or attacks.\n(It does not prevent \"Harpie\" monsters in the GY, or that are banished, from being targeted.)"
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10536&request_locale=ja",
+        "title": "Card FAQ – Harpie's Pet Phantasmal Dragon",
+        "date": "2023-05-14",
+        "desc": "In the Official Card Game, the effect of Harpie's Pet Phantasmal Dragon that detaches materials will not activate if it does not have material."
+      }
+    ],
+    "customDiffData": [
+      [204,56],
+      [14,10],
+      [67,139],
+      [0,11],
+      [0,20],
+      [0,74],
+      [0,73]
+    ]
   }
 ]
