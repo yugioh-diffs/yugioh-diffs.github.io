@@ -9968,5 +9968,28 @@
       [0,74],
       [0,73]
     ]
+  },
+  {
+    "id": 6244,
+    "icon": "effect",
+    "name": "Behemoth the King of All Animals",
+    "oldText": "You can Normal Summon/Set this card with 1 Tribute, but its original ATK becomes 2000. When this card is Tribute Summoned: You can target Beast monsters in your GY equal to the number of monsters Tributed; return them to the hand.",
+    "newText": "You can Normal Summon/Set this card with 1 Tribute, but its original ATK becomes 2000. When this card is Tribute Summoned: You can target Beast monsters in your GY equal to the number of monsters Tributed; return those targets to the hand.",
+    "author": "gallantron",
+    "lastPrint": "2020-11-26",
+    "lastUpdated": "2023-05-25",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6244&request_locale=ja",
+        "title": "Behemoth the King of All Animals",
+        "date": "2023-05-25",
+        "desc": "In the Official Card Game, the targeted cards still need to be Beast-type in order to be returned to the hand."
+      }
+    ],
+    "customDiffData": [
+      213,
+      [4,13],
+      13
+    ]
   }
 ]
