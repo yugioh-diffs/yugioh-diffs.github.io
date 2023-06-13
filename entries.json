@@ -9991,5 +9991,23 @@
       [4,13],
       13
     ]
+  },
+  {
+    "id": 8037,
+    "icon": "synchro",
+    "name": "Hyper Psychic Blaster",
+    "oldText": "1 Tuner + 1 or more non-Tuner Psychic-Type Monsters\nIf this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. At the end of the Damage Step, if this card attacked a Defense Position monster and that monster's DEF is lower than this card's ATK (use its original values if the other monster is no longer on the field): Gain LP equal to the surplus.",
+    "newText": "1 Tuner + 1+ non-Tuner Psychic Monsters\nIf this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. At the end of the Damage Step, if this card attacked a Defense Position monster and that monster's DEF was lower than this card's ATK: Gain LP equal to the surplus.",
+    "author": "gallantron",
+    "lastPrint": "2014-10-24",
+    "lastUpdated": "2023-06-13",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8037&request_locale=ja",
+        "title": "Card FAQ – Hyper Psychic Blaster",
+        "date": "2023-06-13",
+        "desc": "In the Official Card Game, the effect of Hyper Psychic Blaster considers the difference in ATK/DEF at the time that damage calculation was performed, regardless of whether the opponent's monster is still on the field."
+      }
+    ]
   }
 ]
