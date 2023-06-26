@@ -5344,10 +5344,10 @@
     "id": 10270,
     "icon": "xyz",
     "name": "Madolche Queen Tiaramisu",
-    "oldText": "2 Level 4 \"Madolche\" monsters\nOnce per turn: You can detach 1 Xyz Material from this card, then target up to 2 \"Madolche\" cards in your Graveyard; shuffle those cards into the Deck, also, after that, shuffle cards your opponent controls into the Deck, up to the number of \"Madolche\" cards returned.",
-    "newText": "2 Level 4 \"Madolche\" monsters\nOnce per turn: You can detach 1 material from this card, then target up to 2 \"Madolche\" cards in your GY; shuffle those cards into the Deck, also shuffle cards your opponent controls into the Deck, up to the number of \"Madolche\" cards returned to the hand or Deck as a result.",
+    "oldText": "2 Level 4 \"Madolche\" monsters\nOnce per turn: You can detach 1 material from this card, then target up to 2 \"Madolche\" card(s) in your GY; shuffle those cards into the Deck, also, after that, shuffle cards your opponent controls into the Deck, up to the number of \"Madolche\" cards returned.",
+    "newText": "2 Level 4 \"Madolche\" monsters\nOnce per turn: You can detach 1 material from this card, then target up to 2 \"Madolche\" card(s) in your GY; shuffle those cards into the Deck, also shuffle cards your opponent controls into the Deck, up to the number of \"Madolche\" cards returned to the hand or Deck as a result.",
     "author": "gallantron",
-    "lastPrint": "2015-03-20",
+    "lastPrint": "2023-06-23",
     "lastUpdated": "2021-08-03",
     "references": [
       {
