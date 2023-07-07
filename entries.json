@@ -10009,5 +10009,35 @@
         "desc": "In the Official Card Game, the effect of Hyper Psychic Blaster considers the difference in ATK/DEF at the time that damage calculation was performed, regardless of whether the opponent's monster is still on the field."
       }
     ]
+  },
+  {
+    "id": 13878,
+    "icon": "trap",
+    "name": "Cynet Conflict",
+    "oldText": "When a Spell/Trap Card, or monster effect, is activated while you control a \"Code Talker\" monster: Negate the activation, and if you do, banish that card, and if you do, your opponent cannot activate cards, or effects of cards, with the same original name as that card that was banished, until the end of the next turn. You can only activate 1 \"Cynet Conflict\" per turn.",
+    "newText": "When a Spell/Trap Card, or monster effect, is activated while you control a \"Code Talker\" monster: Negate the activation, and if you do, banish that card, and if you do, your opponent cannot activate cards, or effects of cards, with the same original name as that card that was banished by this effect, until the end of the next turn. You can only activate 1 \"Cynet Conflict\" per turn.",
+    "author": "gallantron",
+    "lastPrint": "2022-05-06",
+    "lastUpdated": "2023-07-07",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13878&request_locale=ja",
+        "title": "Cynet Conflict",
+        "date": "2023-07-07",
+        "desc": "In the Official Card Game, Cynet Conflict requires the card to be banished specifically by its effect in order to apply the additional restriction."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23973&request_locale=ja",
+        "title": "Q&A #23973",
+        "date": "2023-07-07",
+        "desc": "In the Official Card Game, if the monster that Cynet Conflict attempts to banish ends up being banished by another effect (such as its own), the additional restriction is not applied."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23990&request_locale=ja",
+        "title": "Q&A #23990",
+        "date": "2023-07-07",
+        "desc": "In general, if the card that an effect attempts to banish is banished by another effect instead, this is treated as a success for conjunction purposes."
+      }
+    ]
   }
 ]
