@@ -8201,7 +8201,8 @@
       359,
       [13,11],
       190
-    ]
+    ],
+    "nitpick": true
   },
   {
     "id": 5623,
@@ -8253,7 +8254,8 @@
       212,
       [50,36],
       160
-    ]
+    ],
+    "nitpick": true
   },
   {
     "id": 6720,
@@ -8330,7 +8332,8 @@
       245,
       [13,11],
       243
-    ]
+    ],
+    "nitpick": true
   },
   {
     "id": 17454,
@@ -9171,7 +9174,13 @@
         "date": "2022-12-20",
         "desc": "In the Official Card Game, monsters that are unaffected by monster effects can target The Winged Dragon of Ra - Sphere Mode for attacks.\n(Even if a monster is unaffected by monster effects, your opponent still cannot target The Winged Dragon of Ra - Sphere Mode with that monster's effects.)"
       }
-    ]
+    ],
+    "customDiffData": [
+      277,
+      [30,91],
+      170
+    ],
+    "nitpick": true
   },
   {
     "id": 18191,
@@ -9189,7 +9198,8 @@
         "date": "2023-01-24",
         "desc": "In the Official Card Game, when Special Summoning Kashtira Arise-Heart using the listed procedure, materials are transferred from the \"Kashtira\" monster used as material, not from the \"Kashtira Shangri-Ira\" that activated its effect."
       }
-    ]
+    ],
+    "nitpick": true
   },
   {
     "id": 18152,
@@ -10038,6 +10048,41 @@
         "date": "2023-07-07",
         "desc": "In general, if the card that an effect attempts to banish is banished by another effect instead, this is treated as a success for conjunction purposes."
       }
+    ]
+  },
+  {
+    "id": 7153,
+    "icon": "trap",
+    "name": "Eradicator Epidemic Virus",
+    "oldText": "Tribute 1 DARK monster with 2500 or more ATK, and declare 1 type of card (Spell or Trap); look at your opponent's hand, all Spells/Traps they control, and all cards they draw until the end of their 3rd turn after this card's activation, and destroy all cards of that declared type.",
+    "newText": "Tribute 1 DARK monster with 2500 or more ATK, and declare 1 type of card (Spell or Trap); look at your opponent's hand, all Spells/Traps they control, and all cards they draw until the 3rd end of their turn, and destroy all cards of that declared type.",
+    "author": "gallantron",
+    "lastPrint": "2023-06-02",
+    "lastUpdated": "2023-07-12",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7153&request_locale=ja",
+        "title": "Eradicator Epidemic Virus",
+        "date": "2023-07-12",
+        "desc": "In the Official Card Game, Eradicator Epidemic Virus does not refer to its own card activation."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8729&request_locale=ja",
+        "title": "Q&A #8729",
+        "date": "2023-07-12",
+        "desc": "As a result, in the Official Card Game, the effect of Eradicator Epidemic Virus can be applied by the effect of Junk Collector, or the effect of Transaction Rollback in the GY."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6236&request_locale=ja",
+        "title": "Q&A #6236",
+        "date": "2023-07-12",
+        "desc": "Compare Extinction on Schedule, another card that counts turns from its card activation. In the Official Card Game, Extinction on Schedule's effect cannot be applied by the effect of Junk Collector, or by the effect of Transaction Rollback in the GY."
+      }
+    ],
+    "customDiffData": [
+      [207,252],
+      [28,0],
+      [46,0]
     ]
   }
 ]
