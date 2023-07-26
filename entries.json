@@ -4064,7 +4064,7 @@
     "oldText": "Neither player can Summon more than two times per turn. (Negated Summons count toward this limit. Negated cards/effects that would Summon do not count.)",
     "newText": "Neither player can Summon more than two times per turn.",
     "author": "gallantron",
-    "lastPrint": "2021-11-19",
+    "lastPrint": "2023-07-19",
     "lastUpdated": "2021-06-27",
     "references": [
       {
@@ -8707,7 +8707,7 @@
     "oldText": "Activate 1 of these effects, but skip your next Battle Phase after activation;\n●If your opponent adds a card(s) from their Deck to their hand, except during the Draw Phase, discard 1 random card from their hand, then banish the top 2 cards of their Deck.\n●Special Summon 1 \"Runick\" monster from your Extra Deck to the Extra Monster Zone.\nYou can only activate 1 \"Runick Dispelling\" per turn.",
     "newText": "Choose 1 of these effects; apply that effect, but skip your next Battle Phase.\n●If your opponent adds a card(s) from their Deck to their hand, except during the Draw Phase: discard 1 random card from their hand, then banish the top 2 cards of their Deck.\n●Special Summon 1 \"Runick\" monster from your Extra Deck to the Extra Monster Zone.\nYou can only activate 1 \"Runick Dispelling\" per turn.",
     "author": "gallantron",
-    "lastPrint": "2022-08-26",
+    "lastPrint": "2023-07-19",
     "lastUpdated": "2022-10-14",
     "references": [
       {
