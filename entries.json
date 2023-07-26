@@ -9945,7 +9945,7 @@
     "icon": "xyz",
     "name": "Harpie's Pet Phantasmal Dragon",
     "oldText": "3 Level 4 WIND monsters\nThis card's effects can only be applied/resolved while it has material. This card can attack your opponent directly. Your opponent cannot target any \"Harpie\" monsters with effects or for attacks. During each of your End Phases: Detach 1 material from this card.",
-    "newText": "3 Level 4 WIND monsters\nThis card's effects can only be activated, applied and/or resolved while it has material. This card can attack your opponent directly. Your opponent cannot target \"Harpie\" monsters you control with card effects, and their monsters cannot target \"Harpie\" monsters you control for attacks. Once per turn, during your End Phase: Detach 1 material from this card.",
+    "newText": "3 Level 4 WIND monsters\nThis card's effects can only be activated, applied and/or resolved while it has material. This card can attack your opponent directly. Your opponent cannot target \"Harpie\" monsters on the field with card effects, and their monsters cannot target \"Harpie\" monsters for attacks. Once per turn, during your End Phase: Detach 1 material from this card.",
     "author": "gallantron",
     "lastPrint": "2020-11-13",
     "lastUpdated": "2023-05-14",
@@ -9973,9 +9973,9 @@
       [204,56],
       [14,10],
       [67,139],
-      [0,11],
+      [0,12],
       [0,20],
-      [0,74],
+      [0,62],
       [0,73]
     ]
   },
