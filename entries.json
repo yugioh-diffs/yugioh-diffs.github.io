@@ -10102,5 +10102,36 @@
         "desc": "In the Official Card Game, Tributing as many monsters your opponent controls as possible is mandatory when resolving Baelgrill de Nouvelles' first effect."
       }
     ]
+  },
+  {
+    "id": 13853,
+    "icon": "effect",
+    "name": "Blackwing - Simoon the Poison Wind",
+    "oldText": "If you control no monsters and have this card in your hand: You can banish 1 other \"Blackwing\" monster from your hand; place 1 \"Black Whirlwind\" from your Deck face-up in your Spell & Trap Zone, then, either send this card to the GY, or immediately after this effect resolves, Normal Summon it without Tributing. You cannot Special Summon monsters from the Extra Deck for the rest of this turn, except DARK monsters. You can only use this effect of \"Blackwing - Simoon the Poison Wind\" once per turn. During the End Phase, send the \"Black Whirlwind\" placed by this effect to the GY, and if you do, take 1000 damage.",
+    "newText": "If you control no monsters and have this card in your hand: You can banish 1 other \"Blackwing\" monster from your hand; place 1 \"Black Whirlwind\" from your Deck face-up in your Spell & Trap Zone, then, either send this card to the GY, or immediately after this effect resolves, Normal Summon it without Tributing. You cannot Special Summon monsters from the Extra Deck for the rest of this turn, except DARK monsters. You can only use this effect of \"Blackwing - Simoon the Poison Wind\" once per turn. During the End Phase, if the \"Black Whirlwind\" placed by this effect is still on the field, send it to the GY, also take 1000 damage.",
+    "author": "gallantron",
+    "lastPrint": "2022-11-18",
+    "lastUpdated": "2023-07-27",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21946&request_locale=ja",
+        "title": "Q&A #21946",
+        "date": "2023-07-27",
+        "desc": "In the Official Card Game, even if the \"Black Whirlwind\" placed by the effect of Blackwing - Simoon the Poison Wind is not successfully sent to the GY due to the effect of Macro Cosmos banishing it instead, you will still take 1000 damage."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21945&request_locale=ja",
+        "title": "Q&A #21945",
+        "date": "2023-07-27",
+        "desc": "However, even in the Official Card Game, if the Black Whirlwind placed by the effect of Blackwing - Simoon the Poison Wind no longer exists on the field during the End Phase, no damage is inflicted."
+      }
+    ],
+    "customDiffData": [
+      523,
+      [4,2],
+      45,
+      [25,46],
+      18
+    ]
   }
 ]
