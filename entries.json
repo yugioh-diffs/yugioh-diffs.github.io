@@ -727,30 +727,6 @@
     "icon": "effect"
   },
   {
-    "id": 6824,
-    "oldText": "During your End Phase, if you control \"Jurassic World\": Destroy all cards on the field.",
-    "newText": "(This card is not treated as a \"Volcanic\" card.)\nDuring your End Phase, if you control \"Jurassic World\": Destroy all cards on the field.",
-    "author": "pazim",
-    "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6824&request_locale=ja",
-        "title": "Volcanic Eruption",
-        "date": "2020-12-24",
-        "desc": "In the Official Card Game, Volcanic Eruption is not a \"Volcanic\" (ヴォルカニック) card."
-      },
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11597&request_locale=en",
-        "title": "Blaze Accelerator Reload",
-        "date": "2020-12-24",
-        "desc": "By its TCG text, Volcanic Eruption could be sent to the GY by Blaze Accelerator Reload's effects."
-      }
-    ],
-    "name": "Volcanic Eruption",
-    "lastUpdated": "2020-05-14",
-    "lastPrint": "2013-10-11",
-    "icon": "trap"
-  },
-  {
     "id": 11404,
     "oldText": "Target 1 face-up monster you control; it gains 300 ATK/DEF. When an opponent's monster declares a direct attack while this card is in your GY: Special Summon this card in Defense Position as a Normal Monster (Warrior/DARK/Level 4/ATK 0/DEF 300). (This card is NOT treated as a Trap.) If Summoned this way, banish this card when it leaves the field.",
     "newText": "Target 1 face-up monster you control; it gains 300 ATK/DEF. When an opponent's monster declares a direct attack while this card is in your GY: You can Special Summon this card in Defense Position as a Normal Monster (Warrior/DARK/Level 4/ATK 0/DEF 300). (This card is NOT treated as a Trap.) If Summoned this way, banish this card when it leaves the field.",
