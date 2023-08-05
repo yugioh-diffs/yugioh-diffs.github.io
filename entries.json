@@ -8817,11 +8817,11 @@
     "id": 10533,
     "icon": "xyz",
     "name": "Number C105: Battlin' Boxer Comet Cestus",
-    "oldText": "4 Level 5 monsters\nWhen this card destroys an opponent's monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to half the destroyed monster's original ATK. If this card has \"Number 105: Battlin' Boxer Star Cestus\" as an Xyz Material, it gains this effect.\n●Once per turn: You can detach 1 Xyz Material from this card, then target 1 monster your opponent controls; destroy it, and if you do, inflict damage to your opponent equal to the destroyed monster's ATK on the field.",
-    "newText": "4 Level 5 monsters\nIf this card destroys a monster by battle and sends it to the GY: Inflict damage to your opponent equal to half the destroyed monster's original ATK. If this card has \"Number 105: Battlin' Boxer Star Cestus\" as an material, it gains this effect.\n●Once per turn: You can detach 1 material from this card, then target 1 monster your opponent controls; destroy it, and if you do, inflict damage to your opponent equal to the destroyed monster's ATK on the field.",
+    "oldText": "4 Level 5 monsters\nIf this card destroys an opponent's monster by battle and sends it to the GY: Inflict damage to your opponent equal to half the destroyed monster's original ATK. If this card has \"Number 105: Battlin' Boxer Star Cestus\" as material, it gains this effect.\n●Once per turn: You can detach 1 material from this card, then target 1 monster your opponent controls; destroy it, and if you destroyed a face-up monster, inflict damage to your opponent equal to the ATK that monster had on the field.",
+    "newText": "4 Level 5 monsters\nIf this card destroys a monster by battle and sends it to the GY: Inflict damage to your opponent equal to half the destroyed monster's original ATK. If this card has \"Number 105: Battlin' Boxer Star Cestus\" as material, it gains this effect.\n●Once per turn: You can detach 1 material from this card, then target 1 monster your opponent controls; destroy it, and if you destroyed a face-up monster, inflict damage to your opponent equal to the ATK that monster had on the field.",
     "author": "gallantron",
-    "lastPrint": "2014-08-29",
-    "lastUpdated": "2022-10-03",
+    "lastPrint": "2023-08-11",
+    "lastUpdated": "2023-08-05",
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10533&request_locale=ja",
@@ -8829,11 +8829,6 @@
         "date": "2022-10-03",
         "desc": "In the Official Card Game, the effect of Number C105: Battlin' Boxer Comet Cestus can be activated regardless of which player controlled the monster it destroyed by battle."
       }
-    ],
-    "customDiffData": [
-      [43,41],
-      [21,9],
-      [443,428]
     ]
   },
   {
@@ -9228,11 +9223,11 @@
     "id": 10531,
     "icon": "xyz",
     "name": "Battlin' Boxer Lead Yoke",
-    "oldText": "2 Level 4 \"Battlin' Boxer\" monsters\nIf a \"Battlin' Boxer\" monster(s) you control would be destroyed by battle or by a card effect, you can detach 1 Xyz Material from this card instead of destroying 1 of those monsters. When an Xyz Material(s) is detached from this card: This card gains 800 ATK.",
-    "newText": "2 Level 4 \"Battlin' Boxer\" monsters\nIf a \"Battlin' Boxer\" monster(s) you control would be destroyed by battle or by a card effect, you can detach 1 material from this card instead of destroying 1 of those monsters. When material(s) are removed from this card: This card gains 800 ATK.",
+    "oldText": "2 Level 4 \"Battlin' Boxer\" monsters\nIf a \"Battlin' Boxer\" monster(s) you control would be destroyed by battle or card effect, you can detach 1 material from this card instead of destroying 1 of those monsters. If a material(s) is detached from this card: This card gains 800 ATK.",
+    "newText": "2 Level 4 \"Battlin' Boxer\" monsters\nIf a \"Battlin' Boxer\" monster(s) you control would be destroyed by battle or card effect, you can detach 1 material from this card instead of destroying 1 of those monsters. If a material(s) is removed from this card: This card gains 800 ATK.",
     "author": "gallantron",
-    "lastPrint": "2014-08-29",
-    "lastUpdated": "2023-01-25",
+    "lastPrint": "2023-08-11",
+    "lastUpdated": "2023-08-05",
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12720&request_locale=ja",
@@ -9242,8 +9237,8 @@
       }
     ],
     "customDiffData": [
-      [243,232],
-      11,
+      230,
+      [8,7],
       41
     ]
   },
