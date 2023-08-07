@@ -10104,5 +10104,29 @@
       [25,46],
       18
     ]
+  },
+  {
+    "id": 12172,
+    "icon": "spell",
+    "name": "Majespecter Sonics",
+    "oldText": "Target 1 \"Majespecter\" monster you control; until the end of this turn, its ATK and DEF become double its current ATK and DEF, also any battle damage it inflicts to your opponent is halved.",
+    "newText": "Target 1 \"Majespecter\" monster you control; until the end of this turn, its ATK/DEF become double its current ATK/DEF, and if they do, any battle damage it inflicts to your opponent is halved.",
+    "author": "gallantron",
+    "lastPrint": "2016-09-02",
+    "lastUpdated": "2023-08-07",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=17397&request_locale=ja",
+        "title": "Q&A #17397",
+        "date": "2023-08-07",
+        "desc": "In the Official Card Game, the effect that halves the Battle Damage the monster inflicts will only be applied if the monster's ATK/DEF are successfully halved."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13848&request_locale=ja",
+        "title": "Q&A #13848",
+        "date": "2023-08-07",
+        "desc": "By contrast, in the Official Card Game, if the effect of Beelzeus of the Diabloc Dragons resolves while it is face-down, that effect still successfully applies, and Beelzeus will inflict half battle damage even if it is later flipped face-up again."
+      }
+    ]
   }
 ]
