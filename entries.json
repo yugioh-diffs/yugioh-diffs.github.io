@@ -1256,7 +1256,7 @@
   },
   {
     "id": 12167,
-    "oldText": "Fusion Summon 1 Fusion Monster that lists \"Buster Blader\" as material from your Extra Deck, using monsters from your hand or either field as Fusion Material. If this card is in your GY: You can send 1 card from your hand to the GY; add this card to your hand. You can only use each effect of \"Destruction Swordsman Fusion\" once per turn.",
+    "oldText": "Fusion Summon 1 Fusion Monster that mentions \"Buster Blader\" as material from your Extra Deck, using monsters from your hand or either field as Fusion Material. If this card is in your GY: You can send 1 card from your hand to the GY; add this card to your hand. You can only use each effect of \"Destruction Swordsman Fusion\" once per turn.",
     "newText": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or either field as Fusion Material, including a \"Buster Blader\" that it lists as material. If this card is in your GY: You can send 1 card from your hand to the GY; add this card to your hand. You can only use each effect of \"Destruction Swordsman Fusion\" once per turn.",
     "author": "gallantron",
     "references": [
