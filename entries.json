@@ -4448,24 +4448,6 @@
     ]
   },
   {
-    "id": 5111,
-    "icon": "trap",
-    "name": "Tornado Wall",
-    "oldText": "Activate only while \"Umi\" is on the field. While \"Umi\" is face-up on the field, you take no Battle Damage from attacking monsters. Destroy this card when \"Umi\" leaves the field.",
-    "newText": "Activate only while \"Umi\" is on the field. While \"Umi\" is face-up on the field, you take no Battle Damage. If \"Umi\" is not on the field, destroy this card.",
-    "author": "gallantron",
-    "lastPrint": "2012-10-16",
-    "lastUpdated": "2021-07-07",
-    "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5111&request_locale=ja",
-        "title": "Tornado Wall",
-        "date": "2021-07-07",
-        "desc": "In the Official Card Game, Tornado Wall prevents all Battle Damage. Furthermore, it is destroyed if, at any point, \"Umi\" is not on the field."
-      }
-    ]
-  },
-  {
     "id": 13377,
     "icon": "effect",
     "name": "Shelrokket Dragon",
