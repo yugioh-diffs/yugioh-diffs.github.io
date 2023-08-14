@@ -6203,11 +6203,11 @@
     "id": 7721,
     "icon": "effect",
     "name": "Destructotron",
-    "oldText": "During the End Phase, if this card is the only Psychic-Type monster you control: Destroy it. You can pay 1000 LP, then target 1 Set Spell/Trap Card your opponent controls; destroy that target.",
-    "newText": "During the End Phase, if you control no other Psychic monsters: Destroy this card. You can pay 1000 LP, then target 1 Set Spell/Trap your opponent controls; destroy that target.",
+    "oldText": "You can pay 1000 LP, then target 1 Set Spell/Trap your opponent controls; destroy that target. Once per turn, during the End Phase: Destroy this card. This card must be the only Psychic monster you control to activate and to resolve this effect.",
+    "newText": "You can pay 1000 LP, then target 1 Set Spell/Trap your opponent controls; destroy that target. Once per turn, during the End Phase: Destroy this card. You must control no other Psychic monsters to activate and to resolve this effect.",
     "author": "gallantron",
     "lastPrint": "2014-08-01",
-    "lastUpdated": "2021-09-29",
+    "lastUpdated": "2023-08-14",
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7721&request_locale=ja",
@@ -6217,9 +6217,8 @@
       }
     ],
     "customDiffData": [
-      25,
-      [54,37],
-      [113,115]
+      151,
+      [94,82]
     ]
   },
   {
