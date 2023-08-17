@@ -10055,5 +10055,23 @@
         "desc": "By contrast, in the Official Card Game, if the effect of Beelzeus of the Diabloc Dragons resolves while it is face-down, that effect still successfully applies, and Beelzeus will inflict half battle damage even if it is later flipped face-up again."
       }
     ]
+  },
+  {
+    "id": 11180,
+    "icon": "trap",
+    "name": "Wiretap",
+    "oldText": "When a Trap is activated: Negate the activation, and if you do, shuffle that card into the Deck.",
+    "newText": "When a Trap Card is activated: Negate the activation, and if you do, shuffle that card into the Deck.",
+    "author": "gallantron",
+    "lastPrint": "2020-09-11",
+    "lastUpdated": "2023-08-17",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11180&request_locale=ja",
+        "title": "Card FAQ – Wiretap",
+        "date": "2023-08-17",
+        "desc": "In the Official Card Game, Wiretap can only be activated in response to Trap Card activation. It cannot be activated in response to a Trap effect activation that is not a Trap Card activation."
+      }
+    ]
   }
 ]
