@@ -10073,5 +10073,28 @@
         "desc": "In the Official Card Game, Wiretap can only be activated in response to Trap Card activation. It cannot be activated in response to a Trap effect activation that is not a Trap Card activation."
       }
     ]
+  },
+  {
+    "id": 4919,
+    "icon": "effect",
+    "name": "Karate Man",
+    "oldText": "You can double the original ATK of this card once per turn. If you used this effect, destroy this card during the End Phase.",
+    "newText": "Once per turn: this card's ATK becomes double its original ATK until the end of this turn. Once per turn, during the End Phase, if this card's previous effect was activated this turn: destroy this card.",
+    "author": "gallantron",
+    "lastPrint": "2023-04-21",
+    "lastUpdated": "2023-08-21",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=4919&request_locale=ja",
+        "title": "Card FAQ – Karate Man",
+        "date": "2023-08-21",
+        "desc": "In the Official Card Game, Karate Man's effect does not change its original ATK. (It changes its current ATK to be double its original ATK.)"
+      }
+    ],
+     "customDiffData": [
+      [8,15],
+      [36,47],
+      [80,140]
+    ]
   }
 ]
