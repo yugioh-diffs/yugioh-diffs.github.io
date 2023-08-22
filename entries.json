@@ -10079,7 +10079,7 @@
     "icon": "effect",
     "name": "Karate Man",
     "oldText": "You can double the original ATK of this card once per turn. If you used this effect, destroy this card during the End Phase.",
-    "newText": "Once per turn: this card's ATK becomes double its original ATK until the end of this turn. Once per turn, during the End Phase, if this card's previous effect was activated this turn: destroy this card.",
+    "newText": "Once per turn: You can have this card's ATK become double its original ATK until the end of this turn. Once per turn, during the End Phase, if this card's previous effect was activated this turn: Destroy this card.",
     "author": "gallantron",
     "lastPrint": "2023-04-21",
     "lastUpdated": "2023-08-21",
@@ -10088,13 +10088,15 @@
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=4919&request_locale=ja",
         "title": "Card FAQ – Karate Man",
         "date": "2023-08-21",
-        "desc": "In the Official Card Game, Karate Man's effect does not change its original ATK. (It changes its current ATK to be double its original ATK.)"
+        "desc": "In the Official Card Game, Karate Man's effect does not change its original ATK. (It changes its current ATK to be double its original ATK.)\nAdditionally, in the Official Card Game, the ATK increase from Karate Man's effect only lasts until the end of the current turn, even if it is not destroyed by its effect during the End Phase."
       }
     ],
-     "customDiffData": [
-      [8,15],
-      [36,47],
-      [80,140]
+    "customDiffData": [
+      [8,44],
+      [23,30],
+      [93,1],
+      [0,26],
+      [0,113]
     ]
   }
 ]
