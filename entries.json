@@ -8763,7 +8763,7 @@
     "icon": "effect",
     "name": "Sergeant Electro",
     "oldText": "Once per turn: You can target 1 Set card in your opponent's Spell & Trap Zone; while this card is face-up on the field, its target(s) cannot be activated.",
-    "newText": "Once per turn: You can target 1 Set card in your opponent's Spell & Trap Zone; this card gains this effect.\n● The targeted card cannot be activated.",
+    "newText": "Once per turn: You can target 1 Set card in your opponent's Spell & Trap Zone; this card gains the following effect.\n● The targeted card cannot be activated.",
     "author": "gallantron",
     "lastPrint": "2017-09-08",
     "lastUpdated": "2022-10-03",
@@ -8777,7 +8777,7 @@
     ],
     "customDiffData": [
       79,
-      [40,28],
+      [40,37],
       [35,41]
     ]
   },
@@ -8809,7 +8809,7 @@
     "icon": "xyz",
     "name": "Number 57: Tri-Head Dust Dragon",
     "oldText": "3 Level 4 monsters\nWhen this card is Special Summoned: You can target 1 monster your opponent controls; this card gains ATK equal to that monster's current ATK. If your opponent controls more cards than you do: You can detach 1 Xyz Material from this card, then choose 1 unused Main Monster Zone or Spell & Trap Zone; while this card is face-up on the field, that zone cannot be used.",
-    "newText": "3 Level 4 monsters\nWhen this card is Special Summoned: You can target 1 monster your opponent controls; this card gains ATK equal to that monster's current ATK. If your opponent controls more cards than you do: You can detach 1 material from this card, then choose 1 unused Main Monster Zone or Spell & Trap Zone; this card gains this effect.\n● That unused zone cannot be used.",
+    "newText": "3 Level 4 monsters\nWhen this card is Special Summoned: You can target 1 monster your opponent controls; this card gains ATK equal to that monster's current ATK. If your opponent controls more cards than you do: You can detach 1 material from this card, then choose 1 unused Main Monster Zone or Spell & Trap Zone; this card gains the following effect.\n● That unused zone cannot be used.",
     "author": "gallantron",
     "lastPrint": "2013-07-12",
     "lastUpdated": "2022-10-03",
@@ -8823,7 +8823,7 @@
     ],
     "customDiffData": [
       [318,314],
-      [40,28],
+      [40,37],
       [26,35]
     ]
   },
@@ -8832,7 +8832,7 @@
     "icon": "effect",
     "name": "Invitation to a Dark Sleep",
     "oldText": "When this monster is summoned (excluding Special Summon), select 1 of your opponent's monsters. As long as this card remains face-up on the field, the selected monster cannot attack.",
-    "newText": "If this card is Normal or Flip Summoned: target 1 monster your opponent controls; this card gains this effect.\n● The targeted monster cannot attack.",
+    "newText": "If this card is Normal or Flip Summoned: target 1 monster your opponent controls; this card gains the following effect.\n● The targeted monster cannot attack.",
     "author": "gallantron",
     "lastPrint": "2023-04-21",
     "lastUpdated": "2022-10-03",
@@ -8846,7 +8846,7 @@
     ],
     "customDiffData": [
       [96,82],
-      [50,28],
+      [50,37],
       [36,38]
     ]
   },
