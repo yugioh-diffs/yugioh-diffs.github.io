@@ -10122,5 +10122,28 @@
         "desc": "King of the Swamp is a card with a comparable effect, whose text specifically mentions this restriction."
       }
     ]
+  },
+  {
+    "id": 7867,
+    "icon": "spell",
+    "name": "Telekinetic Charging Cell",
+    "oldText": "Equip only to a Psychic-Type monster. You do not have to pay Life Points to activate its effect(s). When the equipped monster is destroyed and this card is sent to the Graveyard, you can pay 1000 Life Points to return this card to your hand.",
+    "newText": "Equip only to a Psychic monster. You do not pay Life Points to activate its effects. When this card is sent to the GY because the equipped monster is destroyed: You can pay 1000 LP; add this card to your hand.",
+    "author": "gallantron",
+    "lastPrint": "2008-09-02",
+    "lastUpdated": "2023-08-23",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=8747&request_locale=ja",
+        "title": "Q&A #8747",
+        "date": "2023-08-23",
+        "desc": "In the Official Card Game, you cannot voluntarily pay Life Points to activate the effect of a monster equipped with Telekinetic Charging Cell."
+      }
+    ],
+    "customDiffData": [
+      [42,37],
+      [18,10],
+      [181,162]
+    ]
   }
 ]
