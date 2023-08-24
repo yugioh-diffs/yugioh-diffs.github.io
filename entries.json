@@ -10145,5 +10145,27 @@
       [18,10],
       [181,162]
     ]
+  },
+  {
+    "id": 7814,
+    "icon": "effect",
+    "name": "Numbing Grub in the Ice Barrier",
+    "oldText": "When this card is Normal Summoned, select 1 unused Main Monster Zone. While this card is face-up on the field, that selected Main Monster Zone cannot be used.",
+    "newText": "If this card is Normal Summoned: Choose 1 unused Main Monster Zone; this card gains the following effect.\n● The chosen zone cannot be used.",
+    "author": "gallantron",
+    "lastPrint": "2010-06-23",
+    "lastUpdated": "2023-08-24",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7814&request_locale=ja",
+        "title": "Card FAQ – Numbing Grub in the Ice Barrier",
+        "date": "2023-08-24",
+        "desc": "In the Official Card Game, the effect that makes the chosen zone unusable is a separate Continuous Effect of Numbing Grub in the Ice Barrier. (If the effects of Numbing Grub in the Ice Barrier are later negated, the chosen zone can once again be used.)"
+      }
+    ],
+    "customDiffData": [
+      [70,68],
+      [88,71]
+    ]
   }
 ]
