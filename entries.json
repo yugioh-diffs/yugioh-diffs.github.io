@@ -3501,24 +3501,6 @@
     ]
   },
   {
-    "id": 10261,
-    "icon": "xyz",
-    "name": "Number C32: Shark Drake Veiss",
-    "oldText": "4 Level 4 WATER monsters\nYou can also Xyz Summon this card by using a \"Number 32: Shark Drake\" you control as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) During either player's turn, if your Life Points are 1000 or less: You can detach 1 Xyz Material from this card and banish 1 monster from your Graveyard to target 1 face-up monster on the field; that target's ATK and DEF become 0 until the End Phase.",
-    "newText": "4 Level 4 WATER monsters\nYou can also Xyz Summon this card by using a \"Number 32: Shark Drake\" you control as material. (Transfer its materials to this card.) If your Life Points are 1000 or less (Quick Effect): You can detach 1 material from this card and banish 1 monster from your GY, then target 1 face-up monster on the field; that target's ATK/DEF become 0 until the end of your turn.",
-    "author": "gallantron",
-    "lastPrint": "2012-11-09",
-    "lastUpdated": "2021-07-04",
-    "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10261&request_locale=ja",
-        "title": "Card FAQ – Number C32: Shark Drake Veiss",
-        "date": "2021-06-21",
-        "desc": "In the Official Card Game, the targeted monster's ATK/DEF become zero until the end of your turn, rather than the current turn."
-      }
-    ]
-  },
-  {
     "id": 10813,
     "icon": "effect",
     "name": "Noble Knight Drystan",
