@@ -7722,24 +7722,6 @@
     ]
   },
   {
-    "id": 17186,
-    "icon": "trap",
-    "name": "Scareclaw Alternative",
-    "oldText": "Tribute 3 \"Scareclaw\" monsters; for the rest of this turn, your opponent can only Special Summon monsters in Defense Position. During your turn: Banish this card from your GY; inflict 100 damage to your opponent for each Defense Position monster on the field. You can only use this effect of \"Scareclaw Alternative\" once per turn.",
-    "newText": "Tribute 3 \"Scareclaw\" monsters; for the rest of this turn, your opponent can only Special Summon monsters in Defense Position. During your turn: You can banish this card from your GY; inflict 100 damage to your opponent for each Defense Position monster on the field. You can only use this effect of \"Scareclaw Alternative\" once per turn.",
-    "author": "gallantron",
-    "lastPrint": "2022-05-20",
-    "lastUpdated": "2022-05-19",
-    "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=17186&request_locale=ja",
-        "title": "Scareclaw Alternative",
-        "date": "2022-05-19",
-        "desc": "In the Official Card Game, the effect of Scareclaw Alternative is optional to activate."
-      }
-    ]
-  },
-  {
     "id": 5234,
     "icon": "trap",
     "name": "Embodiment of Apophis",
