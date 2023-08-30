@@ -1245,7 +1245,7 @@
     ],
     "name": "Destruction Swordsman Fusion",
     "lastUpdated": "2021-04-05",
-    "lastPrint": "2020-11-26",
+    "lastPrint": "2023-08-25",
     "icon": "spell"
   },
   {
@@ -2206,7 +2206,7 @@
     "oldText": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 1 face-up \"Jinzo\" you control to the GY. Trap Cards, and their effects on the field, cannot be activated. Negate all Trap effects on the field. Once per turn: You can destroy as many face-up Traps on the field as possible, and if you do, inflict 300 damage to your opponent for each card destroyed.",
     "newText": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 1 face-up \"Jinzo\" from your Monster Zone to the GY. Trap Cards, and their effects on the field, cannot be activated. Negate all Trap effects on the field. Once per turn: You can destroy as many face-up Traps on the field as possible, and if you do, inflict 300 damage to your opponent for each card destroyed.",
     "author": "gallantron",
-    "lastPrint": "2020-09-25",
+    "lastPrint": "2023-08-25",
     "lastUpdated": "2020-12-30",
     "references": [
       {
@@ -4317,7 +4317,7 @@
     "oldText": "FLIP: Shuffle this card, and any face-up monsters in its column, into the Deck(s).\nIf this card is Normal or Special Summoned: Change this card, and any monsters in its column, to face-down Defense Position. You can only use each effect of \"Reversible Beetle\" once per turn.",
     "newText": "FLIP: Shuffle this card, also any face-up monsters in its column, into the Deck(s).\nIf this card is Normal or Special Summoned: Change this card, also any monsters in its column, to face-down Defense Position. You can only use each effect of \"Reversible Beetle\" once per turn.",
     "author": "gallantron",
-    "lastPrint": "2019-07-27",
+    "lastPrint": "2023-08-25",
     "lastUpdated": "2021-07-04",
     "references": [
       {
@@ -6171,7 +6171,7 @@
     "oldText": "You can pay 1000 LP, then target 1 Set Spell/Trap your opponent controls; destroy that target. Once per turn, during the End Phase: Destroy this card. This card must be the only Psychic monster you control to activate and to resolve this effect.",
     "newText": "You can pay 1000 LP, then target 1 Set Spell/Trap your opponent controls; destroy that target. Once per turn, during the End Phase: Destroy this card. You must control no other Psychic monsters to activate and to resolve this effect.",
     "author": "gallantron",
-    "lastPrint": "2014-08-01",
+    "lastPrint": "2023-08-25",
     "lastUpdated": "2023-08-14",
     "references": [
       {
@@ -6520,7 +6520,7 @@
     "oldText": "Negate any Spell effect that targets this card on the field when it resolves, and if you do, destroy that card. During your Draw Phase, instead of conducting your normal draw: You can add 1 Level 4 or lower Warrior monster from your Deck to your hand. This card must be face-up on the field to activate and to resolve this effect.",
     "newText": "Negate any Spell effect that targets this card on the field when it resolves, and if you do, destroy that card. During your Draw Phase, before you draw: You can give up your normal draw this turn, and if you do, add 1 Level 4 or lower Warrior monster from your Deck to your hand. This card must be face-up on the field to activate and to resolve this effect.",
     "author": "gallantron",
-    "lastPrint": "2020-11-26",
+    "lastPrint": "2023-08-25",
     "lastUpdated": "2021-11-25",
     "references": [
       {
