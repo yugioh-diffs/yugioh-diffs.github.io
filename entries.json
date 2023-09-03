@@ -10114,5 +10114,28 @@
       [70,68],
       [88,71]
     ]
+  },
+  {
+    "id": 7585,
+    "icon": "effect",
+    "name": "Arcana Force VI - The Lovers",
+    "oldText": "When this card is Summoned, toss a coin:\n● Heads: This card can be treated as 2 Tributes for the Tribute Summon of an \"Arcana Force\" monster.\n● Tails: You cannot Tribute Summon \"Arcana Force\" monsters.",
+    "newText": "If this card is Summoned: Toss a coin and gain the appropriate effect.\n● Heads: This card can be treated as 2 Tributes for the Tribute Summon of an \"Arcana Force\" monster.\n● Tails: Neither player can Tribute Summon \"Arcana Force\" monsters.",
+    "author": "gallantron",
+    "lastPrint": "2008-05-13",
+    "lastUpdated": "2023-09-03",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7585&request_locale=ja",
+        "title": "Arcana Force VI - The Lovers",
+        "date": "2023-09-03",
+        "desc": "In the Official Card Game, the \"Tails\" effect of Arcana Force VI - The Lovers prevents \"Arcana Force\" monsters from being Tribute Summoned in general, not just by its controller."
+      }
+    ],
+    "customDiffData": [
+      [151,181],
+      [10,18],
+      40
+    ]
   }
 ]
