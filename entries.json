@@ -10137,5 +10137,28 @@
       [10,18],
       40
     ]
+  },
+  {
+    "id": 4920,
+    "icon": "effect",
+    "name": "Dark Zebra",
+    "oldText": "If this is the only card in your control during your Standby Phase, it is automatically placed in Defense Position. You cannot change the position of this card during the same turn.",
+    "newText": "Once per turn, during your Standby Phase, if you control no other monsters: Change this card to Defense Position, and if you do, its Battle Position cannot be changed this turn.",
+    "author": "gallantron",
+    "lastPrint": "2023-04-21",
+    "lastUpdated": "2023-09-03",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4920&request_locale=ja",
+        "title": "Dark Zebra",
+        "date": "2023-09-03",
+        "desc": "In the Official Card Game, the effect of Dark Zebra will activate even if you control other Spells/Traps, as long as you control no monsters."
+      }
+    ],
+    "customDiffData": [
+      [3,45],
+      [37,29],
+      [141,103]
+    ]
   }
 ]
