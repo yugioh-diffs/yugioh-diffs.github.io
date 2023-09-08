@@ -2892,7 +2892,7 @@
     "oldText": "If you control a \"Noble Arms\" Equip Spell, you can Special Summon this card (from your hand). You can only Special Summon \"Noble Knight Custennin\" once per turn this way. A \"Noble Knight\" monster that was Synchro, Xyz or Link Summoned using this card on the field as material gains this effect.\n●If this card is Special Summoned: You can Normal Summon 1 monster during your Main Phase this turn, in addition to your Normal Summon/Set (you can only gain this effect once per turn), also, you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except \"Noble Knight\" monsters.",
     "newText": "If you control a \"Noble Arms\" Equip Spell, you can Special Summon this card (from your hand). You can only Special Summon \"Noble Knight Custennin\" once per turn this way. A \"Noble Knight\" monster that was Synchro, Xyz or Link Summoned using this card on the field as material gains this effect.\n●If this card is Special Summoned, you can: During your Main Phase this turn, you can Normal Summon 1 monster in addition to your Normal Summon/Set (you can only gain this effect once per turn), also, you cannot Special Summon monsters from the Extra Deck for the rest of this turn, except \"Noble Knight\" monsters.",
     "author": "gallantron",
-    "lastPrint": "2019-08-30",
+    "lastPrint": "2023-09-08",
     "lastUpdated": "2021-01-26",
     "references": [
       {
@@ -2900,12 +2900,6 @@
         "title": "Card FAQ – Noble Knight Custennin",
         "date": "2021-01-26",
         "desc": "In the Official Card Game, the effect granted to a monster summoned using Noble Knight Custennin is optional to activate."
-      },
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13984&request_locale=ja",
-        "title": "Card FAQ – Noble Knight Custennin",
-        "date": "2021-01-26",
-        "desc": "In the Official Card Game, the effect granted to a monster summoned using Noble Knight Custennin allows Normal Summoning any monster – not only a \"Noble Knight\" monster."
       }
     ],
     "customDiffData": [
@@ -2914,7 +2908,8 @@
       [239,35],
       [0,31],
       [0,205]
-    ]
+    ],
+    "nitpick": true
   },
   {
     "id": 9709,
@@ -6989,7 +6984,7 @@
     "oldText": "Once per turn, the first time a monster you control equipped with an Equip Spell would be destroyed by battle, it is not destroyed. You can only use each of the following effects of \"Fateful Adventure\" once per turn. During your Main Phase: You can add 1 monster that mentions \"Adventurer Token\" from your Deck to your hand, then send 1 card from your hand to the GY. If a monster(s) is Normal or Special Summoned: You can take 1 Equip Spell that mentions \"Adventurer Token\" from your Deck, and either add it to your hand or equip it to 1 \"Adventurer Token\" you control.",
     "newText": "Once per turn, the first time a monster you control equipped with an Equip Card would be destroyed by battle, it is not destroyed. You can only use each of the following effects of \"Fateful Adventure\" once per turn. During your Main Phase: You can add 1 monster that mentions \"Adventurer Token\" from your Deck to your hand, then send 1 card from your hand to the GY. If a monster(s) is Normal or Special Summoned: You can take 1 Equip Spell that mentions \"Adventurer Token\" from your Deck, and either add it to your hand or equip it to 1 \"Adventurer Token\" you control.",
     "author": "gallantron",
-    "lastPrint": "2022-01-28",
+    "lastPrint": "2023-09-08",
     "lastUpdated": "2022-01-16",
     "references": [
       {
@@ -7031,7 +7026,7 @@
     "oldText": "2 Level 4 monsters\nCannot be destroyed by battle with a monster Special Summoned from the GY. You can only use each of the following effects of \"Exosister Kaspitell\" once per turn. If this card is Xyz Summoned using an \"Exosister\" monster as material: Neither player can Special Summon monsters from the GYs for the rest of this turn. You can detach 1 material from this card; add 1 \"Exosister\" monster from your Deck to your hand.",
     "newText": "2 Level 4 monsters\nCannot be destroyed by battle with a monster Special Summoned from the GY. You can only use each of the following effects of \"Exosister Kaspitell\" once per turn. If this card is Xyz Summoned using an \"Exosister\" monster as material: You can activate this effect; neither player can Special Summon monsters from the GYs for the rest of this turn. You can detach 1 material from this card; add 1 \"Exosister\" monster from your Deck to your hand.",
     "author": "gallantron",
-    "lastPrint": "2022-01-28",
+    "lastPrint": "2023-09-08",
     "lastUpdated": "2022-01-30",
     "references": [
       {
@@ -7049,7 +7044,7 @@
     "oldText": "2 Level 4 monsters\nCannot be destroyed by the activated effects of monsters Special Summoned from the GY. You can only use each of the following effects of \"Exosister Asophiel\" once per turn. If this card is Xyz Summoned using an \"Exosister\" monster as material: Neither player can activate card effects in the GY this turn. You can detach 1 material from this card, then target 1 monster your opponent controls; return it to the hand.",
     "newText": "2 Level 4 monsters\nCannot be destroyed by the activated effects of monsters Special Summoned from the GY. You can only use each of the following effects of \"Exosister Asophiel\" once per turn. If this card is Xyz Summoned using an \"Exosister\" monster as material: You can activate this effect; neither player can activate card effects in the GY this turn. You can detach 1 material from this card, then target 1 monster your opponent controls; return it to the hand.",
     "author": "gallantron",
-    "lastPrint": "2022-01-28",
+    "lastPrint": "2023-09-08",
     "lastUpdated": "2022-01-30",
     "references": [
       {
@@ -7163,7 +7158,7 @@
     "oldText": "You can reveal 1 Ritual Monster in your hand: Special Summon this card from your hand. If this card is Special Summoned: You can add 1 \"Libromancer\" Spell from your Deck to your hand. You can only use each effect of \"Libromancer Geek Boy\" once per turn.",
     "newText": "You can reveal 1 Ritual Monster in your hand; Special Summon this card from your hand. If this card is Special Summoned: You can add 1 \"Libromancer\" Spell from your Deck to your hand. You can only use each effect of \"Libromancer Geek Boy\" once per turn.",
     "author": "gallantron",
-    "lastPrint": "2022-02-11",
+    "lastPrint": "2023-09-08",
     "lastUpdated": "2022-01-31",
     "references": [
       {
@@ -7181,7 +7176,7 @@
     "oldText": "You can reveal 1 Ritual Monster in your hand: Special Summon this card from your hand. During your opponent's turn (Quick Effect): You can Ritual Summon 1 \"Libromancer\" Ritual Monster from your hand, by Tributing monsters from your hand or field whose total Levels equal or exceed its Level. You can only use each effect of \"Libromancer Magigirl\" once per turn.",
     "newText": "You can reveal 1 Ritual Monster in your hand; Special Summon this card from your hand. During your opponent's turn (Quick Effect): You can Ritual Summon 1 \"Libromancer\" Ritual Monster from your hand, by Tributing monsters from your hand or field whose total Levels equal or exceed its Level. You can only use each effect of \"Libromancer Magigirl\" once per turn.",
     "author": "gallantron",
-    "lastPrint": "2022-02-11",
+    "lastPrint": "2023-09-08",
     "lastUpdated": "2022-01-31",
     "references": [
       {
@@ -7199,7 +7194,7 @@
     "oldText": "You can reveal 1 Ritual Monster in your hand: Special Summon this card from your hand. You can target 1 \"Libromancer\" card in your GY, except \"Libromancer Agent\"; add it to your hand, then if you added a Spell/Trap by this effect, place 1 card from your hand on the bottom of the Deck. You can only use each effect of \"Libromancer Agent\" once per turn.",
     "newText": "You can reveal 1 Ritual Monster in your hand; Special Summon this card from your hand. You can target 1 \"Libromancer\" card in your GY, except \"Libromancer Agent\"; add it to your hand, then if you added a Spell/Trap by this effect, place 1 card from your hand on the bottom of the Deck. You can only use each effect of \"Libromancer Agent\" once per turn.",
     "author": "gallantron",
-    "lastPrint": "2022-02-11",
+    "lastPrint": "2023-09-08",
     "lastUpdated": "2022-01-31",
     "references": [
       {
@@ -7657,7 +7652,7 @@
     "oldText": "If this card is sent to the GY or added to your Extra Deck face-up because it was used as Fusion Material: You can add 1 face-up DARK Pendulum Monster from your Extra Deck to your hand, except \"Predaplant Bufolicula\". You can only use this effect of \"Predaplant Bufolicula\" once per turn.",
     "newText": "If this card is sent to the GY or added to your Extra Deck face-up because it was used as material for a Fusion Summon: You can add 1 face-up DARK Pendulum Monster from your Extra Deck to your hand, except \"Predaplant Bufolicula\". You can only use this effect of \"Predaplant Bufolicula\" once per turn.",
     "author": "gallantron",
-    "lastPrint": "2022-05-20",
+    "lastPrint": "2023-09-08",
     "lastUpdated": "2022-05-19",
     "references": [
       {
@@ -7675,7 +7670,7 @@
     "oldText": "If this card is sent to the GY or added to your Extra Deck face-up because it was used as Fusion Material: You can choose monsters on the field, up to the number of monsters you control, and place 1 Predator Counter on each one, and if you do, any of those monsters that are Level 2 or higher become Level 1 as long as they have a Predator Counter.",
     "newText": "If this card is sent to the GY or added to your Extra Deck face-up because it was used as material for a Fusion Summon: You can choose monsters on the field, up to the number of monsters you control, and place 1 Predator Counter on each one, and if you do, any of those monsters that are Level 2 or higher become Level 1 as long as they have a Predator Counter.",
     "author": "gallantron",
-    "lastPrint": "2022-05-20",
+    "lastPrint": "2023-09-08",
     "lastUpdated": "2022-05-19",
     "references": [
       {
@@ -7729,7 +7724,7 @@
     "oldText": "When your opponent activates a monster effect, while you control a \"Therion\" monster: You can activate 1 of these effects;\n●Negate that effect.\n●Banish that monster.\nIf you have \"Endless Engine Argyro System\" in your GY at activation, you can activate both effects (at resolution, negate, then banish). You can only activate 1 \"Therion Cross\" per turn.",
     "newText": "When your opponent activates a monster effect, while you control a \"Therion\" monster: You can activate 1 of these effects;\n●Negate that effect.\n●Banish that monster.\nIf you have \"Endless Engine Argyro System\" in your GY at activation, you can activate both effects (at resolution, negate, also, after that, banish). You can only activate 1 \"Therion Cross\" per turn.",
     "author": "gallantron",
-    "lastPrint": "2022-05-20",
+    "lastPrint": "2023-09-08",
     "lastUpdated": "2022-05-27",
     "references": [
       {
@@ -7864,7 +7859,7 @@
     "oldText": "(This card is always treated as an \"Ultimate Crystal\" card.)\nCannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having 7 \"Crystal Beast\" cards with different names on your field and/or GY. This card cannot activate the following effects the turn it is Special Summoned. (Quick Effect): You can send all \"Crystal Beast\" monsters you control to the GY; this card gains 1000 ATK for each monster sent to the GY. You can banish all \"Crystal Beast\" monsters from your GY; shuffle all cards on the field into the Deck.",
     "newText": "(This card is always treated as an \"Ultimate Crystal\" card.)\nCannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 7 \"Crystal Beast\" cards with different names on your field and/or GY. This card cannot activate the following effects the turn it is Special Summoned. (Quick Effect): You can send all \"Crystal Beast\" monsters you control to the GY; this card gains 1000 ATK for each monster sent to the GY. You can banish all \"Crystal Beast\" monsters from your GY; shuffle all cards on the field into the Deck.",
     "author": "gallantron",
-    "lastPrint": "2022-09-30",
+    "lastPrint": "2023-09-08",
     "lastUpdated": "2022-06-21",
     "references": [
       {
@@ -8215,7 +8210,7 @@
     "oldText": "If a face-up Beast monster you control was returned to the hand this turn, except \"Melffy Pinny\" (Quick Effect): You can Special Summon this card from your hand, then immediately after this effect resolves, Synchro Summon 1 Synchro Monster using only this card you control and \"Melffy\" monsters in your hand. During your End Phase, if this card is in your GY: You can target 1 Beast Xyz Monster you control; attach this card to it as material. You can only use each effect of \"Melffy Pinny\" once per turn.",
     "newText": "If a face-up Beast monster you control was returned to the hand this turn, except \"Melffy Pinny\" (Quick Effect): You can Special Summon this card from your hand, then, immediately after this effect resolves, you can Synchro Summon 1 Synchro Monster using only this card you control and \"Melffy\" monsters in your hand. During your End Phase, if this card is in your GY: You can target 1 Beast Xyz Monster you control; attach this card to it as material. You can only use each effect of \"Melffy Pinny\" once per turn.",
     "author": "gallantron",
-    "lastPrint": "2022-08-05",
+    "lastPrint": "2023-09-08",
     "lastUpdated": "2022-08-07",
     "references": [
       {
@@ -8503,7 +8498,7 @@
     "oldText": "Activate 1 of these effects, but skip your next Battle Phase after activation;\n●Add 1 \"Runick\" card from your Deck to your hand, except \"Runick Tip\", then banish the top card of your opponent's Deck.\n●Special Summon 1 \"Runick\" monster from your Extra Deck to the Extra Monster Zone.\nYou can only activate 1 \"Runick Tip\" per turn.",
     "newText": "Choose 1 of these effects; apply that effect, but skip your next Battle Phase.\n●Add 1 \"Runick\" card from your Deck to your hand, except \"Runick Tip\", then banish the top card of your opponent's Deck.\n●Special Summon 1 \"Runick\" monster from your Extra Deck to the Extra Monster Zone.\nYou can only activate 1 \"Runick Tip\" per turn.",
     "author": "gallantron",
-    "lastPrint": "2022-08-26",
+    "lastPrint": "2023-09-08",
     "lastUpdated": "2022-08-26",
     "references": [
       {
@@ -8521,7 +8516,7 @@
     "oldText": "Activate 1 of these effects, but skip your next Battle Phase after activation;\n●Target 1 Spell/Trap your opponent controls; destroy it, then banish the top 4 cards of your opponent's Deck.\n●Special Summon 1 \"Runick\" monster from your Extra Deck to the Extra Monster Zone.\nYou can only activate 1 \"Runick Destruction\" per turn.",
     "newText": "Choose 1 of these effects; apply that effect, but skip your next Battle Phase.\n●Target 1 Spell/Trap your opponent controls; destroy it, then banish the top 4 cards of your opponent's Deck.\n●Special Summon 1 \"Runick\" monster from your Extra Deck to the Extra Monster Zone.\nYou can only activate 1 \"Runick Destruction\" per turn.",
     "author": "gallantron",
-    "lastPrint": "2022-08-26",
+    "lastPrint": "2023-09-08",
     "lastUpdated": "2022-08-26",
     "references": [
       {
@@ -8539,7 +8534,7 @@
     "oldText": "Activate 1 of these effects, but skip your next Battle Phase after activation;\n●Target 1 face-up monster on the field; the next time that monster would be destroyed by battle or card effect this turn, it is not destroyed, also it cannot attack this turn, then (after applying this effect) banish the top 3 cards of your opponent's Deck.\n●Special Summon 1 \"Runick\" monster from your Extra Deck to the Extra Monster Zone.\nYou can only activate 1 \"Runick Slumber\" per turn.",
     "newText": "Choose 1 of these effects; apply that effect, but skip your next Battle Phase.\n●Target 1 face-up monster on the field; the next time that monster would be destroyed by battle or card effect this turn, it is not destroyed, also it cannot attack this turn, then (after applying this effect) banish the top 3 cards of your opponent's Deck.\n●Special Summon 1 \"Runick\" monster from your Extra Deck to the Extra Monster Zone.\nYou can only activate 1 \"Runick Slumber\" per turn.",
     "author": "gallantron",
-    "lastPrint": "2022-08-26",
+    "lastPrint": "2023-09-08",
     "lastUpdated": "2022-08-26",
     "references": [
       {
@@ -8557,7 +8552,7 @@
     "oldText": "Activate 1 of these effects, but skip your next Battle Phase after activation;\n●If your opponent adds a card(s) from their Deck to their hand, except during the Draw Phase, discard 1 random card from their hand, then banish the top 2 cards of their Deck.\n●Special Summon 1 \"Runick\" monster from your Extra Deck to the Extra Monster Zone.\nYou can only activate 1 \"Runick Dispelling\" per turn.",
     "newText": "Choose 1 of these effects; apply that effect, but skip your next Battle Phase.\n●If your opponent adds a card(s) from their Deck to their hand, except during the Draw Phase: discard 1 random card from their hand, then banish the top 2 cards of their Deck.\n●Special Summon 1 \"Runick\" monster from your Extra Deck to the Extra Monster Zone.\nYou can only activate 1 \"Runick Dispelling\" per turn.",
     "author": "gallantron",
-    "lastPrint": "2023-07-19",
+    "lastPrint": "2023-09-08",
     "lastUpdated": "2022-10-14",
     "references": [
       {
@@ -8581,7 +8576,7 @@
     "oldText": "Activate 1 of these effects, but skip your next Battle Phase after activation;\n●Target 1 Special Summoned monster your opponent controls; destroy it, then banish the top 2 cards of your opponent's Deck.\n●Special Summon 1 \"Runick\" monster from your Extra Deck to the Extra Monster Zone.\nYou can only activate 1 \"Runick Flashing Fire\" per turn.",
     "newText": "Choose 1 of these effects; apply that effect, but skip your next Battle Phase.\n●Target 1 Special Summoned monster your opponent controls; destroy it, then banish the top 2 cards of your opponent's Deck.\n●Special Summon 1 \"Runick\" monster from your Extra Deck to the Extra Monster Zone.\nYou can only activate 1 \"Runick Flashing Fire\" per turn.",
     "author": "gallantron",
-    "lastPrint": "2022-08-26",
+    "lastPrint": "2023-09-08",
     "lastUpdated": "2022-08-26",
     "references": [
       {
@@ -8599,7 +8594,7 @@
     "oldText": "Activate 1 of these effects, but skip your next Battle Phase after activation;\n●Target 1 Effect Monster your opponent controls; negate its effects (until the end of this turn), then banish the top 3 cards of your opponent's Deck.\n●Special Summon 1 \"Runick\" monster from your Extra Deck to the Extra Monster Zone.\nYou can only activate 1 \"Runick Freezing Curses\" per turn.",
     "newText": "Choose 1 of these effects; apply that effect, but skip your next Battle Phase.\n●Target 1 Effect Monster your opponent controls; negate its effects (until the end of this turn), then banish the top 3 cards of your opponent's Deck.\n●Special Summon 1 \"Runick\" monster from your Extra Deck to the Extra Monster Zone.\nYou can only activate 1 \"Runick Freezing Curses\" per turn.",
     "author": "gallantron",
-    "lastPrint": "2022-08-26",
+    "lastPrint": "2023-09-08",
     "lastUpdated": "2022-08-26",
     "references": [
       {
@@ -8617,7 +8612,7 @@
     "oldText": "Activate 1 of these effects, but skip your next Battle Phase after activation;\n●Banish cards from the top of your opponent's Deck, up to the number of cards they control.\n●Special Summon 1 \"Runick\" monster from your Extra Deck to the Extra Monster Zone.\nYou can only activate 1 \"Runick Smiting Storm\" per turn.",
     "newText": "Choose 1 of these effects; apply that effect, but skip your next Battle Phase.\n●Banish cards from the top of your opponent's Deck, up to the number of cards they control.\n●Special Summon 1 \"Runick\" monster from your Extra Deck to the Extra Monster Zone.\nYou can only activate 1 \"Runick Smiting Storm\" per turn.",
     "author": "gallantron",
-    "lastPrint": "2022-08-26",
+    "lastPrint": "2023-09-08",
     "lastUpdated": "2022-08-26",
     "references": [
       {
@@ -8635,7 +8630,7 @@
     "oldText": "Activate 1 of these effects, but skip your next Battle Phase after activation;\n●Your opponent draws 1 card, then you banish the top 4 cards of their Deck.\n●Special Summon 1 \"Runick\" monster from your Extra Deck to the Extra Monster Zone.\nYou can only activate 1 \"Runick Golden Droplet\" per turn.",
     "newText": "Choose 1 of these effects; apply that effect, but skip your next Battle Phase.\n●Your opponent draws 1 card, then you banish the top 4 cards of their Deck.\n●Special Summon 1 \"Runick\" monster from your Extra Deck to the Extra Monster Zone.\nYou can only activate 1 \"Runick Golden Droplet\" per turn.",
     "author": "gallantron",
-    "lastPrint": "2022-08-26",
+    "lastPrint": "2023-09-08",
     "lastUpdated": "2022-08-26",
     "references": [
       {
@@ -8671,7 +8666,7 @@
     "oldText": "You can Ritual Summon this card with a \"Libromancer\" card. If this card is Ritual Summoned by using a monster(s) on the field, it cannot be destroyed, or banished, by card effects. Gains 200 ATK/DEF each time your opponent activates a card or effect, while you control this card with ATK less than 3000 in the Monster Zone.",
     "newText": "You can Ritual Summon this card with a \"Libromancer\" card. If this card is Ritual Summoned by using a monster(s) on the field, it cannot be destroyed, or banished, by card effects. Each time a card or effect your opponent activated resolves while this card's ATK is less than 3000, this card gains 200 ATK/DEF.",
     "author": "gallantron",
-    "lastPrint": "2022-02-11",
+    "lastPrint": "2023-09-08",
     "lastUpdated": "2022-09-12",
     "references": [
       {
@@ -8992,7 +8987,7 @@
     "oldText": "Once per turn, if you Special Summon a DARK Synchro Monster from the Extra Deck (except during the Damage Step): You can target 1 of your \"Blackwing\" monsters, or \"Black-Winged Dragon\", that is banished or in your GY, with less ATK than that Special Summoned monster; Special Summon it. Once per turn, if a DARK monster you control would be destroyed by battle or card effect, you can remove 1 Black Feather Counter from your field instead.",
     "newText": "Once per turn, if you Special Summon a DARK Synchro Monster from the Extra Deck (except during the Damage Step): You can target 1 of your \"Blackwing\" monsters, or \"Black-Winged Dragon\", that is banished or in your GY, with less ATK than that Special Summoned monster; Special Summon it. Once per turn, if a DARK monster(s) you control would be destroyed by battle or card effect, you can remove 1 Black Feather Counter from your field instead.",
     "author": "gallantron",
-    "lastPrint": "2022-10-21",
+    "lastPrint": "2023-09-08",
     "lastUpdated": "2022-12-20",
     "references": [
       {
@@ -9641,7 +9636,7 @@
     "oldText": "If this card is Special Summoned: You can roll a six-sided die, and if you roll a 1 or 6, destroy up to 2 cards on the field. If this card is sent to the GY: You can roll a six-sided die, and if you roll a 2, 3, 4, or 5, Special Summon this card. The player who Summoned it cannot Special Summon from the Extra Deck, while it is face-up in the Monster Zone.",
     "newText": "If this card is Special Summoned: You can roll a six-sided die, and if you roll a 1 or 6, destroy up to 2 cards on the field. If this card is sent to the GY: You can roll a six-sided die, and if you roll a 2, 3, 4, or 5, Special Summon this card, also you cannot Special Summon from the Extra Deck while this card remains face-up in the Monster Zone.",
     "author": "gallantron",
-    "lastPrint": "2022-10-21",
+    "lastPrint": "2023-09-08",
     "lastUpdated": "2023-04-20",
     "references": [
       {
