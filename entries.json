@@ -9375,29 +9375,6 @@
     ]
   },
   {
-    "id": 6063,
-    "icon": "trap",
-    "name": "The First Sarcophagus",
-    "oldText": "Once per turn, during your opponent's End Phase: Place 1 \"The Second Sarcophagus\" or (after you've done that) \"The Third Sarcophagus\" from your hand or Deck in your Spell & Trap Zone face-up. Then, if you control \"The First Sarcophagus\", \"The Second Sarcophagus\", and \"The Third Sarcophagus\", send all of them to the GY, and if you do, Special Summon 1 \"Spirit of the Pharaoh\" from your hand or Deck. If any of these cards, including this card, leaves your field, send all of them you control to the GY, including this card.",
-    "newText": "Once per turn, during your opponent's End Phase: Place 1 \"The Second Sarcophagus\" or (after you've done that) \"The Third Sarcophagus\" from your hand or Deck in your Spell & Trap Zone face-up. If any of these cards, including this card, leave your field, send any of them you control to the GY, including this card. If you control \"The First Sarcophagus\", \"The Second Sarcophagus\", and \"The Third Sarcophagus\": Send all of them to the GY; Special Summon 1 \"Spirit of the Pharaoh\" from your hand or Deck.",
-    "author": "gallantron",
-    "lastPrint": "2023-03-31",
-    "lastUpdated": "2023-03-21",
-    "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6063&request_locale=ja",
-        "title": "Card FAQ – The First Sarcophagus",
-        "date": "2023-03-21",
-        "desc": "In the Official Card Game, the effect of The First Sarcophagus that Special Summons \"Spirit of the Pharaoh\" is an activated effect, separate from its effect to place a \"Sarcophagus\" card on the field."
-      }
-    ],
-    "customDiffData": [
-      [192,315],
-      [208,187],
-      [124,0]
-    ]
-  },
-  {
     "id": 16220,
     "icon": "effect",
     "name": "Aeropixthree",
