@@ -10132,5 +10132,23 @@
       [37,29],
       [141,103]
     ]
+  },
+  {
+    "id": 12351,
+    "icon": "trap",
+    "name": "Unwavering Bond",
+    "oldText": "When your opponent activates a Pendulum Monster's effect, or an effect of a card in the Pendulum Zone: Negate the activation, and if you do, banish that card.",
+    "newText": "When your opponent activates a Pendulum Monster's effect, or an effect of a card that is already face-up in the Pendulum Zone: Negate the activation, and if you do, banish that card.",
+    "author": "gallantron",
+    "lastPrint": "2017-06-23",
+    "lastUpdated": "2023-10-12",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18012&request_locale=ja",
+        "title": "Q&A #18012",
+        "date": "2023-10-12",
+        "desc": "In the Official Card Game, Unwavering Bond cannot be activated if a Pendulum Monster is activated as a Spell Card into the Pendulum Zone."
+      }
+    ]
   }
 ]
