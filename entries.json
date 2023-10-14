@@ -10150,5 +10150,28 @@
         "desc": "In the Official Card Game, Unwavering Bond cannot be activated if a Pendulum Monster is activated as a Spell Card into the Pendulum Zone."
       }
     ]
+  },
+  {
+    "id": 15122,
+    "icon": "trap",
+    "name": "Rikka Sheet",
+    "oldText": "Target 1 face-up monster your opponent controls, also, you can Tribute 1 Plant monster; players cannot activate that face-up monster's effects on the field this turn, then, if you Tributed a monster when you activated this card, take control of that monster until the End Phase, and if you do, it becomes a Plant monster until the End Phase. You can only activate 1 \"Rikka Sheet\" per turn.",
+    "newText": "To activate this card, you can Tribute 1 Plant monster, also you must target 1 face-up monster your opponent controls; players cannot activate that face-up monster's effects on the field this turn, then, if you Tributed a monster when you activated this card, take control of that monster until the End Phase, and if you do, it becomes a Plant monster until the End Phase. You can only activate 1 \"Rikka Sheet\" per turn.",
+    "author": "gallantron",
+    "lastPrint": "2020-04-02",
+    "lastUpdated": "2023-10-14",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15122&request_locale=ja",
+        "title": "Rikka Sheet",
+        "date": "2023-10-14",
+        "desc": "In the Official Card Game, a monster is Tributed to activate Rikka Sheet before the target is chosen.\nIf, for example, the Tributed monster prevents some other monster from being targeted, that other monster can be targeted by Rikka Sheet in the Official Card Game."
+      }
+    ],
+    "customDiffData": [
+      [47,0],
+      [39,69],
+      [303,351]
+    ]
   }
 ]
