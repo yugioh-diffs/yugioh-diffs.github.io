@@ -10269,5 +10269,23 @@
         "desc": "In the Official Card Game, if an effect's activation condition uses \"each time\" (度に～発動できる), the effect will activate multiple times if the activation condition is met at multiple separate points during the same Chain."
       }
     ]
+  },
+  {
+    "id": 19144,
+    "icon": "pen_effect",
+    "name": "Supreme King Dragon Lightwurm",
+    "oldText": "If this card is Normal or Special Summoned: You can add 1 face-up \"Supreme King Dragon\" or \"Supreme King Gate\" Pendulum Monster from your Extra Deck to your hand, then, immediately after this effect resolves, you can Synchro or Xyz Summon 1 \"Supreme King Dragon\" monster. If a face-up Pendulum Monster(s) you control is destroyed by battle or card effect, while this card is face-up in your Extra Deck: You can add this card to your hand. You can only use each effect of \"Supreme King Dragon Lightwurm\" once per turn.",
+    "newText": "If this card is Normal or Special Summoned: You can add 1 face-up \"Supreme King Dragon\" or \"Supreme King Gate\" Pendulum Monster from your Extra Deck to your hand, then, immediately after this effect resolves (except during the Damage Step), you can Synchro or Xyz Summon 1 \"Supreme King Dragon\" monster. If a face-up Pendulum Monster(s) you control is destroyed by battle or card effect, while this card is face-up in your Extra Deck: You can add this card to your hand. You can only use each effect of \"Supreme King Dragon Lightwurm\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2023-10-20",
+    "lastUpdated": "2023-10-23",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=19144&request_locale=ja",
+        "title": "Card FAQ – Supreme King Dragon Lightwurm",
+        "date": "2023-10-23",
+        "desc": "In the Official Card Game, you cannot perform a Synchro/Xyz Summon after the effect of Supreme King Dragon Lightwurm resolves during the Damage Step."
+      }
+    ]
   }
 ]
