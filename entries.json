@@ -10173,5 +10173,29 @@
       [39,69],
       [303,351]
     ]
+  },
+  {
+    "id": 14126,
+    "icon": "link",
+    "name": "Trickstar Divaridis",
+    "oldText": "2 Level 3 or lower \"Trickstar\" monsters\nYou can only control 1 \"Trickstar Divaridis\". If this card is Special Summoned: You can inflict 200 damage to your opponent. If your opponent Normal or Special Summons a monster(s): Inflict 200 damage to your opponent.",
+    "newText": "2 Level 3 or lower \"Trickstar\" monsters\nYou can only control 1 \"Trickstar Divaridis\". If this card is Special Summoned: You can inflict 200 damage to your opponent. Each time your opponent Normal or Special Summons a monster(s): Inflict 200 damage to your opponent.",
+    "author": "gallantron",
+    "lastPrint": "2019-02-01",
+    "lastUpdated": "2023-10-23",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14126&request_locale=ja",
+        "title": "Trickstar Divaridis",
+        "date": "2023-10-23",
+        "desc": "In the Official Card Game, the activation condition for Trickstar Divaridis' effect uses \"each time\" (度に～発動できる)."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24018&request_locale=ja",
+        "title": "Q&A #24018",
+        "date": "2023-10-23",
+        "desc": "In the Official Card Game, if an effect's activation condition uses \"each time\" (度に～発動できる), the effect will activate multiple times if the activation condition is met at multiple separate points during the same Chain."
+      }
+    ]
   }
 ]
