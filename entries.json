@@ -10197,5 +10197,29 @@
         "desc": "In the Official Card Game, if an effect's activation condition uses \"each time\" (度に～発動できる), the effect will activate multiple times if the activation condition is met at multiple separate points during the same Chain."
       }
     ]
+  },
+  {
+    "id": 13916,
+    "icon": "effect",
+    "name": "Bearblocker",
+    "oldText": "During your opponent's turn, Set cards in your Spell & Trap Zones cannot be destroyed by card effects. If a Set card(s) in your Spell & Trap Zone is destroyed by an opponent's card effect: This card gains 800 ATK until the end of this turn.",
+    "newText": "During your opponent's turn, Set cards in your Spell & Trap Zones cannot be destroyed by card effects. Each time a Set card(s) in your Spell & Trap Zone is destroyed by an opponent's card effect: This card gains 800 ATK until the end of this turn.",
+    "author": "gallantron",
+    "lastPrint": "2022-08-26",
+    "lastUpdated": "2023-10-23",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13916&request_locale=ja",
+        "title": "Bearblocker",
+        "date": "2023-10-23",
+        "desc": "In the Official Card Game, the activation condition for Bearblocker's effect uses \"each time\" (度に～発動できる)."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24018&request_locale=ja",
+        "title": "Q&A #24018",
+        "date": "2023-10-23",
+        "desc": "In the Official Card Game, if an effect's activation condition uses \"each time\" (度に～発動できる), the effect will activate multiple times if the activation condition is met at multiple separate points during the same Chain."
+      }
+    ]
   }
 ]
