@@ -10245,5 +10245,29 @@
         "desc": "In the Official Card Game, if an effect's activation condition uses \"each time\" (度に～発動できる), the effect will activate multiple times if the activation condition is met at multiple separate points during the same Chain."
       }
     ]
+  },
+  {
+    "id": 13083,
+    "icon": "link",
+    "name": "Trickstar Holly Angel",
+    "oldText": "2 \"Trickstar\" monsters\nEach time a \"Trickstar\" monster(s) is Normal or Special Summoned to a zone(s) this card points to, inflict 200 damage to your opponent. \"Trickstar\" monsters this card points to cannot be destroyed by battle or card effects. If your opponent takes damage by a \"Trickstar\" monster's effect: This card gains ATK equal to the damage they took, until the end of this turn.",
+    "newText": "2 \"Trickstar\" monsters\nEach time a \"Trickstar\" monster(s) is Normal or Special Summoned to a zone(s) this card points to, inflict 200 damage to your opponent. \"Trickstar\" monsters this card points to cannot be destroyed by battle or card effects. Each time your opponent takes damage by a \"Trickstar\" monster's effect: This card gains ATK equal to the damage they took, until the end of this turn.",
+    "author": "gallantron",
+    "lastPrint": "2019-04-03",
+    "lastUpdated": "2023-10-23",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13083&request_locale=ja",
+        "title": "Trickstar Holly Angel",
+        "date": "2023-10-23",
+        "desc": "In the Official Card Game, the activation condition for Trickstar Holly Angel's effect uses \"each time\" (度に～発動できる)."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=24018&request_locale=ja",
+        "title": "Q&A #24018",
+        "date": "2023-10-23",
+        "desc": "In the Official Card Game, if an effect's activation condition uses \"each time\" (度に～発動できる), the effect will activate multiple times if the activation condition is met at multiple separate points during the same Chain."
+      }
+    ]
   }
 ]
