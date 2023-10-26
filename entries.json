@@ -519,7 +519,7 @@
     ],
     "name": "T.G. Hyper Librarian",
     "lastUpdated": "2020-12-24",
-    "lastPrint": "2019-04-18",
+    "lastPrint": "2023-10-26",
     "icon": "synchro"
   },
   {
@@ -3990,24 +3990,6 @@
         "title": "Springans Call!",
         "date": "2021-06-27",
         "desc": "In the Official Card Game, the effect of Springans Call! in the GY can be activated at any point, not only during the Main Phase."
-      }
-    ]
-  },
-  {
-    "id": 7652,
-    "icon": "trap",
-    "name": "Summon Limit",
-    "oldText": "Neither player can Summon more than two times per turn. (Negated Summons count toward this limit. Negated cards/effects that would Summon do not count.)",
-    "newText": "Neither player can Summon more than two times per turn.",
-    "author": "gallantron",
-    "lastPrint": "2023-07-19",
-    "lastUpdated": "2021-06-27",
-    "references": [
-      {
-        "url": "https://www.yugioh-card.com/japan/notice/revision/#processing",
-        "title": "Yu-Gi-Oh! Official Card Game | Changes due to rule revisions",
-        "date": "2021-06-27",
-        "desc": "In the Official Card Game, as of April 1st, 2020, negated Summons are no longer counted for Summon Limit."
       }
     ]
   },
