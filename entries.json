@@ -10269,5 +10269,28 @@
         "desc": "In the Official Card Game, you cannot perform a Synchro/Xyz Summon after the effect of Supreme King Dragon Lightwurm resolves during the Damage Step."
       }
     ]
+  },
+  {
+    "id": 16832,
+    "icon": "effect",
+    "name": "Submareed Tour Ride",
+    "oldText": "The first Normal Monster you control that would be destroyed by battle or card effect each turn, is not destroyed. If you control a Normal Monster: You can Special Summon this card from your hand. You can only use this effect of \"Submareed Tour Ride\" once per turn.",
+    "newText": "Once per turn, if a Normal Monster you control would be destroyed by battle with an Effect Monster, it is not destroyed. If you control a Normal Monster: You can Special Summon this card from your hand. You can only use this effect of \"Submareed Tour Ride\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2022-02-11",
+    "lastUpdated": "2023-10-29",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16832&request_locale=ja",
+        "title": "Submareed Tour Ride",
+        "date": "2023-10-29",
+        "desc": "In the Official Card Game, the effect of Submareed Tour Ride does not prevent destruction by card effects. Additionally, in the Official Card Game, the effect of Submareed Tour Ride only applies if the Normal Monster would be destroyed by battle with an Effect Monster."
+      }
+    ],
+    "customDiffData": [
+      [71,76],
+      [14,22],
+      [180,173]
+    ]
   }
 ]
