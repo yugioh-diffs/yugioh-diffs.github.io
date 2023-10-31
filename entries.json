@@ -10292,5 +10292,23 @@
       [14,22],
       [180,173]
     ]
+  },
+  {
+    "id": 10071,
+    "icon": "xyz",
+    "name": "Hieratic Sun Dragon Overlord of Heliopolis",
+    "oldText": "2 Level 8 monsters\nOnce per turn: You can detach 1 material from this card; Tribute any number of monsters from your hand and/or field (min. 1), then destroy an equal number of cards on the field.",
+    "newText": "2 Level 8 monsters\nOnce per turn: You can detach 1 material from this card; Tribute any number of monsters from your hand and/or field (min. 1), and if you do, destroy an equal number of cards on the field.",
+    "author": "gallantron",
+    "lastPrint": "2021-04-16",
+    "lastUpdated": "2023-10-31",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10071&request_locale=ja",
+        "title": "Card FAQ – Hieratic Sun Dragon Overlord of Heliopolis",
+        "date": "2023-10-31",
+        "desc": "In the Official Card Game, Tributing monsters and destroying cards are treated as having happened simultaneously."
+      }
+    ]
   }
 ]
