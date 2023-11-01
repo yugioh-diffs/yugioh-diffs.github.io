@@ -10328,5 +10328,28 @@
         "desc": "In the Official Card Game, the effect of Odd-Eyes Venom Dragon will successfully apply if it targets a 0 ATK monster."
       }
     ]
+  },
+  {
+    "id": 10935,
+    "icon": "xyz",
+    "name": "Number C69: Heraldry Crest of Horror",
+    "oldText": "4 Level 5 monsters\nWhen an opponent's monster declares an attack: You can destroy all cards your opponent controls. If this card has \"Number 69: Heraldry Crest\" as an Xyz Material, it gains this effect.\n●Once per turn: You can detach 1 Xyz Material from this card, then target 1 face-up Xyz Monster your opponent controls; this card gains ATK equal to that face-up monster's original ATK, and if it gains ATK this way, this card's name becomes that monster's, and it gains that monster's original effect. These effects last until the End Phase.",
+    "newText": "4 Level 5 monsters\nWhen an opponent's monster declares an attack: You can destroy all cards your opponent controls. If this card has \"Number 69: Heraldry Crest\" as material, it gains this effect.\n●Once per turn: You can detach 1 material from this card, then target 1 face-up Xyz Monster your opponent controls; this card gains ATK equal to that face-up monster's original ATK, also, this card's name becomes that monster's, and it gains that monster's original effect. These effects last until the End Phase.",
+    "author": "gallantron",
+    "lastPrint": "2014-01-24",
+    "lastUpdated": "2023-11-01",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10935&request_locale=ja",
+        "title": "Card FAQ – Number C69: Heraldry Crest of Horror",
+        "date": "2023-11-01",
+        "desc": "In the Official Card Game, the effect of Number C69: Heraldry Crest of Horror applies successfully even if it targets a 0 ATK monster."
+      }
+    ],
+    "customDiffData": [
+      [389,378],
+      [28,4],
+      127
+    ]
   }
 ]
