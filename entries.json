@@ -10310,5 +10310,23 @@
         "desc": "In the Official Card Game, Tributing monsters and destroying cards are treated as having happened simultaneously."
       }
     ]
+  },
+  {
+    "id": 13131,
+    "icon": "pen_fusion",
+    "name": "Odd-Eyes Venom Dragon",
+    "oldText": "1 \"Starving Venom\" monster + 1 \"Odd-Eyes\" monster\nMust be Fusion Summoned, and can then be Pendulum Summoned. Once per turn: You can target 1 face-up monster your opponent controls; until the End Phase, this card gains ATK equal to its ATK, and if it does, this card's name becomes that monster's original name, and replace this effect with that monster's original effects. If this card in the Monster Zone is destroyed: You can Special Summon 1 monster from your Pendulum Zone, and if you do, place this card in your Pendulum Zone.",
+    "newText": "1 \"Starving Venom\" monster + 1 \"Odd-Eyes\" monster\nMust be Fusion Summoned, and can then be Pendulum Summoned. Once per turn: You can target 1 face-up monster your opponent controls; until the End Phase, this card gains ATK equal to its ATK, also, this card's name becomes that monster's original name, and replace this effect with that monster's original effects. If this card in the Monster Zone is destroyed: You can Special Summon 1 monster from your Pendulum Zone, and if you do, place this card in your Pendulum Zone.",
+    "author": "gallantron",
+    "lastPrint": "2017-07-07",
+    "lastUpdated": "2023-11-01",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13131&request_locale=ja",
+        "title": "Card FAQ – Odd-Eyes Venom Dragon",
+        "date": "2023-11-01",
+        "desc": "In the Official Card Game, the effect of Odd-Eyes Venom Dragon will successfully apply if it targets a 0 ATK monster."
+      }
+    ]
   }
 ]
