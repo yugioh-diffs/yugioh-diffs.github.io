@@ -10351,5 +10351,32 @@
       [28,4],
       127
     ]
+  },
+  {
+    "id": 18317,
+    "icon": "trap",
+    "name": "Switch Point",
+    "oldText": "Choose 1 monster your opponent controls, and your opponent sends either of the following to the GY.\n●The chosen monster.\n●The other monsters they control.\nYour opponent must control 3 or more monsters for you to activate and resolve this effect.",
+    "newText": "Choose 1 monster your opponent controls, and your opponent chooses 1 of these effects to apply.\n●They must send the chosen monster to the GY.\n●They must send all other monsters they control to the GY.\nYour opponent must control 3 or more monsters for you to activate and resolve this effect.",
+    "author": "gallantron",
+    "lastPrint": "2023-10-20",
+    "lastUpdated": "2023-11-02",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23931&request_locale=ja",
+        "title": "Q&A #23931",
+        "date": "2023-11-02",
+        "desc": "In the Official Card Game, the effect of Switch Point does not affect monsters."
+      }
+    ],
+    "customDiffData": [
+      59,
+      [40,36],
+      [146,2],
+      [0,14],
+      [0,32],
+      [0,14],
+      [0,134]
+    ]
   }
 ]
