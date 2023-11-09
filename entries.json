@@ -10378,5 +10378,29 @@
       [0,14],
       [0,134]
     ]
+  },
+  {
+    "id": 18844,
+    "icon": "spell",
+    "name": "Noble Arms Museum",
+    "oldText": "All FIRE Warrior monsters you control gain 500 ATK. Once per turn: You can pay 1200 LP; add 1 \"Noble Arms\" card from your Deck to your hand, except \"Noble Arms Museum\". Once per turn, if the previous effect was applied this turn: You can target 1 \"Noble Knight\" Monster Card in your Spell & Trap Zone; Special Summon it, also, if you activated this effect while you did not control \"Infernoble Knight Emperor Charles\", you cannot Special Summon monsters for the rest of this turn, except Warrior monsters.",
+    "newText": "All FIRE Warrior monsters you control gain 500 ATK. Once per turn: You can pay 1200 LP; add 1 \"Noble Arms\" card from your Deck to your hand, except \"Noble Arms Museum\". Once per turn, if this card's previous effect was applied this turn: You can target 1 \"Noble Knight\" Monster Card in your Spell & Trap Zone; Special Summon it, also, if you activated this effect while you did not control \"Infernoble Knight Emperor Charles\", you cannot Special Summon monsters for the rest of this turn, except Warrior monsters.",
+    "author": "gallantron",
+    "lastPrint": "2023-07-28",
+    "lastUpdated": "2023-11-09",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=18844&request_locale=ja",
+        "title": "Noble Arms Museum",
+        "date": "2023-11-09",
+        "desc": "In the Official Card Game, the ②nd effect of that particular copy of Noble Arms Museum must've been applied before its ③rd effect can be activated."
+      }
+    ],
+    "customDiffData": [
+      187,
+      [19,27],
+      299
+    ],
+    "nitpick": true
   }
 ]
