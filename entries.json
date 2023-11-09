@@ -1980,7 +1980,7 @@
     "oldText": "2+ monsters Special Summoned from the Extra Deck\nWhile this Link Summoned card is on the field, your opponent cannot target this card with card effects, also their monsters cannot target monsters for attacks, except this one. Once per battle, during damage calculation, if this card battles a Special Summoned monster (Quick Effect): You can make this card gain ATK equal to that opponent's monster's ATK during that damage calculation only. If this Link Summoned card you control is sent to your GY by an opponent's card: You can shuffle 1 card on the field into the Deck.",
     "newText": "2+ monsters Special Summoned from the Extra Deck\nWhile this Link Summoned card is on the field, your opponent cannot target this card with card effects, also their monsters cannot target monsters for attacks, except this one. Once per battle, during damage calculation, if this card battles a Special Summoned monster (Quick Effect): You can make this card gain ATK equal to that opponent's monster's ATK during that damage calculation only. If this Link Summoned card you control is sent to your GY by your opponent: You can shuffle 1 card on the field into the Deck.",
     "author": "gallantron",
-    "lastPrint": "2023-03-10",
+    "lastPrint": "2023-11-03",
     "lastUpdated": "2020-12-30",
     "references": [
       {
@@ -5481,7 +5481,7 @@
     "oldText": "2 \"Number\" Xyz Monsters with the same name and Rank\nOnce per turn: You can detach 1 material from this card; this card gains ATK equal to the combined Ranks of all Xyz Monsters currently on the field x 1000, until the end of your opponent's turn. When this card is destroyed by card effect: You can destroy as many monsters on the field as possible (min. 1), then each player Sets 1 Spell/Trap from their GY to their field. When an opponent's monster declares an attack while this card is in your GY and you have no cards in your hand or field: You can Special Summon this card.",
     "newText": "2 \"Number\" Xyz Monsters with the same name and Rank\nOnce per turn: You can detach 1 material from this card; this card gains ATK equal to the combined Ranks of all Xyz Monsters currently on the field x 1000, until the end of your opponent's turn. When this card is destroyed by card effect: You can destroy as many monsters on the field as possible (min. 1), then, if any player(s) has a Spell/Trap in their GY, they Set 1 of them to their field. When an opponent's monster declares an attack while this card is in your GY and you have no cards in your hand or field: You can Special Summon this card.",
     "author": "gallantron",
-    "lastPrint": "2022-11-18",
+    "lastPrint": "2023-11-03",
     "lastUpdated": "2021-08-19",
     "references": [
       {
@@ -7463,7 +7463,7 @@
     "oldText": "1 Fusion Monster + 1 DARK monster\nOnce per turn (Quick Effect): You can target 1 face-up monster your opponent controls; place 1 Predator Counter on it, and if it is Level 2 or higher, it becomes Level 1 as long as it has a Predator Counter. Negate the activated effects of your opponent's monsters that have Predator Counters.",
     "newText": "1 Fusion Monster + 1 DARK monster\nOnce per turn (Quick Effect): You can target 1 face-up monster your opponent controls; place 1 Predator Counter on it, and if it is Level 2 or higher, it becomes Level 1 as long as it has a Predator Counter. When a monster effect activated by your opponent resolves, negate the effect if that monster has a Predator Counter.",
     "author": "gallantron",
-    "lastPrint": "2022-07-22",
+    "lastPrint": "2023-11-03",
     "lastUpdated": "2022-04-13",
     "references": [
       {
@@ -8940,7 +8940,7 @@
     "oldText": "When a card or effect is activated that includes any of these effects (Quick Effect): You can discard this card; negate that effect.\n●Add a card from the Deck to the hand.\n●Special Summon from the Deck.\n●Send a card from the Deck to the GY.\nYou can only use this effect of \"Ash Blossom & Joyous Spring\" once per turn.",
     "newText": "When a card or effect is activated that includes any of these effects (Quick Effect): You can discard this card; negate that effect.\n●Add a card(s) from the Deck to the hand.\n●Special Summon a Monster Card(s) from the Deck.\n●Send a card(s) from the Deck to the GY.\nYou can only use this effect of \"Ash Blossom & Joyous Spring\" once per turn.",
     "author": "gallantron",
-    "lastPrint": "2023-02-24",
+    "lastPrint": "2023-11-03",
     "lastUpdated": "2022-11-26",
     "references": [
       {
@@ -8987,7 +8987,7 @@
     "oldText": "Cannot be Special Summoned. Requires 3 Tributes from either side of the field to Normal Summon to that side of the field (cannot be Normal Set), then shift control to this card's owner during the End Phase of the next turn. Cannot attack. Your opponent cannot target this card for attacks or by card effects. You can Tribute this card; Special Summon 1 \"The Winged Dragon of Ra\" from your hand or Deck, ignoring its Summoning conditions, and if you do, its ATK/DEF become 4000.",
     "newText": "Cannot be Special Summoned. Requires 3 Tributes from either side of the field to Normal Summon to that side of the field (cannot be Normal Set), then shift control to this card's owner during the End Phase of the next turn. Cannot attack. Your opponent cannot target this card with card effects, also monsters your opponent controls cannot target this card for attacks. You can Tribute this card; Special Summon 1 \"The Winged Dragon of Ra\" from your hand or Deck, ignoring its Summoning conditions, and if you do, its ATK/DEF become 4000.",
     "author": "gallantron",
-    "lastPrint": "2022-05-06",
+    "lastPrint": "2023-11-03",
     "lastUpdated": "2022-12-20",
     "references": [
       {
@@ -9909,7 +9909,7 @@
     "oldText": "If you control no monsters and have this card in your hand: You can banish 1 other \"Blackwing\" monster from your hand; place 1 \"Black Whirlwind\" from your Deck face-up in your Spell & Trap Zone, then, either send this card to the GY, or immediately after this effect resolves, Normal Summon it without Tributing. You cannot Special Summon monsters from the Extra Deck for the rest of this turn, except DARK monsters. You can only use this effect of \"Blackwing - Simoon the Poison Wind\" once per turn. During the End Phase, send the \"Black Whirlwind\" placed by this effect to the GY, and if you do, take 1000 damage.",
     "newText": "If you control no monsters and have this card in your hand: You can banish 1 other \"Blackwing\" monster from your hand; place 1 \"Black Whirlwind\" from your Deck face-up in your Spell & Trap Zone, then, either send this card to the GY, or immediately after this effect resolves, Normal Summon it without Tributing. You cannot Special Summon monsters from the Extra Deck for the rest of this turn, except DARK monsters. You can only use this effect of \"Blackwing - Simoon the Poison Wind\" once per turn. During the End Phase, if the \"Black Whirlwind\" placed by this effect is still on the field, send it to the GY, also take 1000 damage.",
     "author": "gallantron",
-    "lastPrint": "2022-11-18",
+    "lastPrint": "2023-11-03",
     "lastUpdated": "2023-07-27",
     "references": [
       {
