@@ -10402,5 +10402,24 @@
       299
     ],
     "nitpick": true
+  },
+  {
+    "id": 19188,
+    "icon": "link",
+    "name": "S:P Little Knight",
+    "oldText": "2 Effect Monsters\nIf this card is Link Summoned using a Fusion, Synchro, Xyz, or Link Monster as material: You can target 1 card on the field or in either GY; banish it, also your monsters cannot attack directly this turn. When your opponent activates a card or effect (Quick Effect): You can target 2 face-up monsters on the field, including a monster you control; banish both until the End Phase. You can only use each effect of \"S:P Little Knight\" once per turn.",
+    "newText": "2 Effect Monsters\nIf this card is Link Summoned using a Fusion, Synchro, Xyz, or Link Monster as material: You can target 1 card on the field or in either GY; banish it, also your monsters cannot attack directly for the rest of this turn. When your opponent activates a card or effect (Quick Effect): You can target 2 face-up monsters on the field, including a monster you control; banish both until the End Phase. You can only use each effect of \"S:P Little Knight\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2023-10-20",
+    "lastUpdated": "2023-11-18",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=19188&request_locale=ja",
+        "title": "Card FAQ – S:P Little Knight",
+        "date": "2023-11-18",
+        "desc": "In the Official Card Game, the effect of S:P Little Knight can be activated after you have attacked directly."
+      }
+    ],
+    "nitpick": true
   }
 ]
