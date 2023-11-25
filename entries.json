@@ -1228,7 +1228,8 @@
     "customDiffData": [
       [175,155],
       [39,57]
-    ]
+    ],
+    "nitpick": true
   },
   {
     "id": 12167,
@@ -10421,5 +10422,23 @@
       }
     ],
     "nitpick": true
+  },
+  {
+    "id": 17471,
+    "icon": "trap",
+    "name": "Favorite Contact",
+    "oldText": "Special Summon 1 Fusion Monster from your Extra Deck that mentions a \"HERO\" monster as material, ignoring its Summoning conditions, by placing the Fusion Materials mentioned on it on the bottom of the Deck in any order, from among cards in your hand, field, GY, and/or your banished cards. If you placed \"Elemental HERO Neos\" into the Deck, neither player can return the monster Special Summoned by this effect to the Extra Deck. You can only activate 1 \"Favorite Contact\" per turn.",
+    "newText": "Special Summon 1 Fusion Monster from your Extra Deck that mentions a \"HERO\" monster as material, ignoring its Summoning conditions, by placing the Fusion Materials mentioned on it on the bottom of the Deck in any order, from among the monsters in your hand, field, GY, and/or your banished monsters. If you placed \"Elemental HERO Neos\" into the Deck, neither player can return the monster Special Summoned by this effect to the Extra Deck. You can only activate 1 \"Favorite Contact\" per turn.",
+    "author": "gallantron",
+    "lastPrint": "2022-08-05",
+    "lastUpdated": "2023-11-25",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17471&request_locale=ja",
+        "title": "Card FAQ – Favorite Contact",
+        "date": "2023-11-25",
+        "desc": "In the Official Card Game, Favorite Contact can only use monsters as Fusion Material. (It cannot use Monster Cards in the Spell & Trap Zone.)"
+      }
+    ]
   }
 ]
