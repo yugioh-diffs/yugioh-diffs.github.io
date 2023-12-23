@@ -1809,24 +1809,6 @@
     ]
   },
   {
-    "id": 12354,
-    "icon": "effect",
-    "name": "Gandora-X the Dragon of Demolition",
-    "oldText": "When this card is Normal or Special Summoned from the hand: You can destroy as many other monsters on the field as possible, and if you do, inflict damage to your opponent equal to the highest original ATK on the field among those destroyed monsters (your choice, if tied). This card's ATK becomes equal to the damage inflicted to your opponent by this effect. Once per turn, during your End Phase: Halve your LP.",
-    "newText": "When this card is Normal or Special Summoned from the hand: You can destroy as many other monsters on the field as possible, and if you do, inflict damage to your opponent equal to the highest ATK on the field among those destroyed monsters (your choice, if tied). This card's ATK becomes equal to the damage inflicted to your opponent by this effect. Once per turn, during your End Phase: Halve your LP.",
-    "author": "gallantron",
-    "lastPrint": "2020-01-24",
-    "lastUpdated": "2020-12-30",
-    "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12354&request_locale=ja",
-        "title": "Gandora-X the Dragon of Demolition",
-        "date": "2020-12-29",
-        "desc": "In the Official Card Game, Gandora-X references the destroyed monsters' current ATK on the field, not their original ATK."
-      }
-    ]
-  },
-  {
     "id": 13715,
     "icon": "ritual",
     "name": "Archfiend's Awakening",
