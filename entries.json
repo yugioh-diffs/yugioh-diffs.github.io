@@ -10404,5 +10404,23 @@
         "desc": "In the Official Card Game, Favorite Contact can only use monsters as Fusion Material. (It cannot use Monster Cards in the Spell & Trap Zone.)"
       }
     ]
+  },
+  {
+    "id": 8572,
+    "icon": "effect",
+    "name": "Sacred Spirit of the Ice Barrier",
+    "oldText": "Cannot be Special Summoned. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return this card to the hand. If you control another \"Ice Barrier\" monster, this card's End Phase effect instead becomes \"Target 1 monster your opponent controls; return it to the hand\".",
+    "newText": "Cannot be Special Summoned. Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return this card to the hand. If you control another \"Ice Barrier\" monster, this card's End Phase effect instead becomes \"Target 1 monster your opponent controls; return that target to the hand\".",
+    "author": "gallantron",
+    "lastPrint": "2022-03-11",
+    "lastUpdated": "2023-12-23",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8572&request_locale=ja",
+        "title": "Sacred Spirit of the Ice Barrier",
+        "date": "2023-12-23",
+        "desc": "In the Official Card Game, Sacred Spirit of the Ice Barrier's alternate effect will only return the target to the hand if it remains in the opponent's control."
+      }
+    ]
   }
 ]
