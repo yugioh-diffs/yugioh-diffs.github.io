@@ -10422,5 +10422,35 @@
         "desc": "In the Official Card Game, Sacred Spirit of the Ice Barrier's alternate effect will only return the target to the hand if it remains in the opponent's control."
       }
     ]
+  },
+  {
+    "id": 6619,
+    "icon": "trap",
+    "name": "Karma Cut",
+    "oldText": "Discard 1 card, then target 1 face-up monster your opponent controls; banish that target, then banish all cards with the same name as that monster from your opponent's Graveyard.",
+    "newText": "Discard 1 card, then target 1 face-up monster your opponent controls; banish that target, then, if there are any card(s) with the same name in your opponent's GY, banish them.",
+    "author": "gallantron",
+    "lastPrint": "2015-03-20",
+    "lastUpdated": "2023-12-27",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6619&request_locale=ja",
+        "title": "Karma Cut",
+        "date": "2023-12-27",
+        "desc": "In the Official Card Game, the effect of Karma Cut that banishes cards from the GY is only applied if appropriate card(s) exist in the GY."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=2&request_locale=ja",
+        "title": "Q&A #2",
+        "date": "2023-12-27",
+        "desc": "In the Official Card Game, Karma Cut can be activated even if cards cannot be banished from your opponent's GY."
+      }
+    ],
+    "customDiffData": [
+      90,
+      [40,49],
+      [48,24],
+      [0,12]
+    ]
   }
 ]
