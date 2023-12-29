@@ -10452,5 +10452,34 @@
       [48,24],
       [0,12]
     ]
+  },
+  {
+    "id": 6133,
+    "icon": "spell",
+    "name": "Level Up!",
+    "oldText": "Send 1 face-up \"LV\" monster you control to the GY; Special Summon 1 monster from your hand or Deck that is listed in the sent monster's text, ignoring its Summoning conditions.",
+    "newText": "Send 1 face-up \"LV\" monster you control to the GY; Special Summon 1 \"LV\" monster that is mentioned in the sent monster's text from your hand or Deck, ignoring its Summoning conditions.",
+    "author": "gallantron",
+    "lastPrint": "2020-05-15",
+    "lastUpdated": "2023-12-29",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6133&request_locale=ja",
+        "title": "Card FAQ – Level Up!",
+        "date": "2023-12-29",
+        "desc": "In the Official Card Game, \"Level Up!\" cannot Special Summon non-\"LV\" monsters."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=19719&request_locale=en",
+        "title": "Winged Kuriboh LV6",
+        "date": "2023-12-29",
+        "desc": "For example, in the Official Card Game, you cannot send \"Winged Kuriboh LV6\" to the GY in order to Special Summon \"Winged Kuriboh\", even though it is specifically mentioned in the text of \"Winged Kuriboh LV6\"."
+      }
+    ],
+    "customDiffData": [
+      66,
+      [9,14],
+      [101,104]
+    ]
   }
 ]
