@@ -10574,5 +10574,27 @@
       [28,0],
       [55,0]
     ]
+  },
+  {
+    "id": 4992,
+    "icon": "trap",
+    "name": "Enchanted Javelin",
+    "oldText": "Increase your Life Points by the ATK of 1 attacking monster.",
+    "newText": "When an opponent's monster declares an attack: Target the attacking monster; gain LP equal to that target's ATK.",
+    "author": "gallantron",
+    "lastPrint": "2023-04-21",
+    "lastUpdated": "2024-01-21",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=4992&request_locale=ja",
+        "title": "Card FAQ – Enchanted Javelin",
+        "date": "2024-01-21",
+        "desc": "In the Official Card Game, Enchanted Javelin can only activate when an opponent's monster declares an attack."
+      }
+    ],
+    "customDiffData": [
+      0,
+      [60,112]
+    ]
   }
 ]
