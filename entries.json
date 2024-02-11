@@ -4002,24 +4002,6 @@
     ]
   },
   {
-    "id": 7409,
-    "icon": "effect",
-    "name": "Yubel",
-    "oldText": "This card cannot be destroyed by battle. You take no Battle Damage from battles involving this card. Before damage calculation, when this face-up Attack Position card is attacked by an opponent's monster: Inflict damage to your opponent equal to that monster's ATK. During your End Phase: Tribute 1 other monster or destroy this card. When this card is destroyed, except by its own effect: Its owner can Special Summon 1 \"Yubel - Terror Incarnate\" from their hand, Deck, or Graveyard.",
-    "newText": "This card cannot be destroyed by battle. You take no Battle Damage from battles involving this card. If this card was attacked by an opponent's monster while it was in face-up Attack Position, before damage calculation: Inflict damage to your opponent equal to that monster's ATK. During your End Phase: Tribute 1 other monster or destroy this card. When this card is destroyed, except by its own effect: Its owner can Special Summon 1 \"Yubel - Terror Incarnate\" from their hand, Deck, or GY.",
-    "author": "gallantron",
-    "lastPrint": "2012-02-21",
-    "lastUpdated": "2021-07-04",
-    "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7409&request_locale=ja",
-        "title": "Yubel",
-        "date": "2021-06-27",
-        "desc": "In the Official Card Game, in order to activate its effect, Yubel needs to have been in face-up Attack Position when chosen as the attack target. It does not need to be in face-up Attack Position upon reaching Before Damage Calculation."
-      }
-    ]
-  },
-  {
     "id": 13504,
     "icon": "link",
     "name": "Zefra Metaltron",
