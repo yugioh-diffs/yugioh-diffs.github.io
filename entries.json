@@ -181,8 +181,8 @@
   },
   {
     "id": 13543,
-    "oldText": "2 \"HERO\" monsters\nIf a \"HERO\" monster is Normal or Special Summoned to your zone this card points to: Target 1 \"Polymerization\" Spell Card, 1 \"Fusion\" Spell Card, or 1 \"Change\" Quick-Play Spell Card in your GY; Set that target. You can only activate this effect of \"Xtra HERO Wonder Driver\" once per turn. If this card is destroyed by battle and sent to the GY, or if this card in your possession is destroyed by an opponent's card effect and sent to your GY: Special Summon 1 \"HERO\" monster from your hand.",
-    "newText": "2 \"HERO\" monsters\nIf a \"HERO\" monster is Normal or Special Summoned to your zone this card points to: Target 1 \"Polymerization\" Spell Card, 1 \"Fusion\" Spell Card, or 1 \"Change\" Quick-Play Spell Card in your GY; Set that target. You can only use this effect of \"Xtra HERO Wonder Driver\" once per turn. If this card is destroyed by battle and sent to the GY, or if this card in your possession is destroyed by an opponent's card effect and sent to your GY: You can Special Summon 1 \"HERO\" monster from your hand.",
+    "oldText": "2 \"HERO\" monsters\nIf a \"HERO\" monster is Normal or Special Summoned to your zone this card points to: Target 1 \"Polymerization\" Spell, 1 \"Fusion\" Spell, or 1 \"Change\" Quick-Play Spell in your GY; Set that target. You can only activate this effect of \"Xtra HERO Wonder Driver\" once per turn. If this card is destroyed by battle and sent to the GY, or if this card in your possession is destroyed by an opponent's card effect and sent to your GY: Special Summon 1 \"HERO\" monster from your hand.",
+    "newText": "2 \"HERO\" monsters\nIf a \"HERO\" monster is Normal or Special Summoned to your zone this card points to: Target 1 \"Polymerization\" Spell, 1 \"Fusion\" Spell, or 1 \"Change\" Quick-Play Spell in your GY; Set that target. You can only use this effect of \"Xtra HERO Wonder Driver\" once per turn. If this card is destroyed by battle and sent to the GY, or if this card in your possession is destroyed by an opponent's card effect and sent to your GY: You can Special Summon 1 \"HERO\" monster from your hand.",
     "author": "gallantron",
     "references": [
       {
@@ -200,7 +200,7 @@
     ],
     "name": "Xtra HERO Wonder Driver",
     "lastUpdated": "2020-09-24",
-    "lastPrint": "2018-10-12",
+    "lastPrint": "2024-02-22",
     "icon": "link"
   },
   {
@@ -2150,10 +2150,10 @@
     "id": 7805,
     "icon": "effect",
     "name": "Neos Wiseman",
-    "oldText": "Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by sending 1 face-up \"Elemental HERO Neos\" and 1 face-up \"Yubel\" you control to the Graveyard, and cannot be Special Summoned by other ways. This card cannot be destroyed by card effects. At the end of the Damage Step, if this card battled an opponent's monster: Inflict damage to your opponent equal to the ATK of the monster it battled, and you gain Life Points equal to that monster's DEF.",
-    "newText": "Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by sending 1 face-up \"Elemental HERO Neos\" and 1 face-up \"Yubel\" from your Monster Zone to the GY. This card cannot be destroyed by card effects. At the end of the Damage Step, if this card battled an opponent's monster: Inflict damage to your opponent equal to the ATK of the monster it battled, and you gain Life Points equal to that monster's DEF.",
+    "oldText": "Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by sending 1 face-up \"Elemental HERO Neos\" and 1 face-up \"Yubel\" you control to the GY. Cannot be destroyed by card effects. At the end of the Damage Step, if this card battled an opponent's monster: Inflict damage to your opponent equal to that opponent's monster's ATK, also you gain LP equal to that opponent's monster's DEF.",
+    "newText": "Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by sending 1 face-up \"Elemental HERO Neos\" and 1 face-up \"Yubel\" from your Monster Zone to the GY. Cannot be destroyed by card effects. At the end of the Damage Step, if this card battled an opponent's monster: Inflict damage to your opponent equal to that opponent's monster's ATK, also you gain LP equal to that opponent's monster's DEF.",
     "author": "gallantron",
-    "lastPrint": "2011-10-04",
+    "lastPrint": "2024-02-22",
     "lastUpdated": "2020-12-30",
     "references": [
       {
@@ -5335,10 +5335,10 @@
     "id": 14936,
     "icon": "link",
     "name": "Xtra HERO Infernal Devicer",
-    "oldText": "2 \"HERO\" monsters\nIf this card is Link Summoned: You can reveal 1 \"HERO\" Fusion Monster in your Extra Deck, and if you do, add up to 2 of the Fusion Materials listed on that card, with different names, from your Deck to your hand. You cannot Special Summon monsters the turn you activate this effect, except \"HERO\" monsters. You can only use this effect of \"Xtra HERO Defiant Devicer\" once per turn. Fiend monsters this card points to gain ATK/DEF equal to its Level x 100.",
-    "newText": "2 \"HERO\" monsters / If this card is Link Summoned: You can reveal 1 \"HERO\" Fusion Monster in your Extra Deck, and if you do, add up to 2 of the Fusion Materials whose names are specifically listed on that card, with different names, from your Deck to your hand. You cannot Special Summon monsters the turn you activate this effect, except \"HERO\" monsters. You can only use this effect of \"Xtra HERO Infernal Devicer\" once per turn. A Fiend monster this card points to gains ATK/DEF equal to its Level x 100.",
+    "oldText": "2 \"HERO\" monsters\nIf this card is Link Summoned: You can reveal 1 \"HERO\" Fusion Monster in your Extra Deck, and if you do, add up to 2 of the Fusion Materials mentioned on that card, with different names, from your Deck to your hand. You cannot Special Summon monsters the turn you activate this effect, except \"HERO\" monsters. You can only use this effect of \"Xtra HERO Infernal Devicer\" once per turn. Fiend monsters this card points to gain ATK/DEF equal to its Level x 100.",
+    "newText": "2 \"HERO\" monsters\nIf this card is Link Summoned: You can reveal 1 \"HERO\" Fusion Monster in your Extra Deck, and if you do, add up to 2 of the named Fusion Materials specifically mentioned on that card, with different names, from your Deck to your hand. You cannot Special Summon monsters the turn you activate this effect, except \"HERO\" monsters. You can only use this effect of \"Xtra HERO Infernal Devicer\" once per turn. Any Fiend monster(s) this card points to gains ATK/DEF equal to its Level x 100.",
     "author": "gallantron",
-    "lastPrint": "2020-03-20",
+    "lastPrint": "2024-02-22",
     "lastUpdated": "2021-08-11",
     "references": [
       {
@@ -5348,18 +5348,19 @@
         "desc": "In the Official Card Game, Xtra HERO Infernal Devicer's effect requires the monsters' names to be specifically listed as materials on the Fusion Monster.\nAdditionally, in the Official Card Game, the effect of Xtra Hero Infernal Devicer increases the ATK of monsters it points to based on their Level, not its own."
       },
       {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14936&request_locale=en",
-        "title": "Xtra HERO Infernal Devicer",
-        "date": "2021-08-11",
-        "desc": "The English database text for Xtra Hero Infernal Devicer does not match its printed text, referencing the card name \"Xtra Hero Defiant Devicer\"."
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14304&request_locale=en",
+        "title": "Fusion Destiny",
+        "date": "2024-02-11",
+        "desc": "Fusion Destiny is an example of another card that refers to \"mentioning a monster as material\"; however, Fusion Destiny does not require the material to be specifically mentioned by name."
       },
       {
-        "url": "https://ms.yugipedia.com//e/ea/PrimathmechLaplacian-MYFI-EN-ScR-1E.png",
-        "title": "MYFI-EN009 Primathmech Laplacian",
-        "date": "2021-08-11",
-        "desc": "Primathmech Laplacian is another example of a card that uses a slash on the material line to gain extra space in the text box."
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12694&request_locale=en",
+        "title": "Destiny HERO - Dangerous",
+        "date": "2024-02-11",
+        "desc": "Destiny HERO - Dangerous can be Fusion Summoned using Fusion Destiny. (It \"mentions a \"Destiny HERO\" monster as material\".)\nHowever, in the Official Card Game, when resolving the effect of Xtra HERO Infernal Devicer, you cannot reveal Destiny HERO - Dangerous and add a \"Destiny HERO\" monster to your hand. (That \"Destiny HERO\" monster is not mentioned by name as material.)"
       }
-    ]
+    ],
+    "nitpick": true
   },
   {
     "id": 10441,
@@ -8250,10 +8251,10 @@
     "id": 10064,
     "icon": "xyz",
     "name": "Neo Galaxy-Eyes Photon Dragon",
-    "oldText": "3 Level 8 monsters\nIf this card is Xyz Summoned using \"Galaxy-Eyes Photon Dragon\" as any of its materials: All other face-up cards currently on the field have their effects negated. Once per turn: You can detach 1 material from this card; detach all materials from monsters your opponent controls, then this card gains 500 ATK for each, also it can attack up to that many times during each Battle Phase this turn.",
-    "newText": "3 Level 8 monsters\nIf this card is Xyz Summoned using \"Galaxy-Eyes Photon Dragon\" as any of its materials: All other face-up cards currently on the field have their effects negated. Once per turn: You can detach 1 material from this card; detach all materials from monsters your opponent controls, then, for the rest of this turn, this card gains 500 ATK for each, also it can attack up to that many times during each Battle Phase.",
+    "oldText": "3 Level 8 monsters\nIf this card is Xyz Summoned using \"Galaxy-Eyes Photon Dragon\" as any of its materials: Negate the effects of all other face-up cards currently on the field. Once per turn: You can detach 1 material from this card; detach all materials from monsters your opponent controls, then this card gains 500 ATK for each, also it can attack up to that many times during each Battle Phase this turn.",
+    "newText": "3 Level 8 monsters\nIf this card is Xyz Summoned using \"Galaxy-Eyes Photon Dragon\" as any of its materials: Negate the effects of all other face-up cards currently on the field. Once per turn: You can detach 1 material from this card; detach all materials from monsters your opponent controls, then, for the rest of this turn, this card gains 500 ATK for each, also it can attack up to that many times during each Battle Phase.",
     "author": "gallantron",
-    "lastPrint": "2017-07-07",
+    "lastPrint": "2024-02-22",
     "lastUpdated": "2022-08-15",
     "references": [
       {
