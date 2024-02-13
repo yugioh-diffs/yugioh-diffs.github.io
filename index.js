@@ -230,17 +230,7 @@ document.addEventListener('DOMContentLoaded', async () =>
     */
 	
 	let sorters = {};
-	sorters.alpha = ((a,b) =>
-	{
-		const n1 = a.name;
-		const n2 = b.name;
-		if (n1 < n2)
-			return -1;
-		else if (n1 > n2)
-			return 1;
-		else
-			return 0;
-	});
+	sorters.alpha = ((a,b) => a.name.localeCompare(b.name, undefined, { sensitivity: 'base' }));
 	sorters.recent = ((a,b) =>
 	{
 		const l1 = new Date(a.lastUpdated);
