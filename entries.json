@@ -3281,24 +3281,6 @@
     ]
   },
   {
-    "id": 14825,
-    "icon": "effect",
-    "name": "Chronomaly Tuspa Rocket",
-    "oldText": "If this card is Normal or Special Summoned: You can send 1 \"Chronomaly\" monster from your Deck or Extra Deck to the GY, then target 1 face-up monster on the field; it loses ATK equal to the Level/Rank of the monster sent to the GY x 200. A \"Number\" Xyz Monster that was Summoned using this card on the field as material gains this effect.\n●This card can make up to 2 attacks on monsters during each Battle Phase.\nYou can only use each effect of \"Chronomaly Tuspa Rocket\" once per turn.",
-    "newText": "If this card is Normal or Special Summoned: You can send 1 \"Chronomaly\" monster from your Deck or Extra Deck to the GY, then target 1 face-up monster on the field; it loses ATK equal to the Level/Rank of the monster sent to the GY x 200, until the end of this turn. A \"Number\" Xyz Monster that was Summoned using this card on the field as material gains this effect.\n●This card can make up to 2 attacks on monsters during each Battle Phase.\nYou can only use each effect of \"Chronomaly Tuspa Rocket\" once per turn.",
-    "author": "gallantron",
-    "lastPrint": "2020-01-31",
-    "lastUpdated": "2021-06-21",
-    "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14825&request_locale=ja",
-        "title": "Chronomaly Tuspa Rocket",
-        "date": "2021-06-21",
-        "desc": "In the Official Card Game, the ATK loss from Chronomaly Tuspa Rocket's effect lasts until the end of the turn."
-      }
-    ]
-  },
-  {
     "id": 7159,
     "icon": "spell",
     "name": "Convert Contact",
