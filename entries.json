@@ -10561,5 +10561,28 @@
       0,
       [60,112]
     ]
+  },
+  {
+    "id": 7411,
+    "icon": "effect",
+    "name": "Yubel - The Ultimate Nightmare",
+    "oldText": "Cannot be Normal Summoned or Set. Must be Special Summoned by \"Yubel - Terror Incarnate\". Cannot be destroyed by battle. You take no battle damage from battles involving this card. At the end of the Damage Step, if this face-up Attack Position card battled an opponent's monster: Inflict damage to your opponent equal to that opponent's monster's ATK, also destroy that monster.",
+    "newText": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Yubel - Terror Incarnate\". Cannot be destroyed by battle. You take no damage from battles involving this card. At the end of the Damage Step, if this face-up Attack Position card battled an opponent's monster: Inflict damage to your opponent equal to that opponent's monster's ATK, and if you do, destroy that monster.",
+    "author": "gallantron",
+    "lastPrint": "2024-02-23",
+    "lastUpdated": "2024-02-23",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7411&request_locale=ja",
+        "title": "Card FAQ – Yubel - The Ultimate Nightmare",
+        "date": "2024-02-23",
+        "desc": "In the Official Card Game, the effect of Yubel - The Ultimate Nightmare will only destroy the opponent's monster if it successfully inflicts damage."
+      }
+    ],
+    "customDiffData": [
+      [352,342],
+      [4,14],
+      22
+    ]
   }
 ]
