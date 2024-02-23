@@ -14,7 +14,7 @@
     ],
     "name": "Elemental HERO Absolute Zero",
     "lastUpdated": "2020-12-17",
-    "lastPrint": "2019-07-12",
+    "lastPrint": "2024-02-23",
     "icon": "fusion"
   },
   {
@@ -200,7 +200,7 @@
     ],
     "name": "Xtra HERO Wonder Driver",
     "lastUpdated": "2020-09-24",
-    "lastPrint": "2024-02-22",
+    "lastPrint": "2024-02-23",
     "icon": "link"
   },
   {
@@ -327,7 +327,7 @@
     ],
     "name": "Number 75: Bamboozling Gossip Shadow",
     "lastUpdated": "2020-08-22",
-    "lastPrint": "2020-06-19",
+    "lastPrint": "2024-02-23",
     "icon": "xyz"
   },
   {
@@ -856,7 +856,7 @@
     ],
     "name": "Salamangreat Almiraj",
     "lastUpdated": "2020-04-09",
-    "lastPrint": "2023-08-11",
+    "lastPrint": "2024-02-23",
     "icon": "link"
   },
   {
@@ -1294,7 +1294,7 @@
     ],
     "name": "Fusion Destiny",
     "lastUpdated": "2021-04-05",
-    "lastPrint": "2022-11-18",
+    "lastPrint": "2024-02-23",
     "icon": "spell",
     "nitpick": true
   },
@@ -2037,7 +2037,7 @@
     "oldText": "1 WIND Machine Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can activate 1 of these effects;\n●Destroy all other cards on the field.\n●Negate the effects of all face-up cards your opponent currently controls.\nIf this card in your possession is sent to your GY by an opponent's card: You can add 1 \"Speedroid\" monster from your Deck to your hand.\nYou can only use each effect of \"Hi-Speedroid Kitedrake\" once per turn.",
     "newText": "1 WIND Machine Tuner + 1+ non-Tuner monsters\nIf this card is Synchro Summoned: You can activate 1 of these effects.\n●Destroy all other cards on the field.\n●Negate the effects of all face-up cards your opponent currently controls.\nIf this card in your possession is sent to your GY by your opponent: You can add 1 \"Speedroid\" monster from your Deck to your hand.\nYou can only use each effect of \"Hi-Speedroid Kitedrake\" once per turn.",
     "author": "gallantron",
-    "lastPrint": "2021-10-29",
+    "lastPrint": "2024-02-23",
     "lastUpdated": "2020-12-30",
     "references": [
       {
@@ -2153,7 +2153,7 @@
     "oldText": "Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by sending 1 face-up \"Elemental HERO Neos\" and 1 face-up \"Yubel\" you control to the GY. Cannot be destroyed by card effects. At the end of the Damage Step, if this card battled an opponent's monster: Inflict damage to your opponent equal to that opponent's monster's ATK, also you gain LP equal to that opponent's monster's DEF.",
     "newText": "Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by sending 1 face-up \"Elemental HERO Neos\" and 1 face-up \"Yubel\" from your Monster Zone to the GY. Cannot be destroyed by card effects. At the end of the Damage Step, if this card battled an opponent's monster: Inflict damage to your opponent equal to that opponent's monster's ATK, also you gain LP equal to that opponent's monster's DEF.",
     "author": "gallantron",
-    "lastPrint": "2024-02-22",
+    "lastPrint": "2024-02-23",
     "lastUpdated": "2020-12-30",
     "references": [
       {
@@ -5320,7 +5320,7 @@
     "oldText": "2 \"HERO\" monsters\nIf this card is Link Summoned: You can reveal 1 \"HERO\" Fusion Monster in your Extra Deck, and if you do, add up to 2 of the Fusion Materials mentioned on that card, with different names, from your Deck to your hand. You cannot Special Summon monsters the turn you activate this effect, except \"HERO\" monsters. You can only use this effect of \"Xtra HERO Infernal Devicer\" once per turn. Fiend monsters this card points to gain ATK/DEF equal to its Level x 100.",
     "newText": "2 \"HERO\" monsters\nIf this card is Link Summoned: You can reveal 1 \"HERO\" Fusion Monster in your Extra Deck, and if you do, add up to 2 of the named Fusion Materials specifically mentioned on that card, with different names, from your Deck to your hand. You cannot Special Summon monsters the turn you activate this effect, except \"HERO\" monsters. You can only use this effect of \"Xtra HERO Infernal Devicer\" once per turn. Any Fiend monster(s) this card points to gains ATK/DEF equal to its Level x 100.",
     "author": "gallantron",
-    "lastPrint": "2024-02-22",
+    "lastPrint": "2024-02-23",
     "lastUpdated": "2021-08-11",
     "references": [
       {
@@ -8236,7 +8236,7 @@
     "oldText": "3 Level 8 monsters\nIf this card is Xyz Summoned using \"Galaxy-Eyes Photon Dragon\" as any of its materials: Negate the effects of all other face-up cards currently on the field. Once per turn: You can detach 1 material from this card; detach all materials from monsters your opponent controls, then this card gains 500 ATK for each, also it can attack up to that many times during each Battle Phase this turn.",
     "newText": "3 Level 8 monsters\nIf this card is Xyz Summoned using \"Galaxy-Eyes Photon Dragon\" as any of its materials: Negate the effects of all other face-up cards currently on the field. Once per turn: You can detach 1 material from this card; detach all materials from monsters your opponent controls, then, for the rest of this turn, this card gains 500 ATK for each, also it can attack up to that many times during each Battle Phase.",
     "author": "gallantron",
-    "lastPrint": "2024-02-22",
+    "lastPrint": "2024-02-23",
     "lastUpdated": "2022-08-15",
     "references": [
       {
