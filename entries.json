@@ -8682,29 +8682,6 @@
     ]
   },
   {
-    "id": 4746,
-    "icon": "effect",
-    "name": "Invitation to a Dark Sleep",
-    "oldText": "When this monster is summoned (excluding Special Summon), select 1 of your opponent's monsters. As long as this card remains face-up on the field, the selected monster cannot attack.",
-    "newText": "If this card is Normal or Flip Summoned: target 1 monster your opponent controls; this card gains the following effect.\n● The targeted monster cannot attack.",
-    "author": "gallantron",
-    "lastPrint": "2023-04-21",
-    "lastUpdated": "2022-10-03",
-    "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4746&request_locale=ja",
-        "title": "Invitation to a Dark Sleep",
-        "date": "2022-10-03",
-        "desc": "In the Official Card Game, Invitation to a Dark Sleep's effect grants it an additional effect.\n(If Invitation to a Dark Sleep's effects are later negated, the targeted monster can attack once again.)"
-      }
-    ],
-    "customDiffData": [
-      [96,82],
-      [50,37],
-      [36,38]
-    ]
-  },
-  {
     "id": 6600,
     "icon": "effect",
     "name": "Anteatereatingant",
