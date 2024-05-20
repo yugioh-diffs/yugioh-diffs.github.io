@@ -85,7 +85,7 @@ let rewriteURL = ((url, linkMode) =>
                     const cid = parseInt(params.get('cid'));
                     const locale = params.get('request_locale');
                     if (cid && locale && (locale.length === 2))
-                        return new URL('https://db.ygorganization.com/card#'+cid+':'+locale);
+                        return new URL('https://db.ygoresources.com/card#'+cid+':'+locale);
             }
             break;
         case '/yugiohdb/faq_search.action':
@@ -94,11 +94,11 @@ let rewriteURL = ((url, linkMode) =>
                 case '4':
                     const cid = parseInt(params.get('cid'));
                     if (cid)
-                        return new URL('https://db.ygorganization.com/card#'+cid);
+                        return new URL('https://db.ygoresources.com/card#'+cid);
                 case '5':
                     const fid = parseInt(params.get('fid'));
                     if (fid)
-                        return new URL('https://db.ygorganization.com/qa#'+fid);
+                        return new URL('https://db.ygoresources.com/qa#'+fid);
             }
             break;
     }

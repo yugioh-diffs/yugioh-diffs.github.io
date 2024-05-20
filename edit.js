@@ -62,12 +62,12 @@ document.addEventListener('DOMContentLoaded', () =>
     document.getElementById('card-id').addEventListener('input', function()
     {
         let v = this.value;
-        if (v.startsWith('https://db.ygorganization.com/card#'))
+        if (v.startsWith('https://db.ygoresources.com/card#'))
         {
             if (v.charAt(v.length-3) === ':')
-                this.value = v.substring(35, v.length-3);
+                this.value = v.substring(33, v.length-3);
             else
-                this.value = v.substring(35);
+                this.value = v.substring(33);
             this.blur();
         }
         else if (v.startsWith('https://texts.ygoresources.com/#'))
@@ -111,7 +111,7 @@ document.addEventListener('DOMContentLoaded', () =>
             let dbText = null;
             try
             {
-                dbText = (await (await fetch('https://db.ygorganization.com/data/card/'+id)).json()).cardData.en.effectText;
+                dbText = (await (await fetch('https://db.ygoresources.com/data/card/'+id)).json()).cardData.en.effectText;
             } catch (f) { console.error(f); dbText = 'OrgDB query failed:\n'+f; }
             if (document.getElementById('new-text').value) return;
             
@@ -135,7 +135,7 @@ document.addEventListener('DOMContentLoaded', () =>
             try
             {
                 let v = this.value;
-                if (v.startsWith('https://db.ygorganization.com/card#'))
+                if (v.startsWith('https://db.ygoresources.com/card#'))
                 {
                     const cid = parseInt(v.substr(35));
                     if (isNaN(cid))
@@ -145,7 +145,7 @@ document.addEventListener('DOMContentLoaded', () =>
                     else
                         this.value = ('https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=' + cid + '&request_locale=ja');
                 }
-                else if (v.startsWith('https://db.ygorganization.com/qa#'))
+                else if (v.startsWith('https://db.ygoresources.com/qa#'))
                 {
                     const fid = parseInt(v.substr(33));
                     if (isNaN(fid))
@@ -164,7 +164,7 @@ document.addEventListener('DOMContentLoaded', () =>
                     const cid = parseInt(v.substr(cidx+5));
                     if (isNaN(cid))
                         return;
-                    const dat = await (await fetch('https://db.ygorganization.com/data/card/'+cid)).json();
+                    const dat = await (await fetch('https://db.ygoresources.com/data/card/'+cid)).json();
                     if (v !== this.value)
                         return;
                     if (e.value)
@@ -279,7 +279,7 @@ document.addEventListener('DOMContentLoaded', () =>
                 let dbEntry = null;
                 try
                 {
-                    dbEntry = await (await fetch('https://db.ygorganization.com/data/card/'+id)).json();
+                    dbEntry = await (await fetch('https://db.ygoresources.com/data/card/'+id)).json();
                 } catch (f) { console.error(f); throw 'Failed to get data from YGOrg DB'; }
                 
                 const data = {

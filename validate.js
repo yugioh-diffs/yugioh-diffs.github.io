@@ -66,7 +66,7 @@ document.addEventListener('DOMContentLoaded', () =>
             document.getElementById('img').disabled = true;
             document.getElementById('json').disabled = true;
             
-            const artworkManifest = await (await fetch('https://artworks.ygorganization.com/manifest.json', {cache: 'reload'})).json();
+            const artworkManifest = await (await fetch('https://artworks.ygoresources.com/manifest.json', {cache: 'reload'})).json();
 
             const data = await (await fetch('entries.json', {cache: 'reload'})).json();
             LOG('Loaded '+data.length+' entries from existing entries.json');
@@ -77,7 +77,7 @@ document.addEventListener('DOMContentLoaded', () =>
                 try
                 {
                     let changed = false;
-                    const dbEntry = await (await fetch('https://db.ygorganization.com/data/card/'+entry.id)).json();
+                    const dbEntry = await (await fetch('https://db.ygoresources.com/data/card/'+entry.id)).json();
                     if (dbEntry.cardData.en.id !== entry.id)
                     {
                         LOG('Adjusted canonical ID: ' + entry.id + ' -> ' + dbEntry.cardData.en.id);
@@ -92,7 +92,7 @@ document.addEventListener('DOMContentLoaded', () =>
                         for (const artworkId in artworkManifest.cards[entry.id])
                         {
                             const artworkData = artworkManifest.cards[entry.id][artworkId]
-                            img.src = new URL(artworkData.bestArt, 'https://artworks.ygorganization.com/').href;
+                            img.src = new URL(artworkData.bestArt, 'https://artworks.ygoresources.com/').href;
                             break;
                         }
                         await img.decode();

@@ -111,7 +111,7 @@ document.getElementById('diff-clear').addEventListener('click', () =>
 document.getElementById('card-id').addEventListener('input', function()
 {
     let v = this.value;
-    if (v.startsWith('https://db.ygorganization.com/card#'))
+    if (v.startsWith('https://db.ygoresources.com/card#'))
     {
         if (v.charAt(v.length-3) === ':')
             this.value = v.substring(35, v.length-3);
