@@ -119,7 +119,7 @@ document.getElementById('card-id').addEventListener('input', function()
             this.value = v.substring(35);
         this.blur();
     }
-    else if (v.startsWith('https://yugioh-diffs.github.io/#'))
+    else if (v.startsWith('https://texts.ygoresources.com/#'))
     {
         this.value = v.substring(32);
         this.blur();
