@@ -10561,5 +10561,23 @@
       [4,14],
       22
     ]
+  },
+  {
+    "id": 12249,
+    "icon": "effect",
+    "name": "Jizukiru, the Star Destroying Kaiju",
+    "oldText": "You can Special Summon this card (from your hand) to your opponent's field in Attack Position, by Tributing 1 monster they control. If your opponent controls a \"Kaiju\" monster, you can Special Summon this card (from your hand) in Attack Position. You can only control 1 \"Kaiju\" monster. When a card or effect is activated that targets 1 card (and no other cards) (Quick Effect): You can remove 3 Kaiju Counters from anywhere on the field; negate that effect, and if you do, you can destroy 1 card on the field.",
+    "newText": "You can Special Summon this card (from your hand) to your opponent's field in Attack Position, by Tributing 1 monster they control. If your opponent controls a \"Kaiju\" monster, you can Special Summon this card (from your hand) in Attack Position. You can only control 1 \"Kaiju\" monster. When a card or effect is activated that targets 1 card (and no other cards) (Quick Effect): You can remove 3 Kaiju Counters from anywhere on the field; negate that effect, then you can destroy 1 card on the field.",
+    "author": "gallantron",
+    "lastPrint": "2024-02-23",
+    "lastUpdated": "2024-06-07",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=249&request_locale=ja",
+        "title": "Jizukiru, the Star Destroying Kaiju",
+        "date": "2024-06-07",
+        "desc": "In the Official Card Game, negating the effect and destroying a card on the field are not treated as having happened simultaneously."
+      }
+    ]
   }
 ]

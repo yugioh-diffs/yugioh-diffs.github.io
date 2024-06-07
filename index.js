@@ -199,7 +199,7 @@ let loadEntry = ((entry, force) =>
 
 document.addEventListener('DOMContentLoaded', async () =>
 {
-    document.getElementById('data-show-diff').checked = (window.localStorage.getItem('showDiff') === 'true');
+    document.getElementById('data-show-diff').checked = (window.localStorage.getItem('showDiff') !== 'false');
     document.getElementById('data-show-diff').addEventListener('change', diffToggled);
     diffToggled();
     

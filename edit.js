@@ -137,7 +137,7 @@ document.addEventListener('DOMContentLoaded', () =>
                 let v = this.value;
                 if (v.startsWith('https://db.ygoresources.com/card#'))
                 {
-                    const cid = parseInt(v.substr(35));
+                    const cid = parseInt(v.substr(33));
                     if (isNaN(cid))
                         return;
                     if (v.charAt(v.length-3) === ':')
@@ -147,7 +147,7 @@ document.addEventListener('DOMContentLoaded', () =>
                 }
                 else if (v.startsWith('https://db.ygoresources.com/qa#'))
                 {
-                    const fid = parseInt(v.substr(33));
+                    const fid = parseInt(v.substr(31));
                     if (isNaN(fid))
                         return;
                     this.value = ('https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=' + fid + '&request_locale=ja');
