@@ -7948,11 +7948,17 @@
     "icon": "trap",
     "name": "Formation Union",
     "oldText": "Activate 1 of the following effects.\n●Target 1 face-up Union monster you control; equip it to 1 appropriate monster you control.\n●Unequip 1 Union monster you control that is an Equip Card and Special Summon it in Attack Position.",
-    "newText": "Activate 1 of the following effects.\n●Target 1 face-up Union monster you control; equip it to 1 appropriate monster you control.\n●Target 1 equipped Union Monster Card in your Spell & Trap Zone; Special Summon it in Attack Position.",
+    "newText": "Activate 1 of these effects;\n●Target 2 monsters you control (1 Union monster, and 1 appropriate monster for it to be equipped to); equip the first target to the second target.\n●Target 1 equipped Union Monster Card in your Spell & Trap Zone; Special Summon it in Attack Position.",
     "author": "gallantron",
     "lastPrint": "2020-11-26",
-    "lastUpdated": "2022-07-09",
+    "lastUpdated": "2024-06-07",
     "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5623&request_locale=ja",
+        "title": "Card FAQ – Formation Union",
+        "date": "2024-06-07",
+        "desc": "In the Official Card Game, the first bulleted effect of Formation Union targets both the Union monster, and the monster it will be equipped to."
+      },
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5623&request_locale=ja",
         "title": "Card FAQ – Formation Union",
@@ -7961,7 +7967,9 @@
       }
     ],
     "customDiffData": [
-      130,
+      [91,78],
+      [36,50],
+      [3,49],
       [61,63],
       38
     ]
