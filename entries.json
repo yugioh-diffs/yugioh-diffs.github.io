@@ -2381,36 +2381,6 @@
     ]
   },
   {
-    "id": 12338,
-    "icon": "spell",
-    "name": "Fusion Tag",
-    "oldText": "Target 1 monster you control; reveal 1 Fusion Monster in your Extra Deck, and if you do, the targeted monster's name can be treated as the revealed Fusion Monster's, if used for a Fusion Summon this turn.",
-    "newText": "Target 1 monster you control; reveal 1 Fusion Monster in your Extra Deck, and if you do, the targeted monster's name can be treated as the revealed Fusion Monster's, if used as Fusion Material this turn.",
-    "author": "gallantron",
-    "lastPrint": "2021-10-15",
-    "lastUpdated": "2021-01-03",
-    "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12338&request_locale=ja",
-        "title": "Fusion Tag",
-        "date": "2021-01-03",
-        "desc": "In the Official Card Game, Fusion Tag allows the monster's name to be treated as the revealed monster's when used as Fusion Material, even if not used for a Fusion Summon."
-      },
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7175&request_locale=en",
-        "title": "Elemental HERO Marine Neos",
-        "date": "2021-01-03",
-        "desc": "Summoning Elemental HERO Marine Neos using the listed procedure is an example of using Fusion Material without performing a Fusion Summon."
-      },
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=18073&request_locale=ja",
-        "title": "Q&A #18073",
-        "date": "2021-01-03",
-        "desc": "In the Official Card Game, the effect of Fusion Tag can be applied when Summoning Elemental HERO Marine Neos using its listed procedure."
-      }
-    ]
-  },
-  {
     "id": 4794,
     "icon": "trap",
     "name": "Time Machine",
