@@ -1149,24 +1149,6 @@
     "icon": "spell"
   },
   {
-    "id": 14221,
-    "oldText": "(This card is always treated as a \"Zubaba\", \"Gagaga\", \"Gogogo\", and \"Dododo\" card.)\nDuring your Main Phase: You can Special Summon up to 1 each \"Zubaba\", \"Gagaga\", \"Gogogo\", and/or \"Dododo\" monster(s) from your hand in Defense Position, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Xyz Monsters. You can only use this effect of \"Utopic Onomatopoeia\" once per turn.",
-    "newText": "(This card is always treated as a \"Zubaba\", \"Gagaga\", \"Gogogo\", and \"Dododo\" card.)\nDuring your Main Phase: You can Special Summon up to 1 each \"Zubaba\", \"Gagaga\", \"Gogogo\", and/or \"Dododo\" monster(s), except \"Utopic Onomatopoeia\", from your hand in Defense Position, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Xyz Monsters. You can only use this effect of \"Utopic Onomatopoeia\" once per turn.",
-    "author": "gallantron",
-    "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14221&request_locale=ja",
-        "title": "Utopic Onomatopoeia",
-        "date": "2020-12-24",
-        "desc": "In the Official Card Game, the effect of Utopic Onomatopoeia cannot Special Summon another copy of Utopic Onomatopoeia from the hand."
-      }
-    ],
-    "name": "Utopic Onomatopoeia",
-    "lastUpdated": "2020-12-24",
-    "lastPrint": "2019-04-03",
-    "icon": "effect"
-  },
-  {
     "id": 14932,
     "oldText": "2 monsters with the same Type or Attribute\nCannot be used as Link Material the turn it is Link Summoned. You can target 1 face-up monster you control; equip 1 monster to it from your hand or Deck with its same original Type or Attribute. The equipped monster gains 1000 ATK. If you equipped it from the Deck, you cannot Special Summon monsters with that Equip Card's name for the rest of this turn. You can only use this effect of \"Union Carrier\" once per turn.",
     "newText": "2 monsters with the same Type or Attribute\nCannot be used as Link Material the turn it is Link Summoned. You can target 1 face-up monster you control; equip 1 monster to it from your hand or Deck with its same original Type or Attribute as an Equip Spell that gives it 1000 ATK, also, if you equip it from the Deck, you cannot Special Summon monsters with that Equip Card's name for the rest of this turn. You can only use this effect of \"Union Carrier\" once per turn.",
