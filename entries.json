@@ -10498,5 +10498,23 @@
         "desc": "In the Official Card Game, negating the effect and destroying a card on the field are not treated as having happened simultaneously."
       }
     ]
+  },
+  {
+    "id": 17797,
+    "icon": "synchro",
+    "name": "Black-Winged Assault Dragon",
+    "oldText": "1 Tuner Synchro Monster + 1+ non-Tuner monsters\nMust be either Synchro Summoned, or Special Summoned from your Extra Deck by banishing 1 Tuner Synchro Monster and 1 \"Black-Winged Dragon\" from your face-up field and/or GY. Each time your opponent activates a monster effect, place 1 Black Feather Counter on this card when that effect resolves, and if you do, inflict 700 damage to your opponent. During your opponent's turn (Quick Effect): You can Tribute this card with 4 or more Black Feather Counters on it; destroy all cards on the field.",
+    "newText": "1 Tuner Synchro Monster + 1+ non-Tuner monsters\nMust be either Synchro Summoned, or Special Summoned from your Extra Deck by banishing 1 Tuner Synchro Monster and 1 \"Black-Winged Dragon\" from your face-up Monster Zone and/or GY. Each time your opponent activates a monster effect, place 1 Black Feather Counter on this card when that effect resolves, and if you do, inflict 700 damage to your opponent. During your opponent's turn (Quick Effect): You can Tribute this card with 4 or more Black Feather Counters on it; destroy all cards on the field.",
+    "author": "gallantron",
+    "lastPrint": "2023-09-08",
+    "lastUpdated": "2024-06-19",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=17797&request_locale=ja",
+        "title": "Card FAQ – Black-Winged Assault Dragon",
+        "date": "2024-06-19",
+        "desc": "In the Official Card Game, \"Black-Winged Dragon\" cannot be banished from the Spell & Trap Zone to Special Summon Black-Winged Assault Dragon."
+      }
+    ]
   }
 ]
