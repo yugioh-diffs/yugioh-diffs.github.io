@@ -10516,5 +10516,30 @@
         "desc": "In the Official Card Game, \"Black-Winged Dragon\" cannot be banished from the Spell & Trap Zone to Special Summon Black-Winged Assault Dragon."
       }
     ]
+  },
+  {
+    "id": 6307,
+    "icon": "effect",
+    "name": "Commander Covington",
+    "oldText": "You can send 1 face-up \"Machina Soldier\", \"Machina Sniper\", and \"Machina Defender\" you control to the GY; Special Summon 1 \"Machina Force\" from your hand or Deck.",
+    "newText": "You can send \"Machina Soldier\", \"Machina Sniper\", and \"Machina Defender\" from your face-up Monster Zone to the GY; Special Summon 1 \"Machina Force\" from your hand or Deck.",
+    "author": "gallantron",
+    "lastPrint": "2020-04-17",
+    "lastUpdated": "2024-06-19",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6307&request_locale=ja",
+        "title": "Card FAQ – Commander Covington",
+        "date": "2024-06-19",
+        "desc": "In the Official Card Game, \"Machina Soldier\", \"Machina Sniper\", and \"Machina Defender\" cannot be sent from the Spell & Trap Zone to the GY."
+      }
+    ],
+    "customDiffData": [
+      [15,73],
+      [7,30],
+      [61,68],
+      [11,0],
+      [68,0]
+    ]
   }
 ]
