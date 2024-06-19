@@ -10541,5 +10541,28 @@
       [11,0],
       [68,0]
     ]
+  },
+  {
+    "id": 6293,
+    "icon": "effect",
+    "name": "Vampire Genesis",
+    "oldText": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 \"Vampire Lord\" you control. Once per turn: You can discard 1 Zombie monster to the GY, then target 1 Zombie monster in your GY with a Level less than the discarded Zombie monster's; Special Summon that target.",
+    "newText": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 \"Vampire Lord\" from your Monster Zone. Once per turn: You can discard 1 Zombie monster to the GY, then target 1 Zombie monster in your GY with a Level less than the discarded Zombie monster's; Special Summon that target.",
+    "author": "gallantron",
+    "lastPrint": "2023-03-31",
+    "lastUpdated": "2024-06-19",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6293&request_locale=ja",
+        "title": "Card FAQ – Vampire Genesis",
+        "date": "2024-06-19",
+        "desc": "In the Official Card Game, Vampire Genesis cannot be Special Summoned by banishing a \"Vampire Lord\" from the Spell & Trap Zone."
+      }
+    ],
+    "customDiffData": [
+      103,
+      [11,22],
+      183
+    ]
   }
 ]
