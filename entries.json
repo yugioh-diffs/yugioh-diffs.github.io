@@ -10680,5 +10680,23 @@
       [60,44],
       320
     ]
+  },
+  {
+    "id": 19368,
+    "icon": "spell",
+    "name": "Mementotlan Bone Party",
+    "oldText": "Destroy 1 \"Memento\" monster in your hand or face-up field, take 1 \"Memento\" monster from your Deck with a different name, and either add it to your hand or Special Summon it in Defense Position. During your Main Phase: You can banish this card from your GY, then target 1 \"Memento\" monster you control; if it attacks a Defense Position monster this turn, inflict piercing battle damage to your opponent. You can only use each effect of \"Mementotlan Bone Party\" once per turn.",
+    "newText": "Destroy 1 \"Memento\" monster in your hand or face-up field, and if you do, take 1 \"Memento\" monster from your Deck with a different name, and either add it to your hand or Special Summon it in Defense Position. During your Main Phase: You can banish this card from your GY, then target 1 \"Memento\" monster you control; if it attacks a Defense Position monster this turn, inflict piercing battle damage to your opponent. You can only use each effect of \"Mementotlan Bone Party\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2023-11-17",
+    "lastUpdated": "2024-07-21",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=19368&request_locale=ja",
+        "title": "Card FAQ – Mementotlan Bone Party",
+        "date": "2024-07-21",
+        "desc": "In the Official Card Game, destroying a \"Memento\" monster and Special Summoning a \"Memento\" from the Deck are treated as having happened simultaneously."
+      }
+    ]
   }
 ]
