@@ -10727,5 +10727,46 @@
       [13,0],
       [194,0]
     ]
+  },
+  {
+    "id": 5753,
+    "icon": "trap",
+    "name": "Judgment of the Pharaoh",
+    "oldText": "Pay half of your Life Points. Select and activate an appropriate effect which can be applied:\n●If \"Yu-Jo Friendship\" is in your Graveyard, until the end of this turn: your opponent cannot Normal Summon, Set, Flip Summon, or Special Summon a monster(s) or activate an Effect Monster's effect.\n●If \"Unity\" is in your Graveyard, until the end of this turn: negate the effects of all Spell and Trap Cards on your opponent's side of the field, and your opponent cannot activate or Set Spell or Trap Cards.",
+    "newText": "You must have the specified card in your GY to activate and to resolve this card's effects. Play half of your LP and activate 1 of these effects;\n●\"Yu-Jo Friendship\": until the end of this turn, your opponent cannot Summon or Set monsters or activate monster effects, and the effects of all monsters they control are negated.\n●\"Unity\": until the end of this turn, your opponent cannot activate or Set Spell/Trap Cards, and the effects of all Spells/Traps they control are negated.",
+    "author": "gallantron",
+    "lastPrint": "2006-08-01",
+    "lastUpdated": "2024-09-01",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5753&request_locale=ja",
+        "title": "Card FAQ – Judgment of the Pharaoh",
+        "date": "2024-09-01",
+        "desc": "In the Official Card Game, Judgment of the Pharaoh negates the effects of monsters your opponent controls."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=9443&request_locale=ja",
+        "title": "Q&A #9443",
+        "date": "2024-09-01",
+        "desc": "In the Official Card Game, the specified card must remain in the GY in order to apply each effect."
+      }
+    ],
+    "customDiffData": [
+      0,
+      [93,145],
+      [2,20],
+      [3,1],
+      [18,27],
+      [22,1],
+      [27,74],
+      [1,57],
+      [127,9],
+      [3,1],
+      [7,27],
+      [22,1],
+      [27,117],
+      [1,0],
+      [147,0]
+    ]
   }
 ]
