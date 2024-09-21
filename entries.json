@@ -5813,29 +5813,6 @@
     ]
   },
   {
-    "id": 8087,
-    "icon": "effect",
-    "name": "Ido the Supreme Magical Force",
-    "oldText": "You cannot Summon monsters. You can only control 1 \"Ido the Supreme Magical Force\". If this card is destroyed by a card effect and sent to the Graveyard, Special Summon it from your Graveyard during the next turn's Standby Phase and destroy all other monsters you control.",
-    "newText": "While you control this card, you cannot Summon, and cannot Normal Set. You can only control 1 \"Ido the Supreme Magical Force\". Once per turn, during the Standby Phase of the next turn after this card was destroyed by a card effect and sent to the GY: Special Summon this card from the GY, and if you do, destroy all other monsters you control.",
-    "author": "gallantron",
-    "lastPrint": "2009-03-03",
-    "lastUpdated": "2021-09-23",
-    "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8087&request_locale=ja",
-        "title": "Ido the Supreme Magical Force",
-        "date": "2021-09-23",
-        "desc": "In the Official Card Game, the Continuous Effect of Ido the Supreme Magical Force also prevents its controller from Normal Setting monsters, not just Summoning them.\nIn particular, note that the Japanese 通常召喚, which literally translates to \"Normal Summon\", is the OCG equivalent of the TCG's \"Normal Summon or Set\".\nThe OCG equivalent to \"Normal Summon (but not Set)\" would be just 召喚."
-      }
-    ],
-    "customDiffData": [
-      0,
-      [27,70],
-      [245,273]
-    ]
-  },
-  {
     "id": 6207,
     "icon": "spell",
     "name": "Harpies' Hunting Ground",
