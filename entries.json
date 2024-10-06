@@ -6,9 +6,9 @@
     "author": "platedpope",
     "references": [
       {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7851&request_locale=ja",
-        "title": "Q&A #7851",
-        "date": "2020-12-23",
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8129&request_locale=en",
+        "title": "Card FAQ - Elemental HERO Absolute Zero",
+        "date": "2024-10-04",
         "desc": "In the Official Card Game, Absolute Zero's effect can only be activated if it leaves the field while face-up."
       }
     ],
@@ -2378,7 +2378,8 @@
         "date": "2021-01-03",
         "desc": "Ghost Belle & Haunted Mansion is an example of a card using the revised textual construct."
       }
-    ]
+    ],
+    "nitpick": true
   },
   {
     "id": 4794,
@@ -10794,6 +10795,24 @@
         "title": "Gimmick Puppet Cattle Scream",
         "date": "2024-09-22",
         "desc": "In the Official Card Game, the effect of Gimmick Puppet Cattle Scream can be activated by detaching a material from a face-down monster you control."
+      }
+    ]
+  },
+  {
+    "id": 20510,
+    "icon": "fusion",
+    "name": "Khaos Starsource Dragon",
+    "oldText": "1 LIGHT or DARK Dragon monster + 1 Dragon monster\nIf this card is Fusion Summoned: You can target cards your opponent controls, up to the number of LIGHT and DARK monsters used as this card's material; destroy them. If this card is banished: You can target 1 Level 4 LIGHT or DARK Dragon monster you control; its Level becomes 8. You can only use each effect of \"Khaos Starsource Dragon\" once per turn.",
+    "newText": "1 LIGHT or DARK Dragon monster + 1 Dragon monster\nIf this card is Fusion Summoned: You can target cards your opponent controls, up to the number of your LIGHT and DARK monsters used as this card's material; destroy them. If this card is banished: You can target 1 Level 4 LIGHT or DARK Dragon monster you control; its Level becomes 8. You can only use each effect of \"Khaos Starsource Dragon\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2024-10-11",
+    "lastUpdated": "2024-10-06",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=20510&request_locale=ja",
+        "title": "Khaos Starsource Dragon",
+        "date": "2024-10-06",
+        "desc": "In the Official Card Game, the effect of Khaos Starsource Dragon only counts LIGHT/DARK monsters that were used while in the player's possession.\n(It does not count monsters on the opponent's field that were used by Super Polymerization, Fallen of Albaz's effect, etc.)"
       }
     ]
   }
