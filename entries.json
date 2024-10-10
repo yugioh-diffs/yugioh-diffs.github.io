@@ -8733,7 +8733,7 @@
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=17803&request_locale=ja",
         "title": "Spright Sprind",
         "date": "2022-11-17",
-        "desc": "In the Official Card Game, the effect of Spright Sprind can be activated by detaching a material from a face-down monster you control."
+        "desc": "In the Official Card Game, the effect of Spright Sprind can be activated by detaching a material from a face-down monster you control. (It does not require the material to be attached to an \"Xyz Monster\".)"
       }
     ]
   },
@@ -10790,6 +10790,24 @@
         "title": "Khaos Starsource Dragon",
         "date": "2024-10-06",
         "desc": "In the Official Card Game, the effect of Khaos Starsource Dragon only counts LIGHT/DARK monsters that were used while in the player's possession.\n(It does not count monsters on the opponent's field that were used by Super Polymerization, Fallen of Albaz's effect, etc.)"
+      }
+    ]
+  },
+  {
+    "id": 19834,
+    "icon": "spell",
+    "name": "Xyz Force",
+    "oldText": "Send 1 \"Xyz\" card from your Deck to the GY, except \"Xyz Force\", or if an Xyz Monster is on the field that has an Xyz Monster as material, you can add the \"Xyz\" card to your hand instead. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY; detach 1 material from an Xyz Monster on either field, then if the detached material was an Xyz Monster, you can Special Summon that monster from your GY or your banishment, in Defense Position. You can only use each effect of \"Xyz Force\" once per turn.",
+    "newText": "Send 1 \"Xyz\" card from your Deck to the GY, except \"Xyz Force\", or if an Xyz Monster is on the field that has an Xyz Monster as material, you can add the \"Xyz\" card to your hand instead. During your Main Phase, except the turn this card was sent to the GY: You can banish this card from your GY; detach 1 material from a monster on either field, then if the detached material was an Xyz Monster, you can Special Summon that monster from your GY or your banishment, in Defense Position. You can only use each effect of \"Xyz Force\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2024-02-09",
+    "lastUpdated": "2024-10-10",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=19834&request_locale=ja",
+        "title": "Xyz Force",
+        "date": "2024-10-10",
+        "desc": "In the Official Card Game, the effect of Xyz Force can detach a material from a face-down monster on the field. (It does not require the material to be attached to an \"Xyz Monster\".)"
       }
     ]
   }
