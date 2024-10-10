@@ -8955,10 +8955,10 @@
     "id": 15030,
     "icon": "xyz",
     "name": "Valiant Shark Lancer",
-    "oldText": "2 Level 5 monsters\nYou can target 1 monster your opponent controls; detach 1 material from an Xyz Monster you control, and if you do, destroy that monster. This is a Quick Effect if you control another WATER Xyz Monster. If another WATER Xyz Monster(s) you control is destroyed by battle or card effect while you control this monster: You can take 1 Spell from your Deck and place it on top of your Deck. You can only use each effect of \"Valiant Shark Lancer\" once per turn.",
+    "oldText": "2 Level 5 monsters\nYou can target 1 monster your opponent controls; detach 1 material from an Xyz Monster you control, and if you do, destroy that monster. This is a Quick Effect if you control another WATER Xyz Monster. If another WATER Xyz Monster(s) you control is destroyed by battle or card effect while you control this monster: You can place 1 Spell from your Deck on top of your Deck. You can only use each effect of \"Valiant Shark Lancer\" once per turn.",
     "newText": "2 Level 5 monsters\nYou can target 1 monster your opponent controls; detach 1 material from a monster you control, and if you do, destroy that monster. This is a Quick Effect if you control another WATER Xyz Monster. If another WATER Xyz Monster(s) you control is destroyed by battle or card effect while you control this monster: You can take 1 Spell from your Deck and place it on top of your Deck. You can only use each effect of \"Valiant Shark Lancer\" once per turn.",
     "author": "gallantron",
-    "lastPrint": "2020-05-01",
+    "lastPrint": "2024-10-10",
     "lastUpdated": "2023-02-26",
     "references": [
       {
@@ -9657,34 +9657,34 @@
     "id": 7153,
     "icon": "trap",
     "name": "Eradicator Epidemic Virus",
-    "oldText": "Tribute 1 DARK monster with 2500 or more ATK, and declare 1 type of card (Spell or Trap); look at your opponent's hand, all Spells/Traps they control, and all cards they draw until the end of their 3rd turn after this card's activation, and destroy all cards of that declared type.",
+    "oldText": "Tribute 1 DARK monster with 2500 or more ATK, and declare 1 type of card (Spell or Trap); look at your opponent's hand, all Spells/Traps they control, and all cards they draw until the end of their 3rd turn after this card resolves, and destroy all cards of that declared type.",
     "newText": "Tribute 1 DARK monster with 2500 or more ATK, and declare 1 type of card (Spell or Trap); look at your opponent's hand, all Spells/Traps they control, and all cards they draw until the 3rd end of their turn, and destroy all cards of that declared type.",
     "author": "gallantron",
-    "lastPrint": "2023-06-02",
-    "lastUpdated": "2023-07-12",
+    "lastPrint": "2024-10-10",
+    "lastUpdated": "2024-10-10",
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7153&request_locale=ja",
         "title": "Eradicator Epidemic Virus",
         "date": "2023-07-12",
-        "desc": "In the Official Card Game, Eradicator Epidemic Virus does not refer to its own card activation."
+        "desc": "In the Official Card Game, Eradicator Epidemic Virus does not refer to \"this card\" resolving."
       },
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23602&request_locale=ja",
         "title": "Q&A #23602",
         "date": "2023-07-12",
-        "desc": "As a result, in the Official Card Game, the effect of Eradicator Epidemic Virus can be applied by the effect of Junk Collector, or the effect of Transaction Rollback in the GY."
+        "desc": "As a result, in the Official Card Game, the entire effect of Eradicator Epidemic Virus can be applied by the effect of Junk Collector, or the effect of Transaction Rollback in the GY."
       },
       {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6236&request_locale=ja",
-        "title": "Q&A #6236",
-        "date": "2023-07-12",
-        "desc": "Compare Extinction on Schedule, another card that counts turns from its card activation. In the Official Card Game, Extinction on Schedule's effect cannot be applied by the effect of Junk Collector, or by the effect of Transaction Rollback in the GY."
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23985&request_locale=ja",
+        "title": "Q&A #23985",
+        "date": "2024-10-10",
+        "desc": "Compare Eldlixir of Scarlet Sanguine, which also applies an effect \"after this card resolves\". That effect is not applied if the effect of Junk Collector, or the effect of Transaction Rollback in the GY, applies Eldlixir of Scarlet Sanguine."
       }
     ],
     "customDiffData": [
       [207,252],
-      [28,0],
+      [24,0],
       [46,0]
     ]
   },
@@ -10325,34 +10325,34 @@
     "id": 6284,
     "icon": "trap",
     "name": "Deck Devastation Virus",
-    "oldText": "Tribute 1 DARK monster with 2000 or more ATK; look at your opponent's hand, all monsters they control, and all cards they draw until the end of their 3rd turn after this card's activation, and destroy all those monsters with 1500 or less ATK.",
+    "oldText": "Tribute 1 DARK monster with 2000 or more ATK; look at your opponent's hand, all monsters they control, and all cards they draw until the end of their 3rd turn after this card resolves, and destroy all those monsters with 1500 or less ATK.",
     "newText": "Tribute 1 DARK monster with 2000 or more ATK; look at your opponent's hand, all monsters they control, and all cards they draw until the 3rd end of their turn, and destroy all those monsters with 1500 or less ATK.",
     "author": "gallantron",
-    "lastPrint": "2023-06-02",
-    "lastUpdated": "2024-01-21",
+    "lastPrint": "2024-10-10",
+    "lastUpdated": "2024-10-10",
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6284&request_locale=ja",
         "title": "Deck Devastation Virus",
         "date": "2024-01-21",
-        "desc": "In the Official Card Game, Deck Devastation Virus does not refer to its own card activation."
+        "desc": "In the Official Card Game, Deck Devastation Virus does not refer to \"this card\" resolving."
       },
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23602&request_locale=ja",
         "title": "Q&A #23602",
         "date": "2024-01-21",
-        "desc": "As a result, in the Official Card Game, the effect of Deck Devastation Virus can be applied by the effect of Junk Collector, or the effect of Transaction Rollback in the GY."
+        "desc": "As a result, in the Official Card Game, the entire effect of Deck Devastation Virus can be applied by the effect of Junk Collector, or the effect of Transaction Rollback in the GY."
       },
       {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6236&request_locale=ja",
-        "title": "Q&A #6236",
-        "date": "2023-07-12",
-        "desc": "Compare Extinction on Schedule, another card that counts turns from its card activation. In the Official Card Game, Extinction on Schedule's effect cannot be applied by the effect of Junk Collector, or by the effect of Transaction Rollback in the GY."
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23985&request_locale=ja",
+        "title": "Q&A #23985",
+        "date": "2024-10-10",
+        "desc": "Compare Eldlixir of Scarlet Sanguine, which also applies an effect \"after this card resolves\". That effect is not applied if the effect of Junk Collector, or the effect of Transaction Rollback in the GY, applies Eldlixir of Scarlet Sanguine."
       }
     ],
     "customDiffData": [
       [159,213],
-      [28,0],
+      [24,0],
       [55,0]
     ]
   },
@@ -10360,34 +10360,34 @@
     "id": 12813,
     "icon": "trap",
     "name": "Full Force Virus",
-    "oldText": "Tribute 1 DARK monster with 2000 or more DEF; look at your opponent's hand, all monsters they control, and all cards they draw until the end of their 3rd turn after this card's activation, and destroy all those monsters with 1500 or less DEF.",
+    "oldText": "Tribute 1 DARK monster with 2000 or more DEF; look at your opponent's hand, all monsters they control, and all cards they draw until the end of their 3rd turn after this card resolves, and destroy all those monsters with 1500 or less DEF.",
     "newText": "Tribute 1 DARK monster with 2000 or more DEF; look at your opponent's hand, all monsters they control, and all cards they draw until the 3rd end of their turn, and destroy all those monsters with 1500 or less DEF.",
     "author": "gallantron",
-    "lastPrint": "2018-04-20",
-    "lastUpdated": "2024-01-21",
+    "lastPrint": "2024-10-10",
+    "lastUpdated": "2024-10-10",
     "references": [
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12813&request_locale=ja",
         "title": "Full Force Virus",
         "date": "2024-01-21",
-        "desc": "In the Official Card Game, Full Force Virus does not refer to its own card activation."
+        "desc": "In the Official Card Game, Full Force Virus does not refer to \"this card\" resolving."
       },
       {
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23602&request_locale=ja",
         "title": "Q&A #23602",
         "date": "2024-01-21",
-        "desc": "As a result, in the Official Card Game, the effect of Full Force Virus can be applied by the effect of Junk Collector, or the effect of Transaction Rollback in the GY."
+        "desc": "As a result, in the Official Card Game, the entire effect of Full Force Virus can be applied by the effect of Junk Collector, or the effect of Transaction Rollback in the GY."
       },
       {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6236&request_locale=ja",
-        "title": "Q&A #6236",
-        "date": "2023-07-12",
-        "desc": "Compare Extinction on Schedule, another card that counts turns from its card activation. In the Official Card Game, Extinction on Schedule's effect cannot be applied by the effect of Junk Collector, or by the effect of Transaction Rollback in the GY."
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=23985&request_locale=ja",
+        "title": "Q&A #23985",
+        "date": "2024-10-10",
+        "desc": "Compare Eldlixir of Scarlet Sanguine, which also applies an effect \"after this card resolves\". That effect is not applied if the effect of Junk Collector, or the effect of Transaction Rollback in the GY, applies Eldlixir of Scarlet Sanguine."
       }
     ],
     "customDiffData": [
       [159,213],
-      [28,0],
+      [24,0],
       [55,0]
     ]
   },
