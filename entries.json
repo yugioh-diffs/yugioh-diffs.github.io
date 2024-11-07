@@ -14,7 +14,7 @@
     ],
     "name": "Elemental HERO Absolute Zero",
     "lastUpdated": "2020-12-17",
-    "lastPrint": "2024-02-23",
+    "lastPrint": "2024-11-07",
     "icon": "fusion"
   },
   {
@@ -519,7 +519,7 @@
     ],
     "name": "T.G. Hyper Librarian",
     "lastUpdated": "2020-12-24",
-    "lastPrint": "2023-10-26",
+    "lastPrint": "2024-05-24",
     "icon": "synchro"
   },
   {
@@ -699,7 +699,7 @@
     ],
     "name": "Morphing Jar",
     "lastUpdated": "2020-05-20",
-    "lastPrint": "2018-12-07",
+    "lastPrint": "2024-11-07",
     "icon": "effect"
   },
   {
@@ -1276,7 +1276,7 @@
     ],
     "name": "Fusion Destiny",
     "lastUpdated": "2021-04-05",
-    "lastPrint": "2024-02-23",
+    "lastPrint": "2024-11-07",
     "icon": "spell",
     "nitpick": true
   },
@@ -1331,7 +1331,7 @@
     ],
     "name": "Thunder King Rai-Oh",
     "lastUpdated": "2020-12-28",
-    "lastPrint": "2014-03-28",
+    "lastPrint": "2024-11-07",
     "icon": "effect"
   },
   {
@@ -2682,7 +2682,7 @@
     "oldText": "4+ Effect Monsters\nYou can also use 1 monster your opponent controls as material to Link Summon this card. If this card is Link Summoned: You can negate the effects of all face-up monsters your opponent currently controls. This Link Summoned card is unaffected by your opponent's activated effects, unless they target this card. Once per turn, when your opponent activates a card or effect that Special Summons a monster(s) from the GY (Quick Effect): You can negate the activation.",
     "newText": "4+ Effect Monsters / You can also use 1 monster your opponent controls as material to Link Summon this card. If this card is Link Summoned: You can negate the effects of all face-up monsters your opponent currently controls. This Link Summoned card is unaffected by your opponent's activated effects, unless they target this card. Once per turn, when your opponent activates a card or effect that includes Special Summoning a monster(s) from the GY (Quick Effect): You can negate the activation.",
     "author": "gallantron",
-    "lastPrint": "2022-09-16",
+    "lastPrint": "2024-05-24",
     "lastUpdated": "2021-01-18",
     "references": [
       {
@@ -3102,7 +3102,7 @@
     "oldText": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing Toon monsters from your hand or field, whose total Levels equal 8 or more. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack directly. Once per turn, if you control \"Toon World\": You can target 1 card on the field; banish it, also this card cannot attack the turn this effect is activated.",
     "newText": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing Toon monsters from your hand or field, whose total Levels equal 8 or more. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack directly. Once per turn, if you control \"Toon World\": You can target 1 card on the field; banish it. This card cannot attack the turn this effect is activated.",
     "author": "gallantron",
-    "lastPrint": "2022-11-18",
+    "lastPrint": "2024-11-07",
     "lastUpdated": "2021-05-17",
     "references": [
       {
@@ -3294,7 +3294,7 @@
     "oldText": "You can Special Summon this card (from your hand) by banishing 1 \"The Agent\" monster from your hand, field, or GY. Once per turn: You can banish 1 LIGHT Fairy monster from your GY, then target 1 card on the field; destroy that target. While \"The Sanctuary in the Sky\" is on the field, you can activate this effect up to twice per turn.",
     "newText": "You can Special Summon this card (from your hand) by banishing 1 \"The Agent\" monster from your hand, field, or GY. Once per turn: You can banish 1 LIGHT Fairy monster from your GY, then target 1 card on the field; destroy it. While \"The Sanctuary in the Sky\" is on the field, this effect can be used up to twice per turn.",
     "author": "gallantron",
-    "lastPrint": "2022-05-06",
+    "lastPrint": "2024-11-07",
     "lastUpdated": "2021-07-04",
     "references": [
       {
@@ -3846,7 +3846,7 @@
     "oldText": "During the Main Phase: The turn player can activate these effect(s).\n●Pay 1000 LP; immediately after this effect resolves, Normal Summon 1 monster from your hand that requires 1 Tribute, without Tributing.\n●Pay 2000 LP; immediately after this effect resolves, Normal Summon 1 monster from your hand that requires 2 Tributes, without Tributing.\n(This is their one Normal Summon/Set for that turn.)",
     "newText": "During the Main Phase: The turn player can activate these effect(s).\n●Pay 1000 LP; immediately after this effect resolves, Normal Summon/Set 1 monster from your hand that requires 1 Tribute, without Tributing.\n●Pay 2000 LP; immediately after this effect resolves, Normal Summon/Set 1 monster from your hand that requires 2 Tributes, without Tributing.\n(This is their one Normal Summon/Set for that turn.)",
     "author": "gallantron",
-    "lastPrint": "2021-06-10",
+    "lastPrint": "2024-11-07",
     "lastUpdated": "2021-06-27",
     "references": [
       {
@@ -4242,7 +4242,7 @@
     "oldText": "Both players must Set Spell Cards before activating them, and cannot activate them until their next turn after Setting them.",
     "newText": "Both players must Set Spell Cards before activating them. If either player Sets a Spell Card, that Spell Card cannot be activated until their next turn.",
     "author": "gallantron",
-    "lastPrint": "2022-11-04",
+    "lastPrint": "2024-05-24",
     "lastUpdated": "2021-07-07",
     "references": [
       {
@@ -4733,7 +4733,7 @@
     "oldText": "Reveal 1 Fusion Monster in your Extra Deck and Special Summon, from your hand or Deck, 1 of the Fusion Materials whose name is mentioned on that monster, also you cannot Special Summon from the Extra Deck, except Fusion Monsters, the turn you activate this card. You can only activate 1 \"Fusion Deployment\" per turn.",
     "newText": "Reveal 1 Fusion Monster in your Extra Deck and Special Summon, from your hand or Deck, 1 of the Fusion Materials whose name is specifically listed on that card. You cannot Special Summon monsters from the Extra Deck, except Fusion Monsters, the turn you activate this card. You can only activate 1 \"Fusion Deployment\" per turn.",
     "author": "gallantron",
-    "lastPrint": "2024-05-23",
+    "lastPrint": "2024-05-24",
     "lastUpdated": "2021-07-29",
     "references": [
       {
@@ -6262,7 +6262,7 @@
     "oldText": "1 \"Despia\" monster + 1 LIGHT or DARK monster\nWhile you control this Fusion Summoned card, your opponent must pay 600 LP to activate cards or effects. If your opponent controls a Ritual, Fusion, Synchro, Xyz, or Link Monster, while this card is in your GY (Quick Effect): You can Special Summon this card, but banish it when it leaves the field. You can only use this effect of \"Masquerade the Blazing Dragon\" once per turn.",
     "newText": "1 \"Despia\" monster + 1 LIGHT or DARK monster\nWhile you control this Fusion Summoned card, your opponent cannot activate cards or effects unless they pay 600 LP. If your opponent controls a Ritual, Fusion, Synchro, Xyz, or Link Monster, while this card is in your GY (Quick Effect): You can Special Summon this card, but banish it when it leaves the field. You can only use this effect of \"Masquerade the Blazing Dragon\" once per turn.",
     "author": "gallantron",
-    "lastPrint": "2022-09-16",
+    "lastPrint": "2024-05-24",
     "lastUpdated": "2021-11-06",
     "references": [
       {
@@ -6941,7 +6941,7 @@
     "oldText": "When you draw this card, if you have no other cards in your hand: You can reveal this card; Special Summon this card from your hand. When this card is Special Summoned: You can add 1 \"Infernity\" card from your Deck to your hand. You must have no cards in your hand to activate and to resolve this effect.",
     "newText": "When you draw a card(s) while you have no cards in your hand, and you draw this card: You can reveal this card; Special Summon it from your hand. When this card is Special Summoned: You can add 1 \"Infernity\" card from your Deck to your hand. You must have no cards in your hand to activate and to resolve this effect.",
     "author": "gallantron",
-    "lastPrint": "2016-07-15",
+    "lastPrint": "2024-11-07",
     "lastUpdated": "2022-02-05",
     "references": [
       {
@@ -7068,7 +7068,7 @@
     "oldText": "If your opponent Special Summons a Link Monster(s) (except during the Damage Step): You can Special Summon this card from your hand, draw cards equal to the number of Link Monsters your opponent controls +1, then shuffle cards from your hand into the Deck equal to the number of Link Monsters they control. When your opponent activates a card or effect that targets a monster(s) you control (Quick Effect): You can discard 1 card; negate the activation, and if you do, destroy it. You can only use each effect of \"Fantastical Dragon Phantazmay\" once per turn.",
     "newText": "If your opponent Special Summons a Link Monster(s) (except during the Damage Step): You can Special Summon this card from your hand, then draw cards equal to the number of Link Monsters your opponent controls +1, then shuffle cards from your hand into the Deck equal to the number of Link Monsters they control. When your opponent activates a card or effect that targets a monster(s) you control (Quick Effect): You can discard 1 card; negate the activation, and if you do, destroy it. You can only use each effect of \"Fantastical Dragon Phantazmay\" once per turn.",
     "author": "gallantron",
-    "lastPrint": "2020-11-13",
+    "lastPrint": "2024-05-24",
     "lastUpdated": "2022-02-24",
     "references": [
       {
@@ -7133,7 +7133,7 @@
     "oldText": "1 Tuner + 1+ non-Tuner monsters\nOnce per turn, you can either: Target 1 monster on the field; equip this card to that target, OR: Unequip this card and Special Summon it in Attack Position. While equipped by this effect, that target gains 1000 ATK. If that target destroys a monster by battle and sends it to the GY: Inflict damage to your opponent equal to the destroyed monster's original ATK.",
     "newText": "1 Tuner + 1+ non-Tuner monsters\nOnce per turn, you can either: Target 1 monster on the field; equip this card to that target, OR: Unequip this card and Special Summon it in Attack Position. While equipped by this effect, that target gains 1000 ATK. If that target destroys a monster by battle and sends it to the GY: Inflict damage to your opponent equal to the ATK of the destroyed monster in the GY.",
     "author": "gallantron",
-    "lastPrint": "2022-03-11",
+    "lastPrint": "2024-11-07",
     "lastUpdated": "2022-03-11",
     "references": [
       {
@@ -7790,37 +7790,6 @@
     ]
   },
   {
-    "id": 7371,
-    "icon": "synchro",
-    "name": "Dark End Dragon",
-    "oldText": "1 Tuner + 1 or more non-Tuner DARK monsters\nOnce per turn: You can target 1 monster your opponent controls; this card loses 500 ATK and DEF, and you send that target to the Graveyard.",
-    "newText": "1 Tuner + 1+ non-Tuner DARK monsters\nOnce per turn: You can target 1 monster your opponent controls; this card loses exactly 500 ATK/DEF, and if it does, send that target to the GY.",
-    "author": "gallantron",
-    "lastPrint": "2012-02-21",
-    "lastUpdated": "2022-07-01",
-    "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7672&request_locale=ja",
-        "title": "Q&A #7672",
-        "date": "2022-07-01",
-        "desc": "In the Official Card Game, if Dark End Dragon's ATK and/or DEF is less than 500 by the time its effect resolves, it will not lose any ATK/DEF."
-      },
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7672&request_locale=ja",
-        "title": "Q&A #7672",
-        "date": "2022-07-01",
-        "desc": "In the Official Card Game, even if the opponent's monster no longer exists, Dark End Dragon still loses 500 ATK/DEF when its effect resolves."
-      }
-    ],
-    "customDiffData": [
-      [141,117],
-      [3,7],
-      [39,14],
-      [0,15],
-      [0,28]
-    ]
-  },
-  {
     "id": 11726,
     "icon": "xyz",
     "name": "Madolche Puddingcess Chocolat-a-la-Mode",
@@ -7888,7 +7857,7 @@
     "oldText": "During your Main Phase, you can Normal Summon 1 \"Madolche\" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) If another \"Madolche\" card(s) you control or in your GY is added to your hand or shuffled into your Main Deck by a card effect: Set 1 \"Madolche\" Spell/Trap directly from your Deck, except \"Madolche Salon\". You can only use this effect of \"Madolche Salon\" once per turn.",
     "newText": "During your Main Phase, you can Normal Summon 1 \"Madolche\" monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) If another \"Madolche\" card(s) you control or in your GY is added to your hand or your Main Deck by a card effect: Set 1 \"Madolche\" Spell/Trap directly from your Deck, except \"Madolche Salon\". You can only use this effect of \"Madolche Salon\" once per turn.",
     "author": "gallantron",
-    "lastPrint": "2020-05-01",
+    "lastPrint": "2024-11-07",
     "lastUpdated": "2022-07-11",
     "references": [
       {
@@ -7966,7 +7935,7 @@
     "oldText": "When this card is activated: You can add 1 \"Tearlaments\" monster or 1 \"Visas Starfrost\" from your Deck to your hand. Fusion Monsters and \"Tearlaments\" monsters you control gain 500 ATK. If a \"Tearlaments\" monster(s) you control or in your GY is shuffled into the Deck or Extra Deck (except during the Damage Step): You can target 1 card on the field; destroy it. You can only use this effect of \"Primeval Planet Perlereino\" once per turn. You can only activate 1 \"Primeval Planet Perlereino\" per turn.",
     "newText": "When this card is activated: You can add 1 \"Tearlaments\" monster or 1 \"Visas Starfrost\" from your Deck to your hand. Fusion Monsters and \"Tearlaments\" monsters you control gain 500 ATK. If a \"Tearlaments\" monster(s) you control or in your GY is returned to the Deck or Extra Deck (except during the Damage Step): You can target 1 card on the field; destroy it. You can only use this effect of \"Primeval Planet Perlereino\" once per turn. You can only activate 1 \"Primeval Planet Perlereino\" per turn.",
     "author": "gallantron",
-    "lastPrint": "2022-08-05",
+    "lastPrint": "2024-05-24",
     "lastUpdated": "2022-07-20",
     "references": [
       {
@@ -8115,7 +8084,7 @@
     "oldText": "If you Ritual Summon exactly 1 \"Nekroz\" Ritual Monster with a card effect that requires use of monsters, this card can be used as the entire requirement. If this card is Tributed by a card effect: You can add 1 Warrior \"Nekroz\" Ritual Monster from your Deck to your hand. You can only use this effect of \"Shurit, Strategist of the Nekroz\" once per turn.",
     "newText": "If you Ritual Summon exactly 1 \"Nekroz\" Ritual Monster with a card effect that requires use of monsters, this card can be used as the entire Level requirement. If this card is Tributed by a card effect: You can add 1 Warrior \"Nekroz\" Ritual Monster from your Deck to your hand. You can only use this effect of \"Shurit, Strategist of the Nekroz\" once per turn.",
     "author": "gallantron",
-    "lastPrint": "2019-04-03",
+    "lastPrint": "2024-11-07",
     "lastUpdated": "2022-08-14",
     "references": [
       {
@@ -8927,7 +8896,7 @@
     "oldText": "You must have this many \"Crystal Beast\" cards in your Spell & Trap Zone to activate and to resolve these effects.\n●1+: This card cannot be destroyed by card effects.\n●2+: Once per turn (including the opponent's) you can halve the battle damage you take.\n●3+: When a Spell/Trap Card is activated: You can send 1 \"Crystal Beast\" monster you control to the GY; negate the activation, and if you do, destroy it.\n●4+: Once per turn, during your Main Phase: You can draw 1 card.\n●5: Once per turn, during your Main Phase: You can target 1 \"Crystal Beast\" card in your Spell & Trap Zone; Special Summon that target.",
     "newText": "This card gains the following effects, based on the number of \"Crystal Beast\" cards in your Spell & Trap Zone.\n●1+: This card cannot be destroyed by card effects.\n●2+: Once per turn, you can halve the battle damage you take.\n●3+: When a Spell/Trap Card is activated (except during the Damage Step): You can send 1 \"Crystal Beast\" monster you control to the GY; negate the activation, and if you do, destroy that card.\n●4+: Once per turn, during your Main Phase: You can draw 1 card.\n●5: Once per turn, during your Main Phase: You can target 1 \"Crystal Beast\" card in your Spell & Trap Zone; Special Summon that target.",
     "author": "gallantron",
-    "lastPrint": "2022-09-30",
+    "lastPrint": "2024-11-07",
     "lastUpdated": "2023-04-09",
     "references": [
       {
@@ -9417,7 +9386,7 @@
     "oldText": "You can pay 500 LP; reveal 3 \"Purrely\" cards from your Deck, except \"My Friend Purrely\", and your opponent randomly picks 1 for you to add to your hand, also shuffle the rest into your Deck. If a face-up \"Purrely\" Xyz Monster(s) you control leaves the field because of an opponent's card, even during the Damage Step: You can add up to 3 \"Purrely\" Quick-Play Spells with different names from your GY to your hand. You can only use each effect of \"My Friend Purrely\" once per turn.",
     "newText": "You can pay 500 LP; reveal 3 \"Purrely\" cards from your Deck, except \"My Friend Purrely\", and your opponent randomly picks 1 for you to add to your hand, also shuffle the rest into your Deck. If your opponent causes a face-up \"Purrely\" Xyz Monster(s) you control to leave the field, even during the Damage Step: You can add up to 3 \"Purrely\" Quick-Play Spells with different names from your GY to your hand. You can only use each effect of \"My Friend Purrely\" once per turn.",
     "author": "gallantron",
-    "lastPrint": "2023-01-20",
+    "lastPrint": "2024-05-24",
     "lastUpdated": "2023-04-26",
     "references": [
       {
@@ -9660,7 +9629,7 @@
     "oldText": "Tribute 1 DARK monster with 2500 or more ATK, and declare 1 type of card (Spell or Trap); look at your opponent's hand, all Spells/Traps they control, and all cards they draw until the end of their 3rd turn after this card resolves, and destroy all cards of that declared type.",
     "newText": "Tribute 1 DARK monster with 2500 or more ATK, and declare 1 type of card (Spell or Trap); look at your opponent's hand, all Spells/Traps they control, and all cards they draw until the 3rd end of their turn, and destroy all cards of that declared type.",
     "author": "gallantron",
-    "lastPrint": "2024-10-10",
+    "lastPrint": "2024-11-07",
     "lastUpdated": "2024-10-10",
     "references": [
       {
@@ -10191,7 +10160,7 @@
     "oldText": "2 Effect Monsters\nIf this card is Link Summoned using a Fusion, Synchro, Xyz, or Link Monster as material: You can target 1 card on the field or in either GY; banish it, also your monsters cannot attack directly this turn. When your opponent activates a card or effect (Quick Effect): You can target 2 face-up monsters on the field, including a monster you control; banish both until the End Phase. You can only use each effect of \"S:P Little Knight\" once per turn.",
     "newText": "2 Effect Monsters\nIf this card is Link Summoned using a Fusion, Synchro, Xyz, or Link Monster as material: You can target 1 card on the field or in either GY; banish it, also your monsters cannot attack directly for the rest of this turn. When your opponent activates a card or effect (Quick Effect): You can target 2 face-up monsters on the field, including a monster you control; banish both until the End Phase. You can only use each effect of \"S:P Little Knight\" once per turn.",
     "author": "gallantron",
-    "lastPrint": "2024-09-20",
+    "lastPrint": "2024-11-07",
     "lastUpdated": "2023-11-18",
     "references": [
       {
@@ -10328,7 +10297,7 @@
     "oldText": "Tribute 1 DARK monster with 2000 or more ATK; look at your opponent's hand, all monsters they control, and all cards they draw until the end of their 3rd turn after this card resolves, and destroy all those monsters with 1500 or less ATK.",
     "newText": "Tribute 1 DARK monster with 2000 or more ATK; look at your opponent's hand, all monsters they control, and all cards they draw until the 3rd end of their turn, and destroy all those monsters with 1500 or less ATK.",
     "author": "gallantron",
-    "lastPrint": "2024-10-10",
+    "lastPrint": "2024-11-07",
     "lastUpdated": "2024-10-10",
     "references": [
       {
@@ -10363,7 +10332,7 @@
     "oldText": "Tribute 1 DARK monster with 2000 or more DEF; look at your opponent's hand, all monsters they control, and all cards they draw until the end of their 3rd turn after this card resolves, and destroy all those monsters with 1500 or less DEF.",
     "newText": "Tribute 1 DARK monster with 2000 or more DEF; look at your opponent's hand, all monsters they control, and all cards they draw until the 3rd end of their turn, and destroy all those monsters with 1500 or less DEF.",
     "author": "gallantron",
-    "lastPrint": "2024-10-10",
+    "lastPrint": "2024-11-07",
     "lastUpdated": "2024-10-10",
     "references": [
       {
@@ -10420,7 +10389,7 @@
     "oldText": "Cannot be Normal Summoned or Set. Must be Special Summoned by \"Yubel - Terror Incarnate\". Cannot be destroyed by battle. You take no battle damage from battles involving this card. At the end of the Damage Step, if this face-up Attack Position card battled an opponent's monster: Inflict damage to your opponent equal to that opponent's monster's ATK, also destroy that monster.",
     "newText": "Cannot be Normal Summoned/Set. Must be Special Summoned by \"Yubel - Terror Incarnate\". Cannot be destroyed by battle. You take no damage from battles involving this card. At the end of the Damage Step, if this face-up Attack Position card battled an opponent's monster: Inflict damage to your opponent equal to that opponent's monster's ATK, and if you do, destroy that monster.",
     "author": "gallantron",
-    "lastPrint": "2024-02-23",
+    "lastPrint": "2024-11-07",
     "lastUpdated": "2024-02-23",
     "references": [
       {
