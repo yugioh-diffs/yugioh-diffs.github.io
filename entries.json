@@ -10802,5 +10802,23 @@
       [11,20],
       9
     ]
+  },
+  {
+    "id": 7624,
+    "icon": "spell",
+    "name": "Light Barrier",
+    "oldText": "Once per turn, during your Standby Phase: Toss a coin. If the result is Tails, the following effects are negated until your next Standby Phase.\n●When you Summon an \"Arcana Force\" monster, choose which effect to apply without tossing a coin.\n●If your \"Arcana Force\" monster destroys an opponent's monster by battle: You gain LP equal to the destroyed monster's original ATK.",
+    "newText": "Once per turn, during your Standby Phase: Toss a coin. If the result is Tails, the following effects are negated until your next Standby Phase.\n●When you resolve an \"Arcana Force\" monster's effect when it is Summoned, choose which effect to apply without tossing a coin.\n●If your \"Arcana Force\" monster destroys an opponent's monster by battle: You gain LP equal to the destroyed monster's original ATK.",
+    "author": "gallantron",
+    "lastPrint": "2024-03-29",
+    "lastUpdated": "2024-11-08",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7624&request_locale=ja",
+        "title": "Card FAQ – Light Barrier",
+        "date": "2024-11-08",
+        "desc": "In the Official Card Game, the effect of Light Barrier does not apply if your opponent resolves the effect of an \"Arcana Force\" monster that you Summoned."
+      }
+    ]
   }
 ]
