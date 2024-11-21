@@ -10820,5 +10820,23 @@
         "desc": "In the Official Card Game, the effect of Light Barrier does not apply if your opponent resolves the effect of an \"Arcana Force\" monster that you Summoned."
       }
     ]
+  },
+  {
+    "id": 9479,
+    "icon": "effect",
+    "name": "Blackwing - Hillen the Tengu-wind",
+    "oldText": "When you take 2000 or more Battle Damage from your opponent's monster's direct attack while this card is in the Graveyard, you can select 1 Level 3 or lower \"Blackwing\" monster in your Graveyard. Special Summon that monster and this card from the Graveyard. Their effects are negated. Each player can only use the effect of \"Blackwing - Hillen the Tengu-wind\" once per Duel.",
+    "newText": "If you take 2000 or more battle damage from your opponent's monster's direct attack while this card is in your GY: Target 1 Level 3 or lower \"Blackwing\" monster in your GY; Special Summon both that monster and this card from the GY, but negate their effects. You can only use this effect of \"Blackwing - Hillen the Tengu-wind\" once per Duel.",
+    "author": "gallantron",
+    "lastPrint": "2011-05-10",
+    "lastUpdated": "2024-11-21",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=9479&request_locale=ja",
+        "title": "Card FAQ – Blackwing - Hillen the Tengu-wind",
+        "date": "2024-11-21",
+        "desc": "In the Official Card Game, Blackwing - Hillen the Tengu-Wind's effect is mandatory to activate."
+      }
+    ]
   }
 ]
