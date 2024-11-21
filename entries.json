@@ -10838,5 +10838,23 @@
         "desc": "In the Official Card Game, Blackwing - Hillen the Tengu-Wind's effect is mandatory to activate."
       }
     ]
+  },
+  {
+    "id": 11064,
+    "icon": "effect",
+    "name": "Thestalos the Mega Monarch",
+    "oldText": "You can Tribute Summon this card by Tributing 1 Tribute Summoned monster. If this card is Tribute Summoned: Look at your opponent's hand and discard 1 card from their hand, then, if it was a Monster Card, inflict damage to your opponent equal to its original Level x 200. If this card was Tribute Summoned by Tributing a FIRE monster, add this additional effect.\n●Also, inflict 1000 damage to your opponent after that.",
+    "newText": "You can Tribute Summon this card by Tributing 1 Tribute Summoned monster. If this card is Tribute Summoned: Look at your opponent's hand and discard 1 card from their hand, and if you do, if it was a Monster Card, inflict damage to your opponent equal to its original Level x 200. If this card was Tribute Summoned by Tributing a FIRE monster, add this additional effect.\n●Also, after that, inflict 1000 damage to your opponent after that.",
+    "author": "gallantron",
+    "lastPrint": "2021-04-16",
+    "lastUpdated": "2024-11-21",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11064&request_locale=ja",
+        "title": "Card FAQ – Thestalos the Mega Monarch",
+        "date": "2024-11-21",
+        "desc": "In the Official Card Game, discarding a card and inflicting damage based on its Level are treated as having happened simultaneously.\nHowever, in the Official Card Game, dealing damage based on the Level, and dealing 1000 damage, are not treated as having happened simultaneously."
+      }
+    ]
   }
 ]
