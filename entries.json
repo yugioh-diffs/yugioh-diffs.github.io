@@ -236,7 +236,7 @@
     ],
     "name": "Makyura the Destructor",
     "lastUpdated": "2020-09-16",
-    "lastPrint": "2020-09-25",
+    "lastPrint": "2024-12-13",
     "icon": "effect"
   },
   {
@@ -1259,7 +1259,7 @@
   },
   {
     "id": 7397,
-    "oldText": "Neither player can add cards from their Deck to their hand except by drawing them. During either player's turn, when your opponent would Special Summon exactly 1 monster: You can send this face-up card to the Graveyard; negate the Special Summon, and if you do, destroy it.",
+    "oldText": "Neither player can add cards from their Deck to their hand except by drawing them. When your opponent would Special Summon exactly 1 monster (Quick Effect): You can send this face-up card to the GY; negate the Special Summon, and if you do, destroy it.",
     "newText": "Cards cannot be added from either player's Main Deck to the hand, except by drawing them. When your opponent would Special Summon exactly 1 monster (Quick Effect): You can send this face-up card to the GY; negate the Special Summon, and if you do, destroy that monster.",
     "author": "gallantron",
     "references": [
@@ -1356,7 +1356,7 @@
     ],
     "name": "Sentence of Doom",
     "lastUpdated": "2020-12-25",
-    "lastPrint": "2022-07-22",
+    "lastPrint": "2024-12-13",
     "icon": "trap"
   },
   {
@@ -5752,10 +5752,10 @@
     "id": 6207,
     "icon": "spell",
     "name": "Harpies' Hunting Ground",
-    "oldText": "All Winged Beast monsters gain 200 ATK/DEF. If any \"Harpie Lady\" or \"Harpie Lady Sisters\" is Normal or Special Summoned: The player who conducted the Summon targets 1 Spell/Trap on the field; that player destroys that target.",
+    "oldText": "All Winged Beast monsters on the field gain 200 ATK/DEF. If any \"Harpie Lady\" or \"Harpie Lady Sisters\" is Normal or Special Summoned: The player who conducted the Summon targets 1 Spell/Trap on the field; that player destroys that target.",
     "newText": "All Winged Beast monsters gain 200 ATK/DEF. If any \"Harpie Lady\" or \"Harpie Lady Sisters\" is Normal or Special Summoned: The player who conducted the Summon activates this effect by targeting 1 Spell/Trap on the field; they destroy it.",
     "author": "gallantron",
-    "lastPrint": "2021-01-22",
+    "lastPrint": "2024-12-13",
     "lastUpdated": "2021-09-28",
     "references": [
       {
@@ -7421,10 +7421,10 @@
     "id": 5234,
     "icon": "trap",
     "name": "Embodiment of Apophis",
-    "oldText": "During the Main Phase: Special Summon this card as a Normal Monster (Reptile/EARTH/Level 4/ATK 1600/DEF 1800). (This card is also still a Trap.)",
+    "oldText": "During the Main Phase: Special Summon this card as a Normal Monster (Reptile/EARTH/Level 4/ATK 1600/DEF 1800) (this card is also still a Trap).",
     "newText": "You can activate this card during the Main Phase. When this card's activation resolves, Special Summon it as a Normal Monster (Reptile/EARTH/Level 4/ATK 1600/DEF 1800). (This card is also still a Trap.)",
     "author": "gallantron",
-    "lastPrint": "2020-11-26",
+    "lastPrint": "2024-12-13",
     "lastUpdated": "2022-05-27",
     "references": [
       {
@@ -8695,7 +8695,7 @@
     "oldText": "Cannot be Special Summoned. Requires 3 Tributes from either side of the field to Normal Summon to that side of the field (cannot be Normal Set), then shift control to this card's owner during the End Phase of the next turn. Cannot attack. Your opponent cannot target this card for attacks or by card effects. You can Tribute this card; Special Summon 1 \"The Winged Dragon of Ra\" from your hand or Deck, ignoring its Summoning conditions, and if you do, its ATK/DEF become 4000.",
     "newText": "Cannot be Special Summoned. Requires 3 Tributes from either side of the field to Normal Summon to that side of the field (cannot be Normal Set), then shift control to this card's owner during the End Phase of the next turn. Cannot attack. Your opponent cannot target this card with card effects, also monsters your opponent controls cannot target this card for attacks. You can Tribute this card; Special Summon 1 \"The Winged Dragon of Ra\" from your hand or Deck, ignoring its Summoning conditions, and if you do, its ATK/DEF become 4000.",
     "author": "gallantron",
-    "lastPrint": "2023-11-03",
+    "lastPrint": "2024-12-13",
     "lastUpdated": "2022-12-20",
     "references": [
       {
@@ -8939,7 +8939,7 @@
     "oldText": "Cannot be Special Summoned from the GY. Negate the effects of monsters destroyed by battle with Fiend monsters you control.",
     "newText": "Cannot be Special Summoned from the GY. Negate the effects (including in the GY) of monsters destroyed by battle with Fiend monsters you control.",
     "author": "gallantron",
-    "lastPrint": "2023-03-31",
+    "lastPrint": "2024-12-13",
     "lastUpdated": "2023-03-21",
     "references": [
       {
