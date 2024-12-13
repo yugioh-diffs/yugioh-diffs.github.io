@@ -975,24 +975,6 @@
     "icon": "spell"
   },
   {
-    "id": 5246,
-    "oldText": "Return 1 Spell/Trap Card your opponent controls to the hand. This card's activation and effect cannot be negated.",
-    "newText": "Target 1 Spell/Trap your opponent controls; return it to the hand. This card's activation and effect cannot be negated.",
-    "author": "platedpope",
-    "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5246&request_locale=ja",
-        "title": "Card FAQ – Spiritualism",
-        "date": "2020-12-24",
-        "desc": "In the Official Card Game, Spiritualism is activated by targeting the Spell/Trap to be returned to the hand."
-      }
-    ],
-    "name": "Spiritualism",
-    "lastUpdated": "2020-04-02",
-    "lastPrint": "2012-10-02",
-    "icon": "spell"
-  },
-  {
     "id": 14601,
     "oldText": "3 DARK monsters on the field\nGains ATK equal to the total original ATK of all other monsters on the field with a Predator Counter. You can only use each of the following effects of \"Predaplant Triphyoverutum\" once per turn.\n●When your opponent Special Summons a monster(s) from their Extra Deck while you control this Fusion Summoned card (Quick Effect): You can negate the Summon, and if you do, destroy that monster(s).\n●If your opponent controls a monster with a Predator Counter(s): You can Special Summon this card from your GY in Defense Position.",
     "newText": "3 DARK monsters on the field\nGains ATK equal to the total original ATK of all other monsters on the field with a Predator Counter. You can only use each of the following effects of \"Predaplant Triphyoverutum\" once per turn.\n●When your opponent would Special Summon a monster(s) from their Extra Deck while you control this Fusion Summoned card (Quick Effect): You can negate the Summon, and if you do, destroy that monster(s).\n●If your opponent controls a monster with a Predator Counter(s): You can Special Summon this card from your GY in Defense Position.",
@@ -1183,35 +1165,6 @@
     "lastUpdated": "2020-03-19",
     "lastPrint": "2020-08-28",
     "icon": "effect"
-  },
-  {
-    "id": 9455,
-    "icon": "effect",
-    "name": "Maxx \"C\"",
-    "oldText": "During either player's turn: You can send this card from your hand to the Graveyard; this turn, each time your opponent Special Summons a monster(s), immediately draw 1 card. You can only use 1 \"Maxx \"C\"\" per turn.",
-    "newText": "(Quick Effect): You can send this card from your hand to the GY; this turn, each time your opponent Special Summons a monster(s), immediately draw 1 card. You can only use this effect of \"Maxx \"C\"\" once per turn.",
-    "author": "gallantron",
-    "lastPrint": "2017-04-14",
-    "lastUpdated": "2021-07-04",
-    "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9455&request_locale=ja",
-        "title": "Maxx \"C\"",
-        "date": "2020-12-24",
-        "desc": "In the Official Card Game, Maxx \"C\" has a simple usage restriction on its effect.\nThe current English print appears to purport a far broader restriction, including actions such as Summoning Maxx \"C\" or using it as material."
-      },
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4968&request_locale=en",
-        "title": "Prohibition",
-        "date": "2020-12-24",
-        "desc": "Prohibition is an example of a card that refers to generic \"usage\" of monsters."
-      }
-    ],
-    "customDiffData": [
-      [175,155],
-      [39,57]
-    ],
-    "nitpick": true
   },
   {
     "id": 12167,
@@ -3410,24 +3363,6 @@
         "title": "Noble Knight Drystan",
         "date": "2021-06-22",
         "desc": "In the Official Card Game, Noble Knight Drystran's effect only applies to monsters that are specifically on your field."
-      }
-    ]
-  },
-  {
-    "id": 5439,
-    "icon": "trap",
-    "name": "Ordeal of a Traveler",
-    "oldText": "When an opponent's monster declares an attack: Your opponent chooses 1 random card in your hand and calls the type of the card (Monster, Spell, or Trap), and if they call it wrong, return the attacking monster to the hand.",
-    "newText": "When an opponent's monster declares an attack, you can: your opponent chooses 1 random card in your hand and calls the type of the card (Monster, Spell, or Trap), and if they call it wrong, return the attacking monster to the hand.",
-    "author": "Catmaster0",
-    "lastPrint": "2012-10-02",
-    "lastUpdated": "2021-6-21",
-    "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5439&request_locale=ja",
-        "title": "Card FAQ – Ordeal of a Traveler",
-        "date": "2021-06-21",
-        "desc": "In the Official Card Game, Ordeal of a Traveler's effect is optional to activate."
       }
     ]
   },
@@ -9144,24 +9079,6 @@
         "title": "Card FAQ – Aeropixthree",
         "date": "2023-04-09",
         "desc": "In the Official Card Game, Aeropixthree has a separate Continuous Effect that makes monsters lose ATK/DEF if they hold Burnup Counters."
-      }
-    ]
-  },
-  {
-    "id": 13642,
-    "icon": "spell",
-    "name": "Dragon Revival Rhapsody",
-    "oldText": "If you control a Spellcaster monster: You can target up to 2 Dragon monsters in your GY, including at least 1 Normal Monster; Special Summon them. Your opponent takes no damage this turn. You can only activate 1 \"Dragon Revival Rhapsody\" per turn.",
-    "newText": "If you control a Spellcaster monster: You can target up to 2 Dragon monsters in your GY, including at least 1 Normal Monster; Special Summon them, also, for the rest of this turn after this card resolves, your opponent takes no damage. You can only activate 1 \"Dragon Revival Rhapsody\" per turn.",
-    "author": "gallantron",
-    "lastPrint": "2018-03-09",
-    "lastUpdated": "2023-04-09",
-    "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13642&request_locale=ja",
-        "title": "Card FAQ – Dragon Revival Rhapsody",
-        "date": "2023-04-09",
-        "desc": "In the Official Card Game, the effect of Dragon Revival Rhapsody that causes the opponent to take no damage only applies after Dragon Revival Rhapsody's Card activation has resolved.\n(It does not apply before then. It does not apply if the effect is applied without activating the card.)"
       }
     ]
   },
