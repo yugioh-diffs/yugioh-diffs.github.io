@@ -2687,7 +2687,7 @@
     "icon": "trap",
     "name": "Light of Intervention",
     "oldText": "While this card is on the field, Monster Cards cannot be Set or flipped face-down. If a Monster Card would be Set, it must be Normal Summoned in face-up Defense Position.",
-    "newText": "Monster Cards cannot be changed to face-down Defense Position. If a monster would be Normal Set or Special Summoned face-down, it must be Summoned in face-up Defense Position instead.",
+    "newText": "Neither player can Set monsters. Monsters can be Normal Summoned in face-up Defense Position. If a monster would be Special Summoned in face-down Defense Position, it is Special Summoned in face-up Defense Position instead.",
     "author": "gallantron",
     "lastPrint": "2023-04-21",
     "lastUpdated": "2021-01-22",
