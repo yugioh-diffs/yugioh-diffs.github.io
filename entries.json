@@ -10781,24 +10781,6 @@
     ]
   },
   {
-    "id": 20754,
-    "icon": "effect",
-    "name": "Primite Dragon Ether Beryl",
-    "oldText": "If this card is Normal Summoned: You can Set 1 \"Primite\" Spell/Trap from your Deck. You can only use each of the following effects of \"Primite Dragon Ether Beryl\" once per turn. You can Tribute this card; send 1 Normal Monster from your Deck to the GY. During the Standby Phase, if you have a Normal Monster in your field or GY: You can add this card from the GY to your hand.",
-    "newText": "If this card is Normal Summoned: You can Set 1 \"Primite\" Spell/Trap from your Deck. You can only use each of the following effects of \"Primite Dragon Ether Beryl\" once per turn. You can Tribute this card; send 1 Normal Monster from your Deck to the GY. During your Standby Phase, if you have a Normal Monster in your field or GY: You can add this card from the GY to your hand.",
-    "author": "gallantron",
-    "lastPrint": "2025-01-24",
-    "lastUpdated": "2025-01-14",
-    "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=20754&request_locale=ja",
-        "title": "Primite Dragon Ether Beryl",
-        "date": "2025-01-14",
-        "desc": "In the Official Card Game, Primite Dragon Ether Beryl's effect can only be activated during its owner's Standby Phase. It cannot be activated during their opponent's Standby Phase."
-      }
-    ]
-  },
-  {
     "id": 12715,
     "icon": "pen_effect",
     "name": "Abyss Actor - Leading Lady",
