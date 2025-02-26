@@ -6688,7 +6688,7 @@
     "icon": "trap",
     "name": "Musakani Magatama",
     "oldText": "When your opponent activates a Spell/Trap Card, or monster effect, that destroys a card(s), while you control a \"Six Samurai\" monster: Negate the activation, and if you do, destroy it.",
-    "newText": "When your opponent activates a Spell/Trap Card or monster effect that would destroys a card(s), and you control a \"Six Samurai\" monster: Negate the activation, and if you do, destroy it.",
+    "newText": "When your opponent activates a Spell/Trap Card or monster effect that would destroy a card(s), and you control a \"Six Samurai\" monster: Negate the activation, and if you do, destroy it.",
     "author": "gallantron",
     "lastPrint": "2017-11-17",
     "lastUpdated": "2022-01-14",
