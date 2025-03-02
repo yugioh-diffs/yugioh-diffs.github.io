@@ -10902,5 +10902,23 @@
       [0,16],
       [0,428]
     ]
+  },
+  {
+    "id": 13372,
+    "icon": "effect",
+    "name": "Lockout Gardna",
+    "oldText": "When an opponent's monster declares a direct attack: You can Special Summon this card from your hand in Attack Position, and if you do, it cannot be destroyed by battle this turn. When an effect of a monster your opponent controls is activated that targets 1 Cyberse monster you control (and no other cards) (Quick Effect): You can negate the effects of both that Cyberse monster you control and that opponent's monster until the end of this turn.",
+    "newText": "When an opponent's monster declares a direct attack: You can Special Summon this card from your hand in Attack Position, and if you do, it cannot be destroyed by battle this turn. Once per Chain, when an effect of a monster your opponent controls is activated that targets 1 Cyberse monster you control (and no other cards) (Quick Effect): You can negate the effects of both that Cyberse monster you control and that opponent's monster until the end of this turn.",
+    "author": "gallantron",
+    "lastPrint": "2018-08-31",
+    "lastUpdated": "2025-03-02",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13372&request_locale=ja",
+        "title": "Card FAQ – Lockout Gardna",
+        "date": "2025-03-02",
+        "desc": "In the Official Card Game, the effect of \"Lockout Gardna\" can only be activated once on any given Chain."
+      }
+    ]
   }
 ]
