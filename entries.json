@@ -10797,5 +10797,62 @@
         "desc": "In the Official Card Game, the effect of Abyss Actor - Leading Lady cannot be activated unless it being destroyed is the last thing to happen while resolving a Chain."
       }
     ]
+  },
+  {
+    "id": 10151,
+    "icon": "effect",
+    "name": "Madolche Mewfeuille",
+    "oldText": "When this card you control is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: Shuffle this card into your Deck. When this card is Normal Summoned: You can Special Summon 1 \"Madolche\" monster from your hand.",
+    "newText": "If this card in your possession is destroyed by an opponent's card and sent to your GY: Shuffle this card into the Deck. When this card is Normal Summoned: You can Special Summon 1 \"Madolche\" monster from your hand.",
+    "author": "gallantron",
+    "lastPrint": "2012-08-28",
+    "lastUpdated": "2025-03-02",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10151&request_locale=ja",
+        "title": "Madolche Mewfeuille",
+        "date": "2025-03-02",
+        "desc": "In the Official Card Game, the effect of Madolche Mewfeuille can be activated even if it is destroyed in the hand, Deck, etc."
+      }
+    ],
+    "nitpick": true
+  },
+  {
+    "id": 10153,
+    "icon": "effect",
+    "name": "Madolche Chouxvalier",
+    "oldText": "When this card you control is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: Shuffle this card into your Deck. Your opponent cannot target face-up \"Madolche\" monsters for attacks, except \"Madolche Chouxvalier\".",
+    "newText": "If this card in your possession is destroyed by an opponent's card and sent to your GY: Shuffle this card into the Deck. Your opponent cannot target face-up \"Madolche\" monsters for attacks, except \"Madolche Chouxvalier\".",
+    "author": "gallantron",
+    "lastPrint": "2012-08-28",
+    "lastUpdated": "2025-03-02",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10153&request_locale=ja",
+        "title": "Madolche Chouxvalier",
+        "date": "2025-03-02",
+        "desc": "In the Official Card Game, the effect of Madolche Couxvalier can be activated even if it is destroyed in the hand, Deck, etc."
+      }
+    ],
+    "nitpick": true
+  },
+  {
+    "id": 10155,
+    "icon": "effect",
+    "name": "Madolche Butlerusk",
+    "oldText": "When this card you control is destroyed by your opponent's card (either by battle or by card effect) and sent to your Graveyard: Shuffle this card into your Deck. When this card is Normal Summoned: You can add 1 Field Spell Card from your Deck to your hand. There must be another face-up \"Madolche\" monster on the field to activate and to resolve this effect.",
+    "newText": "If this card in your possession is destroyed by an opponent's card and sent to your GY: Shuffle this card into the Deck. When this card is Normal Summoned: You can add 1 Field Spell from your Deck to your hand. There must be another face-up \"Madolche\" monster on the field to activate and to resolve this effect.",
+    "author": "gallantron",
+    "lastPrint": "2012-08-28",
+    "lastUpdated": "2025-03-02",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10155&request_locale=ja",
+        "title": "Madolche Butlerusk",
+        "date": "2025-03-02",
+        "desc": "In the Official Card Game, the effect of Madolche Butlerusk can be activated even if it is destroyed in the hand, Deck, etc."
+      }
+    ],
+    "nitpick": true
   }
 ]
