@@ -10854,5 +10854,30 @@
       }
     ],
     "nitpick": true
+  },
+  {
+    "id": 6143,
+    "icon": "trap",
+    "name": "Ninjitsu Art of Decoy",
+    "oldText": "Target 1 face-up \"Ninja\" monster you control; it cannot be destroyed by battle.",
+    "newText": "Activate this card by targeting 1 \"Ninja\" monster you control; it cannot be destroyed by battle.",
+    "author": "gallantron",
+    "lastPrint": "2012-01-01",
+    "lastUpdated": "2025-03-02",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6143&request_locale=ja",
+        "title": "Card FAQ – Ninjitsu Art of Decoy",
+        "date": "2025-03-02",
+        "desc": "In the Official Card Game, Ninjitsu Art of Decoy, the Trap Card, is activated by targeting a \"Ninja\" monster.\n(It does not have any effect that can be activated separately from its Trap Card activation.)"
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8675&request_locale=en",
+        "title": "Fiendish Chain",
+        "date": "2025-03-02",
+        "desc": "Fiendish Chain is a comparable card that uses the revised textual construct."
+      }
+    ],
+    "nitpick": true
   }
 ]
