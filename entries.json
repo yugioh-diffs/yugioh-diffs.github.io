@@ -10920,5 +10920,23 @@
         "desc": "In the Official Card Game, the effect of \"Lockout Gardna\" can only be activated once on any given Chain."
       }
     ]
+  },
+  {
+    "id": 7671,
+    "icon": "spell",
+    "name": "Miracle Fertilizer",
+    "oldText": "Once per turn: You can target 1 Plant monster in your GY; Special Summon that target. You cannot Normal Summon/Set during the turn you Special Summon with this effect (even if this card leaves the field). If a monster Special Summoned by this effect leaves the field, destroy this card.",
+    "newText": "Once per turn: You can target 1 Plant monster in your GY; Special Summon that target. You cannot Normal Summon/Set during the turn you activate this effect (even if this card leaves the field). If a monster Special Summoned by this effect leaves the field, destroy this card.",
+    "author": "gallantron",
+    "lastPrint": "2020-04-02",
+    "lastUpdated": "2025-03-16",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7671&request_locale=ja",
+        "title": "Card FAQ – Miracle Fertilizer",
+        "date": "2025-03-16",
+        "desc": "In the Official Card Game, you cannot Normal Summon/Set if Miracle Fertilizer's effect was activated, regardless of whether a Special Summon was actually performed."
+      }
+    ]
   }
 ]
