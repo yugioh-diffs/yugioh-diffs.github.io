@@ -10938,5 +10938,23 @@
         "desc": "In the Official Card Game, you cannot Normal Summon/Set if Miracle Fertilizer's effect was activated, regardless of whether a Special Summon was actually performed."
       }
     ]
+  },
+  {
+    "id": 20575,
+    "icon": "effect",
+    "name": "Ext Ryzeal",
+    "oldText": "You can Special Summon this card (from your hand) by sending 1 Xyz Monster from your Extra Deck to the GY. If Summoned this way, you cannot Special Summon from the Extra Deck for the rest of this turn, except Rank 4 Xyz Monsters. You can only Special Summon \"Ext Ryzeal\" once per turn this way. If this card is Normal or Special Summoned and you control no other face-up monsters, except Level/Rank 4 monsters: You can add 1 FIRE Thunder monster from your Deck to your hand. You can only use this effect of \"Ext Ryzeal\" once per turn.",
+    "newText": "You can Special Summon this card (from your hand) by sending 1 Xyz Monster from your Extra Deck to the GY. If Summoned this way, you cannot Special Summon from the Extra Deck for the rest of this turn, except Rank 4 Xyz Monsters. You can only Special Summon \"Ext Ryzeal\" once per turn this way. If this card is Normal or Special Summoned and you control no face-up monsters, except Level/Rank 4 monsters: You can add 1 FIRE Thunder monster from your Deck to your hand. You can only use this effect of \"Ext Ryzeal\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2024-12-06",
+    "lastUpdated": "2025-06-13",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=20575&request_locale=ja",
+        "title": "Ext Ryzeal",
+        "date": "2025-06-13",
+        "desc": "In the Official Card Game, Ext Ryzeal itself is also considered when checking for Level/Rank 4 monsters."
+      }
+    ]
   }
 ]
