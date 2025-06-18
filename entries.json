@@ -3546,24 +3546,6 @@
     ]
   },
   {
-    "id": 9642,
-    "icon": "effect",
-    "name": "Gem-Elephant",
-    "oldText": "During your Main Phase: You can return this face-up card on the field to the hand. During damage calculation, if this card attacked or was attacked: You can send 1 Normal Monster from your hand to the Graveyard; this card gains 1000 DEF.",
-    "newText": "During your Main Phase: You can return this face-up card on the field to the hand. During damage calculation, if this card battles: You can send 1 Normal Monster from your hand to the GY; this card gains 1000 DEF during that damage calculation only.",
-    "author": "gallantron",
-    "lastPrint": "2011-08-16",
-    "lastUpdated": "2021-06-23",
-    "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9642&request_locale=ja",
-        "title": "Gem-Elephant",
-        "date": "2021-06-23",
-        "desc": "In the Official Card Game, Gem-Elephant's DEF is only increased during the damage calculation that its effect resolved in."
-      }
-    ]
-  },
-  {
     "id": 11282,
     "icon": "trap",
     "name": "Shaddoll Core",
