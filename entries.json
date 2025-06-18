@@ -2807,31 +2807,6 @@
     "nitpick": true
   },
   {
-    "id": 9709,
-    "icon": "synchro",
-    "name": "Shooting Quasar Dragon",
-    "oldText": "1 Tuner Synchro Monster + 2 or more non-Tuner Synchro Monsters\nMust be Synchro Summoned, and cannot be Special Summoned by other ways. This card's maximum number of attacks per turn equals the number of non-Tuner monsters used as its Synchro Material. Once per turn, when a card or effect is activated: You can negate the activation and destroy it. When this card leaves the field: You can Special Summon 1 \"Shooting Star Dragon\" from your Extra Deck.",
-    "newText": "1 Tuner Synchro Monster + 2 or more non-Tuner Synchro Monsters\nMust be Synchro Summoned. This card's maximum number of attacks per Battle Phase equals the number of non-Tuner monsters used as its Synchro Material. Once per turn, when a card or effect is activated (Quick Effect): You can negate the activation, and if you do, destroy it. When this face-up card leaves the field: You can Special Summon 1 \"Shooting Star Dragon\" from your Extra Deck.",
-    "author": "Gil",
-    "lastPrint": "2014-10-24",
-    "lastUpdated": "2021-01-29",
-    "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=11048&request_locale=ja",
-        "title": "Q&A #11048",
-        "date": "2021-11-05",
-        "desc": "In the Official Card Game, Shooting Quasar Dragon's effect can only be activated if it leaves the field while face-up."
-      }
-    ],
-    "customDiffData": [
-      [177,131],
-      [4,12],
-      [173,200],
-      [9,17],
-      88
-    ]
-  },
-  {
     "id": 11793,
     "icon": "effect",
     "name": "Tamtam the Melodious Diva",
