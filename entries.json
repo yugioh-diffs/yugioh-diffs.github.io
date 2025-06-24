@@ -7796,11 +7796,11 @@
       }
     ],
     "customDiffData": [
-      [254,110],
+      [253,110],
       [0,44],
       [0,42],
       [0,25],
-      [0,97]
+      [0,96]
     ]
   },
   {
@@ -10865,6 +10865,24 @@
         "title": "Artmage Pact -Awakening-",
         "date": "2025-06-24",
         "desc": "In the Official Card Game, if a card is in a Field Zone when a Fusion Summon using Artmage Masterwork -Succession- is performed, the opponent can activate cards or effects in response even if the effect of Artmage Pact -Awakening- is currently applying."
+      }
+    ]
+  },
+  {
+    "id": 11713,
+    "icon": "ritual",
+    "name": "Nekroz of Sophia",
+    "oldText": "You can Ritual Summon this card with any \"Nekroz\" Ritual Spell. Must be Ritual Summoned, using 3 monsters you control with different Types. During the Main Phase 1 (Quick Effect): You can discard this card and 1 \"Nekroz\" Spell; your opponent cannot Special Summon from the Extra Deck during this phase. When this card is Ritual Summoned: You can banish all other cards on the field and in the GYs. You cannot Normal Summon/Set or Special Summon other monsters the turn you activate this effect.",
+    "newText": "You can Ritual Summon this card with any \"Nekroz\" Ritual Spell. Must be Ritual Summoned from your hand, using 3 monsters you control with different Types. During the Main Phase 1 (Quick Effect): You can discard this card and 1 \"Nekroz\" Spell; your opponent cannot Special Summon from the Extra Deck during this phase. When this card is Ritual Summoned: You can banish all other cards on the field and in the GYs. You cannot Normal Summon/Set or Special Summon other monsters the turn you activate this effect.",
+    "author": "gallantron",
+    "lastPrint": "2025-06-13",
+    "lastUpdated": "2025-06-24",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11713&request_locale=ja",
+        "title": "Nekroz of Sophia",
+        "date": "2025-06-24",
+        "desc": "In the Official Card Game, Nekroz of Sophia can only be Ritual Summoned from the hand."
       }
     ]
   }
