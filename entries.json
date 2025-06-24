@@ -7782,10 +7782,10 @@
     "id": 8292,
     "icon": "effect",
     "name": "Kuribon",
-    "oldText": "During damage calculation, if this card is attacked by your opponent's monster: You can activate this effect; you take no battle damage from that battle, your opponent gains LP equal to the attacking monster's ATK, also you return this card to your hand.",
-    "newText": "During damage calculation, if this card is attacked by your opponent's monster: You can activate this effect; this card cannot be destroyed by this battle, also you take no battle damage from it. After damage calculation, your opponent gains LP equal to the attacking monster's ATK, also return this card to your hand.",
+    "oldText": "During damage calculation, if this card is attacked by your opponent's monster: You can activate this effect; you take no battle damage from that battle, your opponent gains LP equal to the attacking monster's ATK, also you return this card to the hand.",
+    "newText": "During damage calculation, if this card is attacked by your opponent's monster: You can activate this effect; this card cannot be destroyed by this battle, also you take no battle damage from it. After damage calculation, your opponent gains LP equal to the attacking monster's ATK, also return this card to the hand.",
     "author": "gallantron",
-    "lastPrint": "2019-09-27",
+    "lastPrint": "2025-06-18",
     "lastUpdated": "2022-07-17",
     "references": [
       {
@@ -10671,10 +10671,10 @@
     "id": 11064,
     "icon": "effect",
     "name": "Thestalos the Mega Monarch",
-    "oldText": "You can Tribute Summon this card by Tributing 1 Tribute Summoned monster. If this card is Tribute Summoned: Look at your opponent's hand and discard 1 card from their hand, then, if it was a Monster Card, inflict damage to your opponent equal to its original Level x 200. If this card was Tribute Summoned by Tributing a FIRE monster, add this additional effect.\n●Also, inflict 1000 damage to your opponent after that.",
-    "newText": "You can Tribute Summon this card by Tributing 1 Tribute Summoned monster. If this card is Tribute Summoned: Look at your opponent's hand and discard 1 card from their hand, and if you do, if it was a Monster Card, inflict damage to your opponent equal to its original Level x 200. If this card was Tribute Summoned by Tributing a FIRE monster, add this additional effect.\n●Also, after that, inflict 1000 damage to your opponent after that.",
+    "oldText": "You can Tribute Summon this card by Tributing 1 Tribute Summoned monster. If this card is Tribute Summoned: Look at your opponent's hand and discard 1 card from their hand, then, if it was a monster, inflict damage to your opponent equal to its original Level x 200. If this card was Tribute Summoned by Tributing a FIRE monster, add this additional effect.\n●Also, inflict 1000 damage to your opponent after that.",
+    "newText": "You can Tribute Summon this card by Tributing 1 Tribute Summoned monster. If this card is Tribute Summoned: Look at your opponent's hand and discard 1 card from their hand, and if you do, if it was a monster, inflict damage to your opponent equal to its original Level x 200. If this card was Tribute Summoned by Tributing a FIRE monster, add this additional effect.\n●Also, after that, inflict 1000 damage to your opponent after that.",
     "author": "gallantron",
-    "lastPrint": "2021-04-16",
+    "lastPrint": "2025-06-18",
     "lastUpdated": "2024-11-21",
     "references": [
       {
