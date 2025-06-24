@@ -10861,5 +10861,29 @@
         "desc": "In the Official Card Game, Ext Ryzeal itself is also considered when checking for Level/Rank 4 monsters."
       }
     ]
+  },
+  {
+    "id": 21467,
+    "icon": "spell",
+    "name": "Artmage Masterwork -Succession-",
+    "oldText": "During the Main Phase: Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field, including an \"Artmage\" monster, and if a card is in the Field Zone, that monster gains 500 ATK. During your Main Phase: You can banish this card from your GY, then target 3 \"Artmage\" cards with different names in your GY; shuffle them into the Deck. You can only use each effect of \"Artmage Masterwork -Succession-\" once per turn.",
+    "newText": "During the Main Phase: Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field, including an \"Artmage\" monster, then, if a card is in the Field Zone, that monster gains 500 ATK. During your Main Phase: You can banish this card from your GY, then target 3 \"Artmage\" cards with different names in your GY; shuffle them into the Deck. You can only use each effect of \"Artmage Masterwork -Succession-\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2025-07-04",
+    "lastUpdated": "2025-06-24",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=21467&request_locale=ja",
+        "title": "Card FAQ – Artmage Masterwork -Succession-",
+        "date": "2025-06-24",
+        "desc": "In the Official Card Game, the Fusion Monster gains 500 ATK strictly after it is Fusion Summoned."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=21486&request_locale=en",
+        "title": "Artmage Pact -Awakening-",
+        "date": "2025-06-24",
+        "desc": "In the Official Card Game, if a card is in a Field Zone when a Fusion Summon using Artmage Masterwork -Succession- is performed, the opponent can activate cards or effects in response even if the effect of Artmage Pact -Awakening- is currently applying."
+      }
+    ]
   }
 ]
