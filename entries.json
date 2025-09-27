@@ -3294,24 +3294,6 @@
     ]
   },
   {
-    "id": 14335,
-    "icon": "link",
-    "name": "Duel Link Dragon, the Duel Dragon",
-    "oldText": "2+ monsters, including a Synchro Monster\nDuring the Main Phase (Quick Effect): You can banish 1 \"Power Tool\" Synchro Monster or 1 Level 7 or 8 Dragon Synchro Monster from your Extra Deck; Special Summon 1 \"Duel Dragon Token\" with the same Type, Attribute, Level, ATK and DEF that monster had in the Extra Deck. You can only use this effect of \"Duel Link Dragon, the Duel Dragon\" once per turn. While you control \"Duel Dragon Token\", your opponent's monsters cannot target this card for attacks, also your opponent cannot target this card with card effects.",
-    "newText": "2+ monsters, including a Synchro Monster\nDuring the Main Phase (Quick Effect): You can banish 1 \"Power Tool\" Synchro Monster or 1 Level 7 or 8 Dragon Synchro Monster from your Extra Deck; Special Summon 1 \"Duel Dragon Token\" with the same Type, Attribute, Level, ATK, and DEF that monster had in the Extra Deck, to your zone this card points to. You can only use this effect of \"Duel Link Dragon, the Duel Dragon\" once per turn. While you control \"Duel Dragon Token\", your opponent's monsters cannot target this card for attacks, also your opponent cannot target this card with card effects.",
-    "author": "gallantron",
-    "lastPrint": "2020-10-20",
-    "lastUpdated": "2021-06-21",
-    "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14335&request_locale=ja",
-        "title": "Duel Link Dragon, the Duel Dragon",
-        "date": "2021-06-21",
-        "desc": "In the Official Card Game, the Duel Dragon Token must be Summoned to a zone that Duel Link Dragon points to."
-      }
-    ]
-  },
-  {
     "id": 10405,
     "icon": "xyz",
     "name": "Number 53: Heart-eartH",
