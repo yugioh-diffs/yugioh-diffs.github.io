@@ -10867,5 +10867,23 @@
         "desc": "In the Official Card Game, Nekroz of Sophia can only be Ritual Summoned from the hand."
       }
     ]
+  },
+  {
+    "id": 21037,
+    "icon": "effect",
+    "name": "Anubis the Last Judge",
+    "oldText": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand or GY) while you have 3 or more cards in your GY with different names that are \"Temple of the Kings\" and/or Traps, by placing 2 of them on the bottom of the Deck in any order. You can send this card from your hand to the GY; add 1 \"The Man with the Mark\" from your Deck to your hand. If a Spell/Trap(s) you control is destroyed by card effect: You can target 1 card your opponent controls; destroy it. You can only use each effect of \"Anubis the Last Judge\" once per turn.",
+    "newText": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or GY) while you have 3 or more cards in your GY with different names that are \"Temple of the Kings\" and/or Traps, by placing 2 of them on the bottom of the Deck in any order. You can send this card from your hand to the GY; add 1 \"The Man with the Mark\" from your Deck to your hand. If a Spell/Trap(s) you control is destroyed by card effect: You can target 1 card your opponent controls; destroy it. You can only use each effect of \"Anubis the Last Judge\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2025-03-14",
+    "lastUpdated": "2025-09-27",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=21037&request_locale=ja",
+        "title": "Card FAQ – Anubis the Last Judge",
+        "date": "2025-09-27",
+        "desc": "In the Official Card Game, even if Anubis the Last Judge is properly Special Summoned, it still cannot be Special Summoned by other cards' effects afterwards."
+      }
+    ]
   }
 ]
