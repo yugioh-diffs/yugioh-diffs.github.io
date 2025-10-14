@@ -10867,5 +10867,23 @@
         "desc": "In the Official Card Game, even if Anubis the Last Judge is properly Special Summoned, it still cannot be Special Summoned by other cards' effects afterwards."
       }
     ]
+  },
+  {
+    "id": 11753,
+    "icon": "trap",
+    "name": "Statue of Anguish Pattern",
+    "oldText": "Special Summon this card as an Effect Monster (Rock-Type/EARTH/Level 7/ATK 0/DEF 2500). (This card is also still a Trap Card.) If Summoned this way, this card cannot be targeted by an opponent's card effects while you control another Trap Card that is a monster. If a card is Special Summoned from your Spell & Trap Zone to the Monster Zone while this card is a monster: You can target 1 card on the field; destroy it.",
+    "newText": "Special Summon this card as an Effect Monster (Rock-Type/EARTH/Level 7/ATK 0/DEF 2500). (This card is also still a Trap Card.) If Summoned this way, this card cannot be targeted by an opponent's card effects while either player controls another Trap Card that is a monster. If a card is Special Summoned from your Spell & Trap Zone to the Monster Zone while this card is a monster: You can target 1 card on the field; destroy it.",
+    "author": "gallantron",
+    "lastPrint": "2016-09-02",
+    "lastUpdated": "2025-10-14",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11753&request_locale=ja",
+        "title": "Statue of Anguish Pattern",
+        "date": "2025-10-14",
+        "desc": "In the Official Card Game, Statue of Anguish Pattern cannot be targeted by the opponent's effects even if only the opponent controls another Trap Card that is a monster."
+      }
+    ]
   }
 ]
