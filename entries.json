@@ -357,7 +357,7 @@
   {
     "id": 5476,
     "oldText": "Cannot attack the turn it is Summoned. If \"Toon World\" on the field is destroyed, destroy this card. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack your opponent directly. If this card inflicts battle damage to your opponent: Discard 1 random card from your opponent's hand.",
-    "newText": "Cannot attack the turn it is Summoned. If \"Toon World\" on the field is destroyed, destroy this card. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack your opponent directly. If this card inflicts battle damage to your opponent: You can discard 1 random card from your opponent's hand.",
+    "newText": "Cannot attack the turn it is Summoned. If \"Toon World\" on the field is destroyed, destroy this card. While you control \"Toon World\" and your opponent controls no Toon monsters, this card can attack your opponent directly. When this card inflicts battle damage to your opponent: You can discard 1 random card from your opponent's hand.",
     "author": "gallantron",
     "references": [
       {
@@ -4971,7 +4971,7 @@
     "icon": "effect",
     "name": "Gladiator Beast Alexander",
     "oldText": "This card cannot be Special Summoned except by the effect of \"Gladiator Beast Dimacari\". If this card was Special Summoned, it is unaffected by the effects of Spell Cards. At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 \"Gladiator Beast\" monster from your Deck, except \"Gladiator Beast Alexander\".",
-    "newText": "Cannot be Special Summoned by a card effect, except the effect of \"Gladiator Beast Dimacari\". This Special Summoned card is unaffected by Spell effects. At the end of the Battle Phase, if this card battled, you can: Shuffle it into to the Deck; Special Summon 1 \"Gladiator Beast\" monster from your Deck, except \"Gladiator Beast Alexander\".",
+    "newText": "Cannot be Special Summoned by a card effect, except the effect of \"Gladiator Beast Dimacari\". This Special Summoned card is unaffected by Spell effects. At the end of the Battle Phase, if this card battled, you can: Shuffle it into the Deck; Special Summon 1 \"Gladiator Beast\" monster from your Deck, except \"Gladiator Beast Alexander\".",
     "author": "gallantron",
     "lastPrint": "2007-11-14",
     "lastUpdated": "2021-07-30",
@@ -4989,7 +4989,7 @@
     "icon": "effect",
     "name": "Gladiator Beast Spartacus",
     "oldText": "This card cannot be Special Summoned except by the effect of \"Gladiator Beast Hoplomus\". When this card is Special Summoned, add 1 \"Gladiator Beast\" Equip Spell Card from your Deck to your hand. At the end of the Battle Phase, if this card attacked or was attacked, you can return it to the Deck to Special Summon 1 \"Gladiator Beast\" monster from your Deck, except \"Gladiator Beast Spartacus\".",
-    "newText": "Cannot be Special Summoned by a card effect, except the effect of \"Gladiator Beast Hoplomus\". If this card is Special Summoned: add 1 \"Gladiator Beast\" Equip Spell from your Deck to your hand. At the end of the Battle Phase, if this card battled, you can: Shuffle it into to the Deck; Special Summon 1 \"Gladiator Beast\" monster from your Deck, except \"Gladiator Beast Spartacus\".",
+    "newText": "Cannot be Special Summoned by a card effect, except the effect of \"Gladiator Beast Hoplomus\". If this card is Special Summoned: add 1 \"Gladiator Beast\" Equip Spell from your Deck to your hand. At the end of the Battle Phase, if this card battled, you can: Shuffle it into the Deck; Special Summon 1 \"Gladiator Beast\" monster from your Deck, except \"Gladiator Beast Spartacus\".",
     "author": "gallantron",
     "lastPrint": "2007-11-14",
     "lastUpdated": "2021-07-30",
