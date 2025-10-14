@@ -9927,7 +9927,7 @@
     "icon": "effect",
     "name": "Thestalos the Mega Monarch",
     "oldText": "You can Tribute Summon this card by Tributing 1 Tribute Summoned monster. If this card is Tribute Summoned: Look at your opponent's hand and discard 1 card from their hand, then, if it was a monster, inflict damage to your opponent equal to its original Level x 200. If this card was Tribute Summoned by Tributing a FIRE monster, add this additional effect.\n●Also, inflict 1000 damage to your opponent after that.",
-    "newText": "You can Tribute Summon this card by Tributing 1 Tribute Summoned monster. If this card is Tribute Summoned: Look at your opponent's hand and discard 1 card from their hand, and if you do, if it was a monster, inflict damage to your opponent equal to its original Level x 200. If this card was Tribute Summoned by Tributing a FIRE monster, add this additional effect.\n●Also, after that, inflict 1000 damage to your opponent after that.",
+    "newText": "You can Tribute Summon this card by Tributing 1 Tribute Summoned monster. If this card is Tribute Summoned: Look at your opponent's hand and discard 1 card from their hand, and if you do, if it was a monster, inflict damage to your opponent equal to its original Level x 200. If this card was Tribute Summoned by Tributing a FIRE monster, add this additional effect.\n●Also, after that, inflict 1000 damage to your opponent.",
     "author": "gallantron",
     "lastPrint": "2025-06-18",
     "lastUpdated": "2024-11-21",
@@ -10192,6 +10192,24 @@
         "title": "Statue of Anguish Pattern",
         "date": "2025-10-14",
         "desc": "In the Official Card Game, Statue of Anguish Pattern cannot be targeted by the opponent's effects even if only the opponent controls another Trap Card that is a monster."
+      }
+    ]
+  },
+  {
+    "id": 5226,
+    "icon": "normal",
+    "name": "Earthbound Spirit",
+    "oldText": "A vengeful creature formed by the spirits of fallen warriors, it drags any who dare approach it into the deepest bowels of the earth.",
+    "newText": "A vengeful creature formed by the spirits of fallen warriors, it drags any who dare approach it into the deepest bowels of the earth.\n\n(This card is not treated as an \"Earthbound\" card.)",
+    "author": "pazim",
+    "lastPrint": "2020-05-15",
+    "lastUpdated": "2025-10-14",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5226&request_locale=ja",
+        "title": "Earthbound Spirit",
+        "date": "2025-10-14",
+        "desc": "In the Official Card Game, the card is not an \"Earthbound\" (地縛 / じばく) card."
       }
     ]
   }
