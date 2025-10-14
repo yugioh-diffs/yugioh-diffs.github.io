@@ -10449,7 +10449,7 @@
     "icon": "trap",
     "name": "Judgment of the Pharaoh",
     "oldText": "Pay half of your Life Points. Select and activate an appropriate effect which can be applied:\n●If \"Yu-Jo Friendship\" is in your Graveyard, until the end of this turn: your opponent cannot Normal Summon, Set, Flip Summon, or Special Summon a monster(s) or activate an Effect Monster's effect.\n●If \"Unity\" is in your Graveyard, until the end of this turn: negate the effects of all Spell and Trap Cards on your opponent's side of the field, and your opponent cannot activate or Set Spell or Trap Cards.",
-    "newText": "You must have the specified card in your GY to activate and to resolve this card's effects. Play half of your LP and activate 1 of these effects;\n●\"Yu-Jo Friendship\": until the end of this turn, your opponent cannot Summon or Set monsters or activate monster effects, and the effects of all monsters they control are negated.\n●\"Unity\": until the end of this turn, your opponent cannot activate or Set Spell/Trap Cards, and the effects of all Spells/Traps they control are negated.",
+    "newText": "You must have the specified card in your GY to activate and to resolve this card's effects. Pay half of your LP and activate 1 of these effects;\n●\"Yu-Jo Friendship\": until the end of this turn, your opponent cannot Summon or Set monsters or activate monster effects, and the effects of all monsters they control are negated.\n●\"Unity\": until the end of this turn, your opponent cannot activate or Set Spell/Trap Cards, and the effects of all Spells/Traps they control are negated.",
     "author": "gallantron",
     "lastPrint": "2006-08-01",
     "lastUpdated": "2024-09-01",
