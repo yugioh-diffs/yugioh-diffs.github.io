@@ -379,9 +379,9 @@
     "author": "gallantron",
     "references": [
       {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=21501&request_locale=ja",
-        "title": "Q&A #21501",
-        "date": "2020-12-24",
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13389&request_locale=ja",
+        "title": "Card FAQ – Mekk-Knight Indigo Eclipse",
+        "date": "2025-12-07",
         "desc": "In the Official Card Game, even if the targeted monster is no longer 1 \"Mekk-Knight\" monster due to being face-down, it will still be moved."
       }
     ],
@@ -10210,6 +10210,24 @@
         "title": "Earthbound Spirit",
         "date": "2025-10-14",
         "desc": "In the Official Card Game, the card is not an \"Earthbound\" (地縛 / じばく) card."
+      }
+    ]
+  },
+  {
+    "id": 14700,
+    "icon": "trap",
+    "name": "Tachyon Spiral Galaxy",
+    "oldText": "Target 1 Dragon \"Galaxy\" monster you control; until the end of this turn, it cannot be destroyed by battle, also it is unaffected by other card effects, except its own. You can only activate 1 \"Tachyon Spiral Galaxy\" per turn. If you control a \"Galaxy-Eyes Tachyon Dragon\" monster, you can activate this card from your hand.",
+    "newText": "Target 1 Dragon \"Galaxy\" monster you control; until the end of this turn, that face-up monster cannot be destroyed by battle, also that face-up monster is unaffected by other card effects, except its own. You can only activate 1 \"Tachyon Spiral Galaxy\" per turn. If you control a \"Galaxy-Eyes Tachyon Dragon\" monster, you can activate this card from your hand.",
+    "author": "gallantron",
+    "lastPrint": "2019-10-25",
+    "lastUpdated": "2025-12-07",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14700&request_locale=ja",
+        "title": "Card FAQ – Tachyon Spiral Galaxy",
+        "date": "2025-12-07",
+        "desc": "In the Official Card Game, the effect of Tachyon Spiral Galaxy is not applied if the targeted monster is face-down by the time the activation resolves."
       }
     ]
   }
