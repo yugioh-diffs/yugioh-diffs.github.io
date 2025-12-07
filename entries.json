@@ -151,7 +151,7 @@
   },
   {
     "id": 13002,
-    "oldText": "During damage calculation, if your Attack Position monster battles an opponent's Attack Position monster with higher ATK: The controller of the battling monster with lower ATK can pay 500 LP for that monster to gain 500 ATK during damage calculation only, then keep repeating this effect until a player chooses not to pay LP. Neither player takes any battle damage from that battle, also, after damage calculation, if any player's monster would be destroyed by that battle, send all cards that player controls to the Graveyard instead.",
+    "oldText": "During damage calculation, if your Attack Position monster battles an opponent's Attack Position monster with higher ATK: The controller of the battling monster with lower ATK can pay 500 LP for that monster to gain 500 ATK during damage calculation only, then keep repeating this effect until a player chooses not to pay LP. Neither player takes any battle damage from that battle, also, after damage calculation, if any player's monster would be destroyed by that battle, send all cards that player controls to the GY instead.",
     "newText": "During damage calculation, if your Attack Position monster battles an opponent's Attack Position monster with higher ATK: The controller of the battling monster with lower ATK can pay 500 LP for that monster to gain 500 ATK during damage calculation only, then keep repeating this effect until a player chooses not to pay LP. Neither player takes any battle damage from that battle, also, after damage calculation, if any player's monster was destroyed by that battle, send all cards that player controls to the GY.",
     "author": "gallantron",
     "references": [
@@ -176,7 +176,7 @@
     ],
     "name": "Clashing Souls",
     "lastUpdated": "2020-12-07",
-    "lastPrint": "2017-03-31",
+    "lastPrint": "2025-11-07",
     "icon": "spell"
   },
   {
@@ -1384,7 +1384,7 @@
     "oldText": "Until the end of your next turn after this card resolves, neither player can add cards from their Deck to their hand except by drawing them.",
     "newText": "Until the end of your next turn after this card resolves, cards cannot be added from either player's Main Deck to the hand, except by drawing them.",
     "author": "gallantron",
-    "lastPrint": "2020-11-13",
+    "lastPrint": "2025-10-15",
     "lastUpdated": "2020-12-28",
     "references": [
       {
@@ -4001,10 +4001,10 @@
     "id": 16256,
     "icon": "spell",
     "name": "Synchro Overtake",
-    "oldText": "Reveal 1 Synchro Monster in your Extra Deck, choose 1 of the Synchro Materials mentioned on it, and add to your hand or Special Summon that monster, from your Deck or GY, also you cannot Special Summon monsters from the Extra Deck the turn you activate this card, except Synchro Monsters. You can only activate 1 \"Synchro Overtake\" per turn.",
-    "newText": "Reveal 1 Synchro Monster in your Extra Deck, choose 1 of the Synchro Materials whose name is listed on that card, and add to your hand or Special Summon that monster, from your Deck or GY. You cannot Special Summon monsters from the Extra Deck the turn you activate this card, except Synchro Monsters. You can only activate 1 \"Synchro Overtake\" per turn.",
+    "oldText": "Reveal 1 Synchro Monster in your Extra Deck, choose 1 of the Synchro Materials mentioned on it, and add to your hand or Special Summon that monster, from your Deck or GY, also you cannot Special Summon from the Extra Deck the turn you activate this card, except Synchro Monsters. You can only activate 1 \"Synchro Overtake\" per turn.",
+    "newText": "Reveal 1 Synchro Monster in your Extra Deck, choose 1 of the Synchro Materials mentioned on it, and add to your hand or Special Summon that monster, from your Deck or GY. You cannot Special Summon from the Extra Deck the turn you activate this card, except Synchro Monsters. You can only activate 1 \"Synchro Overtake\" per turn.",
     "author": "gallantron",
-    "lastPrint": "2022-09-16",
+    "lastPrint": "2025-12-05",
     "lastUpdated": "2021-07-29",
     "references": [
       {
@@ -4028,7 +4028,7 @@
     "oldText": "Reveal 1 Fusion Monster in your Extra Deck and Special Summon, from your hand or Deck, 1 of the Fusion Materials whose name is mentioned on that monster, also you cannot Special Summon from the Extra Deck, except Fusion Monsters, the turn you activate this card. You can only activate 1 \"Fusion Deployment\" per turn.",
     "newText": "Reveal 1 Fusion Monster in your Extra Deck and Special Summon, from your hand or Deck, 1 of the Fusion Materials whose name is specifically listed on that card. You cannot Special Summon monsters from the Extra Deck, except Fusion Monsters, the turn you activate this card. You can only activate 1 \"Fusion Deployment\" per turn.",
     "author": "gallantron",
-    "lastPrint": "2024-05-24",
+    "lastPrint": "2025-10-24",
     "lastUpdated": "2021-07-29",
     "references": [
       {
@@ -7925,7 +7925,7 @@
     "oldText": "When a card or effect is activated that includes any of these effects (Quick Effect): You can discard this card; negate that effect.\n●Add a card from the Deck to the hand.\n●Special Summon from the Deck.\n●Send a card from the Deck to the GY.\nYou can only use this effect of \"Ash Blossom & Joyous Spring\" once per turn.",
     "newText": "When a card or effect is activated that includes any of these effects (Quick Effect): You can discard this card; negate that effect.\n●Add a card(s) from the Deck to the hand.\n●Special Summon a Monster Card(s) from the Deck.\n●Send a card(s) from the Deck to the GY.\nYou can only use this effect of \"Ash Blossom & Joyous Spring\" once per turn.",
     "author": "gallantron",
-    "lastPrint": "2025-04-11",
+    "lastPrint": "2025-11-07",
     "lastUpdated": "2022-11-26",
     "references": [
       {
@@ -7954,7 +7954,7 @@
     "oldText": "Once per turn, if you Special Summon a DARK Synchro Monster from the Extra Deck (except during the Damage Step): You can target 1 of your \"Blackwing\" monsters, or \"Black-Winged Dragon\", that is banished or in your GY, with less ATK than that Special Summoned monster; Special Summon it. Once per turn, if a DARK monster you control would be destroyed by battle or card effect, you can remove 1 Black Feather Counter from your field instead.",
     "newText": "Once per turn, if you Special Summon a DARK Synchro Monster from the Extra Deck (except during the Damage Step): You can target 1 of your \"Blackwing\" monsters, or \"Black-Winged Dragon\", that is banished or in your GY, with less ATK than that Special Summoned monster; Special Summon it. Once per turn, if a DARK monster(s) you control would be destroyed by battle or card effect, you can remove 1 Black Feather Counter from your field instead.",
     "author": "gallantron",
-    "lastPrint": "2023-09-08",
+    "lastPrint": "2025-11-07",
     "lastUpdated": "2022-12-20",
     "references": [
       {
@@ -8809,10 +8809,10 @@
     "id": 13853,
     "icon": "effect",
     "name": "Blackwing - Simoon the Poison Wind",
-    "oldText": "If you control no monsters and have this card in your hand: You can banish 1 other \"Blackwing\" monster from your hand; place 1 \"Black Whirlwind\" from your Deck face-up in your Spell & Trap Zone, then, either send this card to the GY, or immediately after this effect resolves, Normal Summon it without Tributing. You cannot Special Summon monsters from the Extra Deck for the rest of this turn, except DARK monsters. You can only use this effect of \"Blackwing - Simoon the Poison Wind\" once per turn. During the End Phase, send the \"Black Whirlwind\" placed by this effect to the GY, and if you do, take 1000 damage.",
-    "newText": "If you control no monsters and have this card in your hand: You can banish 1 other \"Blackwing\" monster from your hand; place 1 \"Black Whirlwind\" from your Deck face-up in your Spell & Trap Zone, then, either send this card to the GY, or immediately after this effect resolves, Normal Summon it without Tributing. You cannot Special Summon monsters from the Extra Deck for the rest of this turn, except DARK monsters. You can only use this effect of \"Blackwing - Simoon the Poison Wind\" once per turn. During the End Phase, if the \"Black Whirlwind\" placed by this effect is still on the field, send it to the GY, also take 1000 damage.",
+    "oldText": "If you control no monsters and have this card in your hand: You can banish 1 other \"Blackwing\" monster from your hand; place 1 \"Black Whirlwind\" from your Deck face-up in your Spell & Trap Zone, then, either send this card to the GY, or immediately after this effect resolves, Normal Summon it without Tributing. You cannot Special Summon from the Extra Deck for the rest of this turn, except DARK monsters. You can only use this effect of \"Blackwing - Simoon the Poison Wind\" once per turn. During the End Phase, send the \"Black Whirlwind\" placed by this effect to the GY, and if you do, take 1000 damage.",
+    "newText": "If you control no monsters and have this card in your hand: You can banish 1 other \"Blackwing\" monster from your hand; place 1 \"Black Whirlwind\" from your Deck face-up in your Spell & Trap Zone, then, either send this card to the GY, or immediately after this effect resolves, Normal Summon it without Tributing. You cannot Special Summon from the Extra Deck for the rest of this turn, except DARK monsters. You can only use this effect of \"Blackwing - Simoon the Poison Wind\" once per turn. During the End Phase, if the \"Black Whirlwind\" placed by this effect is still on the field, send it to the GY, also take 1000 damage.",
     "author": "gallantron",
-    "lastPrint": "2023-11-03",
+    "lastPrint": "2025-11-07",
     "lastUpdated": "2023-07-27",
     "references": [
       {
@@ -8827,13 +8827,6 @@
         "date": "2023-07-27",
         "desc": "However, even in the Official Card Game, if the Black Whirlwind placed by the effect of Blackwing - Simoon the Poison Wind no longer exists on the field during the End Phase, no damage is inflicted."
       }
-    ],
-    "customDiffData": [
-      523,
-      [4,2],
-      45,
-      [25,46],
-      18
     ]
   },
   {
@@ -9560,7 +9553,7 @@
     "oldText": "1 Tuner Synchro Monster + 1+ non-Tuner monsters\nMust be either Synchro Summoned, or Special Summoned from your Extra Deck by banishing 1 Tuner Synchro Monster and 1 \"Black-Winged Dragon\" from your face-up field and/or GY. Each time your opponent activates a monster effect, place 1 Black Feather Counter on this card when that effect resolves, and if you do, inflict 700 damage to your opponent. During your opponent's turn (Quick Effect): You can Tribute this card with 4 or more Black Feather Counters on it; destroy all cards on the field.",
     "newText": "1 Tuner Synchro Monster + 1+ non-Tuner monsters\nMust be either Synchro Summoned, or Special Summoned from your Extra Deck by banishing 1 Tuner Synchro Monster and 1 \"Black-Winged Dragon\" from your face-up Monster Zone and/or GY. Each time your opponent activates a monster effect, place 1 Black Feather Counter on this card when that effect resolves, and if you do, inflict 700 damage to your opponent. During your opponent's turn (Quick Effect): You can Tribute this card with 4 or more Black Feather Counters on it; destroy all cards on the field.",
     "author": "gallantron",
-    "lastPrint": "2023-09-08",
+    "lastPrint": "2025-11-07",
     "lastUpdated": "2024-06-19",
     "references": [
       {
@@ -9626,7 +9619,7 @@
     "oldText": "1 Tuner + 1+ non-Tuner monsters\nWhen a card or effect is activated that would destroy a card(s) on the field (Quick Effect): You can Tribute this card; negate the activation, and if you do, destroy it. During the End Phase, if this effect was activated this turn (and was not negated): You can Special Summon this card from your GY.",
     "newText": "1 Tuner + 1+ non-Tuner monsters\nWhen a card or effect is activated that would destroy a card(s) on the field (Quick Effect): You can Tribute this card; negate the activation, and if you do, destroy it. During the End Phase, if the previous effect was applied this turn: You can Special Summon this card from your GY.",
     "author": "gallantron",
-    "lastPrint": "2023-09-08",
+    "lastPrint": "2025-11-07",
     "lastUpdated": "2024-07-18",
     "references": [
       {
@@ -9681,10 +9674,10 @@
     "id": 11627,
     "icon": "synchro",
     "name": "Stardust Warrior",
-    "oldText": "1 Tuner Synchro Monster + 1+ non-Tuner Synchro Monsters\nIf your opponent would Special Summon a monster(s) (Quick Effect): You can Tribute this card; negate the Summon, and if you do, destroy that monster(s). During the End Phase, if this effect was activated this turn (and was not negated): You can Special Summon this card from your GY. If this card is destroyed by battle, or if this face-up card you control leaves the field because of an opponent's card effect: You can Special Summon 1 Level 8 or lower \"Warrior\" Synchro Monster from your Extra Deck. (This Special Summon is treated as a Synchro Summon.)",
-    "newText": "1 Tuner Synchro Monster + 1+ non-Tuner Synchro Monsters\nIf your opponent would Special Summon a monster(s) (Quick Effect): You can Tribute this card; negate the Summon, and if you do, destroy that monster(s). During the End Phase, if the previous effect was applied this turn: You can Special Summon this card from your GY. If this card is destroyed by battle, or if this face-up card you control leaves the field because of an opponent's card effect: You can Special Summon 1 Level 8 or lower \"Warrior\" Synchro Monster from your Extra Deck. (This Special Summon is treated as a Synchro Summon.)",
+    "oldText": "1 Tuner Synchro Monster + 1+ non-Tuner Synchro Monsters\nIf your opponent would Special Summon a monster(s) (Quick Effect): You can Tribute this card; negate the Summon, and if you do, destroy that monster(s). During the End Phase, if this effect was activated this turn (and was not negated): You can Special Summon this card from your GY. If this card is destroyed by battle, or if this face-up card you control leaves the field because of an opponent's card effect: You can Special Summon 1 Level 8 or lower \"Warrior\" Synchro Monster from your Extra Deck (this is treated as a Synchro Summon).",
+    "newText": "1 Tuner Synchro Monster + 1+ non-Tuner Synchro Monsters\nIf your opponent would Special Summon a monster(s) (Quick Effect): You can Tribute this card; negate the Summon, and if you do, destroy that monster(s). During the End Phase, if the previous effect was applied this turn: You can Special Summon this card from your GY. If this card is destroyed by battle, or if this face-up card you control leaves the field because of an opponent's card effect: You can Special Summon 1 Level 8 or lower \"Warrior\" Synchro Monster from your Extra Deck(this is treated as a Synchro Summon).",
     "author": "gallantron",
-    "lastPrint": "2021-10-29",
+    "lastPrint": "2025-11-07",
     "lastUpdated": "2024-07-18",
     "references": [
       {
@@ -9699,11 +9692,6 @@
         "date": "2024-07-18",
         "desc": "Noble Arms Museum is a card with a comparable effect, which uses the revised wording."
       }
-    ],
-    "customDiffData": [
-      231,
-      [60,44],
-      320
     ]
   },
   {
@@ -10088,7 +10076,7 @@
     "oldText": "Once per turn: You can target 1 Plant monster in your GY; Special Summon that target. You cannot Normal Summon/Set during the turn you Special Summon with this effect (even if this card leaves the field). If a monster Special Summoned by this effect leaves the field, destroy this card.",
     "newText": "Once per turn: You can target 1 Plant monster in your GY; Special Summon that target. You cannot Normal Summon/Set during the turn you activate this effect (even if this card leaves the field). If a monster Special Summoned by this effect leaves the field, destroy this card.",
     "author": "gallantron",
-    "lastPrint": "2020-04-02",
+    "lastPrint": "2025-11-07",
     "lastUpdated": "2025-03-16",
     "references": [
       {
@@ -10182,7 +10170,7 @@
     "icon": "trap",
     "name": "Statue of Anguish Pattern",
     "oldText": "Special Summon this card as an Effect Monster (Rock-Type/EARTH/Level 7/ATK 0/DEF 2500). (This card is also still a Trap Card.) If Summoned this way, this card cannot be targeted by an opponent's card effects while you control another Trap Card that is a monster. If a card is Special Summoned from your Spell & Trap Zone to the Monster Zone while this card is a monster: You can target 1 card on the field; destroy it.",
-    "newText": "Special Summon this card as an Effect Monster (Rock-Type/EARTH/Level 7/ATK 0/DEF 2500). (This card is also still a Trap Card.) If Summoned this way, this card cannot be targeted by an opponent's card effects while either player controls another Trap Card that is a monster. If a card is Special Summoned from your Spell & Trap Zone to the Monster Zone while this card is a monster: You can target 1 card on the field; destroy it.",
+    "newText": "Special Summon this card as an Effect Monster (Rock/EARTH/Level 7/ATK 0/DEF 2500). (This card is also still a Trap Card.) If Summoned this way, this card cannot be targeted by an opponent's card effects while either player controls another Trap Card that is a monster. If a card is Special Summoned from your Spell & Trap Zone to the Monster Zone while this card is a monster: You can target 1 card on the field; destroy it.",
     "author": "gallantron",
     "lastPrint": "2016-09-02",
     "lastUpdated": "2025-10-14",
