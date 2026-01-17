@@ -1531,7 +1531,7 @@
     "id": 6509,
     "icon": "effect",
     "name": "Familiar-Possessed - Hiita",
-    "oldText": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Hiita the Fire Charmer\" and 1 face-up FIRE monster you control to the GY. If this card Special Summoned by its own effect attacks a Defense Position monster, inflict piercing battle damage.",
+    "oldText": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Hiita the Fire Charmer\" and 1 face-up FIRE monster you control to the GY. If this card Special Summoned by its effect attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
     "newText": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Hiita the Fire Charmer\" and 1 face-up FIRE monster from your Monster Zone to the GY. If this card Special Summoned by its own effect attacks a Defense Position monster, inflict piercing battle damage.",
     "author": "gallantron",
     "lastPrint": "2020-10-23",
@@ -1567,7 +1567,7 @@
     "id": 6508,
     "icon": "effect",
     "name": "Familiar-Possessed - Eria",
-    "oldText": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Eria the Water Charmer\" and 1 face-up WATER monster you control to the GY. If this card Special Summoned by its own effect attacks a Defense Position monster, inflict piercing battle damage.",
+    "oldText": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Eria the Water Charmer\" and 1 face-up WATER monster you control to the GY. If this card Special Summoned by its effect attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
     "newText": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Eria the Water Charmer\" and 1 face-up WATER monster from your Monster Zone to the GY. If this card Special Summoned by its own effect attacks a Defense Position monster, inflict piercing battle damage.",
     "author": "gallantron",
     "lastPrint": "2020-10-23",
@@ -1603,7 +1603,7 @@
     "id": 6507,
     "icon": "effect",
     "name": "Familiar-Possessed - Aussa",
-    "oldText": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Aussa the Earth Charmer\" and 1 face-up EARTH monster you control to the GY. If this card Special Summoned by its own effect attacks a Defense Position monster, inflict piercing battle damage.",
+    "oldText": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Aussa the Earth Charmer\" and 1 face-up EARTH monster you control to the GY. If this card Special Summoned by its effect attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
     "newText": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Aussa the Earth Charmer\" and 1 face-up EARTH monster from your Monster Zone to the GY. If this card Special Summoned by its own effect attacks a Defense Position monster, inflict piercing battle damage.",
     "author": "gallantron",
     "lastPrint": "2020-10-23",
@@ -1639,7 +1639,7 @@
     "id": 6510,
     "icon": "effect",
     "name": "Familiar-Possessed - Wynn",
-    "oldText": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Wynn the Wind Charmer\" and 1 face-up WIND monster you control to the GY. If this card Special Summoned by its own effect attacks a Defense Position monster, inflict piercing battle damage.",
+    "oldText": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Wynn the Wind Charmer\" and 1 face-up WIND monster you control to the GY. If this card Special Summoned by its effect attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
     "newText": "You can Special Summon this card (from your hand or Deck) by sending 1 face-up \"Wynn the Wind Charmer\" and 1 face-up WIND monster from your Monster Zone to the GY. If this card Special Summoned by its own effect attacks a Defense Position monster, inflict piercing battle damage.",
     "author": "gallantron",
     "lastPrint": "2020-10-23",
@@ -2041,114 +2041,6 @@
         "title": "Herald of the Abyss",
         "date": "2021-01-05",
         "desc": "Cards that use \"your opponent does X to their monsters\" are typically cards that do not affect the chosen monsters.\nHerald of the Abyss is an example of such a card."
-      }
-    ]
-  },
-  {
-    "id": 6335,
-    "icon": "effect",
-    "name": "Aussa the Earth Charmer",
-    "oldText": "FLIP: Target 1 EARTH monster your opponent controls; take control of that target while this card is face-up on the field.",
-    "newText": "FLIP: Target 1 EARTH monster your opponent controls; take control of it while this card is face-up on the field.",
-    "author": "gallantron",
-    "lastPrint": "2020-10-23",
-    "lastUpdated": "2021-01-06",
-    "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6335&request_locale=ja",
-        "title": "Aussa the Earth Charmer",
-        "date": "2021-01-06",
-        "desc": "In the Official Card Game, Aussa the Earth Charmer's effect will take control of the targeted monster even if it is not EARTH at resolution.\nAdditionally, in the Official Card Game, control will not revert to the opponent even if the opponent's monster is changed to non-EARTH after the effect of Aussa the Earth Charmer has been applied."
-      }
-    ]
-  },
-  {
-    "id": 6336,
-    "icon": "effect",
-    "name": "Eria the Water Charmer",
-    "oldText": "FLIP: Target 1 WATER monster your opponent controls; take control of that target while this card is face-up on the field.",
-    "newText": "FLIP: Target 1 WATER monster your opponent controls; take control of it while this card is face-up on the field.",
-    "author": "gallantron",
-    "lastPrint": "2020-10-23",
-    "lastUpdated": "2021-01-06",
-    "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6336&request_locale=ja",
-        "title": "Eria the Water Charmer",
-        "date": "2021-01-06",
-        "desc": "In the Official Card Game, Eria the Water Charmer's effect will take control of the targeted monster even if it is not WATER at resolution.\nAdditionally, in the Official Card Game, control will not revert to the opponent even if the opponent's monster is changed to non-WATER after the effect of Eria the Water Charmer has been applied."
-      }
-    ]
-  },
-  {
-    "id": 6337,
-    "icon": "effect",
-    "name": "Hiita the Fire Charmer",
-    "oldText": "FLIP: Target 1 FIRE monster your opponent controls; take control of that target while this card is face-up on the field.",
-    "newText": "FLIP: Target 1 FIRE monster your opponent controls; take control of it while this card is face-up on the field.",
-    "author": "gallantron",
-    "lastPrint": "2020-10-23",
-    "lastUpdated": "2021-01-06",
-    "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6337&request_locale=ja",
-        "title": "Hiita the Fire Charmer",
-        "date": "2021-01-06",
-        "desc": "In the Official Card Game, Hiita the Fire Charmer's effect will take control of the targeted monster even if it is not FIRE at resolution.\nAdditionally, in the Official Card Game, control will not revert to the opponent even if the opponent's monster is changed to non-FIRE after the effect of Hiita the Fire Charmer has been applied."
-      }
-    ]
-  },
-  {
-    "id": 6338,
-    "icon": "effect",
-    "name": "Wynn the Wind Charmer",
-    "oldText": "FLIP: Target 1 WIND monster your opponent controls; take control of that target while this card is face-up on the field.",
-    "newText": "FLIP: Target 1 WIND monster your opponent controls; take control of it while this card is face-up on the field.",
-    "author": "gallantron",
-    "lastPrint": "2020-10-23",
-    "lastUpdated": "2021-01-06",
-    "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6338&request_locale=ja",
-        "title": "Wynn the Wind Charmer",
-        "date": "2021-01-06",
-        "desc": "In the Official Card Game, Wynn the Wind Charmer's effect will take control of the targeted monster even if it is not WIND at resolution.\nAdditionally, in the Official Card Game, control will not revert to the opponent even if the opponent's monster is changed to non-WIND after the effect of Wynn the Wind Charmer has been applied."
-      }
-    ]
-  },
-  {
-    "id": 7664,
-    "icon": "effect",
-    "name": "Dharc the Dark Charmer",
-    "oldText": "FLIP: Take control of 1 DARK monster your opponent controls, while this card remains face-up on the field.",
-    "newText": "FLIP: Target 1 DARK monster your opponent controls; take control of it while this card is face-up on the field.",
-    "author": "gallantron",
-    "lastPrint": "2008-09-02",
-    "lastUpdated": "2021-01-06",
-    "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7664&request_locale=ja",
-        "title": "Dharc the Dark Charmer",
-        "date": "2021-01-06",
-        "desc": "In the Official Card Game, Dharc the Wind Charmer's effect will take control of the targeted monster even if it is not DARK at resolution.\nAdditionally, in the Official Card Game, control will not revert to the opponent even if the opponent's monster is changed to non-DARK after the effect of Dharc the Dark Charmer has been applied."
-      }
-    ]
-  },
-  {
-    "id": 8800,
-    "icon": "effect",
-    "name": "Lyna the Light Charmer",
-    "oldText": "FLIP: Take control of 1 LIGHT monster your opponent controls, while this card is face-up on the field.",
-    "newText": "FLIP: Target 1 LIGHT monster your opponent controls; take control of it while this card is face-up on the field.",
-    "author": "gallantron",
-    "lastPrint": "2010-05-11",
-    "lastUpdated": "2021-01-06",
-    "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8800&request_locale=ja",
-        "title": "Lyna the Light Charmer",
-        "date": "2021-01-06",
-        "desc": "In the Official Card Game, Lyna the Light Charmer's effect will take control of the targeted monster even if it is not LIGHT at resolution.\nAdditionally, in the Official Card Game, control will not revert to the opponent even if the opponent's monster is changed to non-LIGHT after the effect of Lyna the Light Charmer has been applied."
       }
     ]
   },
