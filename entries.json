@@ -10218,5 +10218,95 @@
         "desc": "In the Official Card Game, the effect of Tachyon Spiral Galaxy is not applied if the targeted monster is face-down by the time the activation resolves."
       }
     ]
+  },
+  {
+    "id": 15001,
+    "icon": "effect",
+    "name": "Deep Sea Minstrel",
+    "oldText": "You can discard this card and 1 WATER monster; look at your opponent's hand and banish 1 card from their hand face-up, until the End Phase. If this card is Special Summoned: You can send the top 3 cards of your Deck to the GY, then target 1 Level 4 or lower WATER monster in your GY, except \"Deep Sea Minstrel\"; place it on the top or bottom of the Deck. You can only use each effect of \"Deep Sea Minstrel\" once per turn.",
+    "newText": "You can discard this card and 1 WATER monster; look at your opponent's hand, and if you do, banish 1 card from their hand face-up, until the End Phase. If this card is Special Summoned: You can send the top 3 cards of your Deck to the GY, then target 1 Level 4 or lower WATER monster in your GY, except \"Deep Sea Minstrel\"; place it on the top or bottom of the Deck. You can only use each effect of \"Deep Sea Minstrel\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2021-10-01",
+    "lastUpdated": "2026-01-17",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6224&request_locale=ja",
+        "title": "Q&A #6224",
+        "date": "2026-01-17",
+        "desc": "In the Official Card Game, if cards cannot be banished when Deep Sea Minstrel's effect resolves, you still look at your opponent's hand."
+      }
+    ]
+  },
+  {
+    "id": 11757,
+    "icon": "effect",
+    "name": "Berlineth the Firestorm Vassal",
+    "oldText": "You can discard 1 card; Special Summon this card from your hand, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn. If this card is Tributed for a Tribute Summon: You can look at your opponent's hand and banish 1 card from their hand until the End Phase. You can only use each effect of \"Berlineth the Firestorm Vassal\" once per turn.",
+    "newText": "You can discard 1 card; Special Summon this card from your hand, also you cannot Special Summon monsters from the Extra Deck for the rest of this turn. If this card is Tributed for a Tribute Summon: You can look at your opponent's hand, and if you do, banish 1 card from their hand until the End Phase. You can only use each effect of \"Berlineth the Firestorm Vassal\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2016-01-29",
+    "lastUpdated": "2026-01-17",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6224&request_locale=ja",
+        "title": "Q&A #6224",
+        "date": "2026-01-17",
+        "desc": "In the Official Card Game, if cards cannot be banished when Berlineth the Firestorm Vassal's effect resolves, you still look at your opponent's hand."
+      }
+    ]
+  },
+  {
+    "id": 14614,
+    "icon": "effect",
+    "name": "Silverrokket Dragon",
+    "oldText": "When a Link Monster's effect is activated that targets this face-up card on the field (Quick Effect): You can destroy this card, then look at your opponent's Extra Deck and banish 1 card from it. During the End Phase, if this card is in the GY because it was destroyed on the field by battle or card effect and sent there this turn: You can Special Summon 1 \"Rokket\" monster from your Deck, except \"Silverrokket Dragon\". You can only use each effect of \"Silverrokket Dragon\" once per turn.",
+    "newText": "When a Link Monster's effect is activated that targets this face-up card on the field (Quick Effect): You can destroy this card, then look at your opponent's Extra Deck, and if you do, banish 1 card from it. During the End Phase, if this card is in the GY because it was destroyed on the field by battle or card effect and sent there this turn: You can Special Summon 1 \"Rokket\" monster from your Deck, except \"Silverrokket Dragon\". You can only use each effect of \"Silverrokket Dragon\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2019-08-16",
+    "lastUpdated": "2026-01-17",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6224&request_locale=ja",
+        "title": "Q&A #6224",
+        "date": "2026-01-17",
+        "desc": "In the Official Card Game, if cards cannot be banished when Silverrokket's effect resolves, you still look at your opponent's Extra Deck."
+      }
+    ]
+  },
+  {
+    "id": 13166,
+    "icon": "xyz",
+    "name": "Number 89: Diablosis the Mind Hacker",
+    "oldText": "2 Level 7 monsters\nOnce per turn: You can detach 1 material from this card; look at your opponent's Extra Deck and banish 1 monster from it, face-down. At the end of the Battle Phase, if this card destroyed a monster by battle: You can target 1 card in your opponent's GY; banish it, face-down. If a card your opponent owns and possesses is banished face-down while you control this card (except during the Damage Step): You can banish cards from the top of your opponent's Deck, face-down, equal to their face-down banished cards. You can only use this effect of \"Number 89: Diablosis the Mind Hacker\" once per turn.",
+    "newText": "2 Level 7 monsters\nOnce per turn: You can detach 1 material from this card; look at your opponent's Extra Deck, and if you do, banish 1 monster from it, face-down. At the end of the Battle Phase, if this card destroyed a monster by battle: You can target 1 card in your opponent's GY; banish it, face-down. If a card your opponent owns and possesses is banished face-down while you control this card (except during the Damage Step): You can banish cards from the top of your opponent's Deck, face-down, equal to their face-down banished cards. You can only use this effect of \"Number 89: Diablosis the Mind Hacker\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2021-12-03",
+    "lastUpdated": "2026-01-17",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6224&request_locale=ja",
+        "title": "Q&A #6224",
+        "date": "2026-01-17",
+        "desc": "In the Official Card Game, if cards cannot be banished when Number 89: Diablosis the Mind Hacker's effect resolves, you still look at your opponent's Extra Deck."
+      }
+    ]
+  },
+  {
+    "id": 8515,
+    "icon": "trap",
+    "name": "Appointer of the Red Lotus",
+    "oldText": "Pay 2000 LP and reveal your entire hand; look at your opponent's hand and banish 1 card from their hand, until your opponent's next End Phase.",
+    "newText": "Pay 2000 LP and reveal your entire hand; look at your opponent's hand, and if you do, banish 1 card from their hand, until your opponent's next End Phase.",
+    "author": "gallantron",
+    "lastPrint": "2021-02-19",
+    "lastUpdated": "2026-01-17",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6224&request_locale=ja",
+        "title": "Q&A #6224",
+        "date": "2026-01-17",
+        "desc": "In the Official Card Game, if cards cannot be banished when Appointer of the Red Lotus resolves, you still look at your opponent's hand."
+      }
+    ]
   }
 ]
