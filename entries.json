@@ -10199,5 +10199,23 @@
       [37,41],
       97
     ]
+  },
+  {
+    "id": 22168,
+    "icon": "spell",
+    "name": "Exosister Betrayal",
+    "oldText": "When this card is activated: Add 2 \"Exosister\" monsters from your Deck to your hand, then discard 1 card. You can target 1 face-up monster you control; immediately after this effect resolves, Normal Summon 1 \"Exosister\" monster mentioned on that monster. If a monster(s) is sent to your opponent's GY, even during the Damage Step: You can activate this effect; your opponent banishes 1 of them. You can only use each effect of \"Exosister Betrayal\" once per turn.",
+    "newText": "When this card is activated: Add 2 \"Exosister\" monsters from your Deck to your hand, then discard 1 card. You can target 1 face-up monster you control; immediately after this effect resolves, Normal Summon the other \"Exosister\" monster mentioned on that monster. If a monster(s) is sent to your opponent's GY, even during the Damage Step: You can activate this effect; your opponent banishes 1 of them. You can only use each effect of \"Exosister Betrayal\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2026-02-06",
+    "lastUpdated": "2026-02-13",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=22168&request_locale=ja",
+        "title": "Exosister Betrayal",
+        "date": "2026-02-13",
+        "desc": "In the Official Card Game, Exosister Betrayal's effect cannot be used to Normal Summon the same \"Exosister\" that was targeted.\n(This is due to the way that the Official Card Game words use-once-per-turn restrictions.)"
+      }
+    ]
   }
 ]
