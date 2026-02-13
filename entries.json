@@ -10176,5 +10176,28 @@
         "desc": "In the Official Card Game, if cards cannot be banished when Appointer of the Red Lotus resolves, you still look at your opponent's hand."
       }
     ]
+  },
+  {
+    "id": 22123,
+    "icon": "effect",
+    "name": "Rex, Ride Fur Hire",
+    "oldText": "You can reveal this card in your hand; Special Summon 1 monster \"Fur Hire\" from your hand, except \"Rex, Ride Fur Hire\", then Special Summon this card. You can only use this effect of \"Rex, Ride Fur Hire\" once per turn. If a card(s) is added from the Deck to your opponent's hand, except by a card effect \"Fur Hire\", and you control another monster \"Fur Hire\" (except during the Damage Step): You can draw 1 card.",
+    "newText": "You can reveal this card in your hand; Special Summon 1 monster \"Fur Hire\" from your hand, except \"Rex, Ride Fur Hire\", then Special Summon this card. You can only use this effect of \"Rex, Ride Fur Hire\" once per turn. If a card(s) is added from the Deck to your opponent's hand by a card effect, except one \"Fur Hire\", and you control another monster \"Fur Hire\" (except during the Damage Step): You can draw 1 card.",
+    "author": "gallantron",
+    "lastPrint": "2026-02-06",
+    "lastUpdated": "2026-02-13",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=22123&request_locale=ja",
+        "title": "Rex, Ride Fur Hire",
+        "date": "2026-02-13",
+        "desc": "In the Official Card Game, the effect of Rex, Ride Fur Hire only activates if a card is added to the opponent's hand by a card effect.\n(It will not activate in response to the Normal Draw.)"
+      }
+    ],
+    "customDiffData": [
+      278,
+      [37,41],
+      97
+    ]
   }
 ]
