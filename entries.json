@@ -471,7 +471,7 @@
     ],
     "name": "Vampire Sucker",
     "lastUpdated": "2020-07-14",
-    "lastPrint": "2022-05-06",
+    "lastPrint": "2026-02-20",
     "icon": "link"
   },
   {
@@ -7793,7 +7793,7 @@
     "oldText": "When a card or effect is activated that includes any of these effects (Quick Effect): You can discard this card; negate that effect.\n●Add a card from the Deck to the hand.\n●Special Summon from the Deck.\n●Send a card from the Deck to the GY.\nYou can only use this effect of \"Ash Blossom & Joyous Spring\" once per turn.",
     "newText": "When a card or effect is activated that includes any of these effects (Quick Effect): You can discard this card; negate that effect.\n●Add a card(s) from the Deck to the hand.\n●Special Summon a Monster Card(s) from the Deck.\n●Send a card(s) from the Deck to the GY.\nYou can only use this effect of \"Ash Blossom & Joyous Spring\" once per turn.",
     "author": "gallantron",
-    "lastPrint": "2025-11-07",
+    "lastPrint": "2026-03-13",
     "lastUpdated": "2022-11-26",
     "references": [
       {
@@ -9151,7 +9151,7 @@
     "oldText": "2 Effect Monsters\nIf this card is Link Summoned using a Fusion, Synchro, Xyz, or Link Monster as material: You can target 1 card on the field or in either GY; banish it, also your monsters cannot attack directly this turn. When your opponent activates a card or effect (Quick Effect): You can target 2 face-up monsters on the field, including a monster you control; banish both until the End Phase. You can only use each effect of \"S:P Little Knight\" once per turn.",
     "newText": "2 Effect Monsters\nIf this card is Link Summoned using a Fusion, Synchro, Xyz, or Link Monster as material: You can target 1 card on the field or in either GY; banish it, also your monsters cannot attack directly for the rest of this turn. When your opponent activates a card or effect (Quick Effect): You can target 2 face-up monsters on the field, including a monster you control; banish both until the End Phase. You can only use each effect of \"S:P Little Knight\" once per turn.",
     "author": "gallantron",
-    "lastPrint": "2025-09-05",
+    "lastPrint": "2026-03-13",
     "lastUpdated": "2023-11-18",
     "references": [
       {
@@ -9533,9 +9533,11 @@
       }
     ],
     "customDiffData": [
-      315,
-      [57,41],
-      165
+      [85,91],
+      [22,69],
+      [182,190],
+      [46,22],
+      [155,164]
     ]
   },
   {
@@ -9633,21 +9635,11 @@
       }
     ],
     "customDiffData": [
-      0,
-      [93,145],
-      [2,20],
-      [3,1],
-      [18,27],
-      [22,1],
-      [27,74],
-      [1,57],
-      [127,9],
-      [3,1],
-      [7,27],
-      [22,1],
-      [27,117],
-      [1,0],
-      [147,0]
+      [30,0],
+      [63,91],
+      [407,174],
+      [0,59],
+      [0,155]
     ]
   },
   {
@@ -10215,6 +10207,30 @@
         "title": "Exosister Betrayal",
         "date": "2026-02-13",
         "desc": "In the Official Card Game, Exosister Betrayal's effect cannot be used to Normal Summon the same \"Exosister\" that was targeted.\n(This is due to the way that the Official Card Game words use-once-per-turn restrictions.)"
+      }
+    ]
+  },
+  {
+    "id": 7937,
+    "icon": "effect",
+    "name": "Kasha",
+    "oldText": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by controlling 2 or more Zombie monsters. If this card is Special Summoned: Shuffle as many other monsters on the field as possible into the Deck, and if you do, this card's ATK becomes 1000 x the number of face-up monsters shuffled into the Deck this way, whose original Type was Zombie.",
+    "newText": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by controlling 2 or more Zombie monsters. If this card is Special Summoned: Shuffle as many other monsters on the field as possible into the Deck, and if you do, this card's ATK becomes 1000 x the number of face-up monsters shuffled into the Main Deck this way whose original Type was Zombie.",
+    "author": "gallantron",
+    "lastPrint": "2018-11-02",
+    "lastUpdated": "2026-03-19",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7793&request_locale=ja",
+        "title": "Q&A #7793",
+        "date": "2026-03-19",
+        "desc": "In the Official Card Game, Kasha's effect only increases its ATK for monsters returned to the Main Deck, not the Extra Deck."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13818&request_locale=en",
+        "title": "Gabrion, the Timelord",
+        "date": "2026-03-19",
+        "desc": "Gabrion, the Timelord is another example of a card using the revised textual construct."
       }
     ]
   }
