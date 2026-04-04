@@ -3918,7 +3918,7 @@
     "icon": "xyz",
     "name": "Vylon Disigma",
     "oldText": "3 Level 4 monsters\nOnce per turn: You can detach 1 Xyz Material from this card to target 1 face-up Attack Position Effect Monster your opponent controls; equip that target to this card. At the start of the Damage Step, if this card battles a monster whose Attribute is the same as a card equipped by this effect: Destroy that monster.",
-    "newText": "3 Level 4 monsters\nOnce per turn: You can detach 1 material from this card to target 1 face-up Attack Position Effect Monster your opponent controls; equip that target to this card. At the start of the Damage Step, if this card battles a monster: Destroy that monster. This monster must be equipped with a monster with the same attribute as the monster it is battling to activate and to resolve this effect.",
+    "newText": "3 Level 4 monsters\nOnce per turn: You can detach 1 material from this card, then target 1 face-up Attack Position Effect Monster your opponent controls; equip that target to this card. At the start of the Damage Step, if this card battles a monster: Destroy that monster. This monster must be equipped, by its own effect, with a monster with the same attribute as the monster it is battling to activate and to resolve this effect.",
     "author": "gallantron",
     "lastPrint": "2012-07-24",
     "lastUpdated": "2021-07-29",
@@ -3929,6 +3929,11 @@
         "date": "2021-07-29",
         "desc": "In the Official Card Game, Vylon Disigma needs to remain equipped with an appropriate monster in order for its effect to be applied."
       }
+    ],
+    "customDiffData": [
+      [249,269],
+      [62,138],
+      [23,0]
     ]
   },
   {
@@ -6367,7 +6372,7 @@
     "icon": "spell",
     "name": "Venom Swamp",
     "oldText": "During each player's End Phase: Place 1 Venom Counter on each face-up monster, except \"Venom\" monsters. Monsters lose 500 ATK for each Venom Counter on them. Destroy a monster if its ATK becomes 0 by this effect.",
-    "newText": "During each player's End Phase: Place 1 Venom Counter on each face-up monster, except \"Venom\" monsters. Monsters lose 500 ATK for each Venom Counter on them. If a Venom Counter is placed on a monster(s), and its ATK becomes 0 as a result: Destroy the monster(s).",
+    "newText": "During each player's End Phase: Place 1 Venom Counter on each face-up monster, except \"Venom\" monsters. Monsters lose 500 ATK for each Venom Counter on them. If a Venom Counter is placed on a monster(s), and its ATK becomes 0 by this card's effect as a result: Destroy the monster(s).",
     "author": "gallantron",
     "lastPrint": "2011-10-04",
     "lastUpdated": "2022-03-26",
@@ -6387,7 +6392,7 @@
     ],
     "customDiffData": [
       158,
-      [54,104]
+      [54,126]
     ]
   },
   {
@@ -10231,6 +10236,24 @@
         "title": "Gabrion, the Timelord",
         "date": "2026-03-19",
         "desc": "Gabrion, the Timelord is another example of a card using the revised textual construct."
+      }
+    ]
+  },
+  {
+    "id": 10279,
+    "icon": "spell",
+    "name": "Lemuria, the Forgotten City",
+    "oldText": "(This card is always treated as \"Umi\".)\nAll WATER monsters gain 200 ATK/DEF. Once per turn, during your Main Phase: You can have all WATER monsters you currently control gain Levels equal to the number of WATER monsters you currently control, until the end of this turn.",
+    "newText": "(This card is always treated as \"Umi\".)\nAll WATER monsters gain 200 ATK/DEF. Once per turn, during your Main Phase: You can have all WATER monsters you currently control gain Levels by this card's effect equal to the number of WATER monsters you currently control, until the end of this turn.",
+    "author": "gallantron",
+    "lastPrint": "2022-06-17",
+    "lastUpdated": "2026-04-04",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=12940&request_locale=ja",
+        "title": "Q&A #12940",
+        "date": "2026-04-04",
+        "desc": "In the Official Card Game, the effect to increase the monsters' Level is continuously applied by Lemuria, the Forgotten City. (If Lemuria, the Forgotten City leaves the field, or its effects are negated, the Level stops being increased.)"
       }
     ]
   }
