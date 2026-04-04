@@ -10256,5 +10256,23 @@
         "desc": "In the Official Card Game, the effect to increase the monsters' Level is continuously applied by Lemuria, the Forgotten City. (If Lemuria, the Forgotten City leaves the field, or its effects are negated, the Level stops being increased.)"
       }
     ]
+  },
+  {
+    "id": 5113,
+    "icon": "trap",
+    "name": "Fairy Box",
+    "oldText": "When your opponent's monster declares an attack: Toss a coin and call it. If you call it right, the attacking monster's ATK becomes 0 until the end of the Battle Phase. Once per turn, during your Standby Phase, pay 500 LP, or destroy this card.",
+    "newText": "When your opponent's monster declares an attack: Toss a coin and call it. If you call it right, the attacking monster's ATK becomes 0 by this card's effect until the end of the Battle Phase. Once per turn, during your Standby Phase, pay 500 LP, or destroy this card.",
+    "author": "gallantron",
+    "lastPrint": "2024-12-13",
+    "lastUpdated": "2026-04-04",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5113&request_locale=ja",
+        "title": "Fairy Box",
+        "date": "2026-04-04",
+        "desc": "In the Official Card Game, the effect to make the attacking monster's ATK 0 is continuously applied by Fairy Box. (If Fairy Box leaves the field, or its effects are negated, the ATK will no longer be set to 0.)"
+      }
+    ]
   }
 ]
