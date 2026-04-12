@@ -433,24 +433,6 @@
     "icon": "effect"
   },
   {
-    "id": 15285,
-    "oldText": "Neither player can target \"Dogmatika\" monsters you control with effects of monsters that were Special Summoned from the Extra Deck. You can only use each of the following effects of \"Dogmatika Nation\" once per turn.\n●After damage calculation, if your \"Dogmatika\" monster battled an opponent's monster: Destroy that opponent's monster.\n●If this face-up card in the Field Zone is destroyed by an opponent's card effect: You can have each player send 1 monster from their Extra Deck to the GY.",
-    "newText": "Neither player can target \"Dogmatika\" monsters you control with effects of monsters that were Special Summoned from the Extra Deck. You can only use each of the following effects of \"Dogmatika Nation\" once per turn.\n●After damage calculation, if your \"Dogmatika\" monster battled an opponent's monster: You can destroy that opponent's monster.\n●If this face-up card in the Field Zone is destroyed by an opponent's card effect: You can have each player send 1 monster from their Extra Deck to the GY.",
-    "author": "gallantron",
-    "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15285&request_locale=ja",
-        "title": "Dogmatika Nation",
-        "date": "2020-12-24",
-        "desc": "In the Official Card Game, activating Dogmatika Nation's effect that destroys the opponent's monster is not mandatory."
-      }
-    ],
-    "name": "Dogmatika Nation",
-    "lastUpdated": "2020-07-27",
-    "lastPrint": "2021-10-01",
-    "icon": "spell"
-  },
-  {
     "id": 13604,
     "oldText": "2 Zombie monsters\nIf you would Tribute a monster(s) for a Tribute Summon, you can Tribute a Zombie monster(s) your opponent controls, even though you do not control them. You can only use each of the following effects of \"Vampire Sucker\" once per turn. You can target 1 monster in your opponent's GY; Special Summon it to your opponent's field in Defense Position, but it becomes a Zombie monster. If a Zombie monster(s) is Special Summoned from either GY: Draw 1 card.",
     "newText": "2 Zombie monsters\nIf you would Tribute a monster(s) for a Tribute Summon, you can Tribute a Zombie monster(s) your opponent controls, even though you do not control them. You can only use each of the following effects of \"Vampire Sucker\" once per turn. You can target 1 monster in your opponent's GY; Special Summon it to your opponent's field in Defense Position, but it becomes a Zombie monster. If another Zombie monster(s) is Special Summoned from either GY: Draw 1 card.",
@@ -1836,24 +1818,6 @@
         "title": "Gravity Warrior",
         "date": "2020-12-30",
         "desc": "Gravity Warrior is an example of a card that uses the revised textual construct."
-      }
-    ]
-  },
-  {
-    "id": 5230,
-    "icon": "effect",
-    "name": "Dark Sage",
-    "oldText": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand or Deck) by Tributing 1 \"Dark Magician\" immediately after applying the effect of \"Time Wizard\" in which you called the coin toss right. When Special Summoned this way: Add 1 Spell Card from your Deck to your hand.",
-    "newText": "Cannot be Normal Summoned/Set. Must first be Special Summoned by its own effect. After applying the effect of \"Time Wizard\" in which you called the coin toss right, you can: Tribute 1 \"Dark Magician\"; Special Summon this card from your hand or Deck. If Special Summoned this way: Add 1 Spell Card from your Deck to your hand.",
-    "author": "pazim",
-    "lastPrint": "2012-10-02",
-    "lastUpdated": "2020-12-30",
-    "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5230&request_locale=ja",
-        "title": "Card FAQ – Dark Sage",
-        "date": "2020-12-30",
-        "desc": "In the Official Card Game, Dark Sage has a Trigger Effect that Special Summons itself."
       }
     ]
   },
