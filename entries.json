@@ -10191,5 +10191,35 @@
         "desc": "In the Official Card Game, the effect to make the attacking monster's ATK 0 is continuously applied by Fairy Box. (If Fairy Box leaves the field, or its effects are negated, the ATK will no longer be set to 0.)"
       }
     ]
+  },
+  {
+    "id": 19076,
+    "icon": "link",
+    "name": "Flametongue the Burning Blade",
+    "oldText": "2 FIRE monsters\nFace-up Spells/Traps you control cannot be destroyed by your opponent's card effects. You can target 1 of your banished FIRE monsters; add it to your hand, but you cannot activate cards, or the effects of cards, with its name for the rest of this turn. You can only use this effect of \"Flametongue the Burning Blade\" once per turn.",
+    "newText": "2 FIRE monsters\nFace-up Spells/Traps you control cannot be destroyed by your opponent's card effects. You can target 1 of your banished FIRE monsters; add it to your hand, but you cannot activate cards, or the effects of cards, with the added monster's name for the rest of this turn. You can only use this effect of \"Flametongue the Burning Blade\" once per turn.",
+    "author": "gallantron",
+    "lastPrint": "2026-05-08",
+    "lastUpdated": "2026-06-02",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=19076&request_locale=ja",
+        "title": "Card FAQ – Flametongue the Burning Blade",
+        "date": "2026-06-02",
+        "desc": "In the Official Card Game, if the monster is not added to the hand (such as because it is added to the Extra Deck instead), the effect of Flametongue the Burning Blade does not prevent the player from activating the effects of cards with that name."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10330&request_locale=ja",
+        "title": "Card FAQ – Brotherhood of the Fire Fist - Lion Emperor",
+        "date": "2026-06-02",
+        "desc": "Brotherhood of the Fire Fist - Lion Emperor is a card that uses comparable text to Flametongue the Burning Blade, which still applies its effect even if the card is not successfully added to the hand."
+      },
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=14125&request_locale=ja",
+        "title": "Card FAQ – Salamangreat Sunlight Wolf",
+        "date": "2026-06-02",
+        "desc": "Salamangreat Sunlight Wolf is a card that uses the revised textual construct. It does not apply its effect if the card is not successfully added to the hand."
+      }
+    ]
   }
 ]
