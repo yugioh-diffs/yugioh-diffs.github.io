@@ -5881,7 +5881,7 @@
     "oldText": "Once per turn, the first time a monster you control equipped with an Equip Spell would be destroyed by battle, it is not destroyed. You can only use each of the following effects of \"Fateful Adventure\" once per turn. During your Main Phase: You can add 1 monster that mentions \"Adventurer Token\" from your Deck to your hand, then send 1 card from your hand to the GY. If a monster(s) is Normal or Special Summoned: You can take 1 Equip Spell that mentions \"Adventurer Token\" from your Deck, and either add it to your hand or equip it to 1 \"Adventurer Token\" you control.",
     "newText": "Once per turn, the first time a monster you control equipped with an Equip Card would be destroyed by battle, it is not destroyed. You can only use each of the following effects of \"Fateful Adventure\" once per turn. During your Main Phase: You can add 1 monster that mentions \"Adventurer Token\" from your Deck to your hand, then send 1 card from your hand to the GY. If a monster(s) is Normal or Special Summoned: You can take 1 Equip Spell that mentions \"Adventurer Token\" from your Deck, and either add it to your hand or equip it to 1 \"Adventurer Token\" you control.",
     "author": "gallantron",
-    "lastPrint": "2023-09-08",
+    "lastPrint": "2026-04-10",
     "lastUpdated": "2022-01-16",
     "references": [
       {
@@ -7735,35 +7735,6 @@
         "date": "2022-11-17",
         "desc": "In the Official Card Game, the effect of Spright Sprind can be activated by detaching a material from a face-down monster you control. (It does not require the material to be attached to an \"Xyz Monster\".)"
       }
-    ]
-  },
-  {
-    "id": 12950,
-    "icon": "effect",
-    "name": "Ash Blossom & Joyous Spring",
-    "oldText": "When a card or effect is activated that includes any of these effects (Quick Effect): You can discard this card; negate that effect.\n●Add a card from the Deck to the hand.\n●Special Summon from the Deck.\n●Send a card from the Deck to the GY.\nYou can only use this effect of \"Ash Blossom & Joyous Spring\" once per turn.",
-    "newText": "When a card or effect is activated that includes any of these effects (Quick Effect): You can discard this card; negate that effect.\n●Add a card(s) from the Deck to the hand.\n●Special Summon a Monster Card(s) from the Deck.\n●Send a card(s) from the Deck to the GY.\nYou can only use this effect of \"Ash Blossom & Joyous Spring\" once per turn.",
-    "author": "gallantron",
-    "lastPrint": "2026-03-13",
-    "lastUpdated": "2022-11-26",
-    "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950&request_locale=ja",
-        "title": "Ash Blossom & Joyous Spring",
-        "date": "2022-11-26",
-        "desc": "In the Official Card Game, the effect of Ash Blossom & Joyous Spring can only be activated if the effect includes Special Summon a card, which is currently a monster, from the Main Deck."
-      },
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=22086&request_locale=ja",
-        "title": "Q&A #22086",
-        "date": "2022-11-26",
-        "desc": "In the Official Card Game, the effect of Ash Blossom & Joyous Spring cannot be activated if the effect only includes the Special Summon of non-Monster Cards from the Main Deck."
-      }
-    ],
-    "customDiffData": [
-      [317,191],
-      [0,17],
-      [0,133]
     ]
   },
   {
