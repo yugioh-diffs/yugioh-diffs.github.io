@@ -9948,24 +9948,6 @@
     ]
   },
   {
-    "id": 11753,
-    "icon": "trap",
-    "name": "Statue of Anguish Pattern",
-    "oldText": "Special Summon this card as an Effect Monster (Rock-Type/EARTH/Level 7/ATK 0/DEF 2500). (This card is also still a Trap Card.) If Summoned this way, this card cannot be targeted by an opponent's card effects while you control another Trap Card that is a monster. If a card is Special Summoned from your Spell & Trap Zone to the Monster Zone while this card is a monster: You can target 1 card on the field; destroy it.",
-    "newText": "Special Summon this card as an Effect Monster (Rock/EARTH/Level 7/ATK 0/DEF 2500). (This card is also still a Trap Card.) If Summoned this way, this card cannot be targeted by an opponent's card effects while either player controls another Trap Card that is a monster. If a card is Special Summoned from your Spell & Trap Zone to the Monster Zone while this card is a monster: You can target 1 card on the field; destroy it.",
-    "author": "gallantron",
-    "lastPrint": "2016-09-02",
-    "lastUpdated": "2025-10-14",
-    "references": [
-      {
-        "url": "https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11753&request_locale=ja",
-        "title": "Statue of Anguish Pattern",
-        "date": "2025-10-14",
-        "desc": "In the Official Card Game, Statue of Anguish Pattern cannot be targeted by the opponent's effects even if only the opponent controls another Trap Card that is a monster."
-      }
-    ]
-  },
-  {
     "id": 5226,
     "icon": "normal",
     "name": "Earthbound Spirit",
@@ -10237,6 +10219,24 @@
         "title": "Card FAQ – Empire of Endymion",
         "date": "2026-06-07",
         "desc": "In the Official Card Game, Empire of Endymion's effect cannot destroy \"Regulus, the Prince of Endymion\" from the Spell & Trap Zone."
+      }
+    ]
+  },
+  {
+    "id": 11753,
+    "icon": "trap",
+    "name": "Statue of Anguish Pattern",
+    "oldText": "Special Summon this card as an Effect Monster (Rock/EARTH/Level 7/ATK 0/DEF 2500) (this card is also still a Trap). If Summoned this way, your opponent cannot target this card with card effects while another Trap Card that is a monster is in the Monster Zone. If a card(s) is Special Summoned from your Spell & Trap Zone to the Monster Zone, while you control this card Summoned this way (except during the Damage Step): You can target 1 card on the field; destroy it.",
+    "newText": "Special Summon this card as an Effect Monster (Rock/EARTH/Level 7/ATK 0/DEF 2500) (this card is also still a Trap). If Summoned this way, your opponent cannot target this card with card effects while another Trap Card that is a monster is in the Monster Zone. Each time a card(s) is Special Summoned from your Spell & Trap Zone to the Monster Zone, while you control this card Summoned this way (except during the Damage Step): You can target 1 card on the field; destroy it.",
+    "author": "gallantron",
+    "lastPrint": "2026-06-05",
+    "lastUpdated": "2026-06-07",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11753&request_locale=ja",
+        "title": "Card FAQ – Statue of Anguish Pattern",
+        "date": "2026-06-07",
+        "desc": "In the Official Card Game, if multiple cards are Special Summoned from the Spell & Trap Zone to the Monster Zone during the same Chain, the effect of Statue of Anguish Pattern can then be activated multiple times."
       }
     ]
   }
