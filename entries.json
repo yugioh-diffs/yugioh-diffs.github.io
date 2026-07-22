@@ -1266,7 +1266,7 @@
     ],
     "name": "Thunder King Rai-Oh",
     "lastUpdated": "2020-12-28",
-    "lastPrint": "2024-11-07",
+    "lastPrint": "2026-06-17",
     "icon": "effect"
   },
   {
@@ -3517,7 +3517,7 @@
     "oldText": "Both players must Set Spell Cards before activating them, and cannot activate them until their next turn after Setting them.",
     "newText": "Both players must Set Spell Cards before activating them. If either player Sets a Spell Card, that Spell Card cannot be activated until their next turn.",
     "author": "gallantron",
-    "lastPrint": "2024-05-24",
+    "lastPrint": "2026-06-17",
     "lastUpdated": "2021-07-07",
     "references": [
       {
@@ -10219,6 +10219,24 @@
         "title": "Card FAQ – Statue of Anguish Pattern",
         "date": "2026-06-07",
         "desc": "In the Official Card Game, if multiple cards are Special Summoned from the Spell & Trap Zone to the Monster Zone during the same Chain, the effect of Statue of Anguish Pattern can then be activated multiple times."
+      }
+    ]
+  },
+  {
+    "id": 22205,
+    "icon": "spell",
+    "name": "Stellarnova Binding",
+    "oldText": "Activate 1 of these effects, but you cannot Special Summon from the Extra Deck for the rest of this turn, except Xyz Monsters;\n●Discard 1 card, and if you do, Special Summon 1 \"tellarknight\" or \"Constellar\" monster from your Deck with a different Type from the monsters you control.\n●Target face-up monsters your opponent controls, up to the number of \"tellarknight\" and \"Constellar\" monsters you control; negate their effects until the end of this turn.\nYou can only activate 1 \"Stellarnova Binding\" per turn.",
+    "newText": "Choose 1 of these effects; apply that effect but you cannot Special Summon from the Extra Deck for the rest of this turn, except Xyz Monsters.\n●Discard 1 card, and if you do, Special Summon 1 \"tellarknight\" or \"Constellar\" monster from your Deck with a different Type from the monsters you control.\n●Target face-up monsters your opponent controls, up to the number of \"tellarknight\" and \"Constellar\" monsters you control; negate their effects until the end of this turn.\nYou can only activate 1 \"Stellarnova Binding\" per turn.",
+    "author": "gallantron",
+    "lastPrint": "2026-06-05",
+    "lastUpdated": "2026-07-22",
+    "references": [
+      {
+        "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=22205&request_locale=ja",
+        "title": "Card FAQ – Stellarnova Binding",
+        "date": "2026-07-22",
+        "desc": "In the Official Card Game, being unable to Special Summon from the Extra Deck is an effect of Stellarnova Binding. (This will not be applied if Stellarnova Binding's activation, or its effect, is negated.)"
       }
     ]
   }
