@@ -10245,7 +10245,7 @@
     "icon": "spell",
     "name": "Sacred Spirit Sword Aiwass",
     "oldText": "Activate 1 of these effects, but you cannot declare attacks for the rest of this turn, except with Fusion Monsters;\n●Special Summon 1 \"Aiwass, Divine Spirit of the Law\" from your Deck or GY.\n●Take 1 \"Aleister\" monster from your Deck, and either send it to the GY or banish it.\n●Look at 3 random face-down cards in your opponent's Extra Deck, and if you do, banish 1 of them.\nYou can only activate 1 \"Sacred Spirit Sword Aiwass\" per turn.",
-    "newText": "Choose 1 of these effects; apply that effect, but you cannot declare attacks for the rest of this turn, except with Fusion Monsters;\n●Special Summon 1 \"Aiwass, Divine Spirit of the Law\" from your Deck or GY.\n●Take 1 \"Aleister\" monster from your Deck, and either send it to the GY or banish it.\n●Look at 3 random face-down cards in your opponent's Extra Deck, and if you do, banish 1 of them.\nYou can only activate 1 \"Sacred Spirit Sword Aiwass\" per turn.",
+    "newText": "Choose 1 of these effects; apply that effect, but you cannot declare attacks for the rest of this turn, except with Fusion Monsters.\n●Special Summon 1 \"Aiwass, Divine Spirit of the Law\" from your Deck or GY.\n●Take 1 \"Aleister\" monster from your Deck, and either send it to the GY or banish it.\n●Look at 3 random face-down cards in your opponent's Extra Deck, and if you do, banish 1 of them.\nYou can only activate 1 \"Sacred Spirit Sword Aiwass\" per turn.",
     "author": "gallantron",
     "lastPrint": "2026-07-03",
     "lastUpdated": "2026-07-22",
@@ -10254,7 +10254,7 @@
         "url": "https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=23003&request_locale=ja",
         "title": "Card FAQ – Sacred Spirit Sword Aiwass",
         "date": "2026-07-22",
-        "desc": "In the Official Card Game, neing unable to Special Summon from the Extra Deck is an effect of Sacred Spirit Sword Aiwass. (This will not be applied if Sacred Spirit Sword Aiwass's activation, or its effect, is negated.)"
+        "desc": "In the Official Card Game, being unable to Special Summon from the Extra Deck is an effect of Sacred Spirit Sword Aiwass. (This will not be applied if Sacred Spirit Sword Aiwass's activation, or its effect, is negated.)"
       }
     ]
   }
