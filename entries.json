@@ -309,7 +309,7 @@
     ],
     "name": "Odd-Eyes Revolution Dragon",
     "lastUpdated": "2020-08-26",
-    "lastPrint": "2021-10-01",
+    "lastPrint": "2026-08-07",
     "icon": "pen_effect"
   },
   {
@@ -838,7 +838,7 @@
     ],
     "name": "Salamangreat Almiraj",
     "lastUpdated": "2020-04-09",
-    "lastPrint": "2024-02-23",
+    "lastPrint": "2026-08-07",
     "icon": "link"
   },
   {
@@ -3073,7 +3073,7 @@
     "oldText": "When a Fusion Monster(s) is Fusion Summoned to your field (except during the Damage Step): You can target 1 of those monsters; apply these effects in sequence.\n●Special Summon 1 \"Lunalight Token\" (Beast-Warrior/DARK/Level 4/ATK 2000/DEF 2000) to your opponent's field.\n●That target gains 500 ATK for each monster your opponent controls (even if this card leaves the field).\nDuring your Main Phase: You can banish this card from your GY; send 1 card from your hand to the GY, and if you do, Special Summon 1 \"Lunalight\" monster from your Deck. You can only use this effect of \"Lunalight Serenade Dance\" once per turn.",
     "newText": "When a Fusion Monster(s) is Fusion Summoned to your field (except during the Damage Step): You can target 1 of those monsters; Special Summon 1 \"Lunalight Token\" (Beast-Warrior/DARK/Level 4/ATK 2000/DEF 2000) to your opponent's field, also that target gains 500 ATK for each monster your opponent controls (if any) (even if this card leaves the field).\nDuring your Main Phase: You can banish this card from your GY; send 1 card from your hand to the GY, and if you do, Special Summon 1 \"Lunalight\" monster from your Deck. You can only use this effect of \"Lunalight Serenade Dance\" once per turn.",
     "author": "gallantron",
-    "lastPrint": "2021-01-22",
+    "lastPrint": "2026-08-07",
     "lastUpdated": "2021-06-27",
     "references": [
       {
@@ -6164,7 +6164,7 @@
     "oldText": "If your opponent Special Summons a Link Monster(s) (except during the Damage Step): You can Special Summon this card from your hand, draw cards equal to the number of Link Monsters your opponent controls +1, then shuffle cards from your hand into the Deck equal to the number of Link Monsters they control. When your opponent activates a card or effect that targets a monster(s) you control (Quick Effect): You can discard 1 card; negate the activation, and if you do, destroy it. You can only use each effect of \"Fantastical Dragon Phantazmay\" once per turn.",
     "newText": "If your opponent Special Summons a Link Monster(s) (except during the Damage Step): You can Special Summon this card from your hand, then draw cards equal to the number of Link Monsters your opponent controls +1, then shuffle cards from your hand into the Deck equal to the number of Link Monsters they control. When your opponent activates a card or effect that targets a monster(s) you control (Quick Effect): You can discard 1 card; negate the activation, and if you do, destroy it. You can only use each effect of \"Fantastical Dragon Phantazmay\" once per turn.",
     "author": "gallantron",
-    "lastPrint": "2026-07-08",
+    "lastPrint": "2026-07-15",
     "lastUpdated": "2022-02-24",
     "references": [
       {
@@ -6188,7 +6188,7 @@
     "oldText": "1 \"Odd-Eyes\" monster + 1 Pendulum Monster\nWhen this card is Special Summoned: You can target 1 opponent's Attack Position monster; return it to the hand. When a Spell/Trap Card or another monster's effect is activated (Quick Effect): You can shuffle 1 face-up Pendulum Monster from your Extra Deck into the Deck, negate the activation, and if you do, destroy that card. You can only use each effect of \"Odd-Eyes Vortex Dragon\" once per turn.",
     "newText": "1 \"Odd-Eyes\" monster + 1 Pendulum Monster\nWhen this card is Special Summoned: You can target 1 opponent's Attack Position monster; return it to the hand. When a Spell/Trap Card or another monster's effect is activated (Quick Effect): You can shuffle 1 face-up Pendulum Monster from your Extra Deck into the Deck, and if you do, negate the activation, and if you do that, destroy that card. You can only use each effect of \"Odd-Eyes Vortex Dragon\" once per turn.",
     "author": "gallantron",
-    "lastPrint": "2017-10-06",
+    "lastPrint": "2026-08-07",
     "lastUpdated": "2022-03-09",
     "references": [
       {
@@ -9068,7 +9068,7 @@
     "oldText": "2 Effect Monsters\nIf this card is Link Summoned using a Fusion, Synchro, Xyz, or Link Monster as material: You can target 1 card on the field or in either GY; banish it, also your monsters cannot attack directly this turn. When your opponent activates a card or effect (Quick Effect): You can target 2 face-up monsters on the field, including a monster you control; banish both until the End Phase. You can only use each effect of \"S:P Little Knight\" once per turn.",
     "newText": "2 Effect Monsters\nIf this card is Link Summoned using a Fusion, Synchro, Xyz, or Link Monster as material: You can target 1 card on the field or in either GY; banish it, also your monsters cannot attack directly for the rest of this turn. When your opponent activates a card or effect (Quick Effect): You can target 2 face-up monsters on the field, including a monster you control; banish both until the End Phase. You can only use each effect of \"S:P Little Knight\" once per turn.",
     "author": "gallantron",
-    "lastPrint": "2026-03-13",
+    "lastPrint": "2026-08-07",
     "lastUpdated": "2023-11-18",
     "references": [
       {
